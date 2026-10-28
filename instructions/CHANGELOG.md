@@ -1,0 +1,130 @@
+# Changelog
+
+Record of rule and structure changes, newest first. Bots read this only for the **Edit instructions** task. When you change any instruction file: bump its version line, then add an entry here saying what changed and why.
+
+---
+
+## v2.1 clarification · 2026-10-27: raw upload rule (not a version bump)
+
+### What changed
+- `capture/2_RUNBOOK.md` §8, `capture/1_CHECKLIST.md` D, `capture/3_APP_GUIDE.md` SUMMARY, README rule 6: raw folders **must** be uploaded expanded to `runs/<run_id>/raw/<app>/<raw folder>/` (same layout as Claude). `raw_<app>.tar.gz` at run root is an optional backup only. Empty or archive-only `raw/<app>/` is not done.
+- Checklist adds a Drive folder-count check.
+
+### Why
+- Run `2026-10-27_delta_br20`: ChatGPT and Gemini were uploaded as tars only, leaving `raw/<app>/` unusable for review; fixed by uploading the expanded folders (ChatGPT 22 folders / 88 files, Gemini 23 folders / 112 files).
+
+---
+
+## v2.1 · 2026-10-27: layout + schema lock + live_csv migration + instruction sync
+
+### What changed
+- Moved instruction files into `instructions/capture/` and `instructions/csv/` so paths match README.
+- Created root `archive/` and `reports/` folders.
+- Locked allowed `ai_answer_format` values (22) into `csv/2_SCHEMA.md` section 2a.
+- Documented `signed_in` as lowercase `true`/`false` (v1 files used `True`/`False`).
+- Clarified `prompt_id` is only the prompt id; date/batch in `run_id`.
+- Migrated `live_csv/` to SCHEMA v2 columns with **split** `run_id`:
+  - `2026-10-baseline_v3` = 321 answers (2026-10-22/23)
+  - `2026-10-27_delta_v3` = 18 answers (delta prompts)
+- Row counts unchanged: answers 339, brand_mentions 2045, citations 1347 (0 exact duplicates).
+- Backed up pre-migration CSVs to `archive/live_csv_backup_2026-10-27/` (same Drive file IDs kept for live files).
+- Moved `*_facts.csv` to `archive/live_csv_facts_only_v1/`.
+- Synced remaining instruction text (README, Build/Load, Checklist, Runbook, App Guide) to v2.1: `prompt_id` vs `run_id`, lowercase `signed_in` in CSVs, locked `ai_answer_format` §2a, live_csv migration complete, example `run_id`s use `2026-10-27_delta_v3`.
+
+### Open items
+- [x] Confirm how `signed_in` is written → lowercase `true`/`false` after migration.
+- [x] List `ai_answer_format` values → locked in SCHEMA 2a.
+- [x] Confirm role of "check · collector" → third collector (already in README).
+- [ ] Verify robots.txt / CDN access for AI bots (from study notes; not a pipeline task).
+
+---
+
+## v2 · 2026-10-27: instruction restructure
+
+### What changed
+
+| Area | Before (v1) | Now (v2) |
+|---|---|---|
+| Entry point | README described folders; bots read every file | `README.md` routes each task to only the files it needs |
+| Instruction files | 6 flat files with overlapping rules | `capture/` (3 files) and `csv/` (2 files); each rule lives in one file |
+| `run_key` | Capture: `app\|id\|r1\|1\|date`; CSV: `app\|id\|r1\|t1` | One format everywhere: `app\|id\|r1\|t1`; the date lives in `run_id` |
+| Raw folder names | Contained `\|` | `__` instead (`claude__CH03__r1__t1`) |
+| Raw path | Three different versions | `runs/<run_id>/raw/<app>/<raw folder>/` |
+| Run files | One `SUMMARY` + `run_info.json` per run | One per app: `SUMMARY_<app>.md`, `run_info_<app>.json` (parallel bots never overwrite) |
+| Screenshots | `.webp` in spec, `.png` in guide | `.png` |
+| ChatGPT / Gemini session | Incognito required; shared profile needed approval | Signed out is what matters; Incognito or shared profile, no approval; record which |
+| Bad captures | "Discard" (conflicted with "never delete raw") | Rename folder to `__discarded_N`; contents untouched; CSV build skips it |
+| `meta.json` | No `run_id`, `prompt_sent`, `captured_by` | All three added |
+| CSV flow | Parse → facts, Label → labels, Merge → merged, Load | **Build CSVs** straight from raw into the 3 dashboard files, then **Load** |
+| CSV schema | v1: 25 / 19 / 10 columns, no run identifier | v2: 29 / 20 / 11 columns; `run_id` first; `session`, `egress_country`, `source` added; fixed column order |
+| `live_csv/` | Merged files + facts-only duplicates | Only `answers.csv`, `brand_mentions.csv`, `citations.csv` |
+| Brand list | Appendix inside the pipeline spec | `inputs/brand_aliases_v3.csv` (same 62 patterns, unchanged) |
+| Flowchart | Separate file, partly out of date | Folded into `csv/1_BUILD_AND_LOAD.md` and README pipeline table |
+| Incident rules | Runbook §11–13, by date | Moved into their topics; history kept below |
+
+### Decisions made in v2
+
+- Duplicate links within one answer are kept once in `citations.csv`.
+- App links (chatgpt.com, claude.ai, gemini.google.com, Google account/support pages) are dropped from citations.
+- Gemini citation chips without links become rows with blank `url` and `source_file=html_chip`.
+- `web_search_marker` comes from `meta.web_search`; old per-app text rules apply only to older runs.
+- A stalled answer (5+ minutes) is saved as `partial`, retried once, then marked failed with reason `stalled`.
+- Runs without the USA suffix need `nosuffix` in their `run_id` and are never scored.
+- Prompt additions go into new `prompts_delta_YYYY-MM-DD.csv` files; the master is merged only on request.
+- Loading backs up `live_csv/` to `archive/` first and checks row counts after.
+
+### Open items (historical — resolved in v2.1 except robots.txt)
+
+- [x] Confirm how `signed_in` is written in current live_csv (`true`/`false` assumed).
+- [x] List the `ai_answer_format` values in use and add them to `csv/2_SCHEMA.md`.
+- [x] Confirm the role of "check · collector" in README.
+- [ ] Verify robots.txt / CDN access for AI bots (from study notes; not a pipeline task).
+
+---
+
+## Drive migration checklist (do once, in this order)
+
+**Prepare**
+- [x] Create folders: `instructions/capture/`, `instructions/csv/`, `archive/`, `reports/`.
+- [ ] Drive Settings: uncheck **"Convert uploads to Google Docs editor format"** (human).
+
+**Archive the v1 instructions** (move, don't delete) to `archive/instructions_v1/`
+- [ ] Still pending if old v1 files remain elsewhere on Drive.
+
+**Upload v2** (as plain `.md` / `.csv` files)
+- [x] `README.md` → root
+- [x] `1_CHECKLIST.md`, `2_RUNBOOK.md`, `3_APP_GUIDE.md` → `instructions/capture/`
+- [x] `1_BUILD_AND_LOAD.md`, `2_SCHEMA.md` → `instructions/csv/`
+- [x] `CHANGELOG.md` → `instructions/`
+- [x] `brand_aliases_v3.csv` → `inputs/`
+
+**Other moves**
+- [ ] Study notes → `reports/` (if present)
+- [x] Leave existing `runs/` folders as they are
+
+**live_csv cleanup**
+- [x] One-time migration done 2026-10-27 (split `run_id`; facts archived).
+
+**Check**
+- [x] README paths match Drive folders (`capture/`, `csv/`).
+- [ ] Give bots the new opener when starting a task.
+
+---
+
+## Incident history (from v1 runbook)
+
+### 2026-10-26 · delta dry-run
+- A bot drafted its own prompts when asked to "add 10 prompts". → Rule: never invent prompts; ask for rows.
+- Rewriting the whole prompts CSV risked truncation. → Rule: delta files; master merged only with a row-count check.
+- Automation couldn't always open Incognito; runs were labelled Incognito when they used the shared profile. → Rule: record the session actually used. (v2: shared profile is acceptable for ChatGPT/Gemini.)
+- ChatGPT guest sessions silently failed after the first prompt, and the bot kept sending. → Rule: stop the app on first silent send-fail.
+- Runs were scored as USA while egress was India. → Rule: check IP in the capture browser; ask before proceeding non-US.
+- Captures left only on the local box were reported as done. → Rule: done means on Drive.
+
+### 2026-10-26/27 · Claude and ChatGPT runs
+- Signed-in Claude chats inherited account history. → Rule: Claude Incognito chat toggle for every prompt.
+- Claude Free, 1 tab sequential, took ~36 min for 11 prompts. → Guidance: 3 tabs when limits allow.
+- Clipboard unavailable on the box; condensed text was saved as answers. → Rule: full verbatim via `innerText`; never summaries.
+- A loop overwrote several raw folders at once. → Rule: write one folder at a time.
+- "Computer offline" mid-run aborted an already-approved IN run. → Rule: keep going if IN was approved; record actual IP.
+- `meta.txt` written instead of `meta.json`. → Rule: JSON only.
