@@ -4,6 +4,28 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.3.3 · 2026-10-29: answer_text.csv for dashboard Prompt tab
+
+### What changed
+- **New optional CSV:** `answer_text.csv` holds the raw answer body for the dashboard Prompt tab.
+- **Schema (§4a):** 4 columns—`run_id`, `run_key`, `answer_text`, `followup_answer_text` (optional). Same grain as `answers.csv`; join on `run_id` + `run_key`.
+- **Build output:** `runs/<run_id>/csv/` now includes `answer_text.csv` alongside the three SCHEMA files. Step 4a extracts text from `answer.txt` (or `answer.html` visible text if empty).
+- **Load:** appends `answer_text.csv` rows into `live_csv/answer_text.csv` the same way as the other three; backup under `archive/`. Creates the file with header if it doesn't exist yet.
+- **`live_csv/` contents:** three SCHEMA CSVs + optional `answer_text.csv`. Still no `load_info.json` in `live_csv/`.
+- **Citations clarification (Step 2):** reinforced that when no hrefs exist, source chip / site **names** are what matter—URLs optional. Do not leave citations empty when names are visible.
+
+### Updated files
+- `csv/2_SCHEMA.md` v2.3.3: added §4a answer_text.csv schema
+- `csv/1_BUILD_AND_LOAD.md` v2.3.3: Build output + Step 4a + Check + Load for answer_text.csv; citation name priority note
+- `README.md` v2.3.3: folder layout includes answer_text.csv
+
+### What stays the same
+- Three SCHEMA CSVs unchanged (answers 30, brand_mentions 20, citations 11 columns)
+- Human approval still required for Load
+- No data migration (answer_text.csv is additive)
+
+---
+
 ## v2.3.2 · 2026-10-29: Chip-based citation backfill rule
 
 ### What changed

@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.3.2 · 2026-10-29
+csv/1_BUILD_AND_LOAD v2.3.3 · 2026-10-29
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -59,7 +59,7 @@ Runs captured before the v2 instructions use older formats. Read them, but write
 
 ## Output
 
-`runs/<run_id>/csv/`: `answers.csv`, `brand_mentions.csv`, `citations.csv`, `build_info.json`.
+`runs/<run_id>/csv/`: `answers.csv`, `brand_mentions.csv`, `citations.csv`, `answer_text.csv`, `build_info.json`.
 
 Every column is one of two kinds (marked in `2_SCHEMA.md`):
 - **Measured**: computed by script from the raw files. Exact and repeatable, no judgment.
@@ -96,6 +96,8 @@ When `answer.html` has **no outbound hrefs** (for example ChatGPT `text_wrapped_
 - Prefer real hrefs when present; chips are a **fallback**, not a replacement.
 - **Do not leave citations empty** when chip names or source labels are visible in the answer.
 
+**Citation name priority:** Real HTML `href` links first. When no hrefs exist, record the **source chip / site names** (ChatGPT brackets like `[Brilliant Earth]`, Gemini `.source-title` or `citation_chips` in `capture_notes`). **Name is what matters**—URLs are optional when only chip labels are available. If you can map the name to a domain, fill `domain`; otherwise leave it blank but still emit the row so the citation count is accurate.
+
 ## Step 3: brand_mentions.csv, measured columns
 
 One row per brand whose pattern in `brand_aliases_v3.csv` matches the body (case-insensitive). Set `fact_row=1`.
@@ -121,6 +123,20 @@ One row per raw folder.
 | `n_brands_found` | Rows in `brand_mentions.csv` with `fact_row=1` for this answer |
 | `n_links` | Rows in `citations.csv` for this answer |
 | `angara_link_present` | `1` if any of those rows has `is_angara=1` |
+
+## Step 4a: answer_text.csv (measured)
+
+One row per raw folder (same grain as answers.csv). This file holds the raw answer body for the dashboard Prompt tab.
+
+| Column | How to fill |
+|---|---|
+| `run_id` | Same as answers.csv |
+| `run_key` | Same as answers.csv (e.g. `chatgpt\|GN02\|r1\|t1`) |
+| `answer_text` | Full text from `answer.txt`; if empty, visible text of `answer.html` |
+| `followup_answer_text` | Turn 2 body when present; blank otherwise |
+
+- Never truncate or summarize `answer_text`.
+- `followup_answer_text` applies only when the answer has a turn 2 captured.
 
 ## Step 5: Judged columns
 
@@ -163,11 +179,12 @@ Read each `answer.txt`. Never change a measured value.
 
 ## Step 6: Check
 
-- Column names and order match `2_SCHEMA.md` in all three files (30 / 20 / 11 columns).
+- Column names and order match `2_SCHEMA.md` in all four files (30 / 20 / 11 / 4 columns).
 - Rows in `answers.csv` = non-discarded raw folders.
+- Rows in `answer_text.csv` = rows in `answers.csv` (same grain).
 - Every ID in each `run_info_<app>.json` `ids_captured` has its folder(s); list any mismatch.
 - No duplicate keys (SCHEMA, "Uniqueness"): `(run_id, run_key)` etc.
-- Every `run_key` in `brand_mentions.csv` and `citations.csv` exists in `answers.csv` for the same `run_id`.
+- Every `run_key` in `brand_mentions.csv`, `citations.csv`, and `answer_text.csv` exists in `answers.csv` for the same `run_id`.
 - No blank `run_id`, `run_key` or judged column that the SCHEMA marks as required.
 - Every `ai_answer_format` value is in SCHEMA §2a.
 - `signed_in` values are only `true` or `false` (lowercase).
@@ -183,7 +200,7 @@ Read each `answer.txt`. Never change a measured value.
   "apps": ["chatgpt"],
   "raw_folders_read": 10,
   "folders_skipped_discarded": 1,
-  "rows": { "answers": 10, "brand_mentions": 71, "citations": 41 },
+  "rows": { "answers": 10, "brand_mentions": 71, "citations": 41, "answer_text": 10 },
   "new_brand_names": ["Natural Sapphire Co."],
   "warnings": ["claude__TR04__r1__t1: answer.txt empty, used page_copy"]
 }
@@ -204,7 +221,7 @@ Row counts, warnings, mismatches with `run_info`, new brand names. Do not load.
 
 Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
 
-**`live_csv/` contains ONLY these three files:** `answers.csv`, `brand_mentions.csv`, `citations.csv`. No `load_info.json` or other metadata in that folder—write load metadata to `archive/` beside the backup.
+**`live_csv/` contains these files:** `answers.csv`, `brand_mentions.csv`, `citations.csv` (the three SCHEMA files), plus optional `answer_text.csv` for the dashboard Prompt tab. No `load_info.json` or other metadata in that folder—write load metadata to `archive/` beside the backup.
 
 ## Before asking
 
@@ -214,10 +231,11 @@ Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
 ## Steps
 
 1. Show the human: `run_id`, apps included, rows to add per file, check results.
-2. After the yes, for each of the three files:
+2. After the yes, for each of the four files (answers, brand_mentions, citations, answer_text):
    1. Copy the current `live_csv/<file>` to `archive/live_csv_backup_<YYYY-MM-DD>/`.
    2. Append the run's rows (same column order as SCHEMA).
    3. Confirm new row count = old count + added rows.
+   4. For `answer_text.csv`: if `live_csv/answer_text.csv` doesn't exist yet, create it with the header row first.
 3. Write `load_info.json` (run_id, rows before/after, timestamp) to `archive/live_csv_backup_<YYYY-MM-DD>/`, **not** inside `live_csv/`.
 4. Commit `live_csv/` changes + archive backup + `load_info.json` and push to **`Ai_visibility_source`**. **No PR**—commit/push directly.
 5. Report new row counts, counts per `run_id`, and the backup location.

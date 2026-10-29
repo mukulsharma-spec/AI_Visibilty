@@ -1,8 +1,10 @@
 # CSV Schema
 
-csv/2_SCHEMA v2.3 · 2026-10-29
+csv/2_SCHEMA v2.3.3 · 2026-10-29
 
-The three dashboard CSVs: `answers.csv`, `brand_mentions.csv`, `citations.csv`. The same three files exist in each `runs/<run_id>/csv/` (one run) and in `live_csv/` (all runs appended). There are no other CSV tables in the pipeline.
+The three dashboard CSVs: `answers.csv`, `brand_mentions.csv`, `citations.csv`. The same three files exist in each `runs/<run_id>/csv/` (one run) and in `live_csv/` (all runs appended).
+
+**Optional:** `answer_text.csv` (section 4a) holds the raw answer body for the dashboard Prompt tab. Build always produces it; Load appends it into `live_csv/` alongside the three SCHEMA files.
 
 How to fill each column is in `1_BUILD_AND_LOAD.md`. Names (`run_id`, `run_key`) are defined in `README.md`.
 
@@ -143,6 +145,28 @@ From live `answers.csv` at migration. Do not invent new labels without human app
 | 11 | `source_file` | M | string | `html` or `html_chip` |
 
 Within one answer, keep each URL only once. Drop app/support links (`chatgpt.com`, `chat.openai.com`, `claude.ai`, `gemini.google.com`, Google account/support pages).
+
+---
+
+## 4a. answer_text.csv (optional): 4–5 columns, one row per answer
+
+This file holds the raw answer body for the dashboard Prompt tab. Build always produces it in `runs/<run_id>/csv/`; Load appends it into `live_csv/answer_text.csv` alongside the three SCHEMA files.
+
+| # | Column | Required | Type | Meaning |
+|---|---|---|---|---|
+| 1 | `run_id` | yes | string | Same as answers.csv |
+| 2 | `run_key` | yes | string | Same as answers.csv (e.g. `chatgpt\|GN02\|r1\|t1`) |
+| 3 | `answer_text` | yes | string | Raw text from `answer.txt`; if empty, visible text of `answer.html` |
+| 4 | `followup_answer_text` | no | string | Turn 2 body when present; blank otherwise |
+
+**Grain:** one row per answer (same as answers.csv). **Join** to answers.csv on `run_id` + `run_key`.
+
+**Uniqueness:** `run_id` + `run_key` (same as answers.csv).
+
+**Notes:**
+- `answer_text` is the full body from the raw folder—never summarized or truncated.
+- When the raw `answer.txt` is empty, use the visible text of `answer.html` (same rule as `text_source` in answers.csv).
+- `followup_answer_text` is populated only when turn 2 exists for this answer.
 
 ---
 

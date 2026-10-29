@@ -1,6 +1,6 @@
 # Angara AI-Visibility: START HERE
 
-README v2.3.1 · 2026-10-29
+README v2.3.3 · 2026-10-29
 
 **Source of Truth**: GitHub branch **`Ai_visibility_source`** is the working source of truth for all configuration, prompts, brand aliases, captures, and documentation. Assistants read from and commit/push directly to `Ai_visibility_source`; no PR into `main` is required for day-to-day capture, CSV, or run hand-off unless a human explicitly asks. The `main` branch may lag behind.
 
@@ -144,8 +144,8 @@ Angara_AI_visibility/
 │       ├── run_info_<app>.json       ← one per app, written by that app's bot
 │       ├── SUMMARY_<app>.md          ← one per app
 │       ├── raw/<app>/<raw folder>/   ← immutable
-│       └── csv/                      ← answers.csv, brand_mentions.csv, citations.csv, build_info.json
-├── live_csv/                  ← dashboard feed: ONLY answers.csv, brand_mentions.csv, citations.csv (no metadata here)
+│       └── csv/                      ← answers.csv, brand_mentions.csv, citations.csv, answer_text.csv, build_info.json
+├── live_csv/                  ← dashboard feed: answers.csv, brand_mentions.csv, citations.csv + optional answer_text.csv (no metadata here)
 ├── reports/                   ← study findings for people; bots do not read
 └── archive/                   ← superseded files / backups; bots do not read for capture
 ```
