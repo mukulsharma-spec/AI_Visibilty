@@ -1,0 +1,23 @@
+{
+  "run_id": "2026-10-29_delta_w01_new",
+  "app": "claude",
+  "mode": "delta",
+  "source": "grok_bot_ui",
+  "bots": ["Grok Bot"],
+  "session": "claude_incognito_chat",
+  "egress": {"ip": "49.249.146.90", "city": "Faridabad", "country": "IN", "in_approved_by_human": true},
+  "model_ui": "Sonnet 5.5 Medium",
+  "prompts_file": "inputs/run_lists/prompts_delta_2026-10-29_w01_new.csv",
+  "guide_version": "capture/3_APP_GUIDE v2.1",
+  "started_at_utc": "2026-10-29T07:36:00Z",
+  "ended_at_utc": "2026-10-29T07:38:23Z",
+  "ids_assigned": ["OC21", "ST23", "SG14"],
+  "ids_captured": ["OC21", "ST23", "SG14"],
+  "ids_failed": [],
+  "folders_discarded": [],
+  "per_id": {
+    "OC21": {"web_search": false, "capture_quality": "full_verbatim"},
+    "ST23": {"web_search": false, "capture_quality": "full_verbatim"},
+    "SG14": {"web_search": true, "capture_quality": "full_verbatim"}
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "run_id": "2026-10-29_delta_w01_new",
+  "app": "chatgpt",
+  "mode": "delta",
+  "source": "grok_bot_ui",
+  "prompts_file": "inputs/run_lists/prompts_delta_2026-10-29_w01_new.csv",
+  "bots": [
+    "Grok Bot"
+  ],
+  "session": "incognito",
+  "egress": {
+    "ip": "49.249.146.90",
+    "city": "Faridabad",
+    "country": "IN",
+    "in_approved_by_human": true
+  },
+  "model_ui": "not shown (signed-out default)",
+  "ids_assigned": [
+    "OC21",
+    "ST23",
+    "SG14"
+  ],
+  "ids_captured": [
+    "OC21",
+    "ST23",
+    "SG14"
+  ],
+  "ids_failed": [],
+  "folders_discarded": [],
+  "html_gzipped": [],
+  "started_at_utc": "2026-10-29 08:00:00",
+  "ended_at_utc": "2026-10-29 08:03:00",
+  "guide_version": "capture/3_APP_GUIDE v2.1"
+}

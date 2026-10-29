@@ -1,0 +1,10 @@
+chat_url: https://gemini.google.com/app/ccaedfe523e6edc0
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Faridabad
+country: IN (Haryana)
+session: signed_out_shared_profile (Sign in button visible, no avatar)
+bot_check: no
+citation_chips: Angara; Anueva Jewelry; Angara; Etsy
+currency: none seen
+capture_quality: full_verbatim (message-content innerHTML)
