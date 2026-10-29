@@ -1,6 +1,6 @@
 # CSV Schema
 
-csv/2_SCHEMA v2.1 · 2026-10-27
+csv/2_SCHEMA v2.2 · 2026-10-29
 
 The three dashboard CSVs: `answers.csv`, `brand_mentions.csv`, `citations.csv`. The same three files exist in each `runs/<run_id>/csv/` (one run) and in `live_csv/` (all runs appended). There are no other CSV tables in the pipeline.
 
@@ -50,7 +50,7 @@ How to fill each column is in `1_BUILD_AND_LOAD.md`. Names (`run_id`, `run_key`)
 
 ---
 
-## 2. answers.csv: 29 columns, one row per answer
+## 2. answers.csv: 30 columns, one row per answer
 
 | # | Column | Kind | Type | Meaning / allowed values |
 |---|---|---|---|---|
@@ -76,8 +76,9 @@ How to fill each column is in `1_BUILD_AND_LOAD.md`. Names (`run_id`, `run_key`)
 | 25 | `ai_n_rank_slots` | J | integer/blank | Highest `published_rank` used |
 | 26 | `ai_angara_role` | J\* | string | `recommended`, `mentioned`, `compared_against`, `cited_only`, `absent` |
 | 27 | `ai_angara_published_rank` | J | integer/blank | Angara's rank |
-| 28 | `ai_angara_rank_of_n` | J | string/blank | e.g. `2 of 5` |
-| 29 | `ai_top1_brand` | J | string/blank | Rank-1 brand(s), joined by `;` |
+| 28 | `ai_angara_rank` | J | integer/blank | 1-based rank position (blank if not ranked) |
+| 29 | `ai_angara_rank_n` | J | integer/blank | Total rank slots, was "of N" (blank if not ranked) |
+| 30 | `ai_top1_brand` | J | string/blank | Rank-1 brand(s), joined by `;` |
 
 ### 2a. Allowed `ai_answer_format` values (locked 2026-10-27)
 
@@ -156,7 +157,23 @@ Category comes from `inputs/prompts_v3_final.csv` (and delta files), joined on `
 
 ---
 
-## 6. Changes from v1
+## 6. Changes from v2.1 (v2.2)
+
+| Change | Why |
+|---|---|
+| Split `ai_angara_rank_of_n` (string) into `ai_angara_rank` (int) + `ai_angara_rank_n` (int) | Enables numeric sorting/filtering on rank data |
+| answers.csv column count 29 → 30 | Result of the rank field split |
+
+**Rank field validation (v2.2)**:
+- `ai_angara_rank` when present must be >= 1 and <= `ai_angara_rank_n`
+- `ai_angara_rank_n` when present must be >= 1
+- Both rank fields should be blank together or populated together
+
+> **Note**: `live_csv/` may remain on v2.1 until migration is completed. Check `ai_analysis_version` column if present, or column count (29 = v2.1, 30 = v2.2).
+
+---
+
+## 7. Changes from v1
 
 | Change | Why |
 |---|---|
@@ -165,10 +182,10 @@ Category comes from `inputs/prompts_v3_final.csv` (and delta files), joined on `
 | `session`, `egress_country`, `source` added to answers (after `signed_in`) | Filter out non-US, signed-in or test captures on the dashboard |
 | `source_file` value `html_chip` added | Count Gemini citations that have no link |
 | Column order fixed (v1 allowed brand_mentions in any order) | Appending only works safely when order matches |
-| answers 29 columns (v1: 25); brand_mentions 20 (v1: 19); citations 11 (v1: 10) | Result of the above |
+| answers 30 columns (v1: 25); brand_mentions 20 (v1: 19); citations 11 (v1: 10) | Result of the above |
 | Allowed `ai_answer_format` list locked (section 2a) | Stop inventing new format labels |
 
-## 7. One-time migration of current live_csv (needs the human's yes)
+## 8. One-time migration of current live_csv (needs the human's yes)
 
 Current `live_csv/` holds v1 files (`answers.csv`, `brand_mentions.csv`, `citations.csv`) plus facts-only files (`*_facts.csv`).
 

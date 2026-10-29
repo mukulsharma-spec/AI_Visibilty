@@ -1,6 +1,6 @@
 # Capture Checklist
 
-capture/1_CHECKLIST v2.1 · 2026-10-27
+capture/1_CHECKLIST v2.2 · 2026-10-29
 
 Read this when your task is **Capture**. It's the order of work from first message to hand-off. Details live in two other files:
 
@@ -32,7 +32,7 @@ If the human asks for "N prompts" without giving IDs or rows: stop and ask. Neve
 
 ## B. Set up
 
-- [ ] Load prompts from `inputs/prompts_v3_final.csv` (skip `active=0`) or the supplied delta file.
+- [ ] Load prompts from `inputs/prompts_v3_final.csv` (skip `active=0`) or a delta file from `inputs/run_lists/`.
 - [ ] Confirm every requested ID exists. If any is missing, list them and ask.
 - [ ] Open the session for your app as in A (ChatGPT/Gemini: confirm you are signed out; Claude: confirm signed in, then turn on the Incognito chat toggle).
 - [ ] Create `runs/<run_id>/raw/<app>/` and record your start time (UTC).

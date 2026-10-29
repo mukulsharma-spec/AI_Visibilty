@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.1 · 2026-10-27
+csv/1_BUILD_AND_LOAD v2.2 · 2026-10-29
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -26,7 +26,7 @@ Build and Load are separate tasks. When yours is done, report to the human and s
 |---|---|
 | `runs/<run_id>/raw/<app>/<raw folder>/` | `meta.json`, `answer.txt`, `answer.html` or `answer.html.gz` |
 | `runs/<run_id>/run_info_<app>.json` | Which IDs were assigned, captured, failed, discarded |
-| `inputs/prompts_v3_final.csv` + any `prompts_delta_*.csv` | Prompt text |
+| `inputs/prompts_v3_final.csv` + delta files from `inputs/run_lists/` | Prompt text |
 | `inputs/brand_aliases_v3.csv` | Brand match patterns (Build only) |
 
 ## Rules
@@ -146,12 +146,13 @@ Read each `answer.txt`. Never change a measured value.
 | `ai_n_rank_slots` | Highest `published_rank` used |
 | `ai_angara_role` | Angara's role, or `absent` if Angara isn't in the answer |
 | `ai_angara_published_rank` | Angara's rank, blank if not recommended |
-| `ai_angara_rank_of_n` | `<rank> of <ai_n_rank_slots>`, for example `2 of 5`; blank if not ranked |
+| `ai_angara_rank` | Angara's rank as 1-based integer; blank if not ranked |
+| `ai_angara_rank_n` | Total rank slots (was `ai_n_rank_slots`); blank if not ranked |
 | `ai_top1_brand` | Brand(s) with `published_rank=1`, joined by `;` |
 
 ## Step 6: Check
 
-- Column names and order match `2_SCHEMA.md` in all three files (29 / 20 / 11 columns).
+- Column names and order match `2_SCHEMA.md` in all three files (30 / 20 / 11 columns).
 - Rows in `answers.csv` = non-discarded raw folders.
 - Every ID in each `run_info_<app>.json` `ids_captured` has its folder(s); list any mismatch.
 - No duplicate keys (SCHEMA, "Uniqueness"): `(run_id, run_key)` etc.

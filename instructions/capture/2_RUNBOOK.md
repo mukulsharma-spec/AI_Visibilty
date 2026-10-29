@@ -1,6 +1,6 @@
 # Capture Runbook
 
-capture/2_RUNBOOK v2.1 · 2026-10-27
+capture/2_RUNBOOK v2.2 · 2026-10-29
 
 Policy for the **Capture** task: what needs approval, how sessions and egress work, how bots share work, and what to do when something fails. The order of work is in `1_CHECKLIST.md`. What to click and save in each app is in `3_APP_GUIDE.md`. Names are defined in `README.md`.
 
@@ -39,7 +39,7 @@ Policy for the **Capture** task: what needs approval, how sessions and egress wo
 
 **Where prompts come from (nowhere else):**
 1. `inputs/prompts_v3_final.csv`, rows with `active=1`
-2. `inputs/prompts_delta_*.csv` that the human supplied
+2. Delta files from `inputs/run_lists/` (e.g. `prompts_delta_*.csv`) that the human supplied
 3. Exact prompt text the human pasted in the chat
 
 Never invent a `prompt_id`, `prompt_text` or `followup_text`. If the human asks for "N new prompts" without giving them, ask for the rows.
@@ -48,8 +48,8 @@ Never invent a `prompt_id`, `prompt_text` or `followup_text`. If the human asks 
 
 **Adding prompts (Add prompts task):**
 1. Get the exact rows from the human.
-2. Check each new `prompt_id` doesn't already exist in `prompts_v3_final.csv` or any delta file.
-3. Write them to a new file `inputs/prompts_delta_YYYY-MM-DD.csv` with the same columns as the master:
+2. Check each new `prompt_id` doesn't already exist in `prompts_v3_final.csv` or any delta file in `inputs/run_lists/`.
+3. Write them to a new file `inputs/run_lists/prompts_delta_YYYY-MM-DD.csv` with the same columns as the master:
    `prompt_id,old_id,category,scored_on,status,prompt_text,followup_text,active`
 4. Show the rows to the human and get a yes before uploading.
 5. Never rewrite `prompts_v3_final.csv`. If the human asks to merge deltas into the master: download it, append the rows, confirm the new row count = old count + added rows, upload as a new file, move the old file to `archive/`.

@@ -1,6 +1,8 @@
 # Angara AI-Visibility: START HERE
 
-README v2.1 · 2026-10-27
+README v2.2 · 2026-10-29
+
+**Source of Truth**: GitHub is the source of truth for all configuration, prompts, brand aliases, and documentation.
 
 Every bot reads this file first, every time. It tells you which other files to read for the task you were given. **Read only those files.** Opening instruction files outside your task wastes context and mixes in rules from other stages.
 
@@ -87,8 +89,11 @@ Angara_AI_visibility/
 ├── README.md                  ← this file
 ├── inputs/
 │   ├── prompts_v3_final.csv   ← master prompt list (append rows only)
-│   ├── prompts_delta_*.csv    ← extra prompts supplied by the human
-│   └── brand_aliases_v3.csv   ← brand match list used by Build CSVs
+│   ├── brand_aliases_v3.csv   ← brand match list used by Build CSVs
+│   └── run_lists/             ← one-off and delta run lists
+│       ├── prompts_delta_2026-10-27.csv
+│       ├── prompts_delta_2026-10-27_br20.csv
+│       └── prompts_nosuffix_2026-10-28_12.csv
 ├── instructions/
 │   ├── capture/               ← read for Capture only
 │   │   ├── 1_CHECKLIST.md
@@ -96,7 +101,7 @@ Angara_AI_visibility/
 │   │   └── 3_APP_GUIDE.md
 │   ├── csv/                   ← read for Build CSVs and Load only
 │   │   ├── 1_BUILD_AND_LOAD.md
-│   │   └── 2_SCHEMA.md
+│   │   └── 2_SCHEMA.md        ← v2.2: 30 columns with split rank fields
 │   └── CHANGELOG.md           ← dated record of rule changes
 ├── runs/
 │   └── <run_id>/
@@ -104,10 +109,21 @@ Angara_AI_visibility/
 │       ├── SUMMARY_<app>.md          ← one per app
 │       ├── raw/<app>/<raw folder>/   ← immutable
 │       └── csv/                      ← answers.csv, brand_mentions.csv, citations.csv, build_info.json
-├── live_csv/                  ← dashboard feed: answers.csv, brand_mentions.csv, citations.csv only (SCHEMA v2)
+├── live_csv/                  ← dashboard feed (SCHEMA v2.1 until migration)
 ├── reports/                   ← study findings for people; bots do not read
 └── archive/                   ← superseded files / backups; bots do not read for capture
 ```
+
+## Schema Version
+
+**Current schema: v2.2** (2026-10-29)
+
+Key changes in v2.2:
+- 30 columns in `answers.csv` (was 29)
+- Rank fields split: `ai_angara_rank` (int) + `ai_angara_rank_n` (int), replaces `ai_angara_rank_of_n` (string)
+- See [Schema Documentation](instructions/csv/2_SCHEMA.md) for details
+
+> **Note**: `live_csv/` may remain on v2.1 until migration is completed.
 
 ---
 
