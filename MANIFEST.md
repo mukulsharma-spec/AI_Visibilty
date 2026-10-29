@@ -1,6 +1,6 @@
 # Wave A manifest
 
-| Path | Drive ID | Bytes |
+| Path | Legacy ID | Bytes |
 |---|---|---|
 | README.md | 13E6UZpjY63vzdimEbIyVyGEsRWDYfqTi | 6521 |
 | instructions/CHANGELOG.md | 1uByji4f_HEqvjxmMT-PX_cYr12dP6Nu5 | 8265 |
@@ -17,4 +17,4 @@
 | live_csv/answers.csv | 1at5W5aEbfclQMgDVGNKHe2zTa8eO8bib | 104074 |
 | live_csv/brand_mentions.csv | 1R2lYWvLt8L1vPmrE5JLJkD8aoM7qHVZ0 | 378471 |
 | live_csv/citations.csv | 1vWVTv7nLikBHssS4Grp69eWftrkLyTJY | 233188 |
-| reports/ (empty in Drive; .gitkeep placeholder) | 1BlTzfNZQT7v6RdqY0gP_a7yNBnCJ84A7 | 0 |
+| reports/ (.gitkeep placeholder) | 1BlTzfNZQT7v6RdqY0gP_a7yNBnCJ84A7 | 0 |
