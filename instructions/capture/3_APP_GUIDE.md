@@ -1,6 +1,6 @@
 # App Capture Guide
 
-capture/3_APP_GUIDE v2.3.1 · 2026-10-29
+capture/3_APP_GUIDE v2.3.2 · 2026-10-29
 
 What to click and what to save. **Read Part 1 (All apps), then only the section for your app in Part 2.** Policy (sessions, egress, failures) is in `2_RUNBOOK.md`. Names are defined in `README.md`.
 
@@ -144,7 +144,7 @@ After your last prompt, write two files in `runs/<run_id>/` (not inside `raw/`).
 
 **Save**
 1. `answer.txt`: click the **Copy** icon under the reply and paste. Copy keeps product links as `Shop X (https://…)`. If the clipboard doesn't work, use the reply element's `innerText`.
-2. `answer.html`: save the reply DOM so product cards and citation links are kept. If that's not possible, wrap the full text in `<pre>` and set `capture_quality=text_wrapped_html`.
+2. `answer.html`: save the reply DOM so product cards and citation links are kept. If that's not possible, wrap the full text in `<pre>` and set `capture_quality=text_wrapped_html`. Note: when using `text_wrapped_html`, the Build step still requires citation rows from visible source names in `answer.txt`—see `csv/1_BUILD_AND_LOAD.md` Step 2.
 3. Screenshots: `shot_1.png` after finishing; scroll for more.
 4. `chat_url`: from the address bar.
 5. `model_ui`: usually hidden when signed out; write `not shown (signed-out default)`.
@@ -183,8 +183,8 @@ After your last prompt, write two files in `runs/<run_id>/` (not inside `raw/`).
 5. Multi-turn: send `followup_text` in the same chat.
 
 **Save** (citations are fragile, so HTML comes first)
-1. `answer.html` **first**: save the reply DOM or full page HTML. The Copy button alone drops citation chips. If the chips have no links in the HTML, note "citation chips name-only" in `notes`.
-2. `answer.txt`: the reply's `innerText`. Chip labels may appear as plain source names without URLs; that's expected.
+1. `answer.html` **first**: save the reply DOM or full page HTML. The Copy button alone drops citation chips. If the chips have no links in the HTML, note "citation chips name-only" in `notes` and record chip labels in `capture_notes.citation_chips`.
+2. `answer.txt`: the reply's `innerText`. Chip labels may appear as plain source names without URLs; that's expected. Note: the Build step requires citation rows from these chip labels when no hrefs are present—see `csv/1_BUILD_AND_LOAD.md` Step 2.
 3. Optional: hover each citation chip and record any title or site shown, in `notes`.
 4. Screenshots: `shot_1.png` after finishing. If a screenshot was taken mid-answer, take it again. If you can't, set `capture_quality=low` and say why.
 5. `chat_url`: the `https://gemini.google.com/app/…` URL.

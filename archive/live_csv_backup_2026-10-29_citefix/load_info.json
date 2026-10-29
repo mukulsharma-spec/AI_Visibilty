@@ -1,0 +1,132 @@
+{
+  "load": "citation backfill replace",
+  "run_id": "2026-10-29_delta_w01_new",
+  "at_local": "2026-10-29 America/St_Barthelemy (UTC-4)",
+  "source_branch": "Ai_visibility_source",
+  "backup_of_live_before": "archive/live_csv_backup_2026-10-29_citefix",
+  "before": {
+    "answers": 411,
+    "brand_mentions": 2382,
+    "citations": 1477
+  },
+  "after": {
+    "answers": 411,
+    "brand_mentions": 2382,
+    "citations": 1483
+  },
+  "run_citations_old": 16,
+  "run_citations_new": 22,
+  "note": "Removed all live rows for run_id and re-appended rebuilt rows. Citations: chatgpt source chips from answer.txt and gemini chips from capture_notes added as html_chip rows (url blank, domain mapped); chip rows deduped by domain per answer. answers n_links/angara_link_present recomputed; ai_angara_rank_of_n mapped from v2.2 rank+rank_n. brand_mentions unchanged.",
+  "answer_cols_changed_vs_previous_live": [
+    "n_links",
+    "angara_link_present"
+  ],
+  "brand_mentions_identical": true,
+  "filled": [
+    {
+      "app": "chatgpt",
+      "prompt": "OC21",
+      "chip": "Angara",
+      "name": "Angara",
+      "domain": "angara.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "OC21",
+      "chip": "USA Jewels",
+      "name": "USA Jewels",
+      "domain": "usajewels.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "OC21",
+      "chip": "Earth's Treasury +1",
+      "name": "Earth's Treasury",
+      "domain": "earthstreasury.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "SG14",
+      "chip": "Brilliant Earth",
+      "name": "Brilliant Earth",
+      "domain": "brilliantearth.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "SG14",
+      "chip": "Setting \u2013 Montana Sapphire Ring Co.",
+      "name": "Montana Sapphire Ring Co.",
+      "domain": "montanasapphireringco.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "SG14",
+      "chip": "Aquamarise\u00ae",
+      "name": "Aquamarise",
+      "domain": "aquamarise.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "SG14",
+      "chip": "Cape Cod Jewelers",
+      "name": "Cape Cod Jewelers",
+      "domain": "capecodjewelers.com"
+    },
+    {
+      "app": "chatgpt",
+      "prompt": "ST23",
+      "chip": "Aquamarise +1",
+      "name": "Aquamarise",
+      "domain": "aquamarise.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "OC21",
+      "chip": "Angara +1",
+      "name": "Angara",
+      "domain": "angara.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "OC21",
+      "chip": "Ring Concierge",
+      "name": "Ring Concierge",
+      "domain": "ringconcierge.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "OC21",
+      "chip": "mama bijoux",
+      "name": "mama bijoux",
+      "domain": "shopmamabijoux.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "SG14",
+      "chip": "Angara",
+      "name": "Angara",
+      "domain": "angara.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "SG14",
+      "chip": "Anueva Jewelry",
+      "name": "Anueva Jewelry",
+      "domain": "anuevajewelry.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "SG14",
+      "chip": "Etsy",
+      "name": "Etsy",
+      "domain": "etsy.com"
+    },
+    {
+      "app": "gemini",
+      "prompt": "ST23",
+      "chip": "Angara",
+      "name": "Angara",
+      "domain": "angara.com"
+    }
+  ]
+}

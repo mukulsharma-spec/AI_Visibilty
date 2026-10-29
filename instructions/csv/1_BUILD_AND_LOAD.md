@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.3.1 · 2026-10-29
+csv/1_BUILD_AND_LOAD v2.3.2 · 2026-10-29
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -83,7 +83,18 @@ One row per outbound link in `answer.html` (decompress `.gz` first).
 - `domain` = registrable domain without `www.` (for example `blog.angara.com` → `angara.com`).
 - `is_angara` = `1` if `domain` is `angara.com`.
 - `source_file` = `html`.
-- **Gemini chips without links:** one row per chip with `url` blank, `domain` from the chip label when it's a recognizable domain, `source_file` = `html_chip`.
+
+**Chip-based citations (fallback when no outbound hrefs):**
+
+When `answer.html` has **no outbound hrefs** (for example ChatGPT `text_wrapped_html` or Gemini chips without links), **you must still emit citation rows** from visible source chip labels in `answer.txt` and/or `capture_notes` `citation_chips`:
+
+- `source_file` = `html_chip`.
+- `url` = blank (no href available).
+- `domain` = map the chip label to a registrable domain when recognizable (for example `Brilliant Earth` → `brilliantearth.com`, `Kay Jewelers` → `kay.com`); otherwise blank.
+- Strip noise from chip labels: trailing `+1`, `®`, `™`, leading/trailing whitespace.
+- `link_order` = 1-based order of chip appearance.
+- Prefer real hrefs when present; chips are a **fallback**, not a replacement.
+- **Do not leave citations empty** when chip names or source labels are visible in the answer.
 
 ## Step 3: brand_mentions.csv, measured columns
 

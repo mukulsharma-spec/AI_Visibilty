@@ -4,6 +4,27 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.3.2 · 2026-10-29: Chip-based citation backfill rule
+
+### What changed
+- **Build rule**: when `answer.html` has no outbound hrefs (ChatGPT `text_wrapped_html`, Gemini chips without links), citations **must** still be emitted from visible source chip labels in `answer.txt` and/or `capture_notes.citation_chips`.
+- `source_file=html_chip`, `url` blank, `domain` mapped from chip label when recognizable (e.g. `Brilliant Earth` → `brilliantearth.com`).
+- Strip noise from chip labels: trailing `+1`, `®`, `™`.
+- Prefer real hrefs when present; chips are fallback, not replacement.
+- **Do not leave citations empty** when chip names are visible.
+- **Capture reminder**: `capture/3_APP_GUIDE.md` notes that `text_wrapped_html` captures still feed the Build citation step; Gemini notes to record chip labels when no hrefs.
+- **`live_csv/` rule reminder**: folder contains ONLY the three CSVs; `load_info.json` belongs in `archive/` beside the backup.
+
+### Data fix
+- Backfilled `runs/2026-10-29_delta_w01_new/csv/citations.csv` with 17 chip-based citation rows for ChatGPT `text_wrapped_html` answers.
+- `live_csv/citations.csv` updated (1483 data rows, up from 1466).
+
+### Updated files
+- `csv/1_BUILD_AND_LOAD.md` v2.3.2: Step 2 chip-based citations fallback rule
+- `capture/3_APP_GUIDE.md` v2.3.2: ChatGPT and Gemini save notes reference Build citation step
+
+---
+
 ## v2.3.1 · 2026-10-29: One-push hand-off on `Ai_visibility_source`
 
 ### What changed

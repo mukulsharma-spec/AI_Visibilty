@@ -15,7 +15,7 @@
   "rows": {
     "answers": 9,
     "brand_mentions": 55,
-    "citations": 16
+    "citations": 22
   },
   "new_brand_names": [
     "Bony Levy",
@@ -31,22 +31,37 @@
     "Oore Jewelry"
   ],
   "warnings": [
-    "gemini__OC21__r1__t1: chip label \"Ring Concierge\" domain not resolvable, left blank",
-    "gemini__OC21__r1__t1: chip label \"mama bijoux\" domain not resolvable, left blank",
     "gemini__OC21__r1__t1: answer.html is 0 bytes; 3 html_chip rows recovered from capture_notes.txt citation_chips (labels also in answer.txt), not from HTML",
-    "gemini: meta.json files were synthesized by check · collector after the stop (\"verify before scoring\"); captured_at_utc is a placeholder 2026-10-29 07:38:00 for all 3 (not real per-prompt times); meta model_ui says \"not shown\" while capture_notes say Flash-Lite",
+    "gemini: meta.json files were synthesized by check \u00b7 collector after the stop (\"verify before scoring\"); captured_at_utc is a placeholder 2026-10-29 07:38:00 for all 3 (not real per-prompt times); meta model_ui says \"not shown\" while capture_notes say Flash-Lite",
     "gemini: no run_info_gemini.json/SUMMARY_gemini.md existed at capture; written at build time by Grok Bot from metas + capture_notes (partial_stop=true)",
     "gemini citations are name-only source chips (url blank, source_file=html_chip)",
-    "chatgpt: 0 citations - answer.html is a text-wrapped <pre> with no hrefs (capture_quality=text_wrapped_html). answer.txt shows source chips not counted as citations: OC21 [Angara],[USA Jewels],[Earth's Treasury +1]; SG14 [Brilliant Earth],[Setting - Montana Sapphire Ring Co.],[Aquamarise],[Cape Cod Jewelers]; ST23 [Aquamarise +1]. So chatgpt angara_link_present=0 understates OC21 (Angara chip visible)",
     "chatgpt: all 3 chats landed on /uc/ URLs (not /c/); answers were fully on screen and saved per human instruction",
     "chatgpt/gemini answer.txt includes inline source-chip labels, inflating measured mention_count (e.g. Angara)",
     "all apps: egress IN (Faridabad 49.249.146.90), human said location does not matter for this run; claude signed_in=true (Incognito chat), chatgpt/gemini signed out",
-    "claude SG14: \"A Nueva Jewelry\" labeled with live spelling \"Anueva Jewelry\"; \"Fay Wolf Cross Jewelry (fwcj.com)\" labeled with live spelling \"Shop FWCJ\""
+    "claude SG14: \"A Nueva Jewelry\" labeled with live spelling \"Anueva Jewelry\"; \"Fay Wolf Cross Jewelry (fwcj.com)\" labeled with live spelling \"Shop FWCJ\"",
+    "citefix 2026-10-29: chatgpt citations backfilled from answer.txt bracket source chips (url blank, source_file=html_chip); answer.html is text-wrapped <pre> with no hrefs",
+    "citefix 2026-10-29: gemini OC21 chip domains filled: Ring Concierge->ringconcierge.com, mama bijoux->shopmamabijoux.com (verified via web search)",
+    "citefix 2026-10-29: chip labels stripped of '+N', '\u00ae', 'Setting \u2013 ' prefix; chip rows deduped by domain within an answer (keep first) -> gemini SG14 4->3 (dup angara.com), ST23 2->1 (dup angara.com)",
+    "citefix 2026-10-29: answers n_links/angara_link_present recomputed from citations"
   ],
-  "loaded_to_live": false,
+  "loaded_to_live": true,
   "inputs": {
     "brand_aliases": "inputs/brand_aliases_v3.csv (identical to GitHub main a57a523)",
     "prompts": "inputs/run_lists/prompts_delta_2026-10-29_w01_new.csv",
     "instructions": "GitHub main a57a523 csv/1_BUILD_AND_LOAD v2.2, csv/2_SCHEMA v2.2"
+  },
+  "citefix": {
+    "at_local": "2026-10-29 America/St_Barthelemy",
+    "old_citations": 16,
+    "new_citations": 22,
+    "old_by_app": {
+      "claude": 7,
+      "gemini": 9
+    },
+    "new_by_app": {
+      "chatgpt": 8,
+      "claude": 7,
+      "gemini": 7
+    }
   }
 }
