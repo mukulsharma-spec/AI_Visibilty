@@ -202,7 +202,7 @@ Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
    1. Copy the current `live_csv/<file>` to `archive/live_csv_backup_<YYYY-MM-DD>/`.
    2. Append the run's rows (same column order as SCHEMA).
    3. Confirm new row count = old count + added rows.
-   4. Upload/overwrite `live_csv/<file>` in place when possible (keep the file id); otherwise upload new and trash the old only after confirm.
+   4. Commit the updated `live_csv/<file>` and push. If using a working branch, coordinate merge timing with the human.
 3. Report new row counts, counts per `run_id`, and the backup location.
 
 **A run can be loaded in parts** (for example ChatGPT today, Claude tomorrow), because rows are unique on `(run_id, run_key)`. Say so when asking for approval.

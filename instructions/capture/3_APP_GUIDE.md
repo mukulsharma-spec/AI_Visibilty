@@ -122,7 +122,7 @@ After your last prompt, write two files in `runs/<run_id>/` (not inside `raw/`).
 4. **Discarded and re-run**: each `__discarded_N` folder and why
 5. **Session and egress**: session used; IP, city, country; whether IN was approved
 6. **Quality caveats**: any `partial` or `low` captures, wrapped HTML, name-only citations, gzipped HTML, tar backup (if any)
-7. **Drive link** to `runs/<run_id>/` and to `runs/<run_id>/raw/<app>/` (must contain the expanded raw folders; tar-only uploads are not done)
+7. **Repo path** to `runs/<run_id>/` and `runs/<run_id>/raw/<app>/` (must contain the expanded raw folders; tar-only commits are not done)
 
 ---
 

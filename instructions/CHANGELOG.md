@@ -30,8 +30,14 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ### Documentation
 - Updated `csv/2_SCHEMA.md` to v2.2 with new rank fields
-- GitHub is now the source of truth (previously Google Drive)
 - Added run_id naming section to README.md
+
+### GitHub-only hand-off (2026-10-29)
+- **Source of truth and "done" = this GitHub repo.** Removed Google Drive as required destination from all ops wording.
+- Capture checklist, runbook, app guide, build/load docs, and README now say commit/push under `runs/<run_id>/`, `inputs/`, `live_csv/`, `instructions/` on the working branch.
+- Parallel-bot handoff: bots write into the shared working directory and push to the same branch (coordinate to avoid conflicts).
+- Pipeline stages (capture → build → load) and approval rules unchanged; only storage/hand-off surface changed.
+- Added Git LFS guidance note for large screenshots if repository binary size grows past a few hundred MB.
 
 ### Migration Notes
 - `live_csv/` may remain on v2.1 until data migration is completed
@@ -118,7 +124,7 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
-## Drive migration checklist (do once, in this order)
+## Drive migration checklist (historical — completed 2026-10-27; superseded by GitHub-only workflow)
 
 **Prepare**
 - [x] Create folders: `instructions/capture/`, `instructions/csv/`, `archive/`, `reports/`.

@@ -168,9 +168,9 @@ Key changes in v2.2:
 1. **Never invent** prompts, prompt IDs, CSV columns or folder structures.
 2. **Never edit or delete** anything inside `runs/*/raw/`.
 3. **Never write to `live_csv/`** without the human's explicit approval in the current chat.
-4. **Nothing starts on its own.** Google Drive does not wake bots. Work starts only from a human message or a routine the human approved.
+4. **Nothing starts on its own.** Work starts only from a human message or a routine the human approved.
 5. **If instructions conflict or are unclear, stop and ask.** Do not pick one yourself.
-6. **Done means on Drive.** Files that exist only on the local machine are not done. Raw folders must be on Drive **expanded** under `runs/<run_id>/raw/<app>/`; a tar/zip alone is not done.
+6. **Done means committed and pushed.** Files that exist only on the local machine are not done. Raw folders must be committed under `runs/<run_id>/raw/<app>/` and pushed to the working branch; a tar/zip alone is not done.
 
 ---
 

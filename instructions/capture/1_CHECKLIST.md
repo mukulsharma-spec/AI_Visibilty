@@ -49,9 +49,9 @@ If the human asks for "N prompts" without giving IDs or rows: stop and ask. Neve
 ## D. After the last prompt
 
 - [ ] Write `SUMMARY_<app>.md` and `run_info_<app>.json` in `runs/<run_id>/` (contents: App Guide, "Run files").
-- [ ] Upload every raw folder **expanded** to `runs/<run_id>/raw/<app>/<raw folder>/` (one Drive folder per raw folder, files inside) plus both run files under `runs/<run_id>/`. A `raw_<app>.tar.gz` is an optional backup only; a tar alone is **not done**.
-- [ ] List `runs/<run_id>/raw/<app>/` on Drive and check the folder count matches your local raw folders.
-- [ ] Report to the human: Drive link, IDs captured, IDs failed with reasons, egress used, session used.
+- [ ] Commit every raw folder **expanded** under `runs/<run_id>/raw/<app>/<raw folder>/` (one folder per raw folder, files inside) plus both run files under `runs/<run_id>/`. A `raw_<app>.tar.gz` is an optional backup only; a tar alone is **not done**.
+- [ ] Push the working branch and verify the folder count in the repo matches your local raw folders.
+- [ ] Report to the human: repo path `runs/<run_id>/`, IDs captured, IDs failed with reasons, egress used, session used.
 - [ ] **Stop.** Do not build CSVs unless the human asks.
 
 ---

@@ -51,8 +51,8 @@ Never invent a `prompt_id`, `prompt_text` or `followup_text`. If the human asks 
 2. Check each new `prompt_id` doesn't already exist in `prompts_v3_final.csv` or any delta file in `inputs/run_lists/`.
 3. Write them to a new file `inputs/run_lists/prompts_delta_YYYY-MM-DD.csv` with the same columns as the master:
    `prompt_id,old_id,category,scored_on,status,prompt_text,followup_text,active`
-4. Show the rows to the human and get a yes before uploading.
-5. Never rewrite `prompts_v3_final.csv`. If the human asks to merge deltas into the master: download it, append the rows, confirm the new row count = old count + added rows, upload as a new file, move the old file to `archive/`.
+4. Show the rows to the human and get a yes before committing.
+5. Never rewrite `prompts_v3_final.csv`. If the human asks to merge deltas into the master: check it out, append the rows, confirm the new row count = old count + added rows, commit and push, move the old file to `archive/`.
 
 ---
 
@@ -116,17 +116,20 @@ Renaming a folder to `__discarded_N` is the **only** change allowed to a raw fol
 
 ---
 
-## 8. Drive
+## 8. Git hand-off
 
-- **Done means on Drive.** Local files alone are not done.
-- Upload only under `runs/<run_id>/`. Never write to `inputs/` (except approved prompt files), `instructions/` or `live_csv/`.
-- **Raw upload rule (required):** upload every raw folder **expanded** to `runs/<run_id>/raw/<app>/<raw folder>/`, one Drive folder per raw folder with its files inside (same layout as Claude). This includes `__discarded_N` folders.
+- **Done means committed and pushed.** Local files alone are not done.
+- Write only under `runs/<run_id>/`. Never write to `inputs/` (except approved prompt files), `instructions/` or `live_csv/`.
+- **Raw commit rule (required):** commit every raw folder **expanded** under `runs/<run_id>/raw/<app>/<raw folder>/`, one folder per raw folder with files inside (same layout as Claude). This includes `__discarded_N` folders.
 - **Optional backup:** one `raw_<app>.tar.gz` per app at `runs/<run_id>/` root. It is a backup only.
-- **Not allowed as the only upload:** an empty or archive-only `raw/<app>/`. A tar alone is **not done**.
-- If your tool can only upload archives or single files, upload file by file into created folders (create folder, then upload each file) before reporting done. Never report done with archives only.
-- **HTML over about 1 MB:** store as `answer.html.gz` (gzip of the exact bytes), keep the uncompressed copy locally, and note it in SUMMARY.
-- **Before writing a file:** list its parent folder first. Never write to a file whose `trashed` flag is true. When unsure, upload a new file rather than replacing one.
+- **Not allowed as the only commit:** an empty or archive-only `raw/<app>/`. A tar alone is **not done**.
+- **HTML over about 1 MB:** store as `answer.html.gz` (gzip of the exact bytes), keep the uncompressed copy locally, and note it in SUMMARY. Consider Git LFS if large screenshots accumulate (see "LFS" below).
 - **Write one raw folder at a time.** Never run loops that write across many folders at once.
+- **Push after each app is complete** or at end of run. Parallel bots push to the same working branch; coordinate so pushes don't conflict (pull before push, or use separate commits).
+
+### LFS guidance
+
+If large binary files (screenshots, compressed HTML) grow past a few hundred MB total, enable Git LFS for `*.png` and `*.gz` in the repo. Until then, standard git is fine.
 
 ---
 
