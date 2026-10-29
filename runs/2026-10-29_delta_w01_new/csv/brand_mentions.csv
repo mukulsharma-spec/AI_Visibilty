@@ -1,0 +1,56 @@
+run_id,run_key,app,prompt_id,repeat,turn,brand,fact_row,mention_count,first_char_pos,order_of_first_appearance,text_source,published_rank,tie,role,in_product_card,price_shown_usd,claim,sentiment,confidence
+2026-10-29_delta_w01_new,chatgpt|OC21|r1|t1,chatgpt,OC21,r1,1,Angara,1,3,1503,1,answer,1,0,recommended,0,,Best first stop for finished gemstone gift; certified gemstone jewelry,positive,high
+2026-10-29_delta_w01_new,chatgpt|OC21|r1|t1,chatgpt,OC21,r1,1,USA Jewels,0,,,,,2,0,recommended,0,,"Natural gemstones in 14K/18K gold, documentation, 30-day guarantee",positive,high
+2026-10-29_delta_w01_new,chatgpt|OC21|r1|t1,chatgpt,OC21,r1,1,Earth's Treasury,0,,,,,3,0,recommended,0,,Natural gemstones with treatment disclosure and review period,positive,high
+2026-10-29_delta_w01_new,chatgpt|SG14|r1|t1,chatgpt,SG14,r1,1,Brilliant Earth,1,2,683,1,answer,1,0,recommended,0,,"Best starting point; slim Sapphire Blair bezel ring, 1.8 mm band",positive,high
+2026-10-29_delta_w01_new,chatgpt|SG14|r1|t1,chatgpt,SG14,r1,1,Montana Sapphire Ring Co.,0,,,,,2,0,recommended,0,"$2,300",Custom low-profile bezel setting designed to sit low,positive,high
+2026-10-29_delta_w01_new,chatgpt|SG14|r1|t1,chatgpt,SG14,r1,1,Aquamarise,0,,,,,3,0,recommended,0,,Budget-flexible bezel collection including sapphire designs,positive,high
+2026-10-29_delta_w01_new,chatgpt|SG14|r1|t1,chatgpt,SG14,r1,1,Cape Cod Jewelers,0,,,,,4,0,recommended,0,$500,Understated sterling silver low-bezel sapphire rings,positive,medium
+2026-10-29_delta_w01_new,chatgpt|ST23|r1|t1,chatgpt,ST23,r1,1,Aquamarise,0,,,,,1,0,recommended,0,,"Best specialist pick for aquamarine rings; free US shipping, returns",positive,high
+2026-10-29_delta_w01_new,chatgpt|ST23|r1|t1,chatgpt,ST23,r1,1,Angara,1,2,1022,1,answer,2,0,recommended,0,,Best for classic fine jewelry aquamarine with diamond accents,positive,high
+2026-10-29_delta_w01_new,chatgpt|ST23|r1|t1,chatgpt,ST23,r1,1,Etsy,1,2,1288,2,answer,3,0,recommended,0,,Best for unique handcrafted designs; vet each seller,positive,high
+2026-10-29_delta_w01_new,chatgpt|ST23|r1|t1,chatgpt,ST23,r1,1,Melissa Tyson Designs,0,,,,,4,0,recommended,0,,Artistic fantasy-cut or custom aquamarine statement rings,positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Angara,1,1,118,1,answer,1,0,recommended,0,,"Huge natural and lab gemstone selection, customizable; good for birthstones",positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Brilliant Earth,1,1,263,2,answer,2,0,recommended,0,,Strong on sapphires and emeralds with certification and returns,positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Blue Nile,1,1,370,3,answer,3,1,recommended,0,,Best for diamonds and stackable bands with grading info,positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,James Allen,1,1,382,4,answer,3,1,recommended,0,,Best for diamonds and stackable bands with grading info,positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Ross-Simons,1,1,497,5,answer,4,0,recommended,0,,Real gemstone pieces at lower prices with frequent sales,positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Mejuri,1,1,578,6,answer,5,0,recommended,0,,"Modern everyday solid-gold fine jewelry, some gemstones",positive,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Zales,1,1,664,7,answer,6,1,recommended,0,,"Easy for mother's rings, can see in person",neutral,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Kay,1,1,672,8,answer,6,1,recommended,0,,"Easy for mother's rings, can see in person",neutral,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Jared,1,1,678,9,answer,6,1,recommended,0,,"Easy for mother's rings, can see in person",neutral,high
+2026-10-29_delta_w01_new,claude|OC21|r1|t1,claude,OC21,r1,1,Etsy,1,1,944,10,answer,7,0,recommended,0,,Handmade options; stick to well-reviewed sellers,neutral,high
+2026-10-29_delta_w01_new,claude|SG14|r1|t1,claude,SG14,r1,1,Brilliant Earth,1,1,447,1,answer,1,0,recommended,0,,"Sierra sapphire ring with smooth low-profile bezel, customizable",positive,high
+2026-10-29_delta_w01_new,claude|SG14|r1|t1,claude,SG14,r1,1,Anueva Jewelry,0,,,,,2,0,recommended,0,"$1,750; $5,400",Several low-profile bezel sapphire solitaires,positive,high
+2026-10-29_delta_w01_new,claude|SG14|r1|t1,claude,SG14,r1,1,The Natural Sapphire Company,0,,,,,3,0,recommended,0,,Low-profile bezel settings with smooth interior; choose own sapphire,positive,high
+2026-10-29_delta_w01_new,claude|SG14|r1|t1,claude,SG14,r1,1,Misfit Diamonds,0,,,,,4,0,recommended,0,,Bezel-set Montana sapphire designed to sit close to finger,positive,high
+2026-10-29_delta_w01_new,claude|SG14|r1|t1,claude,SG14,r1,1,Shop FWCJ,0,,,,,5,0,recommended,0,"$5,995",Antique bezel-set sapphire rings with 30-day guarantee,positive,medium
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,Brilliant Earth,1,1,204,1,answer,1,0,recommended,0,,Large aquamarine range with transparent sourcing,positive,high
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,Blue Nile,1,1,324,2,answer,2,1,recommended,0,,Pick loose gemstone and setting separately to customize,positive,high
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,James Allen,1,1,338,3,answer,2,1,recommended,0,,Pick loose gemstone and setting separately to customize,positive,high
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,Gemvara,1,1,428,4,answer,3,0,recommended,0,,Built around custom gemstone rings,positive,high
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,Catbird,1,1,518,5,answer,4,1,recommended,0,,Delicate modern look; limited engagement aquamarine options,neutral,high
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,Mejuri,1,1,530,6,answer,4,1,recommended,0,,Delicate modern look; limited engagement aquamarine options,neutral,high
+2026-10-29_delta_w01_new,claude|ST23|r1|t1,claude,ST23,r1,1,Etsy,1,1,673,7,answer,5,0,recommended,0,,Independent jewelers at lower prices; check reviews carefully,neutral,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Angara,1,2,680,1,answer,1,0,recommended,0,,"Best gemstone variety, customizable quality grade; push present section",positive,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Ring Concierge,1,2,1030,2,answer,2,0,recommended,0,,NY modern luxury; bezel-set gemstone pieces for everyday wear,positive,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Mama Bijoux,0,,,,,3,0,recommended,0,,Costa Mesa atelier specializing in fine jewelry push presents,positive,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Nordstrom,1,2,1917,3,answer,4,0,recommended,0,,Department store fine jewelry with real gemstones,positive,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Bloomingdale's,0,,,,,5,1,recommended,0,,Robust fine jewelry floors with colorful gemstone designers,positive,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Saks Fifth Avenue,0,,,,,5,1,recommended,0,,Robust fine jewelry floors with colorful gemstone designers,positive,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,LAGOS,0,,,,,,0,mentioned,0,,Fine jewelry line carried at Nordstrom,neutral,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Bony Levy,0,,,,,,0,mentioned,0,,Fine jewelry line carried at Nordstrom,neutral,high
+2026-10-29_delta_w01_new,gemini|OC21|r1|t1,gemini,OC21,r1,1,Meira T,0,,,,,,0,mentioned,0,,Fine jewelry line carried at Nordstrom,neutral,high
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,Anueva Jewelry,0,,,,,1,0,recommended,0,,Known for ethical low-profile bezel custom sapphire rings,positive,high
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,Crescent Gems,0,,,,,2,1,recommended,0,,Independent studio designing low-profile bezel sapphire rings,positive,medium
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,EidelPrecious,0,,,,,2,1,recommended,0,,Independent studio designing low-profile bezel sapphire rings,positive,medium
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,Angara,1,3,471,1,answer,3,0,recommended,0,,Massive customizable catalog; bezel setting with natural or lab sapphire,positive,high
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,Brilliant Earth,1,1,1879,2,answer,4,1,recommended,0,,Build-your-own bezel ring with sapphire; check height,neutral,high
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,Blue Nile,1,1,1897,3,answer,4,1,recommended,0,,Build-your-own bezel ring with sapphire; check height,neutral,high
+2026-10-29_delta_w01_new,gemini|SG14|r1|t1,gemini,SG14,r1,1,Etsy,1,4,2305,4,answer,5,0,recommended,0,,US bench jewelers specializing in low-profile bezel rings,positive,high
+2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Angara,1,3,399,1,answer,1,0,recommended,0,,"Top online retailer for colored gemstone engagement rings, pick grade",positive,high
+2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Brilliant Earth,1,1,904,2,answer,2,0,recommended,0,,Ethical sourcing; colored gemstone section with online builder,positive,high
+2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Catbird,1,2,1238,3,answer,3,0,recommended,0,,"Delicate, unconventional antique or minimalist rings",positive,high
+2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Etsy,1,2,1454,4,answer,4,0,recommended,0,,Independent USA lapidaries and bench jewelers for custom rings,positive,high
+2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,MagiJewelry,0,,,,,,0,mentioned,0,,Example of independent Etsy maker,neutral,medium
+2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Oore Jewelry,0,,,,,,0,mentioned,0,,Example of independent Etsy maker,neutral,medium

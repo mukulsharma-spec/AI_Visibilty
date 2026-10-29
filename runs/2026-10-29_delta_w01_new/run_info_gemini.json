@@ -1,0 +1,27 @@
+{
+  "run_id": "2026-10-29_delta_w01_new",
+  "app": "gemini",
+  "mode": "delta",
+  "source": "grok_bot_ui",
+  "prompts_file": "inputs/run_lists/prompts_delta_2026-10-29_w01_new.csv",
+  "bots": ["check · collector"],
+  "session": "signed_out_shared_profile",
+  "egress": {"ip": "49.249.146.90", "city": "Faridabad", "country": "IN", "in_approved_by_human": true},
+  "model_ui": "Flash-Lite (per capture_notes; meta.json says 'not shown')",
+  "ids_assigned": ["OC21", "ST23", "SG14"],
+  "ids_captured": ["OC21", "ST23", "SG14"],
+  "ids_failed": [],
+  "folders_discarded": [],
+  "html_gzipped": [],
+  "started_at_utc": "2026-10-29 07:35:48",
+  "ended_at_utc": null,
+  "guide_version": "capture/3_APP_GUIDE v2.1",
+  "partial_stop": true,
+  "written_by": "Grok Bot at CSV build time (not by the capturing bot)",
+  "caveats": [
+    "Capture was stopped by the human mid-run; metas were synthesized afterwards from capture_notes.txt ('verify before scoring').",
+    "captured_at_utc in all 3 metas is a placeholder 2026-10-29 07:38:00, not real per-prompt times; ended_at_utc unknown.",
+    "gemini__OC21__r1__t1/answer.html is 0 bytes; answer.txt is present. Citation chips for OC21 come from capture_notes.txt.",
+    "Never uploaded at capture time; raw is local only until pushed to GitHub."
+  ]
+}

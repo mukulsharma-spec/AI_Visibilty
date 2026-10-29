@@ -1,0 +1,65 @@
+# brand|rank|tie|role(R/C/M/O/F)|card|price|claim|sent(+/0/-)|conf(h/m/l) ; '+' prefix = fact_row=0
+@chatgpt|OC21|r1|t1 fmt=numbered_list
+Angara|1||R|0||Best first stop for finished gemstone gift; certified gemstone jewelry|+|h
++USA Jewels|2||R|0||Natural gemstones in 14K/18K gold, documentation, 30-day guarantee|+|h
++Earth's Treasury|3||R|0||Natural gemstones with treatment disclosure and review period|+|h
+@chatgpt|SG14|r1|t1 fmt=numbered_list
+Brilliant Earth|1||R|0||Best starting point; slim Sapphire Blair bezel ring, 1.8 mm band|+|h
++Montana Sapphire Ring Co.|2||R|0|$2,300|Custom low-profile bezel setting designed to sit low|+|h
++Aquamarise|3||R|0||Budget-flexible bezel collection including sapphire designs|+|h
++Cape Cod Jewelers|4||R|0|$500|Understated sterling silver low-bezel sapphire rings|+|m
+@chatgpt|ST23|r1|t1 fmt=numbered_list
++Aquamarise|1||R|0||Best specialist pick for aquamarine rings; free US shipping, returns|+|h
+Angara|2||R|0||Best for classic fine jewelry aquamarine with diamond accents|+|h
+Etsy|3||R|0||Best for unique handcrafted designs; vet each seller|+|h
++Melissa Tyson Designs|4||R|0||Artistic fantasy-cut or custom aquamarine statement rings|+|h
+@claude|OC21|r1|t1 fmt=bullets_by_category
+Angara|1||R|0||Huge natural and lab gemstone selection, customizable; good for birthstones|+|h
+Brilliant Earth|2||R|0||Strong on sapphires and emeralds with certification and returns|+|h
+Blue Nile|3|1|R|0||Best for diamonds and stackable bands with grading info|+|h
+James Allen|3|1|R|0||Best for diamonds and stackable bands with grading info|+|h
+Ross-Simons|4||R|0||Real gemstone pieces at lower prices with frequent sales|+|h
+Mejuri|5||R|0||Modern everyday solid-gold fine jewelry, some gemstones|+|h
+Zales|6|1|R|0||Easy for mother's rings, can see in person|0|h
+Kay|6|1|R|0||Easy for mother's rings, can see in person|0|h
+Jared|6|1|R|0||Easy for mother's rings, can see in person|0|h
+Etsy|7||R|0||Handmade options; stick to well-reviewed sellers|0|h
+@claude|SG14|r1|t1 fmt=paragraphs
+Brilliant Earth|1||R|0||Sierra sapphire ring with smooth low-profile bezel, customizable|+|h
++Anueva Jewelry|2||R|0|$1,750; $5,400|Several low-profile bezel sapphire solitaires|+|h
++The Natural Sapphire Company|3||R|0||Low-profile bezel settings with smooth interior; choose own sapphire|+|h
++Misfit Diamonds|4||R|0||Bezel-set Montana sapphire designed to sit close to finger|+|h
++Shop FWCJ|5||R|0|$5,995|Antique bezel-set sapphire rings with 30-day guarantee|+|m
+@claude|ST23|r1|t1 fmt=bullets_by_category
+Brilliant Earth|1||R|0||Large aquamarine range with transparent sourcing|+|h
+Blue Nile|2|1|R|0||Pick loose gemstone and setting separately to customize|+|h
+James Allen|2|1|R|0||Pick loose gemstone and setting separately to customize|+|h
+Gemvara|3||R|0||Built around custom gemstone rings|+|h
+Catbird|4|1|R|0||Delicate modern look; limited engagement aquamarine options|0|h
+Mejuri|4|1|R|0||Delicate modern look; limited engagement aquamarine options|0|h
+Etsy|5||R|0||Independent jewelers at lower prices; check reviews carefully|0|h
+@gemini|OC21|r1|t1 fmt=numbered_headings
+Angara|1||R|0||Best gemstone variety, customizable quality grade; push present section|+|h
+Ring Concierge|2||R|0||NY modern luxury; bezel-set gemstone pieces for everyday wear|+|h
++Mama Bijoux|3||R|0||Costa Mesa atelier specializing in fine jewelry push presents|+|h
+Nordstrom|4||R|0||Department store fine jewelry with real gemstones|+|h
++Bloomingdale's|5|1|R|0||Robust fine jewelry floors with colorful gemstone designers|+|h
++Saks Fifth Avenue|5|1|R|0||Robust fine jewelry floors with colorful gemstone designers|+|h
++LAGOS|||M|0||Fine jewelry line carried at Nordstrom|0|h
++Bony Levy|||M|0||Fine jewelry line carried at Nordstrom|0|h
++Meira T|||M|0||Fine jewelry line carried at Nordstrom|0|h
+@gemini|SG14|r1|t1 fmt=numbered_headings
++Anueva Jewelry|1||R|0||Known for ethical low-profile bezel custom sapphire rings|+|h
++Crescent Gems|2|1|R|0||Independent studio designing low-profile bezel sapphire rings|+|m
++EidelPrecious|2|1|R|0||Independent studio designing low-profile bezel sapphire rings|+|m
+Angara|3||R|0||Massive customizable catalog; bezel setting with natural or lab sapphire|+|h
+Brilliant Earth|4|1|R|0||Build-your-own bezel ring with sapphire; check height|0|h
+Blue Nile|4|1|R|0||Build-your-own bezel ring with sapphire; check height|0|h
+Etsy|5||R|0||US bench jewelers specializing in low-profile bezel rings|+|h
+@gemini|ST23|r1|t1 fmt=numbered_headings
+Angara|1||R|0||Top online retailer for colored gemstone engagement rings, pick grade|+|h
+Brilliant Earth|2||R|0||Ethical sourcing; colored gemstone section with online builder|+|h
+Catbird|3||R|0||Delicate, unconventional antique or minimalist rings|+|h
+Etsy|4||R|0||Independent USA lapidaries and bench jewelers for custom rings|+|h
++MagiJewelry|||M|0||Example of independent Etsy maker|0|m
++Oore Jewelry|||M|0||Example of independent Etsy maker|0|m
