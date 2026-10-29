@@ -22,9 +22,16 @@ Record of rule and structure changes, newest first. Bots read this only for the 
   - `prompts_delta_2026-10-27_br20.csv`
   - `prompts_nosuffix_2026-10-28_12.csv`
 
+### Weekly run_id Convention
+- Added naming convention `YYYY-MM-DD_<type>_<label>` with labels: wNN (weekly core), wNN_new (new prompts), wNN_fix (re-capture), nosuffix (test), usegress (US-egress test)
+- Week 1 = existing baseline + Oct 27 deltas (`2026-10-baseline_v3`, `2026-10-27_delta_v3`, `2026-10-27_delta_br20`)
+- Test runs (nosuffix) never scored in main trends; usegress gets separate trend line
+- Grok Bot proposes run_id; human confirms before capture
+
 ### Documentation
 - Updated `csv/2_SCHEMA.md` to v2.2 with new rank fields
 - GitHub is now the source of truth (previously Google Drive)
+- Added run_id naming section to README.md
 
 ### Migration Notes
 - `live_csv/` may remain on v2.1 until data migration is completed

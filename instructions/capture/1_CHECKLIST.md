@@ -21,7 +21,7 @@ Do not send any prompt until every item below is answered in the chat.
 - [ ] **Mode**:
   - **Delta**: the exact prompt IDs, or a `prompts_delta_*.csv` the human supplied, or prompt text the human pasted.
   - **Full**: every row with `active=1`. Needs an explicit "yes, full run".
-- [ ] **run_id**: use the one the human gives. If none is given, propose one in the README format and get a yes. Every bot in the same run uses the same `run_id`.
+- [ ] **run_id**: use the one the human gives. If none is given, Grok Bot proposes one from capture date + next week number per README naming convention; human confirms before capture. Every bot in the same run uses the same `run_id`.
 - [ ] Confirm IDs are **`prompt_id` values only** (e.g. `CH03`). Do not put bot name or date into `prompt_id` or `run_key`; date/batch is `run_id`.
 - [ ] **Session** for your app is ready. The human sets sign-in state; you never ask for or enter credentials.
   - **ChatGPT / Gemini:** **signed out**. Either a Chrome Incognito window or the signed-out shared profile is fine; no approval needed. Record which one you used in `meta.json` (`incognito` or `signed_out_shared_profile`).

@@ -80,6 +80,42 @@ Do not open anything in `instructions/csv/`. You will not touch CSVs.
 
 **Older runs** (created before README v2) use older names: the date inside `run_key` and pipes in folder names. Leave those raw folders as they are. The CSV build reads both forms. Current `live_csv/` is already SCHEMA v2 with split `run_id`s: `2026-10-baseline_v3` (Oct 22–23 captures) and `2026-10-27_delta_v3` (six new prompts × 3 apps).
 
+### run_id naming
+
+Format: `YYYY-MM-DD_<type>_<label>`
+
+| Part | Rule | Example |
+|---|---|---|
+| YYYY-MM-DD | Date the capture starts | 2026-11-03 |
+| `<type>` | `full` = whole core prompt set; `delta` = only some or new prompts | full |
+| `<label>` | What the run is (table below) | w02 |
+
+**Labels:**
+
+| Run type | Label | Example run_id | Scored in trends? |
+|---|---|---|---|
+| Weekly core run | wNN (two digits) | 2026-11-03_full_w02 | Yes |
+| New prompts added that week | wNN_new | 2026-11-03_delta_w02_new | Yes from that week on |
+| Same-week repeat | Same run_id as that week's run; use repeat = r2, r3 | 2026-11-03_full_w02 (rows with r2) | Yes |
+| Re-capture of failed prompts | wNN_fix | 2026-11-04_delta_w02_fix | Counts as that week |
+| No-suffix test | nosuffix | 2026-11-04_delta_nosuffix | Never |
+| US-egress test | usegress | 2026-11-05_full_usegress | Separate trend line |
+
+**Rules:**
+- Week numbers count from the baseline. Oct 22–27 data is week 1 (w01); first weekly rerun is w02.
+- One wNN per week. Mid-week new prompts go in that week's `_new` run, not a new week number.
+- Grok Bot proposes the run_id from capture date + next week number; human confirms before capture starts.
+- Never rename a run_id once its rows are in `live_csv/`.
+- Validation should reject any run_id that doesn't match this pattern (note for ops; no validator script unless one already exists).
+- Existing runs stay as-is: `2026-10-baseline_v3`, `2026-10-27_delta_v3`, `2026-10-27_delta_br20`. Dashboard treats all three as week 1.
+- Folder name under `runs/<run_id>/` IS the run_id; meta/SUMMARY/CSVs copy that name into the run_id column.
+
+**Weekly workflow notes:**
+- Append weekly into `live_csv/` (three files: answers.csv, brand_mentions.csv, citations.csv).
+- Keep per-run copy in `runs/<run_id>/csv/`.
+- Same-week repeats use r2/r3 in the repeat column, not a new run_id.
+- Next week is still r1 with a new run_id.
+
 ---
 
 ## Folder layout

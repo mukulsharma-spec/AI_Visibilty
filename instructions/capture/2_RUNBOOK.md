@@ -28,7 +28,7 @@ Policy for the **Capture** task: what needs approval, how sessions and egress wo
 | **Full** | Every row with `active=1` in `prompts_v3_final.csv` |
 | **Delta** | Only the IDs the human listed, or rows in a `prompts_delta_*.csv` the human supplied |
 
-- One `run_id` per run. All bots in that run use it. Example: `2026-10-27_delta_v3`.
+- One `run_id` per run. All bots in that run use it. Grok Bot proposes the run_id; human confirms before capture. Example: `2026-10-27_delta_v3`.
 - `prompt_id` stays the prompt id only; bot name goes in `meta.captured_by` / `source`, not in ids.
 - Prompts added later are a new **delta** run with a new `run_id`. Never add captures to an older run folder.
 - One source per run: `grok_bot_ui` (normal), `parallel_test`, `schedule` or `api`. Test or experimental captures get their own `run_id` with a note that says so (for example `2026-10-28_delta_paralleltest`).
