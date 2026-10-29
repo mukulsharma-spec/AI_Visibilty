@@ -1,0 +1,37 @@
+{
+  "run_id": "2026-10-29_delta_w01_new2",
+  "loaded_at": "2026-10-29",
+  "live_schema": "v2.1 (answers ai_angara_rank_of_n)",
+  "mapping": "ai_angara_rank+ai_angara_rank_n -> \"{rank} of {n}\", both blank -> blank",
+  "before": {
+    "answers": 411,
+    "brand_mentions": 2382,
+    "citations": 1483,
+    "answer_text": 0
+  },
+  "after": {
+    "answers": 429,
+    "brand_mentions": 2452,
+    "citations": 1511,
+    "answer_text": 18
+  },
+  "added": {
+    "answers": 18,
+    "brand_mentions": 70,
+    "citations": 28,
+    "answer_text": 18
+  },
+  "prompts_v3_final": {
+    "before": 121,
+    "after": 127,
+    "added_ids": [
+      "BR05",
+      "BR06",
+      "BR07",
+      "BR08",
+      "CM04",
+      "CM05"
+    ]
+  },
+  "issues": []
+}

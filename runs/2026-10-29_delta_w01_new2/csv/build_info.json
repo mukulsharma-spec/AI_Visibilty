@@ -1,0 +1,60 @@
+{
+  "run_id": "2026-10-29_delta_w01_new2",
+  "builder": "Grok Bot",
+  "script_version": "build_csv v2.3.3",
+  "built_at_utc": "2026-10-29 12:10:40",
+  "apps": [
+    "chatgpt",
+    "claude",
+    "gemini"
+  ],
+  "raw_folders_read": 18,
+  "folders_skipped_discarded": 1,
+  "skipped_folders": [
+    "chatgpt__BR05__r1__t1__discarded_1"
+  ],
+  "run_info_mismatches": [],
+  "rows": {
+    "answers": 18,
+    "brand_mentions": 70,
+    "citations": 28,
+    "answer_text": 18
+  },
+  "citations_by_app": {
+    "chatgpt": {
+      "html_chip": 15
+    },
+    "claude": {
+      "html_chip": 5
+    },
+    "gemini": {
+      "html_chip": 8
+    }
+  },
+  "new_brand_names": [
+    "Peoples"
+  ],
+  "warnings": [
+    "chatgpt__BR05__r1__t1: meta.source \"friday_ui\" not in SCHEMA vocab; written as grok_bot_ui (captured_by=Friday)",
+    "chatgpt__BR06__r1__t1: meta.source \"friday_ui\" not in SCHEMA vocab; written as grok_bot_ui (captured_by=Friday)",
+    "chatgpt__BR07__r1__t1: meta.source \"friday_ui\" not in SCHEMA vocab; written as grok_bot_ui (captured_by=Friday)",
+    "chatgpt__BR08__r1__t1: meta.source \"friday_ui\" not in SCHEMA vocab; written as grok_bot_ui (captured_by=Friday)",
+    "chatgpt__CM04__r1__t1: meta.source \"friday_ui\" not in SCHEMA vocab; written as grok_bot_ui (captured_by=Friday)",
+    "chatgpt__CM05__r1__t1: meta.source \"friday_ui\" not in SCHEMA vocab; written as grok_bot_ui (captured_by=Friday)",
+    "all citations are html_chip (url blank): no outbound hrefs in any answer.html (chatgpt/claude text_wrapped_html pre-wrap; gemini chips are buttons without hrefs). Chip rows deduped by domain within an answer (keep first); \"+N\" hidden sources not counted",
+    "chatgpt chips parsed from answer.txt: [Name +N], bare \"Name +N\" lines (BR06) and [chip: Name] (CM05); button labels like [Shop Angara]/[Compare rings...] ignored. Shop links with utm_source=chatgpt.com noted in meta but not in HTML, so not counted",
+    "chatgpt BR05: only Angara chips visible ([Angara +1], [Angara +4]) -> 1 citation row; meta notes a brilliantearth.com shop link that is not in HTML",
+    "claude chips parsed from answer.txt bracket stems ([angara], [brilliantearth], [comparemaniac], [ajluxe], [goodmorningamerica]); domains mapped as <stem>.com",
+    "claude BR08, CM05: meta says inline citation chip labels were removed from answer.txt at capture; CM04 web search used but no chips in text -> 0 citation rows (undercount vs UI). claude BR07: no web search",
+    "gemini chips from answer.html .source-title + capture_notes citation_chips; BR07 Reddit chip had +2 hidden (Angara) per notes, counted once as Angara; CM05 duplicate Aurate deduped. Aurate mapped to auratenewyork.com, The Diamond Pro to diamondpro.com",
+    "gemini BR08, CM04 meta web_search=false; BR06 web_search=true but no chips rendered",
+    "chatgpt meta.source=friday_ui (not in SCHEMA vocab) written as grok_bot_ui; captured_by Friday",
+    "chatgpt/gemini answer.txt includes inline source-chip labels, inflating measured mention_count (e.g. Angara)",
+    "chatgpt BR08 meta mentions product cards in capture report but none visible in answer.txt; in_product_card=0 throughout",
+    "chatgpt CM05 Target and chatgpt BR06 Rare Carat match aliases only via chip labels -> role cited_only",
+    "all apps: egress IN (Faridabad 49.249.146.90), human-approved",
+    "chatgpt BR05__discarded_1 skipped (contaminated first attempt)",
+    "no turn 2 captured; followup_answer_text blank"
+  ],
+  "loaded_to_live": false
+}

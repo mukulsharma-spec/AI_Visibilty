@@ -2381,3 +2381,73 @@ run_id,run_key,app,prompt_id,repeat,turn,brand,fact_row,mention_count,first_char
 2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Etsy,1,2,1454,4,answer,4,0,recommended,0,,Independent USA lapidaries and bench jewelers for custom rings,positive,high
 2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,MagiJewelry,0,,,,,,0,mentioned,0,,Example of independent Etsy maker,neutral,medium
 2026-10-29_delta_w01_new,gemini|ST23|r1|t1,gemini,ST23,r1,1,Oore Jewelry,0,,,,,,0,mentioned,0,,Example of independent Etsy maker,neutral,medium
+2026-10-29_delta_w01_new2,chatgpt|BR05|r1|t1,chatgpt,BR05,r1,1,Angara,1,12,19,1,answer,1,0,recommended,0,,"Value pick: colored-gemstone focus, published emerald grades, customization",positive,high
+2026-10-29_delta_w01_new2,chatgpt|BR05|r1|t1,chatgpt,BR05,r1,1,Brilliant Earth,1,8,224,2,answer,2,0,recommended,0,,Choose if design or showroom experience justifies paying more,neutral,high
+2026-10-29_delta_w01_new2,chatgpt|BR06|r1|t1,chatgpt,BR06,r1,1,Angara,1,6,60,1,answer,1,0,recommended,0,$249,First pick for sapphire selection and customization; rings from about $249,positive,high
+2026-10-29_delta_w01_new2,chatgpt|BR06|r1|t1,chatgpt,BR06,r1,1,Blue Nile,1,5,81,2,answer,2,0,recommended,0,,Second option for comparing gemstone specs and treatment disclosure,positive,high
+2026-10-29_delta_w01_new2,chatgpt|BR06|r1|t1,chatgpt,BR06,r1,1,Kay,1,7,118,3,answer,3,0,recommended,0,,Third option for trying rings in person; lifetime gemstone guarantee,neutral,high
+2026-10-29_delta_w01_new2,chatgpt|BR06|r1|t1,chatgpt,BR06,r1,1,Rare Carat,1,1,1288,4,answer,,0,cited_only,0,,"Appears only as a source chip, not discussed",neutral,high
+2026-10-29_delta_w01_new2,chatgpt|BR07|r1|t1,chatgpt,BR07,r1,1,Angara,1,6,41,1,answer,1,0,recommended,0,,"Pick for gemstones; natural stones, metal options, 30-day returns",positive,high
+2026-10-29_delta_w01_new2,chatgpt|BR07|r1|t1,chatgpt,BR07,r1,1,Kay,1,5,105,2,answer,2,0,recommended,0,,Recognizable retailer with in-store help and exchanges,neutral,high
+2026-10-29_delta_w01_new2,chatgpt|BR08|r1|t1,chatgpt,BR08,r1,1,Angara,1,7,11,1,answer,1,0,recommended,0,$492; $647; $719,Worth checking first for value; cheaper at 6 mm example,positive,high
+2026-10-29_delta_w01_new2,chatgpt|BR08|r1|t1,chatgpt,BR08,r1,1,Brilliant Earth,1,6,22,2,answer,2,0,recommended,0,"$425; $890; $1,150",Sells lab-grown sapphires; cheaper for small 5 mm stone,neutral,high
+2026-10-29_delta_w01_new2,chatgpt|CM04|r1|t1,chatgpt,CM04,r1,1,Blue Nile,1,5,40,1,answer,1,0,recommended,0,,Best starting point for comparing classic ruby ring styles online,positive,high
+2026-10-29_delta_w01_new2,chatgpt|CM04|r1|t1,chatgpt,CM04,r1,1,Kay,1,6,51,2,answer,2,0,recommended,0,,Best for in-store try-on and gemstone protection guarantee,neutral,high
+2026-10-29_delta_w01_new2,chatgpt|CM04|r1|t1,chatgpt,CM04,r1,1,Angara,1,4,1234,3,answer,3,0,recommended,0,,Alternative if ruby is the star; publishes gemstone treatment details,positive,high
+2026-10-29_delta_w01_new2,chatgpt|CM05|r1|t1,chatgpt,CM05,r1,1,Macy's,1,5,112,2,answer,1,0,recommended,0,$275–$500,Best starting point; lab-grown sapphire bracelets in sterling silver,positive,high
+2026-10-29_delta_w01_new2,chatgpt|CM05|r1|t1,chatgpt,CM05,r1,1,Ross-Simons,1,3,120,3,answer,2,0,recommended,0,$435–$500,Classic gemstone tennis bracelet styles at lower prices,positive,high
+2026-10-29_delta_w01_new2,chatgpt|CM05|r1|t1,chatgpt,CM05,r1,1,Ruby & Oscar,0,,,,,3,0,recommended,0,$309,Lower-cost sterling silver oval sapphire tennis bracelet,positive,high
+2026-10-29_delta_w01_new2,chatgpt|CM05|r1|t1,chatgpt,CM05,r1,1,Etsy,1,2,1449,5,answer,4,0,recommended,0,,"Independent jewelers; verify metal, gemstone and seller",neutral,high
+2026-10-29_delta_w01_new2,chatgpt|CM05|r1|t1,chatgpt,CM05,r1,1,Blue Nile,1,5,84,1,answer,,0,compared_against,0,"$3,655",Reference bracelet the shopper wants cheaper alternatives to,neutral,high
+2026-10-29_delta_w01_new2,chatgpt|CM05|r1|t1,chatgpt,CM05,r1,1,Target,1,1,1066,4,answer,,0,cited_only,0,,Appears only as a source chip under Ross-Simons,neutral,high
+2026-10-29_delta_w01_new2,claude|BR05|r1|t1,claude,BR05,r1,1,Angara,1,7,29,1,answer,1,0,recommended,0,"under $1,000","Usually better emerald value; emeralds core business, lab options",positive,high
+2026-10-29_delta_w01_new2,claude|BR05|r1|t1,claude,BR05,r1,1,Brilliant Earth,1,2,800,2,answer,2,0,recommended,0,,May justify extra cost for showroom experience and refined design,neutral,high
+2026-10-29_delta_w01_new2,claude|BR06|r1|t1,claude,BR06,r1,1,Angara,1,6,43,1,answer,1,0,recommended,0,"$500 to $2,000+",Pick for most people; colored-gemstone specialist with grading tiers,positive,high
+2026-10-29_delta_w01_new2,claude|BR06|r1|t1,claude,BR06,r1,1,Kay,1,3,1298,3,answer,2,0,recommended,0,,Budget and in-person option; ask about treatments,neutral,high
+2026-10-29_delta_w01_new2,claude|BR06|r1|t1,claude,BR06,r1,1,Blue Nile,1,2,868,2,answer,3,0,recommended,0,"$2,238",Only if a specific design fits budget; less sapphire per dollar,neutral,high
+2026-10-29_delta_w01_new2,claude|BR07|r1|t1,claude,BR07,r1,1,Angara,1,3,45,1,answer,1,0,recommended,0,,Lean Angara if gemstone quality matters; customizable grade and metal,positive,high
+2026-10-29_delta_w01_new2,claude|BR07|r1|t1,claude,BR07,r1,1,Kay,1,3,95,2,answer,2,0,recommended,0,,"Pick if convenience and price matter; stores nationwide, financing",neutral,high
+2026-10-29_delta_w01_new2,claude|BR08|r1|t1,claude,BR08,r1,1,Angara,1,7,36,1,answer,1,0,recommended,0,"$2,141",Looks cheaper for similar stone sizes; dedicated lab sapphire collection,positive,high
+2026-10-29_delta_w01_new2,claude|BR08|r1|t1,claude,BR08,r1,1,Brilliant Earth,1,4,338,2,answer,2,0,recommended,0,"$2,600; $2,240",Sells lab-grown sapphire engagement rings in several colors and cuts,neutral,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Blue Nile,1,5,28,1,answer,,0,compared_against,0,,Preferred over Kay but thin colored gemstone selection,neutral,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Kay,1,2,94,2,answer,,0,compared_against,0,,"Smaller lower-grade rubies, high markups",negative,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Angara,1,1,1304,3,answer,1,0,recommended,0,,Colored gemstone specialist with big ruby selection; best all-around,positive,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Brilliant Earth,1,1,1476,4,answer,2,0,recommended,0,,Good for natural and lab-grown rubies with solid returns,positive,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Ross-Simons,1,1,1567,5,answer,3,0,recommended,0,,"Affordable treated natural rubies, good for a budget",positive,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Etsy,1,1,1637,6,answer,4,1,recommended,0,,Independent sellers and vintage pieces for value or character,positive,high
+2026-10-29_delta_w01_new2,claude|CM04|r1|t1,claude,CM04,r1,1,Ruby Lane,0,,,,,4,1,recommended,0,,Independent sellers and vintage pieces for value or character,positive,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Ross-Simons,1,2,179,1,answer,1,0,recommended,0,$435,Sterling silver sapphire tennis bracelets with frequent sales,positive,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Angara,1,2,414,2,answer,2,0,recommended,0,,Lab-grown blue sapphires costing much less; customizable styles,positive,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Walmart,1,1,587,3,answer,3,1,recommended,0,,Created-sapphire sterling bracelets for far less; quality varies,neutral,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Amazon,1,1,599,4,answer,3,1,recommended,0,,Created-sapphire sterling bracelets for far less; quality varies,neutral,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,eBay,0,,,,,4,0,recommended,0,$480 to $580,"Natural sapphire tennis bracelets from independent jewelers, accept offers",positive,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Chairish,0,,,,,5,0,recommended,0,,Vintage or pre-owned pieces with more carat weight for money,positive,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Rare Carat,1,1,1330,5,answer,6,0,recommended,0,,Useful for comparing lab and natural stones; Black Friday deals,positive,high
+2026-10-29_delta_w01_new2,claude|CM05|r1|t1,claude,CM05,r1,1,Blue Nile,1,2,1497,6,answer,,0,compared_against,0,,Costs more due to brand and certificates; use as price benchmark,neutral,high
+2026-10-29_delta_w01_new2,gemini|BR05|r1|t1,gemini,BR05,r1,1,Angara,1,8,15,1,answer,1,0,recommended,0,,"Better value for green emerald; tiered quality grades, gemstone specialist",positive,high
+2026-10-29_delta_w01_new2,gemini|BR05|r1|t1,gemini,BR05,r1,1,Brilliant Earth,1,8,26,2,answer,2,0,recommended,0,,Better for emerald-cut diamonds; settings carry brand markup,neutral,high
+2026-10-29_delta_w01_new2,gemini|BR05|r1|t1,gemini,BR05,r1,1,James Allen,1,1,3689,3,answer,3,1,recommended,0,,Alternative vendor for similar settings with lower-priced stones,neutral,medium
+2026-10-29_delta_w01_new2,gemini|BR05|r1|t1,gemini,BR05,r1,1,Ritani,1,1,3704,4,answer,3,1,recommended,0,,Alternative vendor for similar settings with lower-priced stones,neutral,medium
+2026-10-29_delta_w01_new2,gemini|BR06|r1|t1,gemini,BR06,r1,1,Angara,1,5,59,1,answer,1,0,recommended,0,,"Best overall pick; huge sapphire selection under $1,000, customization",positive,high
+2026-10-29_delta_w01_new2,gemini|BR06|r1|t1,gemini,BR06,r1,1,Blue Nile,1,5,99,2,answer,2,0,recommended,0,,Runner-up for modern minimalist settings and craftsmanship,positive,high
+2026-10-29_delta_w01_new2,gemini|BR06|r1|t1,gemini,BR06,r1,1,Kay,1,5,164,3,answer,,0,compared_against,0,,"Weakest pick; mall markups, lower-karat gold or lab stones",negative,high
+2026-10-29_delta_w01_new2,gemini|BR07|r1|t1,gemini,BR07,r1,1,Angara,1,9,25,1,answer,1,0,recommended,0,,"Better choice; selectable gemstone grade, better value, customization",positive,high
+2026-10-29_delta_w01_new2,gemini|BR07|r1|t1,gemini,BR07,r1,1,Kay,1,7,68,2,answer,,0,compared_against,0,,"Mass-produced lower-grade stones, high markups; only for convenience",negative,high
+2026-10-29_delta_w01_new2,gemini|BR08|r1|t1,gemini,BR08,r1,1,Angara,1,4,10,1,answer,1,0,recommended,0,,Generally more affordable for lab-grown sapphire jewelry,positive,high
+2026-10-29_delta_w01_new2,gemini|BR08|r1|t1,gemini,BR08,r1,1,Brilliant Earth,1,2,21,2,answer,,0,compared_against,0,$400 to $900+,Higher-end with higher markup on lab-grown sapphires,neutral,high
+2026-10-29_delta_w01_new2,gemini|CM04|r1|t1,gemini,CM04,r1,1,Kay,1,7,50,1,answer,,0,compared_against,0,,"Best avoided; commercial-grade heavily treated rubies, high markups",negative,high
+2026-10-29_delta_w01_new2,gemini|CM04|r1|t1,gemini,CM04,r1,1,James Allen,1,2,1543,3,answer,1,0,recommended,0,,Online specialist with 360-degree video to inspect rubies,positive,high
+2026-10-29_delta_w01_new2,gemini|CM04|r1|t1,gemini,CM04,r1,1,Brilliant Earth,1,1,1799,4,answer,2,0,recommended,0,,Ethical sourcing; solid selection of preset and custom ruby rings,positive,high
+2026-10-29_delta_w01_new2,gemini|CM04|r1|t1,gemini,CM04,r1,1,Doyle & Doyle,0,,,,,3,1,recommended,0,,Estate jeweler for unique antique ruby rings with character,positive,high
+2026-10-29_delta_w01_new2,gemini|CM04|r1|t1,gemini,CM04,r1,1,Lang Antiques,0,,,,,3,1,recommended,0,,Estate jeweler for unique antique ruby rings with character,positive,high
+2026-10-29_delta_w01_new2,gemini|CM04|r1|t1,gemini,CM04,r1,1,Blue Nile,1,9,58,2,answer,4,0,recommended,0,,Build-your-own option with better value than mall stores,neutral,medium
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Aurate,0,,,,,1,0,recommended,0,,Lab-grown sapphire tennis bracelets in 14k gold at lower markup,positive,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Quince,1,1,635,2,answer,2,1,recommended,0,,Direct-to-consumer solid gold gemstone staples without retail markup,positive,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Mejuri,1,1,645,3,answer,2,1,recommended,0,,Direct-to-consumer solid gold gemstone staples without retail markup,positive,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Zales,1,2,906,4,answer,3,1,recommended,0,,Mall chain with frequent 30-50% off sapphire bracelet promotions,neutral,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Kay,1,1,913,5,answer,3,1,recommended,0,,Mall chain with frequent 30-50% off sapphire bracelet promotions,neutral,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Peoples,0,,,,,3,1,recommended,0,,Mall chain with frequent 30-50% off sapphire bracelet promotions,neutral,medium
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,JCPenney,0,,,,,4,1,recommended,0,,Strong fine jewelry department with deep clearance discounts,positive,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Macy's,1,1,1241,6,answer,4,1,recommended,0,,Strong fine jewelry department with deep clearance discounts,positive,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Etsy,1,2,1510,7,answer,5,0,recommended,0,,Hundreds of independent jewelers; customize metal to lower price,positive,high
+2026-10-29_delta_w01_new2,gemini|CM05|r1|t1,gemini,CM05,r1,1,Blue Nile,1,2,74,1,answer,,0,compared_against,0,,Reference brand; sells pricier 14k/18k gold or platinum pieces,neutral,high

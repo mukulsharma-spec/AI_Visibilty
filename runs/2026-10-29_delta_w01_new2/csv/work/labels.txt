@@ -1,0 +1,89 @@
+# brand|rank|tie|role(R/C/M/O/F)|card|price|claim|sent(+/0/-)|conf(h/m/l) ; '+' prefix = fact_row=0
+@chatgpt|BR05|r1|t1 fmt=comparison_table
+Angara|1||R|0||Value pick: colored-gemstone focus, published emerald grades, customization|+|h
+Brilliant Earth|2||R|0||Choose if design or showroom experience justifies paying more|0|h
+@chatgpt|BR06|r1|t1 fmt=numbered_list
+Angara|1||R|0|$249|First pick for sapphire selection and customization; rings from about $249|+|h
+Blue Nile|2||R|0||Second option for comparing gemstone specs and treatment disclosure|+|h
+Kay|3||R|0||Third option for trying rings in person; lifetime gemstone guarantee|0|h
+Rare Carat|||O|0||Appears only as a source chip, not discussed|0|h
+@chatgpt|BR07|r1|t1 fmt=numbered_list
+Angara|1||R|0||Pick for gemstones; natural stones, metal options, 30-day returns|+|h
+Kay|2||R|0||Recognizable retailer with in-store help and exchanges|0|h
+@chatgpt|BR08|r1|t1 fmt=comparison_table
+Angara|1||R|0|$492; $647; $719|Worth checking first for value; cheaper at 6 mm example|+|h
+Brilliant Earth|2||R|0|$425; $890; $1,150|Sells lab-grown sapphires; cheaper for small 5 mm stone|0|h
+@chatgpt|CM04|r1|t1 fmt=numbered_list
+Blue Nile|1||R|0||Best starting point for comparing classic ruby ring styles online|+|h
+Kay|2||R|0||Best for in-store try-on and gemstone protection guarantee|0|h
+Angara|3||R|0||Alternative if ruby is the star; publishes gemstone treatment details|+|h
+@chatgpt|CM05|r1|t1 fmt=numbered_list
+Macy's|1||R|0|$275–$500|Best starting point; lab-grown sapphire bracelets in sterling silver|+|h
+Ross-Simons|2||R|0|$435–$500|Classic gemstone tennis bracelet styles at lower prices|+|h
++Ruby & Oscar|3||R|0|$309|Lower-cost sterling silver oval sapphire tennis bracelet|+|h
+Etsy|4||R|0||Independent jewelers; verify metal, gemstone and seller|0|h
+Blue Nile|||C|0|$3,655|Reference bracelet the shopper wants cheaper alternatives to|0|h
+Target|||O|0||Appears only as a source chip under Ross-Simons|0|h
+@claude|BR05|r1|t1 fmt=headings
+Angara|1||R|0|under $1,000|Usually better emerald value; emeralds core business, lab options|+|h
+Brilliant Earth|2||R|0||May justify extra cost for showroom experience and refined design|0|h
+@claude|BR06|r1|t1 fmt=paragraphs
+Angara|1||R|0|$500 to $2,000+|Pick for most people; colored-gemstone specialist with grading tiers|+|h
+Kay|2||R|0||Budget and in-person option; ask about treatments|0|h
+Blue Nile|3||R|0|$2,238|Only if a specific design fits budget; less sapphire per dollar|0|h
+@claude|BR07|r1|t1 fmt=paragraphs
+Angara|1||R|0||Lean Angara if gemstone quality matters; customizable grade and metal|+|h
+Kay|2||R|0||Pick if convenience and price matter; stores nationwide, financing|0|h
+@claude|BR08|r1|t1 fmt=paragraphs_bullets
+Angara|1||R|0|$2,141|Looks cheaper for similar stone sizes; dedicated lab sapphire collection|+|h
+Brilliant Earth|2||R|0|$2,600; $2,240|Sells lab-grown sapphire engagement rings in several colors and cuts|0|h
+@claude|CM04|r1|t1 fmt=bullets
+Blue Nile|||C|0||Preferred over Kay but thin colored gemstone selection|0|h
+Kay|||C|0||Smaller lower-grade rubies, high markups|-|h
+Angara|1||R|0||Colored gemstone specialist with big ruby selection; best all-around|+|h
+Brilliant Earth|2||R|0||Good for natural and lab-grown rubies with solid returns|+|h
+Ross-Simons|3||R|0||Affordable treated natural rubies, good for a budget|+|h
+Etsy|4|1|R|0||Independent sellers and vintage pieces for value or character|+|h
++Ruby Lane|4|1|R|0||Independent sellers and vintage pieces for value or character|+|h
+@claude|CM05|r1|t1 fmt=bullets_by_price_tier
+Ross-Simons|1||R|0|$435|Sterling silver sapphire tennis bracelets with frequent sales|+|h
+Angara|2||R|0||Lab-grown blue sapphires costing much less; customizable styles|+|h
+Walmart|3|1|R|0||Created-sapphire sterling bracelets for far less; quality varies|0|h
+Amazon|3|1|R|0||Created-sapphire sterling bracelets for far less; quality varies|0|h
++eBay|4||R|0|$480 to $580|Natural sapphire tennis bracelets from independent jewelers, accept offers|+|h
++Chairish|5||R|0||Vintage or pre-owned pieces with more carat weight for money|+|h
+Rare Carat|6||R|0||Useful for comparing lab and natural stones; Black Friday deals|+|h
+Blue Nile|||C|0||Costs more due to brand and certificates; use as price benchmark|0|h
+@gemini|BR05|r1|t1 fmt=numbered_headings
+Angara|1||R|0||Better value for green emerald; tiered quality grades, gemstone specialist|+|h
+Brilliant Earth|2||R|0||Better for emerald-cut diamonds; settings carry brand markup|0|h
+James Allen|3|1|R|0||Alternative vendor for similar settings with lower-priced stones|0|m
+Ritani|3|1|R|0||Alternative vendor for similar settings with lower-priced stones|0|m
+@gemini|BR06|r1|t1 fmt=numbered_headings
+Angara|1||R|0||Best overall pick; huge sapphire selection under $1,000, customization|+|h
+Blue Nile|2||R|0||Runner-up for modern minimalist settings and craftsmanship|+|h
+Kay|||C|0||Weakest pick; mall markups, lower-karat gold or lab stones|-|h
+@gemini|BR07|r1|t1 fmt=numbered_headings
+Angara|1||R|0||Better choice; selectable gemstone grade, better value, customization|+|h
+Kay|||C|0||Mass-produced lower-grade stones, high markups; only for convenience|-|h
+@gemini|BR08|r1|t1 fmt=paragraphs
+Angara|1||R|0||Generally more affordable for lab-grown sapphire jewelry|+|h
+Brilliant Earth|||C|0|$400 to $900+|Higher-end with higher markup on lab-grown sapphires|0|h
+@gemini|CM04|r1|t1 fmt=numbered_headings
+Kay|||C|0||Best avoided; commercial-grade heavily treated rubies, high markups|-|h
+James Allen|1||R|0||Online specialist with 360-degree video to inspect rubies|+|h
+Brilliant Earth|2||R|0||Ethical sourcing; solid selection of preset and custom ruby rings|+|h
++Doyle & Doyle|3|1|R|0||Estate jeweler for unique antique ruby rings with character|+|h
++Lang Antiques|3|1|R|0||Estate jeweler for unique antique ruby rings with character|+|h
+Blue Nile|4||R|0||Build-your-own option with better value than mall stores|0|m
+@gemini|CM05|r1|t1 fmt=numbered_headings
++Aurate|1||R|0||Lab-grown sapphire tennis bracelets in 14k gold at lower markup|+|h
+Quince|2|1|R|0||Direct-to-consumer solid gold gemstone staples without retail markup|+|h
+Mejuri|2|1|R|0||Direct-to-consumer solid gold gemstone staples without retail markup|+|h
+Zales|3|1|R|0||Mall chain with frequent 30-50% off sapphire bracelet promotions|0|h
+Kay|3|1|R|0||Mall chain with frequent 30-50% off sapphire bracelet promotions|0|h
++Peoples|3|1|R|0||Mall chain with frequent 30-50% off sapphire bracelet promotions|0|m
++JCPenney|4|1|R|0||Strong fine jewelry department with deep clearance discounts|+|h
+Macy's|4|1|R|0||Strong fine jewelry department with deep clearance discounts|+|h
+Etsy|5||R|0||Hundreds of independent jewelers; customize metal to lower price|+|h
+Blue Nile|||C|0||Reference brand; sells pricier 14k/18k gold or platinum pieces|0|h
