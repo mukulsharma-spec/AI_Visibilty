@@ -1,0 +1,11 @@
+id: BR06
+chat_url: https://gemini.google.com/app/808b0e1ee366fcf4
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Faridabad
+country: IN (egress approved)
+session: signed_out_shared_profile (Sign in button visible; incognito not confirmed)
+bot_check: none
+citation_chips: none rendered (one uncited-chip citation span only) (chips are buttons, no hrefs in DOM)
+currency_seen: USD ($)
+html_note: answer.html is message-content innerHTML with Angular comments, _ng* attrs, jslog/data-path attrs and table footer stripped. Tabs: 3 open, typed one at a time.

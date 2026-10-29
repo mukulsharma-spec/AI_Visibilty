@@ -1,0 +1,40 @@
+{
+  "run_id": "2026-10-29_delta_w01_new2",
+  "app": "gemini",
+  "mode": "delta",
+  "source": "grok_bot_ui",
+  "prompts_file": "inputs/run_lists/prompts_delta_2026-10-29_w01_new2.csv",
+  "bots": [
+    "check \u00b7 collector"
+  ],
+  "session": "signed_out_shared_profile",
+  "egress": {
+    "ip": "49.249.146.90",
+    "city": "Faridabad",
+    "country": "IN",
+    "in_approved_by_human": true
+  },
+  "model_ui": "Flash-Lite",
+  "ids_assigned": [
+    "BR05",
+    "BR06",
+    "BR07",
+    "BR08",
+    "CM04",
+    "CM05"
+  ],
+  "ids_captured": [
+    "BR05",
+    "BR06",
+    "BR07",
+    "BR08",
+    "CM04",
+    "CM05"
+  ],
+  "ids_failed": [],
+  "folders_discarded": [],
+  "html_gzipped": [],
+  "started_at_utc": "2026-10-29 11:55:01",
+  "ended_at_utc": "2026-10-29 12:01:12",
+  "guide_version": "capture/3_APP_GUIDE v2.3.2"
+}

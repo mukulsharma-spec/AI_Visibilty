@@ -1,0 +1,11 @@
+id: CM04
+chat_url: https://gemini.google.com/app/6284e708f404f725
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Faridabad
+country: IN (egress approved)
+session: signed_out_shared_profile (Sign in button visible; incognito not confirmed)
+bot_check: none
+citation_chips: none rendered (chips are buttons, no hrefs in DOM)
+currency_seen: none
+html_note: answer.html is message-content innerHTML with Angular comments, _ng* attrs, jslog/data-path attrs, inline styles and table footer stripped. 3 tabs max, typed one at a time.

@@ -1,0 +1,11 @@
+id: BR05
+chat_url: https://gemini.google.com/app/9f91a54e1870e976
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Faridabad
+country: IN (egress approved)
+session: signed_out_shared_profile (Sign in button visible; incognito not confirmed)
+bot_check: none
+citation_chips: Angara; The Diamond Pro (chips are buttons, no hrefs in DOM)
+currency_seen: none
+html_note: answer.html is message-content innerHTML with Angular comments, _ng* attrs, jslog/data-path attrs and table footer stripped.
