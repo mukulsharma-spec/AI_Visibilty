@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-10-29_delta_w01_new",
+  "loaded_at": "2026-10-29T04:56-04:00",
+  "branch": "Ai_visibility_source",
+  "source_tip": "839e338db6896744a300a030d77fc24d7b027508",
+  "rows": {
+    "answers": {
+      "before": 402,
+      "added": 9,
+      "after": 411
+    },
+    "brand_mentions": {
+      "before": 2327,
+      "added": 55,
+      "after": 2382
+    },
+    "citations": {
+      "before": 1461,
+      "added": 16,
+      "after": 1477
+    }
+  },
+  "backup_path": "archive/live_csv_backup_2026-10-29/",
+  "mapping_note": "Live is SCHEMA v2.1 (29 answer cols). Run rows are v2.2: dropped ai_angara_rank and ai_angara_rank_n, set ai_angara_rank_of_n = \"{rank} of {n}\" when both non-blank else blank. Live header/order unchanged; existing live rows untouched. brand_mentions/citations appended as-is (headers identical).",
+  "collision_check": "no (run_id, run_key) collisions; run_id absent from live before load"
+}
