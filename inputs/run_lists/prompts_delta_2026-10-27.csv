@@ -1,1 +1,7 @@
-prompt_id,prompt_text,category,brand,locale,created_at
+prompt_id,old_id,category,scored_on,status,prompt_text,followup_text,active
+CH03,,Channel,naming,new,is it better to buy colored gemstones from a specialist or a big jewelry chain?,,1
+CP10,,Compare,citation,new,what makes one sapphire more expensive than another?,,1
+SG13,,Segment,naming,new,where can i buy a big statement cocktail ring with a colored stone,,1
+OC18,,Occasion,naming,new,"valentine's day gift for her, something with a real gemstone, need it by the 14th",,1
+TR13,,Trust,naming,new,what do customer reviews actually say about buying colored gemstones online?,,1
+IM12,,Show-me,imagery,new,"show me rose gold gemstone rings under $1,000",,1

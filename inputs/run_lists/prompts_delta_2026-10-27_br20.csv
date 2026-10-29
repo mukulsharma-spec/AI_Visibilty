@@ -1,1 +1,21 @@
-prompt_id,prompt_text,category,brand,locale,created_at
+prompt_id,old_id,category,scored_on,status,prompt_text,followup_text,active
+BR01,,Branded,accuracy,new,is angara legit? thinking of ordering a sapphire ring from them,,1
+BR02,,Branded,accuracy,new,"angara vs blue nile for a sapphire engagement ring, which would you pick?",,1
+BR04,,Branded,accuracy,new,what does angara's lifetime warranty actually cover?,,1
+CM01,,Competitor,naming,new,"brilliant earth sapphire rings are kind of pricey, any similar stores that are cheaper?",,1
+CM02,,Competitor,naming,new,does blue nile actually sell sapphire engagement rings or is it mostly diamonds? where else should i look,,1
+CM03,,Competitor,naming,new,alternatives to brilliant earth for an emerald engagement ring,,1
+BS14,,Bestseller,naming,new,"sapphire halo ring like princess diana's, where's the best place to get one?",,1
+BS15,,Bestseller,naming,new,where can i buy a matching sapphire necklace and earrings set?,,1
+BS16,,Bestseller,naming,new,ruby and diamond anniversary band - where's a good place to buy one?,,1
+ST21,,Stone,naming,new,"my girlfriend loves teal sapphires, where can i find a ring with one?",,1
+ST22,,Stone,naming,new,"heard emeralds chip easily, where can i buy an emerald ring that's set to protect the stone?",,1
+PR14,,Price,naming,new,"looking for a pink sapphire ring under $1,500",,1
+LG10,,Lab-grown,naming,new,"where can i get a lab grown sapphire engagement ring under $1,000?",,1
+OC19,,Occasion,naming,new,"mother's ring with all my kids' birthstones, where should i order one?",,1
+OC20,,Occasion,naming,new,"need an anniversary gift for my wife by next friday, real gemstone, under $1000",,1
+CU13,,Custom,naming,new,which jewelers let me video call someone before buying an engagement ring online?,,1
+CU14,,Custom,naming,new,which jewelers let you upgrade a gemstone ring later on?,,1
+CP11,,Compare,citation,new,what's the most durable gemstone for an engagement ring if i don't want a diamond?,,1
+CP12,,Compare,citation,new,is it worth paying more for a GIA certified sapphire?,,1
+MT09,,Multi-turn,naming,new,i'm looking for an emerald ring,which of those tell you if the emerald is oil treated?,1

@@ -1,1 +1,63 @@
-brand_canonical,alias,locale
+brand,pattern
+Angara,angara
+Blue Nile,blue\s?nile
+James Allen,james allen
+Brilliant Earth,brilliant earth
+Tiffany & Co.,tiffany
+Cartier,cartier
+Kay,\bkay(?: jewelers)?\b
+Zales,\bzales\b
+Jared,\bjared\b
+Helzberg,helzberg
+Mejuri,mejuri
+Pandora,\bpandora\b
+Etsy,\betsy\b
+Amazon,\bamazon\b
+Costco,\bcostco\b
+Macy's,macy
+Nordstrom,nordstrom
+Ross-Simons,ross[- ]simons
+Gemvara,gemvara
+Ritani,ritani
+Brian Gavin,brian gavin
+Whiteflash,whiteflash
+VRAI,\bvrai\b
+Clean Origin,clean origin
+Ring Concierge,ring concierge
+David Yurman,david yurman
+Kendra Scott,kendra scott
+Catbird,catbird
+Charles & Colvard,charles (?:&|and) colvard
+Rare Carat,rare carat
+Grown Brilliance,grown brilliance
+The Clear Cut,the clear cut
+Allurez,allurez
+Jewelry Television (JTV),\bjtv\b|jewelry television
+Diamonds Direct,diamonds direct
+Shane Co.,shane co
+Brilliance.com,brilliance\.com
+Fortunoff,fortunoff
+Monica Vinader,monica vinader
+Gorjana,gorjana
+Missoma,missoma
+Ana Luisa,ana luisa
+Quince,\bquince\b
+Bvlgari,bvlgari|bulgari
+Van Cleef & Arpels,van cleef
+Harry Winston,harry winston
+Chopard,chopard
+Graff,\bgraff\b
+De Beers,de beers
+Le Vian,le ?vian
+Effy,\beffy\b
+Mikimoto,mikimoto
+Pure Pearls,pure ?pearls
+Kamaria,kamaria
+Moissanite.com,moissanite\.com
+Frank Darling,frank darling
+Adiamor,adiamor
+Leibish,leibish
+Gemondo,gemondo
+Gemporia,gemporia
+Walmart,walmart
+Target,\btarget\b(?! (?:audience|budget|price))

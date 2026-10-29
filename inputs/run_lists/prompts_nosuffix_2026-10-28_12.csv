@@ -1,1 +1,13 @@
-prompt_id,prompt_text,category,brand,locale,created_at
+prompt_id,old_id,category,scored_on,status,prompt_text,followup_text,active
+GN02,G2,Generic,naming,retained,Where can I buy fine jewelry online?,,1
+EN01,E1,Engagement,naming,retained,Where can I buy a 1 carat diamond ring?,,1
+ST01,,Stone,naming,retained,My girlfriend's birthstone is garnet. Where's a good place to get her a garnet ring?,,1
+BS01,,Bestseller,naming,retained,Where can I buy blue sapphire halo stud earrings online?,,1
+PR01,,Price,naming,retained,What's the best sapphire ring under $500?,,1
+LG01,,Lab-grown,naming,retained,Where can I buy lab-grown sapphire jewelry online?,,1
+OC01,,Occasion,naming,retained,Where can I buy January birthstone jewelry?,,1
+CU01,,Custom,naming,retained,Where can I buy a gemstone ring and choose the gemstone quality grade?,,1
+CP01,,Compare,citation,restored,Sapphire vs diamond for an engagement ring: which is better?,,1
+SG02,,Segment,naming,retained,Where can I buy a men's sapphire wedding band?,,1
+TR01,,Trust,citation,retained,How can I tell if an online jeweler sells real natural gemstones?,,1
+CH01,,Channel,naming,new,should i buy gemstone jewelry on amazon or from a jeweler directly,,1

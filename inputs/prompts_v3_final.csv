@@ -1,1 +1,119 @@
-prompt_id,prompt_text,category,brand,locale,created_at
+prompt_id,old_id,category,scored_on,status,prompt_text,followup_text,active
+GN02,G2,Generic,naming,retained,Where can I buy fine jewelry online?,,1
+GN03,G3,Generic,naming,retained,What are the best online jewelry stores?,,1
+GN04,G4,Generic,naming,retained,What are the best online jewelry stores for custom jewelry?,,1
+GN05,S6,Generic,naming,retained,What is the best place to buy colored gemstone jewelry online?,,1
+EN01,E1,Engagement,naming,retained,Where can I buy a 1 carat diamond ring?,,1
+EN02,E2,Engagement,naming,retained,What are the best places to buy an engagement ring online?,,1
+EN03,,Engagement,naming,new,"engagement ring with a sapphire center instead of a diamond, where to buy",,1
+ST01,,Stone,naming,retained,My girlfriend's birthstone is garnet. Where's a good place to get her a garnet ring?,,1
+ST02,,Stone,naming,retained,Where can I buy peridot earrings online?,,1
+ST04,,Stone,naming,retained,Where can I buy a London blue topaz ring?,,1
+ST05,,Stone,naming,retained,Looking for some nice citrine jewelry. Any good places to shop online?,,1
+ST08,,Stone,naming,retained,"I want a real alexandrite ring, not a synthetic one. Where can I find one?",,1
+ST09,,Stone,naming,retained,Where can I buy a yellow sapphire ring online?,,1
+ST10,,Stone,naming,retained,I'm thinking of proposing with a ruby instead of a diamond. Where should I buy a ruby engagement ring?,,1
+ST11,,Stone,naming,retained,Where can I buy a ruby pendant necklace?,,1
+ST13,,Stone,naming,new,sapphire ring where to buy online,,1
+ST14,,Stone,naming,new,best site for emerald jewelry that isn't overpriced,,1
+ST15,,Stone,naming,new,"i want a morganite ring, any recommendations",,1
+ST16,S1,Stone,naming,retained,Where can I buy a sapphire necklace online?,,1
+ST17,S2,Stone,naming,retained,Where can I buy emerald earrings online?,,1
+ST18,S3,Stone,naming,retained,Where can I buy an opal engagement ring?,,1
+ST19,S4,Stone,naming,retained,Where can I buy a ruby ring online?,,1
+BS01,,Bestseller,naming,retained,Where can I buy blue sapphire halo stud earrings online?,,1
+BS02,,Bestseller,naming,retained,What's the best place to buy ruby and diamond halo stud earrings?,,1
+BS03,,Bestseller,naming,retained,Where can I get an oval blue sapphire pendant with a diamond halo?,,1
+BS04,,Bestseller,naming,retained,Where can I buy a pear-shaped emerald engagement ring?,,1
+BS05,,Bestseller,naming,retained,Best online store for an emerald-cut sapphire engagement ring with side diamonds,,1
+BS06,,Bestseller,naming,retained,Where can I buy a three-stone sapphire and diamond ring?,,1
+BS07,,Bestseller,naming,retained,Who sells good tanzanite engagement rings online?,,1
+BS08,,Bestseller,naming,retained,I'm looking for aquamarine halo stud earrings. Where should I get them?,,1
+BS09,,Bestseller,naming,retained,Where can I buy a sapphire and diamond eternity band online?,,1
+BS10,,Bestseller,naming,retained,Best place to buy a gemstone solitaire pendant necklace in 14k gold,,1
+BS11,,Bestseller,naming,retained,Where can I buy an opal pendant necklace online?,,1
+BS12,,Bestseller,naming,retained,Where can I buy an Akoya pearl strand necklace online?,,1
+TR01,,Trust,citation,retained,How can I tell if an online jeweler sells real natural gemstones?,,1
+TR02,,Trust,naming,retained,Which online jewelers provide certification or grading reports for colored gemstones?,,1
+TR03,,Trust,naming,retained,Which online jewelry stores offer free resizing and a lifetime warranty?,,1
+TR04,,Trust,naming,retained,Which online jewelers have 30-day free returns on gemstone rings?,,1
+TR05,,Trust,naming,retained,Is it safe to buy a sapphire engagement ring online? Where should I buy one?,,1
+TR06,,Trust,naming,retained,Which online jewelers disclose gemstone treatments like heating or filling?,,1
+TR07,,Trust,naming,retained,I care about ethics. Where can I buy colored gemstones that are ethically sourced?,,1
+TR08,,Trust,naming,retained,Which online jewelers offer free fast shipping on gemstone jewelry?,,1
+TR09,,Trust,naming,retained,Which online jewelry stores offer financing or buy now pay later?,,1
+TR10,,Trust,naming,retained,What are the highest-rated online gemstone jewelry stores based on customer reviews?,,1
+TR11,,Trust,naming,new,is it safe to order a $2000 gemstone ring from a site i haven't heard of,,1
+PR01,,Price,naming,retained,What's the best sapphire ring under $500?,,1
+PR02,,Price,naming,retained,Where can I buy real gemstone earrings under $300?,,1
+PR03,,Price,naming,retained,"Best sapphire stud earrings under $1,000",,1
+PR04,,Price,naming,retained,"Where can I find an affordable emerald ring under $1,000?",,1
+PR05,,Price,naming,retained,I need a real ruby necklace but my budget is $500. Where should I look?,,1
+PR06,,Price,naming,retained,Fine jewelry gifts with real gemstones under $200,,1
+PR07,,Price,naming,retained,"Where should I buy a high-end colored gemstone ring over $5,000?",,1
+PR08,,Price,naming,retained,I'd like a tanzanite ring for under $800. Where's a good place to buy one?,,1
+PR11,,Price,naming,new,sapphire earrings under 500 that are actually real,,1
+OC01,,Occasion,naming,retained,Where can I buy January birthstone jewelry?,,1
+OC02,,Occasion,naming,retained,My wife was born in February. Where can I get her some amethyst birthstone jewelry?,,1
+OC07,,Occasion,naming,retained,Our 45th anniversary is coming up and I want to get my wife a sapphire. Where should I shop?,,1
+OC08,,Occasion,naming,retained,Where can I buy a ruby gift for a 40th wedding anniversary?,,1
+OC09,,Occasion,naming,restored,Where can I buy an emerald gift for a 55th anniversary?,,1
+OC10,,Occasion,naming,retained,My daughter is graduating and I want to get her a gemstone necklace. Where should I buy one?,,1
+OC13,,Occasion,naming,new,mother's day gift ideas with real gemstones,,1
+OC14,,Occasion,naming,new,"treating myself to a nice gemstone ring, where should i shop",,1
+OC15,,Occasion,naming,new,need a birthstone necklace delivered before christmas,,1
+OC16,O2,Occasion,naming,retained,Where can I buy October birthstone jewelry?,,1
+CU01,,Custom,naming,retained,Where can I buy a gemstone ring and choose the gemstone quality grade?,,1
+CU02,,Custom,naming,retained,I'd like a gemstone ring engraved for free. Which stores do that?,,1
+CU03,,Custom,naming,retained,Which online jewelers let me pick the metal and gemstone size for a pendant?,,1
+CU04,,Custom,naming,retained,Where can I buy a ready-to-ship sapphire engagement ring that arrives in 2 days?,,1
+CU08,,Custom,naming,retained,Which online jewelers have virtual try-on for gemstone rings?,,1
+CU10,C2,Custom,naming,retained,Where can I design my own gemstone ring online?,,1
+SG02,,Segment,naming,retained,Where can I buy a men's sapphire wedding band?,,1
+SG03,,Segment,naming,retained,I want to give my girlfriend a promise ring with a real gemstone. Where should I get one?,,1
+SG04,,Segment,naming,retained,Where can I buy vintage-style gemstone engagement rings?,,1
+SG05,,Segment,naming,retained,Where can I buy dainty everyday gemstone jewelry in solid gold?,,1
+SG06,,Segment,naming,retained,What's a good place to buy a gemstone tennis bracelet?,,1
+SG07,,Segment,naming,retained,Where can I buy stackable gemstone rings?,,1
+SG11,,Segment,naming,new,"art deco style emerald ring, where would i even find that",,1
+LG01,,Lab-grown,naming,retained,Where can I buy lab-grown sapphire jewelry online?,,1
+LG02,,Lab-grown,naming,retained,What's a good place to get a lab-created emerald ring?,,1
+LG03,,Lab-grown,naming,retained,What's the best place to buy a lab-grown ruby ring?,,1
+LG05,,Lab-grown,naming,retained,"Are lab-grown sapphires worth buying, and where can I get one?",,1
+LG08,,Lab-grown,naming,retained,Which online jewelers sell both natural and lab-grown gemstones?,,1
+LG09,,Lab-grown,naming,new,are lab created emeralds any good and where do people buy them,,1
+IM01,,Show-me,imagery,retained,Show me oval blue sapphire rings with a diamond halo in white gold,,1
+IM02,,Show-me,imagery,retained,Show me emerald-cut emerald rings with diamond side stones,,1
+IM03,,Show-me,imagery,retained,Show me ruby stud earrings in yellow gold,,1
+IM04,,Show-me,imagery,retained,Show me tanzanite pendant necklaces,,1
+IM05,,Show-me,imagery,retained,Show me pink sapphire engagement rings,,1
+IM07,,Show-me,imagery,retained,Show me opal stud earrings,,1
+IM10,,Show-me,imagery,restored,Show me three-stone ruby and diamond rings,,1
+CP01,,Compare,citation,restored,Sapphire vs diamond for an engagement ring: which is better?,,1
+CP02,,Compare,citation,retained,Natural vs lab-grown sapphire: what's the difference and which should I buy?,,1
+CP04,,Compare,citation,retained,What should I look for when buying a sapphire online?,,1
+CP05,,Compare,citation,restored,Is tanzanite a good stone for an engagement ring?,,1
+CP08,,Compare,citation,retained,"What do gemstone quality grades like AA, AAA and AAAA mean?",,1
+CH01,,Channel,naming,new,should i buy gemstone jewelry on amazon or from a jeweler directly,,1
+CH02,,Channel,naming,new,is etsy ok for buying a real sapphire ring,,1
+MT01,,Multi-turn,naming,new,looking for a sapphire engagement ring,which of those has the best return policy,1
+MT02,,Multi-turn,naming,new,i want emerald earrings,ok now show me ones under $600,1
+MT03,,Multi-turn,naming,new,best place to buy a ruby ring,is that site trustworthy,1
+MT04,,Multi-turn,naming,new,"birthstone jewelry for my mom, her birthday is in may",where can i actually order that,1
+MT05,,Multi-turn,naming,new,i need a gemstone ring resized and engraved,which of those ships fastest,1
+CP09,,Compare,citation,new,is a heated sapphire worth less than an unheated one?,,1
+TR12,,Trust,naming,new,which online jewelers include a lab report with a colored gemstone?,,1
+CU11,,Custom,naming,new,"i don't know her ring size, which jewelers make that easy?",,1
+ST20,,Stone,naming,new,where can i buy a moissanite ring that doesn't look fake,,1
+SG12,,Segment,naming,new,"mens ring with a colored stone, not a diamond",,1
+OC17,,Occasion,naming,new,do any jewelers include gift wrapping and a gift receipt for a gemstone necklace?,,1
+BS13,,Bestseller,naming,new,where can i get a wedding band that matches a sapphire engagement ring,,1
+PR12,,Price,naming,new,"where should i buy an unheated sapphire over $10,000",,1
+IM11,,Show-me,imagery,new,show me gemstone tennis bracelets in white gold,,1
+MT06,,Multi-turn,naming,new,i want a ruby ring under $1500,which of those actually certifies the stone,1
+CH03,,Channel,naming,new,is it better to buy colored gemstones from a specialist or a big jewelry chain?,,1
+CP10,,Compare,citation,new,what makes one sapphire more expensive than another?,,1
+SG13,,Segment,naming,new,where can i buy a big statement cocktail ring with a colored stone,,1
+OC18,,Occasion,naming,new,"valentine's day gift for her, something with a real gemstone, need it by the 14th",,1
+TR13,,Trust,naming,new,what do customer reviews actually say about buying colored gemstones online?,,1
+IM12,,Show-me,imagery,new,"show me rose gold gemstone rings under $1,000",,1
