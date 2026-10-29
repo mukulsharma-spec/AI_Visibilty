@@ -1,6 +1,6 @@
 # App Capture Guide
 
-capture/3_APP_GUIDE v2.1 · 2026-10-27
+capture/3_APP_GUIDE v2.3 · 2026-10-29
 
 What to click and what to save. **Read Part 1 (All apps), then only the section for your app in Part 2.** Policy (sessions, egress, failures) is in `2_RUNBOOK.md`. Names are defined in `README.md`.
 
@@ -122,7 +122,7 @@ After your last prompt, write two files in `runs/<run_id>/` (not inside `raw/`).
 4. **Discarded and re-run**: each `__discarded_N` folder and why
 5. **Session and egress**: session used; IP, city, country; whether IN was approved
 6. **Quality caveats**: any `partial` or `low` captures, wrapped HTML, name-only citations, gzipped HTML, tar backup (if any)
-7. **Repo path** to `runs/<run_id>/` and `runs/<run_id>/raw/<app>/` (must contain the expanded raw folders; tar-only commits are not done)
+7. **Repo path** to `runs/<run_id>/` and `runs/<run_id>/raw/<app>/` on `Ai_visibility_source` (must contain the expanded raw folders; tar-only commits are not done)
 
 ---
 

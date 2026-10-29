@@ -1,6 +1,6 @@
 # Capture Runbook
 
-capture/2_RUNBOOK v2.2 · 2026-10-29
+capture/2_RUNBOOK v2.3 · 2026-10-29
 
 Policy for the **Capture** task: what needs approval, how sessions and egress work, how bots share work, and what to do when something fails. The order of work is in `1_CHECKLIST.md`. What to click and save in each app is in `3_APP_GUIDE.md`. Names are defined in `README.md`.
 
@@ -118,14 +118,14 @@ Renaming a folder to `__discarded_N` is the **only** change allowed to a raw fol
 
 ## 8. Git hand-off
 
-- **Done means committed and pushed.** Local files alone are not done.
+- **Done means committed and pushed to `Ai_visibility_source`.** Local files alone are not done. No PR into `main` is required for routine capture hand-off.
 - Write only under `runs/<run_id>/`. Never write to `inputs/` (except approved prompt files), `instructions/` or `live_csv/`.
 - **Raw commit rule (required):** commit every raw folder **expanded** under `runs/<run_id>/raw/<app>/<raw folder>/`, one folder per raw folder with files inside (same layout as Claude). This includes `__discarded_N` folders.
 - **Optional backup:** one `raw_<app>.tar.gz` per app at `runs/<run_id>/` root. It is a backup only.
 - **Not allowed as the only commit:** an empty or archive-only `raw/<app>/`. A tar alone is **not done**.
 - **HTML over about 1 MB:** store as `answer.html.gz` (gzip of the exact bytes), keep the uncompressed copy locally, and note it in SUMMARY. Consider Git LFS if large screenshots accumulate (see "LFS" below).
 - **Write one raw folder at a time.** Never run loops that write across many folders at once.
-- **Push after each app is complete** or at end of run. Parallel bots push to the same working branch; coordinate so pushes don't conflict (pull before push, or use separate commits).
+- **Push after each app is complete** or at end of run. Parallel bots push to `Ai_visibility_source`; coordinate so pushes don't conflict (pull before push, or use separate commits).
 
 ### LFS guidance
 

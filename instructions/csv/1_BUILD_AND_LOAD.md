@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.2 · 2026-10-29
+csv/1_BUILD_AND_LOAD v2.3 · 2026-10-29
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -202,7 +202,7 @@ Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
    1. Copy the current `live_csv/<file>` to `archive/live_csv_backup_<YYYY-MM-DD>/`.
    2. Append the run's rows (same column order as SCHEMA).
    3. Confirm new row count = old count + added rows.
-   4. Commit the updated `live_csv/<file>` and push. If using a working branch, coordinate merge timing with the human.
+   4. Commit the updated `live_csv/<file>` and push to **`Ai_visibility_source`**. No PR into `main` is required for routine load.
 3. Report new row counts, counts per `run_id`, and the backup location.
 
 **A run can be loaded in parts** (for example ChatGPT today, Claude tomorrow), because rows are unique on `(run_id, run_key)`. Say so when asking for approval.

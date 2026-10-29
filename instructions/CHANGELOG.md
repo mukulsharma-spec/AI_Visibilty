@@ -4,6 +4,27 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.3 · 2026-10-29: `Ai_visibility_source` is the working branch
+
+### Branch workflow
+- **`Ai_visibility_source` is now the sole working source of truth.** All assistants read from and commit/push directly to this branch.
+- No PR into `main` is required for day-to-day capture, CSV build, load, or run hand-off unless a human explicitly asks.
+- `main` may lag behind `Ai_visibility_source`; do not treat `main` as authoritative for ops.
+- Branch created from `cursor/add-delta-w01-new-run-620d`.
+
+### Updated files
+- `README.md` v2.3: source-of-truth statement and rule 6 now specify `Ai_visibility_source`
+- `capture/1_CHECKLIST.md` v2.3: section D specifies push to `Ai_visibility_source`
+- `capture/2_RUNBOOK.md` v2.3: section 8 specifies commit/push to `Ai_visibility_source`, no PR
+- `csv/1_BUILD_AND_LOAD.md` v2.3: Load section specifies commit/push to `Ai_visibility_source`, no PR
+
+### What stays the same
+- Weekly `run_id` naming convention (wNN, wNN_new, etc.)
+- SCHEMA v2.2 (30-column answers.csv with split rank fields)
+- All approval rules, pipeline stages, folder structures
+
+---
+
 ## v2.2 · 2026-10-29: schema rank field split and inputs restructure
 
 ### Schema Changes
@@ -33,9 +54,9 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 - Added run_id naming section to README.md
 
 ### GitHub-only hand-off (2026-10-29)
-- **Source of truth and "done" = this GitHub repo.** Removed external shared-folder requirement from all ops wording.
-- Capture checklist, runbook, app guide, build/load docs, and README now say commit/push under `runs/<run_id>/`, `inputs/`, `live_csv/`, `instructions/` on the working branch.
-- Parallel-bot handoff: bots write into the shared working directory and push to the same branch (coordinate to avoid conflicts).
+- **Source of truth and "done" = this GitHub repo, branch `Ai_visibility_source`.** Removed external shared-folder requirement from all ops wording.
+- Capture checklist, runbook, app guide, build/load docs, and README now say commit/push under `runs/<run_id>/`, `inputs/`, `live_csv/`, `instructions/` on `Ai_visibility_source`.
+- Parallel-bot handoff: bots write into the shared working directory and push to `Ai_visibility_source` (coordinate to avoid conflicts).
 - Pipeline stages (capture → build → load) and approval rules unchanged; only storage/hand-off surface changed.
 - Added Git LFS guidance note for large screenshots if repository binary size grows past a few hundred MB.
 

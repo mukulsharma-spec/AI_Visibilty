@@ -1,6 +1,6 @@
 # CSV Schema
 
-csv/2_SCHEMA v2.2 · 2026-10-29
+csv/2_SCHEMA v2.3 · 2026-10-29
 
 The three dashboard CSVs: `answers.csv`, `brand_mentions.csv`, `citations.csv`. The same three files exist in each `runs/<run_id>/csv/` (one run) and in `live_csv/` (all runs appended). There are no other CSV tables in the pipeline.
 
