@@ -1,6 +1,8 @@
 # Angara AI-Visibility: START HERE
 
-README v2.1 · 2026-10-27
+README v2.2 · 2026-10-29
+
+**Source of Truth**: GitHub is the source of truth for all configuration, prompts, brand aliases, and documentation.
 
 Every bot reads this file first, every time. It tells you which other files to read for the task you were given. **Read only those files.** Opening instruction files outside your task wastes context and mixes in rules from other stages.
 
@@ -78,6 +80,42 @@ Do not open anything in `instructions/csv/`. You will not touch CSVs.
 
 **Older runs** (created before README v2) use older names: the date inside `run_key` and pipes in folder names. Leave those raw folders as they are. The CSV build reads both forms. Current `live_csv/` is already SCHEMA v2 with split `run_id`s: `2026-10-baseline_v3` (Oct 22–23 captures) and `2026-10-27_delta_v3` (six new prompts × 3 apps).
 
+### run_id naming
+
+Format: `YYYY-MM-DD_<type>_<label>`
+
+| Part | Rule | Example |
+|---|---|---|
+| YYYY-MM-DD | Date the capture starts | 2026-11-03 |
+| `<type>` | `full` = whole core prompt set; `delta` = only some or new prompts | full |
+| `<label>` | What the run is (table below) | w02 |
+
+**Labels:**
+
+| Run type | Label | Example run_id | Scored in trends? |
+|---|---|---|---|
+| Weekly core run | wNN (two digits) | 2026-11-03_full_w02 | Yes |
+| New prompts added that week | wNN_new | 2026-11-03_delta_w02_new | Yes from that week on |
+| Same-week repeat | Same run_id as that week's run; use repeat = r2, r3 | 2026-11-03_full_w02 (rows with r2) | Yes |
+| Re-capture of failed prompts | wNN_fix | 2026-11-04_delta_w02_fix | Counts as that week |
+| No-suffix test | nosuffix | 2026-11-04_delta_nosuffix | Never |
+| US-egress test | usegress | 2026-11-05_full_usegress | Separate trend line |
+
+**Rules:**
+- Week numbers count from the baseline. Oct 22–27 data is week 1 (w01); first weekly rerun is w02.
+- One wNN per week. Mid-week new prompts go in that week's `_new` run, not a new week number.
+- Grok Bot proposes the run_id from capture date + next week number; human confirms before capture starts.
+- Never rename a run_id once its rows are in `live_csv/`.
+- Validation should reject any run_id that doesn't match this pattern (note for ops; no validator script unless one already exists).
+- Existing runs stay as-is: `2026-10-baseline_v3`, `2026-10-27_delta_v3`, `2026-10-27_delta_br20`. Dashboard treats all three as week 1.
+- Folder name under `runs/<run_id>/` IS the run_id; meta/SUMMARY/CSVs copy that name into the run_id column.
+
+**Weekly workflow notes:**
+- Append weekly into `live_csv/` (three files: answers.csv, brand_mentions.csv, citations.csv).
+- Keep per-run copy in `runs/<run_id>/csv/`.
+- Same-week repeats use r2/r3 in the repeat column, not a new run_id.
+- Next week is still r1 with a new run_id.
+
 ---
 
 ## Folder layout
@@ -87,8 +125,11 @@ Angara_AI_visibility/
 ├── README.md                  ← this file
 ├── inputs/
 │   ├── prompts_v3_final.csv   ← master prompt list (append rows only)
-│   ├── prompts_delta_*.csv    ← extra prompts supplied by the human
-│   └── brand_aliases_v3.csv   ← brand match list used by Build CSVs
+│   ├── brand_aliases_v3.csv   ← brand match list used by Build CSVs
+│   └── run_lists/             ← one-off and delta run lists
+│       ├── prompts_delta_2026-10-27.csv
+│       ├── prompts_delta_2026-10-27_br20.csv
+│       └── prompts_nosuffix_2026-10-28_12.csv
 ├── instructions/
 │   ├── capture/               ← read for Capture only
 │   │   ├── 1_CHECKLIST.md
@@ -96,7 +137,7 @@ Angara_AI_visibility/
 │   │   └── 3_APP_GUIDE.md
 │   ├── csv/                   ← read for Build CSVs and Load only
 │   │   ├── 1_BUILD_AND_LOAD.md
-│   │   └── 2_SCHEMA.md
+│   │   └── 2_SCHEMA.md        ← v2.2: 30 columns with split rank fields
 │   └── CHANGELOG.md           ← dated record of rule changes
 ├── runs/
 │   └── <run_id>/
@@ -104,10 +145,21 @@ Angara_AI_visibility/
 │       ├── SUMMARY_<app>.md          ← one per app
 │       ├── raw/<app>/<raw folder>/   ← immutable
 │       └── csv/                      ← answers.csv, brand_mentions.csv, citations.csv, build_info.json
-├── live_csv/                  ← dashboard feed: answers.csv, brand_mentions.csv, citations.csv only (SCHEMA v2)
+├── live_csv/                  ← dashboard feed (SCHEMA v2.1 until migration)
 ├── reports/                   ← study findings for people; bots do not read
 └── archive/                   ← superseded files / backups; bots do not read for capture
 ```
+
+## Schema Version
+
+**Current schema: v2.2** (2026-10-29)
+
+Key changes in v2.2:
+- 30 columns in `answers.csv` (was 29)
+- Rank fields split: `ai_angara_rank` (int) + `ai_angara_rank_n` (int), replaces `ai_angara_rank_of_n` (string)
+- See [Schema Documentation](instructions/csv/2_SCHEMA.md) for details
+
+> **Note**: `live_csv/` may remain on v2.1 until migration is completed.
 
 ---
 
@@ -116,9 +168,9 @@ Angara_AI_visibility/
 1. **Never invent** prompts, prompt IDs, CSV columns or folder structures.
 2. **Never edit or delete** anything inside `runs/*/raw/`.
 3. **Never write to `live_csv/`** without the human's explicit approval in the current chat.
-4. **Nothing starts on its own.** Google Drive does not wake bots. Work starts only from a human message or a routine the human approved.
+4. **Nothing starts on its own.** Work starts only from a human message or a routine the human approved.
 5. **If instructions conflict or are unclear, stop and ask.** Do not pick one yourself.
-6. **Done means on Drive.** Files that exist only on the local machine are not done. Raw folders must be on Drive **expanded** under `runs/<run_id>/raw/<app>/`; a tar/zip alone is not done.
+6. **Done means committed and pushed.** Files that exist only on the local machine are not done. Raw folders must be committed under `runs/<run_id>/raw/<app>/` and pushed to the working branch; a tar/zip alone is not done.
 
 ---
 

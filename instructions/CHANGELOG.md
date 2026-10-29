@@ -4,11 +4,53 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.2 · 2026-10-29: schema rank field split and inputs restructure
+
+### Schema Changes
+- **BREAKING**: Split `ai_angara_rank_of_n` (string) into two separate fields:
+  - `ai_angara_rank` (int or blank): 1-based rank position
+  - `ai_angara_rank_n` (int or blank): Total number of rank slots (was "of N")
+- Column count in `answers.csv` increased from 29 to 30
+- Enables numeric sorting/filtering on rank data
+
+### Repository Structure
+- Master prompt and brand alias files remain at `inputs/` root:
+  - `inputs/prompts_v3_final.csv`
+  - `inputs/brand_aliases_v3.csv`
+- One-off/delta run lists moved to `inputs/run_lists/`:
+  - `prompts_delta_2026-10-27.csv`
+  - `prompts_delta_2026-10-27_br20.csv`
+  - `prompts_nosuffix_2026-10-28_12.csv`
+
+### Weekly run_id Convention
+- Added naming convention `YYYY-MM-DD_<type>_<label>` with labels: wNN (weekly core), wNN_new (new prompts), wNN_fix (re-capture), nosuffix (test), usegress (US-egress test)
+- Week 1 = existing baseline + Oct 27 deltas (`2026-10-baseline_v3`, `2026-10-27_delta_v3`, `2026-10-27_delta_br20`)
+- Test runs (nosuffix) never scored in main trends; usegress gets separate trend line
+- Grok Bot proposes run_id; human confirms before capture
+
+### Documentation
+- Updated `csv/2_SCHEMA.md` to v2.2 with new rank fields
+- Added run_id naming section to README.md
+
+### GitHub-only hand-off (2026-10-29)
+- **Source of truth and "done" = this GitHub repo.** Removed external shared-folder requirement from all ops wording.
+- Capture checklist, runbook, app guide, build/load docs, and README now say commit/push under `runs/<run_id>/`, `inputs/`, `live_csv/`, `instructions/` on the working branch.
+- Parallel-bot handoff: bots write into the shared working directory and push to the same branch (coordinate to avoid conflicts).
+- Pipeline stages (capture → build → load) and approval rules unchanged; only storage/hand-off surface changed.
+- Added Git LFS guidance note for large screenshots if repository binary size grows past a few hundred MB.
+
+### Migration Notes
+- `live_csv/` may remain on v2.1 until data migration is completed
+- No automated data migration is performed; coordinate with data team if needed
+- Check column count to distinguish v2.1 (29) from v2.2 (30)
+
+---
+
 ## v2.1 clarification · 2026-10-27: raw upload rule (not a version bump)
 
 ### What changed
 - `capture/2_RUNBOOK.md` §8, `capture/1_CHECKLIST.md` D, `capture/3_APP_GUIDE.md` SUMMARY, README rule 6: raw folders **must** be uploaded expanded to `runs/<run_id>/raw/<app>/<raw folder>/` (same layout as Claude). `raw_<app>.tar.gz` at run root is an optional backup only. Empty or archive-only `raw/<app>/` is not done.
-- Checklist adds a Drive folder-count check.
+- Checklist adds a folder-count check.
 
 ### Why
 - Run `2026-10-27_delta_br20`: ChatGPT and Gemini were uploaded as tars only, leaving `raw/<app>/` unusable for review; fixed by uploading the expanded folders (ChatGPT 22 folders / 88 files, Gemini 23 folders / 112 files).
@@ -27,7 +69,7 @@ Record of rule and structure changes, newest first. Bots read this only for the 
   - `2026-10-baseline_v3` = 321 answers (2026-10-22/23)
   - `2026-10-27_delta_v3` = 18 answers (delta prompts)
 - Row counts unchanged: answers 339, brand_mentions 2045, citations 1347 (0 exact duplicates).
-- Backed up pre-migration CSVs to `archive/live_csv_backup_2026-10-27/` (same Drive file IDs kept for live files).
+- Backed up pre-migration CSVs to `archive/live_csv_backup_2026-10-27/`.
 - Moved `*_facts.csv` to `archive/live_csv_facts_only_v1/`.
 - Synced remaining instruction text (README, Build/Load, Checklist, Runbook, App Guide) to v2.1: `prompt_id` vs `run_id`, lowercase `signed_in` in CSVs, locked `ai_answer_format` §2a, live_csv migration complete, example `run_id`s use `2026-10-27_delta_v3`.
 
@@ -82,14 +124,13 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
-## Drive migration checklist (do once, in this order)
+## Legacy storage migration checklist (historical — completed 2026-10-27; superseded by GitHub-only workflow)
 
 **Prepare**
 - [x] Create folders: `instructions/capture/`, `instructions/csv/`, `archive/`, `reports/`.
-- [ ] Drive Settings: uncheck **"Convert uploads to Google Docs editor format"** (human).
 
 **Archive the v1 instructions** (move, don't delete) to `archive/instructions_v1/`
-- [ ] Still pending if old v1 files remain elsewhere on Drive.
+- [ ] Still pending if old v1 files remain in legacy storage.
 
 **Upload v2** (as plain `.md` / `.csv` files)
 - [x] `README.md` → root
@@ -106,7 +147,7 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 - [x] One-time migration done 2026-10-27 (split `run_id`; facts archived).
 
 **Check**
-- [x] README paths match Drive folders (`capture/`, `csv/`).
+- [x] README paths match repo folders (`capture/`, `csv/`).
 - [ ] Give bots the new opener when starting a task.
 
 ---
@@ -119,7 +160,7 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 - Automation couldn't always open Incognito; runs were labelled Incognito when they used the shared profile. → Rule: record the session actually used. (v2: shared profile is acceptable for ChatGPT/Gemini.)
 - ChatGPT guest sessions silently failed after the first prompt, and the bot kept sending. → Rule: stop the app on first silent send-fail.
 - Runs were scored as USA while egress was India. → Rule: check IP in the capture browser; ask before proceeding non-US.
-- Captures left only on the local box were reported as done. → Rule: done means on Drive.
+- Captures left only on the local box were reported as done. → Rule: done means committed and pushed.
 
 ### 2026-10-26/27 · Claude and ChatGPT runs
 - Signed-in Claude chats inherited account history. → Rule: Claude Incognito chat toggle for every prompt.

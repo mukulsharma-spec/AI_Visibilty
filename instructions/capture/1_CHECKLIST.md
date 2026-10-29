@@ -1,6 +1,6 @@
 # Capture Checklist
 
-capture/1_CHECKLIST v2.1 · 2026-10-27
+capture/1_CHECKLIST v2.2 · 2026-10-29
 
 Read this when your task is **Capture**. It's the order of work from first message to hand-off. Details live in two other files:
 
@@ -21,7 +21,7 @@ Do not send any prompt until every item below is answered in the chat.
 - [ ] **Mode**:
   - **Delta**: the exact prompt IDs, or a `prompts_delta_*.csv` the human supplied, or prompt text the human pasted.
   - **Full**: every row with `active=1`. Needs an explicit "yes, full run".
-- [ ] **run_id**: use the one the human gives. If none is given, propose one in the README format and get a yes. Every bot in the same run uses the same `run_id`.
+- [ ] **run_id**: use the one the human gives. If none is given, Grok Bot proposes one from capture date + next week number per README naming convention; human confirms before capture. Every bot in the same run uses the same `run_id`.
 - [ ] Confirm IDs are **`prompt_id` values only** (e.g. `CH03`). Do not put bot name or date into `prompt_id` or `run_key`; date/batch is `run_id`.
 - [ ] **Session** for your app is ready. The human sets sign-in state; you never ask for or enter credentials.
   - **ChatGPT / Gemini:** **signed out**. Either a Chrome Incognito window or the signed-out shared profile is fine; no approval needed. Record which one you used in `meta.json` (`incognito` or `signed_out_shared_profile`).
@@ -32,7 +32,7 @@ If the human asks for "N prompts" without giving IDs or rows: stop and ask. Neve
 
 ## B. Set up
 
-- [ ] Load prompts from `inputs/prompts_v3_final.csv` (skip `active=0`) or the supplied delta file.
+- [ ] Load prompts from `inputs/prompts_v3_final.csv` (skip `active=0`) or a delta file from `inputs/run_lists/`.
 - [ ] Confirm every requested ID exists. If any is missing, list them and ask.
 - [ ] Open the session for your app as in A (ChatGPT/Gemini: confirm you are signed out; Claude: confirm signed in, then turn on the Incognito chat toggle).
 - [ ] Create `runs/<run_id>/raw/<app>/` and record your start time (UTC).
@@ -49,9 +49,9 @@ If the human asks for "N prompts" without giving IDs or rows: stop and ask. Neve
 ## D. After the last prompt
 
 - [ ] Write `SUMMARY_<app>.md` and `run_info_<app>.json` in `runs/<run_id>/` (contents: App Guide, "Run files").
-- [ ] Upload every raw folder **expanded** to `runs/<run_id>/raw/<app>/<raw folder>/` (one Drive folder per raw folder, files inside) plus both run files under `runs/<run_id>/`. A `raw_<app>.tar.gz` is an optional backup only; a tar alone is **not done**.
-- [ ] List `runs/<run_id>/raw/<app>/` on Drive and check the folder count matches your local raw folders.
-- [ ] Report to the human: Drive link, IDs captured, IDs failed with reasons, egress used, session used.
+- [ ] Commit every raw folder **expanded** under `runs/<run_id>/raw/<app>/<raw folder>/` (one folder per raw folder, files inside) plus both run files under `runs/<run_id>/`. A `raw_<app>.tar.gz` is an optional backup only; a tar alone is **not done**.
+- [ ] Push the working branch and verify the folder count in the repo matches your local raw folders.
+- [ ] Report to the human: repo path `runs/<run_id>/`, IDs captured, IDs failed with reasons, egress used, session used.
 - [ ] **Stop.** Do not build CSVs unless the human asks.
 
 ---
