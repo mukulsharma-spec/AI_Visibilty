@@ -1,6 +1,6 @@
 # Angara AI-Visibility: START HERE
 
-README v2.3 · 2026-10-29
+README v2.3.1 · 2026-10-29
 
 **Source of Truth**: GitHub branch **`Ai_visibility_source`** is the working source of truth for all configuration, prompts, brand aliases, captures, and documentation. Assistants read from and commit/push directly to `Ai_visibility_source`; no PR into `main` is required for day-to-day capture, CSV, or run hand-off unless a human explicitly asks. The `main` branch may lag behind.
 
@@ -145,7 +145,7 @@ Angara_AI_visibility/
 │       ├── SUMMARY_<app>.md          ← one per app
 │       ├── raw/<app>/<raw folder>/   ← immutable
 │       └── csv/                      ← answers.csv, brand_mentions.csv, citations.csv, build_info.json
-├── live_csv/                  ← dashboard feed (SCHEMA v2.1 until migration)
+├── live_csv/                  ← dashboard feed: ONLY answers.csv, brand_mentions.csv, citations.csv (no metadata here)
 ├── reports/                   ← study findings for people; bots do not read
 └── archive/                   ← superseded files / backups; bots do not read for capture
 ```
@@ -170,7 +170,8 @@ Key changes in v2.2:
 3. **Never write to `live_csv/`** without the human's explicit approval in the current chat.
 4. **Nothing starts on its own.** Work starts only from a human message or a routine the human approved.
 5. **If instructions conflict or are unclear, stop and ask.** Do not pick one yourself.
-6. **Done means committed and pushed to `Ai_visibility_source`.** Files that exist only on the local machine are not done. Raw folders must be committed under `runs/<run_id>/raw/<app>/` and pushed to `Ai_visibility_source`; a tar/zip alone is not done. No PR into `main` is required for routine ops.
+6. **Done means committed and pushed to `Ai_visibility_source`.** Files that exist only on the local machine are not done. Raw folders must be committed under `runs/<run_id>/raw/<app>/` and pushed to `Ai_visibility_source`; a tar/zip alone is not done. **No PR into `main` for routine ops—commit/push directly.**
+7. **Prefer one push per session.** When Build follows Capture in the same session, batch `runs/<run_id>/raw/` + `SUMMARY_<app>.md` + `run_info_<app>.json` + `runs/<run_id>/csv/` into a single push. Loading `live_csv/` requires a human "yes" first; after that, push `live_csv/` changes (plus any archive backup) to `Ai_visibility_source`—a second push is acceptable if needed.
 
 ---
 

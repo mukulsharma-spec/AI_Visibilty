@@ -1,6 +1,6 @@
 # Capture Checklist
 
-capture/1_CHECKLIST v2.3 · 2026-10-29
+capture/1_CHECKLIST v2.3.1 · 2026-10-29
 
 Read this when your task is **Capture**. It's the order of work from first message to hand-off. Details live in two other files:
 
@@ -50,7 +50,8 @@ If the human asks for "N prompts" without giving IDs or rows: stop and ask. Neve
 
 - [ ] Write `SUMMARY_<app>.md` and `run_info_<app>.json` in `runs/<run_id>/` (contents: App Guide, "Run files").
 - [ ] Commit every raw folder **expanded** under `runs/<run_id>/raw/<app>/<raw folder>/` (one folder per raw folder, files inside) plus both run files under `runs/<run_id>/`. A `raw_<app>.tar.gz` is an optional backup only; a tar alone is **not done**.
-- [ ] Push to **`Ai_visibility_source`** and verify the folder count in the repo matches your local raw folders. No PR into `main` is required.
+- [ ] **If Build will happen in the same session:** hold the push until Build finishes, then push `raw/` + run files + `csv/` together (one push). Otherwise push now.
+- [ ] Push to **`Ai_visibility_source`**; verify the folder count matches. **No PR**—commit/push directly.
 - [ ] Report to the human: repo path `runs/<run_id>/`, IDs captured, IDs failed with reasons, egress used, session used.
 - [ ] **Stop.** Do not build CSVs unless the human asks.
 

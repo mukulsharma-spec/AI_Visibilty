@@ -1,6 +1,6 @@
 # App Capture Guide
 
-capture/3_APP_GUIDE v2.3 · 2026-10-29
+capture/3_APP_GUIDE v2.3.1 · 2026-10-29
 
 What to click and what to save. **Read Part 1 (All apps), then only the section for your app in Part 2.** Policy (sessions, egress, failures) is in `2_RUNBOOK.md`. Names are defined in `README.md`.
 
@@ -87,6 +87,8 @@ Use exactly one of these four values; put any detail in `notes`.
 ## 1.5 Run files
 
 After your last prompt, write two files in `runs/<run_id>/` (not inside `raw/`). If one app was split across two bots, only the lead bot writes them (Runbook, "Parallel bots").
+
+**One-push batching:** if Build will happen in the same session, hold the push until Build finishes, then push `raw/` + run files + `csv/` together.
 
 **`run_info_<app>.json`** (for the CSV build and the record)
 

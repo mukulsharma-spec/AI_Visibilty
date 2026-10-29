@@ -4,6 +4,28 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.3.1 · 2026-10-29: One-push hand-off on `Ai_visibility_source`
+
+### What changed
+- **One-push batching**: when Build follows Capture in the same session, prefer one push with `runs/<run_id>/raw/` + SUMMARY/run_info + `runs/<run_id>/csv/`. Reduces GitHub round-trips.
+- **Explicit no-PR rule**: reinforced across all instruction files—commit/push directly to `Ai_visibility_source`; never open a PR for routine ops unless a human explicitly asks.
+- **Load gating unchanged**: `live_csv/` still requires a human "yes" before writing; after approval, push to `Ai_visibility_source` (second push is acceptable).
+- **Peer/bot briefs**: all bots read and push `Ai_visibility_source` only, no PR, no live load until human yes.
+- **`live_csv/` contents rule**: folder must contain ONLY `answers.csv`, `brand_mentions.csv`, `citations.csv`—no `load_info.json` or other metadata. Write load metadata to `archive/` beside the backup.
+- **Moved `live_csv/load_info.json`** (from w01_new load) → `archive/live_csv_backup_2026-10-29/load_info.json`.
+
+### Updated files
+- `README.md` v2.3.1: new rule 7 (one-push batching), rule 6 reinforced, folder layout note
+- `capture/1_CHECKLIST.md` v2.3.1: section D mentions batching with Build
+- `capture/2_RUNBOOK.md` v2.3.1: section 8 adds one-push guidance
+- `capture/3_APP_GUIDE.md` v2.3.1: run files section notes batching option
+- `csv/1_BUILD_AND_LOAD.md` v2.3.1: Build can share Capture push; Load writes metadata to archive/; live_csv rule
+
+### What stays the same
+- Schema v2.2, folder structure, approval rules, pipeline stages
+
+---
+
 ## v2.3 · 2026-10-29: `Ai_visibility_source` is the working branch
 
 ### Branch workflow

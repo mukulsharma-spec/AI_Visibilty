@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.3 · 2026-10-29
+csv/1_BUILD_AND_LOAD v2.3.1 · 2026-10-29
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -178,7 +178,12 @@ Read each `answer.txt`. Never change a measured value.
 }
 ```
 
-## Step 8: Report and stop
+## Step 8: Commit and push (or batch)
+
+- **One-push batching:** if Capture was done in the same session, push `runs/<run_id>/raw/` + run files + `runs/<run_id>/csv/` together now. Otherwise, push the csv folder alone.
+- Push to **`Ai_visibility_source`**. **No PR**—commit/push directly.
+
+## Step 9: Report and stop
 
 Row counts, warnings, mismatches with `run_info`, new brand names. Do not load.
 
@@ -188,7 +193,7 @@ Row counts, warnings, mismatches with `run_info`, new brand names. Do not load.
 
 Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
 
-`live_csv/` already holds SCHEMA v2 files only (`answers.csv`, `brand_mentions.csv`, `citations.csv`). Facts-only backups live under `archive/live_csv_facts_only_v1/`.
+**`live_csv/` contains ONLY these three files:** `answers.csv`, `brand_mentions.csv`, `citations.csv`. No `load_info.json` or other metadata in that folder—write load metadata to `archive/` beside the backup.
 
 ## Before asking
 
@@ -202,8 +207,9 @@ Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
    1. Copy the current `live_csv/<file>` to `archive/live_csv_backup_<YYYY-MM-DD>/`.
    2. Append the run's rows (same column order as SCHEMA).
    3. Confirm new row count = old count + added rows.
-   4. Commit the updated `live_csv/<file>` and push to **`Ai_visibility_source`**. No PR into `main` is required for routine load.
-3. Report new row counts, counts per `run_id`, and the backup location.
+3. Write `load_info.json` (run_id, rows before/after, timestamp) to `archive/live_csv_backup_<YYYY-MM-DD>/`, **not** inside `live_csv/`.
+4. Commit `live_csv/` changes + archive backup + `load_info.json` and push to **`Ai_visibility_source`**. **No PR**—commit/push directly.
+5. Report new row counts, counts per `run_id`, and the backup location.
 
 **A run can be loaded in parts** (for example ChatGPT today, Claude tomorrow), because rows are unique on `(run_id, run_key)`. Say so when asking for approval.
 
