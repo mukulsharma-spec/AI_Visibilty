@@ -1,0 +1,24 @@
+{
+  "run_id": "2026-10-30_delta_w01_cites",
+  "loaded_at_utc": "2026-10-30 12:00:35",
+  "loader": "Cursor Agent",
+  "schema_conversion": "v2.2 \u2192 v2.1 (ai_angara_rank+ai_angara_rank_n \u2192 ai_angara_rank_of_n)",
+  "rows_before": {
+    "answers": 429,
+    "brand_mentions": 2452,
+    "citations": 1511,
+    "answer_text": 317
+  },
+  "rows_after": {
+    "answers": 444,
+    "brand_mentions": 2523,
+    "citations": 1625,
+    "answer_text": 332
+  },
+  "rows_added": {
+    "answers": 15,
+    "brand_mentions": 71,
+    "citations": 114,
+    "answer_text": 15
+  }
+}
