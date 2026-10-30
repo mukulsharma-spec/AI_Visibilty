@@ -1,0 +1,72 @@
+run_id,run_key,app,prompt_id,repeat,turn,brand,fact_row,mention_count,first_char_pos,order_of_first_appearance,text_source,published_rank,tie,role,in_product_card,price_shown_usd,claim,sentiment,confidence
+2026-10-30_delta_w01_cites,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,Brilliant Earth,1,2,394,1,answer,1,0,recommended,0,,Best overall starting point,positive,high
+2026-10-30_delta_w01_cites,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,Angara,1,2,610,2,answer,2,0,recommended,0,,Best for gemstone variety,positive,high
+2026-10-30_delta_w01_cites,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Angara,1,4,99,1,answer,1,0,recommended,0,,Best overall,positive,high
+2026-10-30_delta_w01_cites,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Brilliant Earth,1,2,961,2,answer,3,0,recommended,0,,Modern elegant designs,positive,high
+2026-10-30_delta_w01_cites,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Leibish,1,2,1115,3,answer,4,0,recommended,0,,Premium collector-oriented,positive,high
+2026-10-30_delta_w01_cites,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Etsy,1,2,1279,4,answer,5,0,recommended,0,,Independent designers,positive,high
+2026-10-30_delta_w01_cites,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Brilliant Earth,1,2,352,1,answer,1,0,recommended,0,,Fine jewelry garnet,positive,high
+2026-10-30_delta_w01_cites,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Monica Vinader,1,1,550,2,answer,2,0,recommended,0,,Gift-worthy elegant,positive,high
+2026-10-30_delta_w01_cites,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Nordstrom,1,2,568,3,answer,2,0,recommended,0,,Carries Monica Vinader,neutral,high
+2026-10-30_delta_w01_cites,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,Angara,1,2,46,1,answer,1,0,recommended,0,,My top pick,positive,high
+2026-10-30_delta_w01_cites,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,Rare Carat,1,2,1081,2,answer,4,0,recommended,0,,Comparing specifications,positive,high
+2026-10-30_delta_w01_cites,chatgpt|TR10|r1|t1,chatgpt,TR10,r1,1,Angara,1,4,1206,1,answer,3,0,recommended,0,,4.6/5 on Trustpilot,positive,high
+2026-10-30_delta_w01_cites,claude|EN03|r1|t1,claude,EN03,r1,1,Leibish,1,1,93,1,answer,,0,recommended,0,,Sapphire specialist,positive,high
+2026-10-30_delta_w01_cites,claude|EN03|r1|t1,claude,EN03,r1,1,Brilliant Earth,1,1,580,2,answer,,0,recommended,0,,Standard settings,positive,high
+2026-10-30_delta_w01_cites,claude|EN03|r1|t1,claude,EN03,r1,1,Blue Nile,1,1,600,3,answer,,0,recommended,0,,Standard settings,positive,high
+2026-10-30_delta_w01_cites,claude|GN05|r1|t1,claude,GN05,r1,1,Brilliant Earth,1,1,177,1,answer,,0,recommended,0,,Good all-around choice,positive,high
+2026-10-30_delta_w01_cites,claude|GN05|r1|t1,claude,GN05,r1,1,James Allen,1,1,459,2,answer,,0,recommended,0,,Inspect stones closely,positive,high
+2026-10-30_delta_w01_cites,claude|GN05|r1|t1,claude,GN05,r1,1,Blue Nile,1,1,671,3,answer,,0,recommended,0,,Reliable but limited,neutral,high
+2026-10-30_delta_w01_cites,claude|GN05|r1|t1,claude,GN05,r1,1,Leibish,1,1,823,4,answer,,0,recommended,0,,Colored diamond specialist,positive,high
+2026-10-30_delta_w01_cites,claude|GN05|r1|t1,claude,GN05,r1,1,Angara,1,1,996,5,answer,,0,recommended,0,,Wide range moderate prices,positive,high
+2026-10-30_delta_w01_cites,claude|GN05|r1|t1,claude,GN05,r1,1,Etsy,1,1,1174,6,answer,,0,recommended,0,,Independent jewelers custom,positive,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Kay,1,1,246,1,answer,,0,recommended,0,,Mainstream chain,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Zales,1,1,251,2,answer,,0,recommended,0,,Mainstream chain,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Jared,1,1,262,3,answer,,0,recommended,0,,Mainstream chain,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Macy's,1,1,347,4,answer,,0,recommended,0,,Department store,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Nordstrom,1,1,358,5,answer,,0,recommended,0,,Department store,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Costco,1,1,420,6,answer,,0,recommended,0,,Good prices,positive,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Blue Nile,1,1,500,7,answer,,0,recommended,0,,Higher quality,positive,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Brilliant Earth,1,1,514,8,answer,,0,recommended,0,,Design-forward,positive,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Ross-Simons,1,1,610,9,answer,,0,recommended,0,,Moderate prices,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Mejuri,1,1,695,10,answer,,0,recommended,0,,Dainty modern,positive,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Catbird,1,1,706,11,answer,,0,recommended,0,,Dainty modern,positive,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Etsy,1,1,789,12,answer,,0,recommended,0,,Handmade unique,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Amazon,1,1,953,13,answer,,0,recommended,0,,Quality varies,neutral,high
+2026-10-30_delta_w01_cites,claude|OC01|r1|t1,claude,OC01,r1,1,Walmart,1,1,964,14,answer,,0,recommended,0,,Budget but risky,neutral,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Angara,1,1,124,1,answer,,0,recommended,0,,Big selection,positive,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Brilliant Earth,1,1,261,2,answer,,0,recommended,0,,Customizable ethical,positive,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Blue Nile,1,1,350,3,answer,,0,recommended,0,,Detailed photos,positive,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,James Allen,1,1,364,4,answer,,0,recommended,0,,Detailed photos,positive,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Ross-Simons,1,1,495,5,answer,,0,recommended,0,,Lower-priced natural,neutral,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Jewelry Television (JTV),1,2,511,6,answer,,0,recommended,0,,Lower-priced natural,neutral,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Etsy,1,1,613,7,answer,,0,recommended,0,,Custom work,positive,high
+2026-10-30_delta_w01_cites,claude|ST09|r1|t1,claude,ST09,r1,1,Amazon,1,1,814,8,answer,,0,recommended,0,,Quality varies,neutral,high
+2026-10-30_delta_w01_cites,claude|TR10|r1|t1,claude,TR10,r1,1,Angara,1,3,173,1,answer,,0,recommended,0,,Most mentioned for colored gems,positive,high
+2026-10-30_delta_w01_cites,claude|TR10|r1|t1,claude,TR10,r1,1,Brilliant Earth,1,1,683,2,answer,,0,recommended,0,,Top-rated online,positive,high
+2026-10-30_delta_w01_cites,claude|TR10|r1|t1,claude,TR10,r1,1,James Allen,1,1,700,3,answer,,0,recommended,0,,Top-rated online,positive,high
+2026-10-30_delta_w01_cites,claude|TR10|r1|t1,claude,TR10,r1,1,Blue Nile,1,1,716,4,answer,,0,recommended,0,,Top-rated online,positive,high
+2026-10-30_delta_w01_cites,gemini|EN03|r1|t1,gemini,EN03,r1,1,Blue Nile,1,3,1828,1,answer,,0,recommended,0,,Major retailer,positive,high
+2026-10-30_delta_w01_cites,gemini|EN03|r1|t1,gemini,EN03,r1,1,James Allen,1,2,2102,2,answer,,0,recommended,0,,HD video technology,positive,high
+2026-10-30_delta_w01_cites,gemini|EN03|r1|t1,gemini,EN03,r1,1,Kay,1,1,2510,3,answer,,0,recommended,0,,Mainstream mall chain,neutral,high
+2026-10-30_delta_w01_cites,gemini|EN03|r1|t1,gemini,EN03,r1,1,Zales,1,1,2525,4,answer,,0,recommended,0,,Mainstream mall chain,neutral,high
+2026-10-30_delta_w01_cites,gemini|EN03|r1|t1,gemini,EN03,r1,1,Jared,1,1,2533,5,answer,,0,recommended,0,,Mainstream mall chain,neutral,high
+2026-10-30_delta_w01_cites,gemini|GN05|r1|t1,gemini,GN05,r1,1,Angara,1,3,372,1,answer,1,0,recommended,0,,Best Overall for Variety & Customization,positive,high
+2026-10-30_delta_w01_cites,gemini|GN05|r1|t1,gemini,GN05,r1,1,Brilliant Earth,1,2,992,2,answer,2,0,recommended,0,,Best for Modern Style & Ethics,positive,high
+2026-10-30_delta_w01_cites,gemini|GN05|r1|t1,gemini,GN05,r1,1,James Allen,1,2,1561,3,answer,3,0,recommended,0,,Best for High-Tech Visual,positive,high
+2026-10-30_delta_w01_cites,gemini|GN05|r1|t1,gemini,GN05,r1,1,Blue Nile,1,2,2105,4,answer,4,0,recommended,0,,Best for Classic Fine Jewelry,positive,high
+2026-10-30_delta_w01_cites,gemini|GN05|r1|t1,gemini,GN05,r1,1,Quince,1,2,2572,5,answer,5,0,recommended,0,,Best Budget-Friendly,positive,high
+2026-10-30_delta_w01_cites,gemini|OC01|r1|t1,gemini,OC01,r1,1,Angara,1,2,364,1,answer,,0,recommended,0,,Customizable garnet,positive,high
+2026-10-30_delta_w01_cites,gemini|OC01|r1|t1,gemini,OC01,r1,1,Blue Nile,1,2,580,2,answer,,0,recommended,0,,Fine jewelry garnet,positive,high
+2026-10-30_delta_w01_cites,gemini|OC01|r1|t1,gemini,OC01,r1,1,Mejuri,1,1,997,3,answer,,0,recommended,0,,Modern minimalist,positive,high
+2026-10-30_delta_w01_cites,gemini|OC01|r1|t1,gemini,OC01,r1,1,Macy's,1,1,1426,4,answer,,0,recommended,0,,Dept store,neutral,high
+2026-10-30_delta_w01_cites,gemini|OC01|r1|t1,gemini,OC01,r1,1,Zales,1,1,1643,5,answer,,0,recommended,0,,Regional jeweler,neutral,high
+2026-10-30_delta_w01_cites,gemini|OC01|r1|t1,gemini,OC01,r1,1,Kay,1,1,1651,6,answer,,0,recommended,0,,Regional jeweler,neutral,high
+2026-10-30_delta_w01_cites,gemini|ST09|r1|t1,gemini,ST09,r1,1,Angara,1,2,334,1,answer,1,0,recommended,0,,Massive collection,positive,high
+2026-10-30_delta_w01_cites,gemini|ST09|r1|t1,gemini,ST09,r1,1,Blue Nile,1,2,737,2,answer,,0,recommended,0,,Loose sapphires,positive,high
+2026-10-30_delta_w01_cites,gemini|ST09|r1|t1,gemini,ST09,r1,1,Shane Co.,1,2,995,3,answer,,0,mentioned,0,,named in response,neutral,medium
+2026-10-30_delta_w01_cites,gemini|ST09|r1|t1,gemini,ST09,r1,1,Etsy,1,3,1558,4,answer,,0,recommended,0,,Artisan indie,neutral,high
+2026-10-30_delta_w01_cites,gemini|ST09|r1|t1,gemini,ST09,r1,1,James Allen,1,1,2187,5,answer,,0,mentioned,0,,named in response,neutral,medium
+2026-10-30_delta_w01_cites,gemini|TR10|r1|t1,gemini,TR10,r1,1,Angara,1,2,446,1,answer,1,0,recommended,0,,Top Pick for Variety,positive,high
+2026-10-30_delta_w01_cites,gemini|TR10|r1|t1,gemini,TR10,r1,1,Blue Nile,1,3,1126,2,answer,2,0,recommended,0,,Top Pick for Fine Gemstone,positive,high
+2026-10-30_delta_w01_cites,gemini|TR10|r1|t1,gemini,TR10,r1,1,Brilliant Earth,1,1,1895,3,answer,3,0,recommended,0,,Top Pick for Ethical,positive,high

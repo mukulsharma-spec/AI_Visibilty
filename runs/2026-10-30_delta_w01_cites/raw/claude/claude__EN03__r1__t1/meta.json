@@ -1,0 +1,16 @@
+{
+ "run_id": "2026-10-30_delta_w01_cites",
+ "prompt_id": "EN03",
+ "prompt": "engagement ring with a sapphire center instead of a diamond, where to buy I'm shopping in the USA.",
+ "app": "claude",
+ "signed_in": true,
+ "session": "claude_incognito_chat",
+ "source": "grok_bot_ui",
+ "captured_by": "Grok Bot",
+ "web_search": true,
+ "capture_quality": "text_wrapped_html",
+ "citation_count": 20,
+ "ip": "IN egress",
+ "city": null,
+ "model": "Sonnet 5.5 Medium"
+}

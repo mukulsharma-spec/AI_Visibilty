@@ -1,0 +1,27 @@
+{
+ "run_id": "2026-10-30_delta_w01_cites",
+ "app": "claude",
+ "ids_assigned": [
+  "GN05",
+  "EN03",
+  "ST09",
+  "TR10",
+  "OC01"
+ ],
+ "ids_captured": [
+  "GN05",
+  "EN03",
+  "ST09",
+  "TR10",
+  "OC01"
+ ],
+ "ids_failed": [],
+ "cite_counts": {
+  "GN05": 18,
+  "EN03": 20,
+  "ST09": 0,
+  "TR10": 16,
+  "OC01": 0
+ },
+ "folders_saved": 5
+}

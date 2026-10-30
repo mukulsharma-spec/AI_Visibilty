@@ -1,0 +1,16 @@
+{
+ "run_id": "2026-10-30_delta_w01_cites",
+ "prompt_id": "OC01",
+ "prompt": "Where can I buy January birthstone jewelry? I'm shopping in the USA.",
+ "app": "claude",
+ "signed_in": true,
+ "session": "claude_incognito_chat",
+ "source": "grok_bot_ui",
+ "captured_by": "Grok Bot",
+ "web_search": false,
+ "capture_quality": "text_wrapped_html",
+ "citation_count": 0,
+ "ip": "IN egress",
+ "city": null,
+ "model": "Sonnet 5.5 Medium"
+}
