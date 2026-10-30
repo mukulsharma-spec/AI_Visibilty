@@ -1,0 +1,30 @@
+{
+  "run_id": "2026-10-30_delta_w01_cites",
+  "app": "chatgpt",
+  "captured_by": "Friday",
+  "started_at_utc": "2026-10-30 11:35:24",
+  "finished_at_utc": "2026-10-30 11:44:00",
+  "session": "signed_out_shared_profile",
+  "egress_ip": "49.249.146.90",
+  "egress_city": "Dadri",
+  "egress_country": "IN",
+  "prompt_ids": [
+    "GN05",
+    "EN03",
+    "ST09",
+    "TR10",
+    "OC01"
+  ],
+  "captured": [
+    "GN05",
+    "EN03",
+    "ST09",
+    "TR10",
+    "OC01"
+  ],
+  "failed": [],
+  "discarded_rerun": [
+    "GN05"
+  ],
+  "notes": "Cite-focused capture; citations.json with full card/chip URLs per ID."
+}

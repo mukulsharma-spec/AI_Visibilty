@@ -1,0 +1,79 @@
+[
+ {
+  "order": 1,
+  "kind": "inline",
+  "label": "moregems.com",
+  "url": "https://moregems.com/?utm_source=chatgpt.com",
+  "domain": "moregems.com"
+ },
+ {
+  "order": 2,
+  "kind": "inline",
+  "label": "Customer reviews (Moriarty's)",
+  "url": "https://ca.trustpilot.com/review/moregems.com?utm_source=chatgpt.com",
+  "domain": "ca.trustpilot.com"
+ },
+ {
+  "order": 3,
+  "kind": "inline",
+  "label": "gemsny.com",
+  "url": "https://www.gemsny.com/?utm_source=chatgpt.com",
+  "domain": "gemsny.com"
+ },
+ {
+  "order": 4,
+  "kind": "inline",
+  "label": "Trustpilot reviews (GemsNY)",
+  "url": "https://www.trustpilot.com/review/gemsny.com?utm_source=chatgpt.com",
+  "domain": "trustpilot.com"
+ },
+ {
+  "order": 5,
+  "kind": "inline",
+  "label": "Verified review information",
+  "url": "https://www.gemsny.com/reviewsandratings?utm_source=chatgpt.com",
+  "domain": "gemsny.com"
+ },
+ {
+  "order": 6,
+  "kind": "inline",
+  "label": "angara.com",
+  "url": "https://www.angara.com/?utm_source=chatgpt.com",
+  "domain": "angara.com"
+ },
+ {
+  "order": 7,
+  "kind": "inline",
+  "label": "Customer reviews (Angara)",
+  "url": "https://www.trustpilot.com/review/www.angara.com?utm_source=chatgpt.com",
+  "domain": "trustpilot.com"
+ },
+ {
+  "order": 8,
+  "kind": "inline",
+  "label": "astrologicalgem.com",
+  "url": "https://astrologicalgem.com/?utm_source=chatgpt.com",
+  "domain": "astrologicalgem.com"
+ },
+ {
+  "order": 9,
+  "kind": "inline",
+  "label": "Customer review listing",
+  "url": "https://www.smartcustomer.com/categories/gems?utm_source=chatgpt.com",
+  "domain": "smartcustomer.com"
+ },
+ {
+  "order": 10,
+  "kind": "inline",
+  "label": "shoplc.com",
+  "url": "https://www.shoplc.com/?utm_source=chatgpt.com",
+  "domain": "shoplc.com"
+ },
+ {
+  "order": 11,
+  "kind": "inline",
+  "label": "Customer reviews (category)",
+  "url": "https://www.trustpilot.com/categories/jewelry_store?utm_source=chatgpt.com",
+  "domain": "trustpilot.com"
+ }
+]

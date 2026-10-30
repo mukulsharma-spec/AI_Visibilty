@@ -1,0 +1,44 @@
+[
+ {
+  "order": 1,
+  "kind": "card",
+  "label": "Shop Brilliant Earth",
+  "url": "https://www.brilliantearth.com/jewelry/birthstones/january/?utm_source=chatgpt.com",
+  "domain": "brilliantearth.com"
+ },
+ {
+  "order": 2,
+  "kind": "card",
+  "label": "Shop at Nordstrom",
+  "url": "https://www.nordstrom.com/s/monica-vinader-january-birthstone-garnet-pendant-necklace/7583053?utm_source=chatgpt.com",
+  "domain": "nordstrom.com"
+ },
+ {
+  "order": 3,
+  "kind": "card",
+  "label": "Shop EG Jewelry",
+  "url": "https://www.egjewelry.com/collections/january-birthstone-jewelry?utm_source=chatgpt.com",
+  "domain": "egjewelry.com"
+ },
+ {
+  "order": 4,
+  "kind": "card",
+  "label": "Shop January birthstone collection (JCPenney)",
+  "url": "https://www.jcpenney.com/g/jewelry-and-watches/gemstones-birthstones?birth_stone=january+birthstone&cm_re=ZC-_-DEPARTMENT-JEWELRY-GIFTING-_-IM-_-JEWELRY-EVERGREEN-GIFTING-MAIN-_-JANUARY&id=cat1003050007&utm_source=chatgpt.com",
+  "domain": "jcpenney.com"
+ },
+ {
+  "order": 5,
+  "kind": "card",
+  "label": "Shop AGLAIA",
+  "url": "https://www.aglaiaco.com/en-us/collections/january-birthstone?utm_source=chatgpt.com",
+  "domain": "aglaiaco.com"
+ },
+ {
+  "order": 6,
+  "kind": "card",
+  "label": "Shop Fink's Jewelers",
+  "url": "https://www.finks.com/collections/january-birthstone-jewelry?utm_source=chatgpt.com",
+  "domain": "finks.com"
+ }
+]

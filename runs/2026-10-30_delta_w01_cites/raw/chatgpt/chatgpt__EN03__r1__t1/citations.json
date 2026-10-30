@@ -1,0 +1,37 @@
+[
+ {
+  "order": 1,
+  "kind": "card",
+  "label": "Shop Brilliant Earth",
+  "url": "https://www.brilliantearth.com/?utm_source=chatgpt.com",
+  "domain": "brilliantearth.com"
+ },
+ {
+  "order": 2,
+  "kind": "card",
+  "label": "Shop Angara",
+  "url": "https://www.angara.com/?utm_source=chatgpt.com",
+  "domain": "angara.com"
+ },
+ {
+  "order": 3,
+  "kind": "card",
+  "label": "Shop Natural Sapphire Company",
+  "url": "https://www.thenaturalsapphirecompany.com/?utm_source=chatgpt.com",
+  "domain": "thenaturalsapphirecompany.com"
+ },
+ {
+  "order": 4,
+  "kind": "card",
+  "label": "Shop Alexis Russell",
+  "url": "https://www.alexisrussell.com/?utm_source=chatgpt.com",
+  "domain": "alexisrussell.com"
+ },
+ {
+  "order": 5,
+  "kind": "card",
+  "label": "Shop Nolan & Vada",
+  "url": "https://nolanandvada.com/?utm_source=chatgpt.com",
+  "domain": "nolanandvada.com"
+ }
+]

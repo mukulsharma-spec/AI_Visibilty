@@ -1,0 +1,51 @@
+[
+ {
+  "order": 1,
+  "kind": "card",
+  "label": "Shop yellow sapphire rings (Angara)",
+  "url": "https://www.angara.com/c/yellow%2Bsapphire-rings?utm_source=chatgpt.com",
+  "domain": "angara.com"
+ },
+ {
+  "order": 2,
+  "kind": "card",
+  "label": "Shop yellow sapphire rings (MyJewelrySource)",
+  "url": "https://www.myjewelrysource.com/yellow-sapphire-rings.htm?utm_source=chatgpt.com",
+  "domain": "myjewelrysource.com"
+ },
+ {
+  "order": 3,
+  "kind": "card",
+  "label": "Visit The Natural Sapphire Company",
+  "url": "https://www.thenaturalsapphirecompany.com/?utm_source=chatgpt.com",
+  "domain": "thenaturalsapphirecompany.com"
+ },
+ {
+  "order": 4,
+  "kind": "card",
+  "label": "Visit Rare Carat",
+  "url": "https://www.rarecarat.com/?utm_source=chatgpt.com",
+  "domain": "rarecarat.com"
+ },
+ {
+  "order": 5,
+  "kind": "chip",
+  "label": "chip Shop Now! +1 (Angara)",
+  "url": "https://www.angara.com/c/yellow+sapphire-rings?utm_source=chatgpt.com",
+  "domain": "angara.com"
+ },
+ {
+  "order": 6,
+  "kind": "chip",
+  "label": "chip Shop Our Picks / Online since 2000 (MyJewelrySource)",
+  "url": "https://www.myjewelrysource.com/yellow-sapphire-rings.htm?utm_source=chatgpt.com",
+  "domain": "myjewelrysource.com"
+ },
+ {
+  "order": 7,
+  "kind": "chip",
+  "label": "chip Rare Carat 'Best Places to Buy Sapphire Online in 2026' / Online since 2000 +1",
+  "url": "https://www.rarecarat.com/blog/diamond-ring-tips/best-places-to-buy-sapphire-online?utm_source=chatgpt.com",
+  "domain": "rarecarat.com"
+ }
+]
