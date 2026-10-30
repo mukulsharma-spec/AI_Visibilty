@@ -1,0 +1,11 @@
+id: EN03
+chat_url: https://gemini.google.com/app/db28519e9d447e09
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Dadri
+country: IN (egress approved)
+session: signed_out_shared_profile
+bot_check: none
+citations: 4 rows html_sources_panel (Miro Jewelers; Nekta New York x2; Blue Nile)
+currency_seen: none
+html_note: raw message-content outerHTML via DevTools Blob download; sources_panel.html saved

@@ -1,0 +1,12 @@
+id: OC01
+chat_url: https://gemini.google.com/app/337245ca41c1105e
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Dadri
+country: IN (egress approved)
+session: signed_out_shared_profile
+bot_check: none
+citations: 4 rows html_sources_panel (James Avery; Angara; Blue Nile; Peora)
+currency_seen: USD (Sources snippets)
+discarded: duplicate first submit → chat 49cd04a008d52189 abandoned; fresh re-run captured
+html_note: raw message-content outerHTML + sources_panel.html via DevTools Blob download

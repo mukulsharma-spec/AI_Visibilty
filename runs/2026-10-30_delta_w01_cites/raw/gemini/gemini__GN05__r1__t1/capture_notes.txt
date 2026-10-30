@@ -1,0 +1,9 @@
+id=GN05 r1 t1
+chat_url=https://gemini.google.com/app/b78b35d3ed50327c
+model_ui=Flash-Lite
+ip=49.249.146.90 city=Dadri (Uttar Pradesh) country=IN
+session=signed_out_shared_profile (Sign in visible, no avatar)
+bot_check=none
+citations: Sources panel (View sources via more-options) has 7 rows: 6 Quantum Qarat (quantumqarat.com), 1 Forbes (forbes.com). Inline chips: Quantum Qarat x many, Forbes x1.
+currency_seen=none
+note: answer.html is reconstructed from innerText (raw innerHTML could not be written to disk); sources_panel.html not saved.

@@ -1,0 +1,39 @@
+{
+  "run_id": "2026-10-30_delta_w01_cites",
+  "app": "gemini",
+  "mode": "delta",
+  "source": "grok_bot_ui",
+  "prompts_file": "inputs/run_lists/prompts_delta_2026-10-30_w01_cites.csv",
+  "bots": [
+    "check \u00b7 collector"
+  ],
+  "session": "signed_out_shared_profile",
+  "egress": {
+    "ip": "49.249.146.90",
+    "city": "Dadri",
+    "country": "IN",
+    "in_approved_by_human": true
+  },
+  "model_ui": "Flash-Lite",
+  "ids_assigned": [
+    "GN05",
+    "EN03",
+    "ST09",
+    "TR10",
+    "OC01"
+  ],
+  "ids_captured": [
+    "GN05",
+    "EN03",
+    "ST09",
+    "TR10",
+    "OC01"
+  ],
+  "ids_failed": [],
+  "folders_discarded": [],
+  "html_gzipped": [],
+  "started_at_utc": "2026-10-30 11:33:07",
+  "ended_at_utc": "2026-10-30 11:49:35",
+  "guide_version": "capture/3_APP_GUIDE v2.3.2",
+  "citations_note": "Sources panel scraped; see citations.csv per folder and citations_gemini.csv at run root"
+}

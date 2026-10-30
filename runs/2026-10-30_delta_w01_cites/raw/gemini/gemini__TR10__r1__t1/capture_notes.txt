@@ -1,0 +1,11 @@
+id: TR10
+chat_url: https://gemini.google.com/app/dcaad93e46b50233
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Dadri
+country: IN (egress approved)
+session: signed_out_shared_profile
+bot_check: none
+citations: 7 rows html_sources_panel (Forbes; Trustpilot x3; Blue Nile; Maroth Jewels; Consumer Affairs)
+currency_seen: none
+html_note: raw message-content outerHTML + sources_panel.html via DevTools Blob download

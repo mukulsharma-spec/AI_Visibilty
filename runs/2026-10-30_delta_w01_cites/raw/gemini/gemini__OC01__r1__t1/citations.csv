@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+"OC01","gemini","James Avery","www.jamesavery.com","https://www.jamesavery.com/gifts/shop-by-collection/january-birthstone-garnet-jewelry#:~:text=Starts%20at%20%24140.00.%20Garnet%20(January)%20See%20More.,Starts%20at%20%24120.00.%20Garnet%20(January)%20See%20More.","html_sources_panel"
+"OC01","gemini","Angara","www.angara.com","https://www.angara.com/c/birthstone+jewelry/january+birthstone#:~:text=Cushion%20Garnet%20Ring%20with%20Trio%20Diamonds.%20%241%2C359,and%20Diamond%20Cross%20Pendant.%20%241%2C169%20%2D%20%242%2C569.","html_sources_panel"
+"OC01","gemini","Blue Nile","www.bluenile.com","https://www.bluenile.com/jewelry/gemstone-jewelry/garnet-jewelry#:~:text=%2B%20gemstones.%20Blue%20Nile%20Hearts.%20Garnet%20Heart,tw.)%20%24970.%20%2B%20gemstones.%20By%20James%20Allen.","html_sources_panel"
+"OC01","gemini","Peora","peora.com","https://peora.com/collections/january#:~:text=January.%20Add%20a%20dash%20of%20romance%20and,Natural%20Garnet%20Oval%20Bezel%20Earrings%20%2D%207x5mm.","html_sources_panel"

@@ -1,0 +1,11 @@
+id: ST09
+chat_url: https://gemini.google.com/app/f3c3d38379acdd26
+model_ui: Flash-Lite
+ip: 49.249.146.90
+city: Dadri
+country: IN (egress approved)
+session: signed_out_shared_profile
+bot_check: none
+citations: 3 rows html_sources_panel (Angara; Shane Co.; Antique Ring Boutique)
+currency_seen: USD (Sources snippet only)
+html_note: raw message-content outerHTML + sources_panel.html via DevTools Blob download
