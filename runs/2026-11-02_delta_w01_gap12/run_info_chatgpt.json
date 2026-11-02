@@ -1,0 +1,24 @@
+{
+  "run_id": "2026-11-02_delta_w01_gap12",
+  "app": "chatgpt",
+  "ids": [
+    "CU10",
+    "EN03",
+    "GN05",
+    "OC01",
+    "OC09",
+    "PR05",
+    "ST09",
+    "ST13",
+    "ST19",
+    "TR10",
+    "TR04",
+    "TR08"
+  ],
+  "captured": 12,
+  "failed": [],
+  "session": "signed_out",
+  "egress": "box_cloudflare",
+  "tabs": 3,
+  "finished_at_utc": "2026-11-02T11:40:12.677009+00:00"
+}

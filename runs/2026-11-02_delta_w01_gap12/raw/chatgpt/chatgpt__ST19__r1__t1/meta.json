@@ -1,0 +1,14 @@
+{
+  "run_id": "2026-11-02_delta_w01_gap12",
+  "prompt_id": "ST19",
+  "app": "chatgpt",
+  "signed_in": false,
+  "session": "signed_out_shared_profile",
+  "egress_country": "box Cloudflare egress (user computer offline)",
+  "web_search": true,
+  "web_search_note": "inferred: answer contains website cards/links with utm_source=chatgpt.com",
+  "chat_url": "https://chatgpt.com/uc/6ae875ba-068c-83ea-845c-6b43468a39d4",
+  "captured_at_utc": "2026-11-02T11:37:19Z",
+  "citation_count": 6,
+  "capture_quality": "answer text + card links complete; answer.html is cleaned reconstruction of assistant DOM; shot_1.png is viewport screenshot (top of answer only); inline chip labels (e.g. site-name pills) not itemized; prompt pasted via fill with ' I'm shopping in the USA.' appended"
+}

@@ -1,0 +1,23 @@
+{
+ "run_id": "2026-11-02_delta_w01_gap12",
+ "run_key": "gemini|TR04|r1|t1",
+ "app": "gemini",
+ "prompt_id": "TR04",
+ "repeat": "r1",
+ "turn": 1,
+ "date": "2026-11-02",
+ "prompt_sent": "Which online jewelers have 30-day free returns on gemstone rings? I'm shopping in the USA.",
+ "source": "grok_bot_ui",
+ "captured_by": "check \u00b7 collector",
+ "captured_at_utc": "2026-11-02T11:58:00Z",
+ "signed_in": false,
+ "session": "signed_out_shared_profile",
+ "ip": "2a09:bac5:3cbb:4aa::77:e5 (box curl cloudflare trace; browser trace not separately fetched)",
+ "egress_city": "PDX colo (Cloudflare)",
+ "egress_country": "IN",
+ "web_search": true,
+ "model_ui": "Flash-Lite",
+ "chat_url": "https://gemini.google.com/app/a1ebea019967afb1",
+ "capture_quality": "text_reconstructed_html",
+ "notes": "cites=6; DOM-scraped sources (inline-source-card rows incl. duplicate text-fragment URLs); shot_1 and shot_sources are the same screenshot (sources panel open, answer tail visible); trace loc=IN, warp off, no VPN"
+}

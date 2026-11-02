@@ -1,0 +1,11 @@
+{
+ "run_id": "2026-11-02_delta_w01_gap12",
+ "prompt_id": "ST19",
+ "app": "claude",
+ "signed_in": true,
+ "session": "claude_incognito",
+ "egress_country": "box Cloudflare (user computer offline)",
+ "web_search": false,
+ "captured_at_utc": "2026-11-02T11:45:28.969819Z",
+ "citation_count": 0
+}

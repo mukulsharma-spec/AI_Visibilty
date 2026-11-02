@@ -1,0 +1,13 @@
+{
+ "prompt_id": "OC01",
+ "app": "claude",
+ "repeat": 1,
+ "turn": 1,
+ "web_search": false,
+ "session": "claude_incognito_chat",
+ "egress": "box Cloudflare egress (user computer offline)",
+ "citation_count": 0,
+ "capture_quality": "answer_text_verbatim_dom; html reconstructed; no Searched-the-web UI (only a \"Deciding whether to search\" thinking row); first send attempts for this wave were garbled by a stuck key and were discarded, final prompt sent clean in a fresh incognito chat",
+ "model_ui": "Sonnet 5.5",
+ "captured_at": "2026-11-02"
+}

@@ -1,0 +1,298 @@
+# brand|rank|tie|role(R/C/M/O/F)|card|price|claim|sent(+/0/-)|conf(h/m/l) ; '+' prefix = fact_row=0
+@chatgpt|CU10|r1|t1 fmt=numbered_list
+Angara|1||R|0||Best overall; best gemstone selection with stone, metal, setting customization|+|h
++Eden Garden Jewelry|2||R|0||Best 3D ring designer with over 1,500 actual gemstones|+|h
++Green Lake Jewelry Works|3||R|0||Best for unique designs; builds around chosen gemstone|+|h
++MM Fine Jewelry and Gems|4||R|0||Over 1,000 settings, made to order in New York|+|h
++AZEERA|5||R|0||Family-owned; mix and match gemstones and settings|+|h
+Brilliant Earth|6||R|0|$2,000|Design studio for completely custom pieces; custom designs start at $2,000|+|h
+Zales|7||R|0||Mainstream retailer with online and in-store design help|0|h
+@chatgpt|EN03|r1|t1 fmt=numbered_list
++GemsNY|1||R|0|$972|Great starting point; natural and lab sapphires, custom design, NYC-based|+|h
+Angara|2||R|0||Traditional engagement designs with natural sapphire options|+|h
+Brilliant Earth|3||R|0||Worth exploring for lab-grown sapphires in several settings|+|h
++The Natural Sapphire Company|4||R|0||High-quality natural sapphire; choose your actual center stone|+|h
++Montana Sapphire Ring Co.|5||R|0||Distinctive American-mined teal and light blue sapphires|+|h
+@chatgpt|GN05|r1|t1 fmt=numbered_list
+Angara|1||R|0||Top recommendation and first choice for colorful fine jewelry|+|h
+Leibish|2||R|0||High-end distinctive natural colored gemstone jewelry|+|h
+Brilliant Earth|3||R|0||Contemporary gemstone jewelry, custom designs, US showrooms|+|h
++Sotheby's|4||R|0||Unusual, rare or vintage collectible gemstone jewelry|+|h
+Etsy|5||R|0||Independent designers and affordable finds; verify sellers|+|h
+@chatgpt|OC01|r1|t1 fmt=numbered_list
+Kendra Scott|1||R|0|$55–$150|Affordable gift option with everyday birthstone styles|+|h
+Mejuri|2||R|0|$118–$348+|Modern minimalist garnet pieces in gold vermeil|+|h
+Jared|3||R|0|$95–$2,000+|Natural garnet fine jewelry for special occasions|+|h
++JCPenney|4||R|0||Budget-friendly to mid-range garnet jewelry|+|h
+Nordstrom|5||R|0||Elegant gold vermeil and gemstone designs for gifts|+|h
++Fink's Jewelers|6||R|0||Fine and designer garnet jewelry plus custom design|+|h
+Monica Vinader|||M|0|$160|Example garnet pendant sold at Nordstrom|0|h
+@chatgpt|OC09|r1|t1 fmt=numbered_list
+Angara|1||R|0|$249|Best for fine emerald jewelry; natural and lab-grown emeralds|+|h
++Uncommon Goods|2||R|0|$88|Best for unusual emerald-themed gifts and keepsakes|+|h
++Haverhill|3||R|0|$450|Elegant seven-emerald gold bracelets|+|h
++The Forever Rose|4||R|0|$100|Preserved emerald-finish rose as romantic jewelry alternative|+|h
+@chatgpt|PR05|r1|t1 fmt=numbered_list
++Ben Bridge|1||R|0|$499|Best established jeweler option; natural rubies in 14K gold|+|h
++Galaxy Gold|2||R|0|$399.99|14K rose gold natural ruby necklace; verify treatment|0|h
++Mineral Miners|3||R|0|$312.95|Unheated raw ruby crystals in sterling silver|+|h
++Made In Earth US|4||R|0|$500|Handcrafted natural ruby in sterling silver|0|h
+Walmart|||M|0||Marketplace listing the Galaxy Gold necklace|0|h
+@chatgpt|ST09|r1|t1 fmt=numbered_list
+Angara|1||R|0||Great overall selection of yellow sapphire cuts and settings|+|h
++The Natural Sapphire Company|2||R|0||Best for natural sapphires and custom rings|+|h
+Rare Carat|3||R|0||Compare individual natural sapphires with filters|+|h
++My Jewelry Source|4||R|0||Dedicated yellow sapphire collection with treatment disclosure|+|h
++Renaissance Jewel|5||R|0||Lab-grown yellow sapphire rings at lower price|+|h
+@chatgpt|ST13|r1|t1 fmt=numbered_list
+Angara|1||R|0||Best for classic fine jewelry; customizable sapphire rings|+|h
++GemsNY|2||R|0||Best for customization; certified natural and lab sapphires, 30-day returns|+|h
++Simply Sapphires|3||R|0||Best for natural sapphires including rare untreated stones|+|h
+Blue Nile|4||R|0||Worth comparing classic sapphire and diamond designs|0|h
++MySapphireSource|5||R|0||Best for sapphire variety; free shipping and 30-day returns|+|h
+Rare Carat|||O|0||Appears only as source chip under Blue Nile|0|h
+@chatgpt|ST19|r1|t1 fmt=numbered_list
+Angara|1||R|0||Best for elegant, customizable gemstone rings|+|h
++GemsNY|2||R|0||Best for natural ruby rings, NYC craftsmanship|+|h
+Jared|3||R|0||Best for traditional styles in several price ranges|+|h
+Zales|4||R|0||Best for classic gold ruby rings|+|h
+Jewelry Television (JTV)|5||R|0|under $100|Best for budget-friendly lab-created ruby rings|+|h
++Chatham|6||R|0||Best for premium lab-grown rubies|+|h
+@chatgpt|TR04|r1|t1 fmt=numbered_list
++GemsNY|1||R|0||30-day risk-free returns with free insured US return shipping|+|h
+Blue Nile|2||R|0||Established retailer; 30-day returns, free prepaid shipping|+|h
+Rare Carat|3||R|0||30-day free returns, no restocking fees|+|h
++AZEERA|4||R|0||30 days from delivery, free insured return shipping|+|h
+Ritani|5||R|0||30-day returns with free US returns and insurance|+|h
+@chatgpt|TR08|r1|t1 fmt=numbered_list
+Allurez|1||R|0||Free 2-day shipping under $1,000; overnight over $3,000|+|h
++Brilliance|2||R|0||Free 2-day under $2,000, overnight for $2,000+|+|h
++Instagem|3||R|0||Free FedEx 2Day at $500+, overnight at $1,000+|+|h
++Gemtry|4||R|0||Free 2-day FedEx over $200; dispatches within 24 hours|+|h
++REEDS Jewelers|5||R|0||Free 2-day over $500, overnight over $1,000|+|h
++GemsNY|6||R|0||Free insured shipping; expedited costs extra|0|h
+@chatgpt|TR10|r1|t1 fmt=numbered_list
++Moriarty's Gem Art|1||R|0||Best overall review profile; 4.9/5 Trustpilot|+|h
+Angara|2||R|0||4.6/5 Trustpilot from 3,139 reviews; some delivery delay complaints|+|h
++GemsNY|3||R|0||4.5/5 Trustpilot; best for personalized gemstone jewelry|+|h
++GemstonesForSale.com|4||R|0||4.89/5 self-published reviews; less independently verified|0|h
+@claude|CU10|r1|t1 fmt=paragraphs_by_category
++AZEERA|1||R|0||Dedicated custom gemstone ring design with expert advice|+|h
+Angara|2||R|0||Colored-gemstone retailer with customization tool; from model memory|+|m
+Brilliant Earth|3||R|0||Ethical sourcing, large sapphire selection, custom design|+|h
+Blue Nile|4||R|0||Pioneered online custom ring builder; virtual appointments|+|h
+James Allen|5||R|0||Streamlined, user-friendly custom design experience|+|h
++CustomMade|6||R|0||Marketplace to work with an independent jeweler|+|h
++Valley Rose|7||R|0||Virtual consultation, fairmined gold, free insured overnight shipping|+|h
+Etsy|8||R|0||Independent jewelers for custom commissions; check reviews|0|h
+@claude|EN03|r1|t1 fmt=paragraphs_by_category
+Brilliant Earth|1||R|0||Big ethically sourced sapphire selection, free resizing|+|h
+Blue Nile|2|1|R|0||Pick a loose sapphire and set it; easy builder|+|h
+James Allen|2|1|R|0||Pick a loose sapphire and set it; easy builder|+|h
+Ritani|3||R|0||Finished sapphire engagement rings, good customization|+|h
+Catbird|4||R|0||Delicate, modern sapphire rings from Brooklyn|+|h
+Etsy|5||R|0||Custom sapphire rings at lower prices; check reviews|0|h
++Pala International|6||R|0||Respected California gem dealer for loose stones|+|h
+@claude|GN05|r1|t1 fmt=paragraphs_by_category
+Angara|1||R|0||Colored-stone specialist with huge customizable range; good value|+|h
+Ross-Simons|2||R|0||Affordable ready-made gemstone pieces with frequent sales|+|h
+Blue Nile|3|1|R|0||Reliable with good returns; colored stones secondary|0|h
+Brilliant Earth|3|1|R|0||Reliable with good returns; selection concentrated in big three|0|h
+James Allen|4||R|0||Largest loose colored gemstone selection in one guide|+|h
+Leibish|5||R|0||Fancy colored diamonds and gemstones for unusual stones|+|h
+Etsy|6||R|0||Most variety but quality varies widely|0|h
+@claude|OC01|r1|t1 fmt=paragraphs_by_category
+Kay|1|1|R|0||Mainstream chain with garnet jewelry at moderate prices|0|h
+Zales|1|1|R|0||Mainstream chain with garnet jewelry at moderate prices|0|h
+Jared|1|1|R|0||Mainstream chain with garnet jewelry at moderate prices|0|h
+Helzberg|1|1|R|0||Mainstream chain with garnet jewelry at moderate prices|0|h
+Macy's|2|1|R|0||Mix of fine and fashion garnet pieces|0|h
+Nordstrom|2|1|R|0||Mix of fine and fashion garnet pieces|0|h
+Costco|2|1|R|0||Mix of fine and fashion garnet pieces|0|h
+Blue Nile|3|1|R|0||Better for higher-quality or custom-style pieces|+|h
+Brilliant Earth|3|1|R|0||Better for higher-quality or custom-style pieces|+|h
+Ross-Simons|4|1|R|0||Good for lower-priced garnet options|0|h
+Amazon|4|1|R|0||Lower-priced options; pick sellers with good reviews|0|h
+Etsy|5||R|0||Widest variety including custom birthstone jewelry|+|h
+Mejuri|6|1|R|0||Delicate, giftable birthstone pieces|+|h
+Pandora|6|1|R|0||Birthstone charms; delicate giftable pieces|+|h
+Catbird|6|1|R|0||Delicate, giftable birthstone pieces|+|h
+@claude|OC09|r1|t1 fmt=paragraphs_by_category
+Blue Nile|1|1|R|0||Large online emerald selection with certification details|+|h
+James Allen|1|1|R|0||Large online emerald selection with certification details|+|h
+Brilliant Earth|2||R|0||Classic and modern emerald settings, ethically sourced|+|h
+Tiffany & Co.|3|1|R|0||High-end choice if budget is generous|0|h
+Cartier|3|1|R|0||High-end choice if budget is generous|0|h
+Mikimoto|3|1|R|0||High-end choice if budget is generous|0|h
+Kay|4|1|R|0||Accessible mid-range option with in-store help|0|h
+Zales|4|1|R|0||Accessible mid-range option with in-store help|0|h
+Jared|4|1|R|0||Accessible mid-range option with in-store help|0|h
+Ross-Simons|5|1|R|0||Good prices on emerald jewelry incl. lab-created|+|h
+Angara|5|1|R|0||Good prices on emerald jewelry incl. lab-created|+|h
+Etsy|6||R|0||Personalized or vintage-style pieces; check sellers|0|h
++1stDibs|7||R|0||Vintage and estate gifts with history|+|h
++Doyle|8|1|R|0||Auction pieces option|0|m
++Bonhams|8|1|R|0||Auction pieces option|0|m
++Christie's|8|1|R|0||Auction pieces option|0|m
+@claude|PR05|r1|t1 fmt=paragraphs_by_category
+Angara|1||R|0|$200-$500|Colored-gem specialist; many ruby pendants $200-$500, clear grading, returns|+|h
+Ross-Simons|2||R|0||Frequent sales; ruby pendants often under $500|+|h
+Blue Nile|3|1|R|0||Better transparency but fewer, smaller rubies at this price|0|h
+Brilliant Earth|3|1|R|0||Better transparency but fewer, smaller rubies at this price|0|h
+Jewelry Television (JTV)|4|1|R|0||Lots of affordable natural rubies; check treatment disclosures|0|h
+Gemporia|4|1|R|0||Lots of affordable natural rubies; check treatment disclosures|0|h
+Etsy|5||R|0||Independent designers; vet the seller|0|h
+Costco|6||R|0||Sometimes good deals locally|0|h
+Amazon|||M|0||Be wary: fake or glass-filled stones common|-|h
+@claude|ST09|r1|t1 fmt=paragraphs_by_category
+Angara|1||R|0||Colored-gem focus; large yellow sapphire selection across grades|+|h
++The Natural Sapphire Company|2||R|0||Large loose sapphire inventory; pick stone, unheated options|+|h
+Brilliant Earth|3||R|0||Yellow sapphire rings with responsible sourcing|+|h
+Blue Nile|4|1|R|0||Customizable sapphire rings; smaller yellow selection|0|h
+James Allen|4|1|R|0||Customizable sapphire rings; smaller yellow selection|0|h
+Kay|5|1|R|0||Affordable pre-set yellow sapphire designs|0|h
+Zales|5|1|R|0||Affordable pre-set yellow sapphire designs|0|h
+Helzberg|5|1|R|0||Affordable pre-set yellow sapphire designs|0|h
+Macy's|5|1|R|0||Affordable pre-set yellow sapphire designs|0|h
+Etsy|6||R|0||Custom yellow sapphire work; quality varies|0|h
+@claude|ST13|r1|t1 fmt=paragraphs_by_category
+Blue Nile|1||R|0||Pair loose sapphire with setting; free shipping and returns|+|h
+James Allen|2||R|0||360° video to inspect sapphire color and clarity|+|h
+Brilliant Earth|3||R|0||Ethical and lab-grown sapphires in many colors|+|h
+Angara|4||R|0||Colored-gem focus; many ready-made sapphire designs across prices|+|h
++The Natural Sapphire Company|5||R|0||Large sapphire-specific dealer; unheated or rare colors|+|h
+Ritani|6||R|0||Custom-design options for unique sapphire rings|+|h
+Kay|7|1|R|0||Frequent sales, financing and in-store resizing|0|h
+Zales|7|1|R|0||Frequent sales, financing and in-store resizing|0|h
+Jared|7|1|R|0||Frequent sales, financing and in-store resizing|0|h
+Costco|8||R|0||Surprisingly good value with generous returns|+|h
+Etsy|9||R|0||Vintage, handmade, one-of-a-kind pieces; check sellers|0|h
+@claude|ST19|r1|t1 fmt=paragraphs_by_category
+Angara|1||R|0||Colored-gem focus; large ruby ring selection across qualities and prices|+|h
+Brilliant Earth|2||R|0||Natural and lab-grown rubies, ethical sourcing|+|h
+Blue Nile|3|1|R|0||Diamond-known but carry ruby rings and custom design|0|h
+James Allen|3|1|R|0||Diamond-known but carry ruby rings and custom design|0|h
+Zales|4|1|R|0||Lower-priced ready-to-ship ruby rings with sales|0|h
+Kay|4|1|R|0||Lower-priced ready-to-ship ruby rings with sales|0|h
+Helzberg|4|1|R|0||Lower-priced ready-to-ship ruby rings with sales|0|h
+Macy's|4|1|R|0||Lower-priced ready-to-ship ruby rings with sales|0|h
+Costco|5||R|0||Small well-priced fine jewelry selection, easy returns|+|h
+Tiffany & Co.|6|1|R|0||Luxury designs with brand premium|0|h
+Cartier|6|1|R|0||Luxury designs with brand premium|0|h
++1stDibs|7||R|0||Antique and estate pieces from vetted dealers|+|h
+Etsy|8||R|0||Handmade and vintage rings; quality varies|0|h
+@claude|TR04|r1|t1 fmt=bullets
+Angara|1||R|0||30 days from delivery, two free insured return labels per order|+|h
+Blue Nile|2||R|0||30 days from shipment, free label; two free returns per year|0|h
+Brilliant Earth|3||R|0||Free FedEx return label; window starts at shipment availability|0|h
+Ritani|4||R|0||30-day no-questions returns, free shipping, no restocking fee|+|h
+Charles & Colvard|5||R|0||30 days from ship date, free US return shipping|0|h
++AZEERA|6||R|0||30-day money-back guarantee with free return shipping|+|h
++Barkev's|7||R|0||30 days from receipt, free US return shipping|0|h
++Gem Noir|8||R|0||Free US returns within 30 days with prepaid labels|0|h
++Fire & Brilliance|||M|0||Example: full eternity rings non-returnable|0|h
+@claude|TR08|r1|t1 fmt=bullets
+Angara|1||R|0||Free express shipping, no minimum, 3-4 business days, free returns|+|h
+Blue Nile|2||R|0||Free overnight over $500, two-day under $500|+|h
+James Allen|3||R|0||Same as Blue Nile: overnight over $500, two-day under|+|h
+Brilliant Earth|4||R|0||Free FedEx shipping, but no overnight promise|0|h
++Gem Jewelers Co.|5||R|0||Free overnight anywhere in USA; clear standout under $500|+|h
+@claude|TR10|r1|t1 fmt=paragraphs
+Angara|1||R|0||Most-cited gemstone specialist; Trustpilot 4.5 from ~3,000 reviews, Bizrate 9.4|+|h
++The Natural Sapphire Company|2||R|0||5.0 WeddingWire rating; praised consultants for custom pieces|+|h
+Brilliant Earth|3||R|0||Trustpilot 4/5; premium pricing, delivery timing complaints|0|h
+Ross-Simons|4||R|0||Value option; Trustpilot 4/5, Bizrate 9.1; stones look smaller|0|h
++GemSelect|5||R|0||Loose gemstones; stones match pictures per reviewer|+|m
+James Allen|||C|0||Price benchmark: Brilliant Earth charges 15-20% more|0|h
+Blue Nile|||C|0||Price benchmark: Brilliant Earth charges 15-20% more|0|h
+@gemini|CU10|r1|t1 fmt=paragraphs_by_category
+Brilliant Earth|1||R|0||Online builder with massive gemstone inventory and US showrooms|+|h
+Angara|2||R|0||Colored-gem specialist; builder starts with gemstone then setting|+|h
+Grown Brilliance|3||R|0||Ideal for lab-grown gemstones; online custom studio|+|h
++Alexis Russell|4||R|0||3D builder for unique, artisan-style alternative gemstone rings|+|h
++CustomMade|5||R|0||Fully bespoke design with dedicated consultant and CAD renders|+|h
+@gemini|EN03|r1|t1 fmt=paragraphs_by_category
++The Natural Sapphire Company|1||R|0||One of largest natural, untreated, fancy-color sapphire inventories|+|h
++GemsNY|2||R|0||Massive natural and lab sapphire inventory with 3D renderings|+|h
+Rare Carat|3||R|0||Highly rated for transparency; compare certified natural sapphires|+|h
++Anueva Jewelry|4||R|0||Specializes in American-mined Montana sapphires|+|h
+Brilliant Earth|5||R|0||Major player with 40+ showrooms and online builder|+|h
+Blue Nile|6||R|0||Trusted name with gemstone section and 360-degree video|+|h
++EraGem|7||R|0||Vintage, antique and estate-style sapphire rings|+|h
+@gemini|GN05|r1|t1 fmt=numbered_headings
+Angara|1||R|0||Best for gemstone variety and direct-from-source value; lifetime warranty|+|h
++GemsNY|2||R|0||Best for loose stone customization|+|h
+James Allen|3||R|0||Best for visual certainty with HD 360 video|+|h
+Brilliant Earth|4||R|0||Best for ethical and sustainable sourcing|+|h
+Blue Nile|5||R|0||Best for high-end fine jewelry and heritage|+|h
+@gemini|OC01|r1|t1 fmt=paragraphs_by_category
+Helzberg|1||R|0||Wide garnet selection online and at mall locations|+|h
+Zales|2|1|R|0||Mall staples with dedicated birthstone collections|+|h
+Jared|2|1|R|0||Mall staples with dedicated birthstone collections|+|h
++Kohl's|3|1|R|0||Mid-tier department store for affordable garnet pieces|+|h
+Macy's|3|1|R|0||Mid-tier department store for affordable garnet pieces|+|h
+Angara|4||R|0||Extensive customization of garnet grade, carat and metal|+|h
+Blue Nile|5|1|R|0||High-end fine garnet jewelry with free shipping and returns|+|h
+Brilliant Earth|5|1|R|0||High-end fine garnet jewelry with free shipping and returns|+|h
+Kendra Scott|6||R|0||Popular everyday birthstone lines|+|h
++BaubleBar|7||R|0||Trendier, budget-friendly customizable birthstone pieces|+|h
+Catbird|8||R|0||Delicate heirloom-quality designer garnet pieces|+|h
+@gemini|OC09|r1|t1 fmt=paragraphs_by_category
+Tiffany & Co.|1|1|R|0||High-end emerald and diamond fine jewelry|+|h
+Blue Nile|1|1|R|0||High-end emerald and diamond fine jewelry|+|h
++Fink's Jewelers|2||R|0||Regional fine jeweler with emerald anniversary collections|+|h
++Tanishq|3||R|0||Gold and emerald rings, earrings and necklace sets|+|h
+Etsy|4||R|0||Independent creators for personalized emerald keepsakes|+|h
++Uncommon Goods|5||R|0||Curated emerald-inspired gifts|+|h
+Nordstrom|6|1|R|0||Luxury emerald home accents and glassware|+|h
++Saks Fifth Avenue|6|1|R|0||Luxury emerald home accents and glassware|+|h
+Macy's|7||R|0||Accessible emerald-hued home decor|0|h
+@gemini|PR05|r1|t1 fmt=paragraphs_by_category
+Blue Nile|1|1|R|0|$350 to $450|Dainty natural ruby pendants in 14K gold around $350-$450|+|h
+James Allen|1|1|R|0|$350 to $450|Dainty natural ruby pendants in 14K gold around $350-$450|+|h
+Helzberg|2||R|0||Natural and lab ruby pieces under $500|+|h
+Etsy|3||R|0|$50-$250|Handmade or vintage genuine ruby necklaces well under budget|+|h
+Macy's|4|1|R|0|$300-$500|Department store promotions on ruby pendants|0|h
+Kay|4|1|R|0|$300-$500|Kay Outlet promotions on ruby pendants|0|h
+@gemini|ST09|r1|t1 fmt=paragraphs_by_category
++The Natural Sapphire Company|1||R|0||Thousands of natural yellow sapphire rings, each stone photographed|+|h
+Brilliant Earth|2||R|0||Create Your Own Ring with loose yellow sapphires|+|h
+Blue Nile|3||R|0||Browse natural yellow sapphires and set in custom mountings|+|h
++Fenton|4||R|0||Ethical made-to-order yellow sapphire rings, free shipping and resizing|+|h
+Shane Co.|5||R|0||Yellow sapphire rings with delivery or store pickup|+|h
+Ross-Simons|6||R|0||Yellow sapphire cocktail rings and stackable bands|+|h
+@gemini|ST13|r1|t1 fmt=paragraphs_by_category
++GemsNY|1||R|0||Massive certified natural and lab-grown sapphire inventory|+|h
++The Natural Sapphire Company|2||R|0||Exclusively natural, untreated, rare-colored sapphires|+|h
++Earth's Treasury|3||R|0||Ethically sourced precision-cut natural sapphires|+|h
+Blue Nile|4||R|0||Industry giant with diverse sapphire rings|+|h
+Brilliant Earth|5||R|0||Ethical sourcing, preset and custom sapphire rings|+|h
+Angara|6||R|0||Made-to-order; customize sapphire grade, carat, metal to budget|+|h
+Etsy|7||R|0||Antique estate and handmade sapphire rings|+|h
++The RealReal|8|1|R|0||Consignment platform for discounted vintage cocktail rings|+|h
++EBTH|8|1|R|0||Estate sale platform for discounted vintage cocktail rings|+|h
+@gemini|ST19|r1|t1 fmt=paragraphs_by_category
++GemsNY|1||R|0||Vast loose ruby selection with NYC custom settings, lab certificates|+|h
++The Natural Ruby Company|2||R|0||Specialist since 1939 in natural, untreated rubies|+|h
+Angara|3||R|0||Extensive customizable ruby rings with certificate and free shipping|+|h
+Brilliant Earth|4||R|0||Ethical natural and lab-grown rubies with builder|+|h
+Helzberg|5||R|0||Solid inventory of natural and lab ruby rings|+|h
++Hannoush Jewelers|6|1|R|0||Traditional national jeweler with classic ruby rings|+|h
++Gordon Jewelers|6|1|R|0||Traditional national jeweler with classic ruby rings|+|h
+@gemini|TR04|r1|t1 fmt=numbered_list
+James Allen|1||R|0||30-day money-back guarantee with free US return shipping|+|h
+Angara|2||R|0||30-day returns, free insured return shipping, two free labels|+|h
+Brilliant Earth|3||R|0||30-day guarantee from shipment availability; free FedEx label|+|h
+Blue Nile|4||R|0||30-day full refund returns with free US shipping|+|h
+@gemini|TR08|r1|t1 fmt=numbered_list
+Angara|1||R|0||Massive gemstone selection; free standard shipping, expedited extra|+|h
+Brilliant Earth|2||R|0||Free secure insured express shipping on US orders|+|h
+Blue Nile|3||R|0||Free insured shipping on all US orders|+|h
++GemsNY|4||R|0||Certified natural gemstones with free US shipping|+|h
++SuperJeweler|5||R|0||Budget-friendly with free shipping on all US orders|+|h
+@gemini|TR10|r1|t1 fmt=numbered_list
+Rare Carat|1||R|0||Top transparency and satisfaction; ~4.9/5 Trustpilot and Google|+|h
+Angara|2||R|0||Praised for gemstone specialization and endless personalization|+|h
++GemsNY|3||R|0||~4.9/5 from thousands of reviews for support and inventory|+|h
+Brilliant Earth|4||R|0||Favored for ethical sourcing and transparent supply chains|+|h
+Blue Nile|5||R|0||Pioneer with reliable shipping and straightforward returns|+|h

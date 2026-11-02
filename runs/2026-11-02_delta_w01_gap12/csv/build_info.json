@@ -1,0 +1,94 @@
+{
+  "run_id": "2026-11-02_delta_w01_gap12",
+  "builder": "Grok Bot",
+  "script_version": "build_csv v2.3.3",
+  "built_at_utc": "2026-11-02 11:54:54",
+  "apps": [
+    "chatgpt",
+    "claude",
+    "gemini"
+  ],
+  "raw_folders_read": 36,
+  "folders_skipped_discarded": 0,
+  "skipped_folders": [],
+  "run_info_mismatches": [],
+  "rows": {
+    "answers": 36,
+    "brand_mentions": 261,
+    "citations": 389,
+    "answer_text": 36
+  },
+  "citations_by_app": {
+    "chatgpt": {
+      "html": 69
+    },
+    "claude": {
+      "html": 260
+    },
+    "gemini": {
+      "html": 60
+    }
+  },
+  "new_brand_names": [
+    "Barkev's",
+    "Ben Bridge",
+    "Bonhams",
+    "EBTH",
+    "Fenton",
+    "Fire & Brilliance",
+    "Galaxy Gold",
+    "Gem Noir",
+    "GemstonesForSale.com",
+    "Gemtry",
+    "Gordon Jewelers",
+    "Instagem",
+    "MM Fine Jewelry and Gems",
+    "Made In Earth US",
+    "Mineral Miners",
+    "Renaissance Jewel",
+    "Simply Sapphires",
+    "Tanishq",
+    "The Forever Rose"
+  ],
+  "warnings": [
+    "claude__CU10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)",
+    "claude__CU10__r1__t1: meta has date only; captured_at_utc approximated from answer.txt mtime (2026-11-02 11:41:29)",
+    "claude__EN03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)",
+    "claude__EN03__r1__t1: meta has date only; captured_at_utc approximated from answer.txt mtime (2026-11-02 11:41:29)",
+    "claude__GN05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)",
+    "claude__GN05__r1__t1: meta has date only; captured_at_utc approximated from answer.txt mtime (2026-11-02 11:41:29)",
+    "claude__OC01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)",
+    "claude__OC01__r1__t1: meta has date only; captured_at_utc approximated from answer.txt mtime (2026-11-02 11:44:08)",
+    "claude__OC09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)",
+    "claude__OC09__r1__t1: meta has date only; captured_at_utc approximated from answer.txt mtime (2026-11-02 11:44:08)",
+    "claude__PR05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)",
+    "claude__PR05__r1__t1: meta has date only; captured_at_utc approximated from answer.txt mtime (2026-11-02 11:44:08)",
+    "claude__TR04__r1__t1: 13 duplicate citation rows dropped (dedupe by URL)",
+    "claude__TR08__r1__t1: 9 duplicate citation rows dropped (dedupe by URL)",
+    "claude__TR10__r1__t1: 7 duplicate citation rows dropped (dedupe by URL)",
+    "gemini__CU10__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__EN03__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__GN05__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__OC09__r1__t1: 4 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__PR05__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__ST09__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__ST13__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__ST19__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__TR04__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "gemini__TR10__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)",
+    "SUMMARY merge: claude CU10/EN03/GN05/OC01/OC09/PR05 captured by Grok Bot Claude tabs; claude ST09/ST13/ST19/TR04/TR08/TR10 captured by Friday (reassigned for speed); chatgpt 12 and gemini 12 complete",
+    "citations taken from each folder citations.csv (preferred), deduped by URL within answer (keep first); gemini #:~:text= fragments stripped before dedupe; claude sources-panel + chip duplicates collapsed",
+    "folder source_file values html_card / html_sources_panel mapped to SCHEMA html (url present); html_chip rows with url also written as html; originals kept in work/measured.json ORIG",
+    "claude EN03/OC01/OC09/PR05/ST09/ST13/ST19 web_search off or no sources -> 0 citation rows (answers from model memory)",
+    "claude GN05/CU10/TR* and gemini answer.txt include source-panel/chip labels, inflating measured mention_count; gemini TR08 Angara also matched via a chip label",
+    "egress normalized to IN for all apps (box Cloudflare egress, Delhi 49.249.146.90); grok claude meta said \"US (box Cloudflare)\"",
+    "grok claude CU10-PR05 meta lacked signed_in -> true (claude tabs signed in); captured_at date-only -> answer.txt mtime UTC (approximate)",
+    "gemini later-wave captured_at approximate (TR rows 11:58Z after reported 11:46:55Z finish); gemini ST19 redone, only second chat kept",
+    "grok claude GN05 captured using Console before the no-Console clarification; claude EN03 had a stray console text sent as turn 2 (turn 1 unaffected, turn 2 not used); claude OC01/OC09/PR05 first sends garbled, clean re-sends captured",
+    "chatgpt TR08 first attempt hit signed-out limit; retried once",
+    "answers.csv uses latest-build (new2) header ai_angara_rank + ai_angara_rank_n; live_csv uses ai_angara_rank_of_n -> work/answers_live_shape.csv provided for Load",
+    "claude and gemini category-grouped lists ranked in order of appearance with ties for grouped picks (1_BUILD rule)",
+    "no turn 2 captured; followup_answer_text blank"
+  ],
+  "loaded_to_live": false
+}

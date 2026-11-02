@@ -1,0 +1,23 @@
+{
+  "run_id": "2026-11-02_delta_w01_gap12",
+  "run_key": "gemini|ST13|r1|t1",
+  "app": "gemini",
+  "prompt_id": "ST13",
+  "repeat": "r1",
+  "turn": 1,
+  "date": "2026-11-02",
+  "prompt_sent": "sapphire ring where to buy online I'm shopping in the USA.",
+  "source": "grok_bot_ui",
+  "captured_by": "check · collector",
+  "captured_at_utc": "2026-11-02T11:44:00Z",
+  "signed_in": false,
+  "session": "signed_out_shared_profile",
+  "ip": "49.249.146.90",
+  "egress_city": "Delhi (colo DEL)",
+  "egress_country": "IN",
+  "web_search": true,
+  "model_ui": "Flash-Lite",
+  "chat_url": "https://gemini.google.com/app/b5a34c19efd8b043",
+  "capture_quality": "text_reconstructed_html",
+  "notes": "cites=12; Sources via action bar more_horiz > View sources > Sources tab; panel scraped from DOM inline-source-card hrefs (no console); answer.html/sources_panel.html reconstructed from scraped DOM text+hrefs; egress via browser cloudflare.com/cdn-cgi/trace (ip=49.249.146.90 colo=DEL loc=IN)"
+}

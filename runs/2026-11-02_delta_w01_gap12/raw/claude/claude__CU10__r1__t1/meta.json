@@ -1,0 +1,14 @@
+{
+ "prompt_id": "CU10",
+ "app": "claude",
+ "repeat": 1,
+ "turn": 1,
+ "web_search": true,
+ "session": "claude_incognito_chat",
+ "egress": "box Cloudflare egress (user computer offline)",
+ "egress_country": "US (box Cloudflare)",
+ "citation_count": 15,
+ "capture_quality": "answer_text_verbatim_dom; html reconstructed/simplified (not raw outerHTML); sources panel expanded",
+ "model_ui": "Sonnet 5.5",
+ "captured_at": "2026-11-02"
+}

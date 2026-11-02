@@ -1,0 +1,262 @@
+run_id,run_key,app,prompt_id,repeat,turn,brand,fact_row,mention_count,first_char_pos,order_of_first_appearance,text_source,published_rank,tie,role,in_product_card,price_shown_usd,claim,sentiment,confidence
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,Angara,1,3,380,1,answer,1,0,recommended,0,,"Best overall; best gemstone selection with stone, metal, setting customization",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,Eden Garden Jewelry,0,,,,,2,0,recommended,0,,"Best 3D ring designer with over 1,500 actual gemstones",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,Green Lake Jewelry Works,0,,,,,3,0,recommended,0,,Best for unique designs; builds around chosen gemstone,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,MM Fine Jewelry and Gems,0,,,,,4,0,recommended,0,,"Over 1,000 settings, made to order in New York",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,AZEERA,0,,,,,5,0,recommended,0,,Family-owned; mix and match gemstones and settings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,Brilliant Earth,1,2,1560,2,answer,6,0,recommended,0,"$2,000","Design studio for completely custom pieces; custom designs start at $2,000",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|CU10|r1|t1,chatgpt,CU10,r1,1,Zales,1,2,1794,3,answer,7,0,recommended,0,,Mainstream retailer with online and in-store design help,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,GemsNY,0,,,,,1,0,recommended,0,$972,"Great starting point; natural and lab sapphires, custom design, NYC-based",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,Angara,1,2,811,1,answer,2,0,recommended,0,,Traditional engagement designs with natural sapphire options,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,Brilliant Earth,1,3,941,2,answer,3,0,recommended,0,,Worth exploring for lab-grown sapphires in several settings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,The Natural Sapphire Company,0,,,,,4,0,recommended,0,,High-quality natural sapphire; choose your actual center stone,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|EN03|r1|t1,chatgpt,EN03,r1,1,Montana Sapphire Ring Co.,0,,,,,5,0,recommended,0,,Distinctive American-mined teal and light blue sapphires,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Angara,1,3,166,1,answer,1,0,recommended,0,,Top recommendation and first choice for colorful fine jewelry,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Leibish,1,2,680,2,answer,2,0,recommended,0,,High-end distinctive natural colored gemstone jewelry,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Brilliant Earth,1,2,940,3,answer,3,0,recommended,0,,"Contemporary gemstone jewelry, custom designs, US showrooms",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Sotheby's,0,,,,,4,0,recommended,0,,"Unusual, rare or vintage collectible gemstone jewelry",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|GN05|r1|t1,chatgpt,GN05,r1,1,Etsy,1,2,1415,4,answer,5,0,recommended,0,,Independent designers and affordable finds; verify sellers,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Kendra Scott,1,1,351,1,answer,1,0,recommended,0,$55–$150,Affordable gift option with everyday birthstone styles,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Mejuri,1,2,549,2,answer,2,0,recommended,0,$118–$348+,Modern minimalist garnet pieces in gold vermeil,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Jared,1,2,741,3,answer,3,0,recommended,0,"$95–$2,000+",Natural garnet fine jewelry for special occasions,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,JCPenney,0,,,,,4,0,recommended,0,,Budget-friendly to mid-range garnet jewelry,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Nordstrom,1,2,1101,4,answer,5,0,recommended,0,,Elegant gold vermeil and gemstone designs for gifts,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Fink's Jewelers,0,,,,,6,0,recommended,0,,Fine and designer garnet jewelry plus custom design,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC01|r1|t1,chatgpt,OC01,r1,1,Monica Vinader,1,1,1120,5,answer,,0,mentioned,0,$160,Example garnet pendant sold at Nordstrom,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|OC09|r1|t1,chatgpt,OC09,r1,1,Angara,1,2,432,1,answer,1,0,recommended,0,$249,Best for fine emerald jewelry; natural and lab-grown emeralds,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC09|r1|t1,chatgpt,OC09,r1,1,Uncommon Goods,0,,,,,2,0,recommended,0,$88,Best for unusual emerald-themed gifts and keepsakes,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC09|r1|t1,chatgpt,OC09,r1,1,Haverhill,0,,,,,3,0,recommended,0,$450,Elegant seven-emerald gold bracelets,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|OC09|r1|t1,chatgpt,OC09,r1,1,The Forever Rose,0,,,,,4,0,recommended,0,$100,Preserved emerald-finish rose as romantic jewelry alternative,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|PR05|r1|t1,chatgpt,PR05,r1,1,Ben Bridge,0,,,,,1,0,recommended,0,$499,Best established jeweler option; natural rubies in 14K gold,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|PR05|r1|t1,chatgpt,PR05,r1,1,Galaxy Gold,0,,,,,2,0,recommended,0,$399.99,14K rose gold natural ruby necklace; verify treatment,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|PR05|r1|t1,chatgpt,PR05,r1,1,Mineral Miners,0,,,,,3,0,recommended,0,$312.95,Unheated raw ruby crystals in sterling silver,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|PR05|r1|t1,chatgpt,PR05,r1,1,Made In Earth US,0,,,,,4,0,recommended,0,$500,Handcrafted natural ruby in sterling silver,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|PR05|r1|t1,chatgpt,PR05,r1,1,Walmart,1,1,1162,1,answer,,0,mentioned,0,,Marketplace listing the Galaxy Gold necklace,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,Angara,1,2,237,1,answer,1,0,recommended,0,,Great overall selection of yellow sapphire cuts and settings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,The Natural Sapphire Company,0,,,,,2,0,recommended,0,,Best for natural sapphires and custom rings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,Rare Carat,1,2,680,2,answer,3,0,recommended,0,,Compare individual natural sapphires with filters,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,My Jewelry Source,0,,,,,4,0,recommended,0,,Dedicated yellow sapphire collection with treatment disclosure,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST09|r1|t1,chatgpt,ST09,r1,1,Renaissance Jewel,0,,,,,5,0,recommended,0,,Lab-grown yellow sapphire rings at lower price,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST13|r1|t1,chatgpt,ST13,r1,1,Angara,1,2,249,1,answer,1,0,recommended,0,,Best for classic fine jewelry; customizable sapphire rings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST13|r1|t1,chatgpt,ST13,r1,1,GemsNY,0,,,,,2,0,recommended,0,,"Best for customization; certified natural and lab sapphires, 30-day returns",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST13|r1|t1,chatgpt,ST13,r1,1,Simply Sapphires,0,,,,,3,0,recommended,0,,Best for natural sapphires including rare untreated stones,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST13|r1|t1,chatgpt,ST13,r1,1,Blue Nile,1,2,773,2,answer,4,0,recommended,0,,Worth comparing classic sapphire and diamond designs,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|ST13|r1|t1,chatgpt,ST13,r1,1,MySapphireSource,0,,,,,5,0,recommended,0,,Best for sapphire variety; free shipping and 30-day returns,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST13|r1|t1,chatgpt,ST13,r1,1,Rare Carat,1,1,948,3,answer,,0,cited_only,0,,Appears only as source chip under Blue Nile,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|ST19|r1|t1,chatgpt,ST19,r1,1,Angara,1,2,237,1,answer,1,0,recommended,0,,"Best for elegant, customizable gemstone rings",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST19|r1|t1,chatgpt,ST19,r1,1,GemsNY,0,,,,,2,0,recommended,0,,"Best for natural ruby rings, NYC craftsmanship",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST19|r1|t1,chatgpt,ST19,r1,1,Jared,1,2,603,2,answer,3,0,recommended,0,,Best for traditional styles in several price ranges,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST19|r1|t1,chatgpt,ST19,r1,1,Zales,1,2,757,3,answer,4,0,recommended,0,,Best for classic gold ruby rings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST19|r1|t1,chatgpt,ST19,r1,1,Jewelry Television (JTV),1,2,916,4,answer,5,0,recommended,0,under $100,Best for budget-friendly lab-created ruby rings,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|ST19|r1|t1,chatgpt,ST19,r1,1,Chatham,0,,,,,6,0,recommended,0,,Best for premium lab-grown rubies,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR04|r1|t1,chatgpt,TR04,r1,1,GemsNY,0,,,,,1,0,recommended,0,,30-day risk-free returns with free insured US return shipping,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR04|r1|t1,chatgpt,TR04,r1,1,Blue Nile,1,5,717,1,answer,2,0,recommended,0,,"Established retailer; 30-day returns, free prepaid shipping",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR04|r1|t1,chatgpt,TR04,r1,1,Rare Carat,1,5,958,2,answer,3,0,recommended,0,,"30-day free returns, no restocking fees",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR04|r1|t1,chatgpt,TR04,r1,1,AZEERA,0,,,,,4,0,recommended,0,,"30 days from delivery, free insured return shipping",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR04|r1|t1,chatgpt,TR04,r1,1,Ritani,1,4,1445,3,answer,5,0,recommended,0,,30-day returns with free US returns and insurance,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR08|r1|t1,chatgpt,TR08,r1,1,Allurez,1,4,128,1,answer,1,0,recommended,0,,"Free 2-day shipping under $1,000; overnight over $3,000",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR08|r1|t1,chatgpt,TR08,r1,1,Brilliance,0,,,,,2,0,recommended,0,,"Free 2-day under $2,000, overnight for $2,000+",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR08|r1|t1,chatgpt,TR08,r1,1,Instagem,0,,,,,3,0,recommended,0,,"Free FedEx 2Day at $500+, overnight at $1,000+",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR08|r1|t1,chatgpt,TR08,r1,1,Gemtry,0,,,,,4,0,recommended,0,,Free 2-day FedEx over $200; dispatches within 24 hours,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR08|r1|t1,chatgpt,TR08,r1,1,REEDS Jewelers,0,,,,,5,0,recommended,0,,"Free 2-day over $500, overnight over $1,000",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR08|r1|t1,chatgpt,TR08,r1,1,GemsNY,0,,,,,6,0,recommended,0,,Free insured shipping; expedited costs extra,neutral,high
+2026-11-02_delta_w01_gap12,chatgpt|TR10|r1|t1,chatgpt,TR10,r1,1,Moriarty's Gem Art,0,,,,,1,0,recommended,0,,Best overall review profile; 4.9/5 Trustpilot,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR10|r1|t1,chatgpt,TR10,r1,1,Angara,1,5,807,1,answer,2,0,recommended,0,,"4.6/5 Trustpilot from 3,139 reviews; some delivery delay complaints",positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR10|r1|t1,chatgpt,TR10,r1,1,GemsNY,0,,,,,3,0,recommended,0,,4.5/5 Trustpilot; best for personalized gemstone jewelry,positive,high
+2026-11-02_delta_w01_gap12,chatgpt|TR10|r1|t1,chatgpt,TR10,r1,1,GemstonesForSale.com,0,,,,,4,0,recommended,0,,4.89/5 self-published reviews; less independently verified,neutral,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,AZEERA,0,,,,,1,0,recommended,0,,Dedicated custom gemstone ring design with expert advice,positive,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,Angara,1,1,336,1,answer,2,0,recommended,0,,Colored-gemstone retailer with customization tool; from model memory,positive,medium
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,Brilliant Earth,1,1,564,2,answer,3,0,recommended,0,,"Ethical sourcing, large sapphire selection, custom design",positive,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,Blue Nile,1,1,732,3,answer,4,0,recommended,0,,Pioneered online custom ring builder; virtual appointments,positive,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,James Allen,1,1,866,4,answer,5,0,recommended,0,,"Streamlined, user-friendly custom design experience",positive,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,CustomMade,0,,,,,6,0,recommended,0,,Marketplace to work with an independent jeweler,positive,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,Valley Rose,0,,,,,7,0,recommended,0,,"Virtual consultation, fairmined gold, free insured overnight shipping",positive,high
+2026-11-02_delta_w01_gap12,claude|CU10|r1|t1,claude,CU10,r1,1,Etsy,1,1,1345,5,answer,8,0,recommended,0,,Independent jewelers for custom commissions; check reviews,neutral,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,Brilliant Earth,1,1,205,1,answer,1,0,recommended,0,,"Big ethically sourced sapphire selection, free resizing",positive,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,Blue Nile,1,1,389,2,answer,2,1,recommended,0,,Pick a loose sapphire and set it; easy builder,positive,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,James Allen,1,1,403,3,answer,2,1,recommended,0,,Pick a loose sapphire and set it; easy builder,positive,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,Ritani,1,1,579,4,answer,3,0,recommended,0,,"Finished sapphire engagement rings, good customization",positive,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,Catbird,1,1,699,5,answer,4,0,recommended,0,,"Delicate, modern sapphire rings from Brooklyn",positive,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,Etsy,1,1,764,6,answer,5,0,recommended,0,,Custom sapphire rings at lower prices; check reviews,neutral,high
+2026-11-02_delta_w01_gap12,claude|EN03|r1|t1,claude,EN03,r1,1,Pala International,0,,,,,6,0,recommended,0,,Respected California gem dealer for loose stones,positive,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,Angara,1,1,2131,1,answer,1,0,recommended,0,,Colored-stone specialist with huge customizable range; good value,positive,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,Ross-Simons,1,1,2332,2,answer,2,0,recommended,0,,Affordable ready-made gemstone pieces with frequent sales,positive,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,Blue Nile,1,2,2424,3,answer,3,1,recommended,0,,Reliable with good returns; colored stones secondary,neutral,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,Brilliant Earth,1,2,2438,4,answer,3,1,recommended,0,,Reliable with good returns; selection concentrated in big three,neutral,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,James Allen,1,1,2733,5,answer,4,0,recommended,0,,Largest loose colored gemstone selection in one guide,positive,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,Leibish,1,1,2973,6,answer,5,0,recommended,0,,Fancy colored diamonds and gemstones for unusual stones,positive,high
+2026-11-02_delta_w01_gap12,claude|GN05|r1|t1,claude,GN05,r1,1,Etsy,1,1,3140,7,answer,6,0,recommended,0,,Most variety but quality varies widely,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Kay,1,1,252,1,answer,1,1,recommended,0,,Mainstream chain with garnet jewelry at moderate prices,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Zales,1,1,257,2,answer,1,1,recommended,0,,Mainstream chain with garnet jewelry at moderate prices,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Jared,1,1,264,3,answer,1,1,recommended,0,,Mainstream chain with garnet jewelry at moderate prices,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Helzberg,1,1,275,4,answer,1,1,recommended,0,,Mainstream chain with garnet jewelry at moderate prices,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Macy's,1,1,367,5,answer,2,1,recommended,0,,Mix of fine and fashion garnet pieces,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Nordstrom,1,1,375,6,answer,2,1,recommended,0,,Mix of fine and fashion garnet pieces,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Costco,1,1,390,7,answer,2,1,recommended,0,,Mix of fine and fashion garnet pieces,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Blue Nile,1,1,466,8,answer,3,1,recommended,0,,Better for higher-quality or custom-style pieces,positive,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Brilliant Earth,1,1,480,9,answer,3,1,recommended,0,,Better for higher-quality or custom-style pieces,positive,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Ross-Simons,1,1,550,10,answer,4,1,recommended,0,,Good for lower-priced garnet options,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Amazon,1,1,566,11,answer,4,1,recommended,0,,Lower-priced options; pick sellers with good reviews,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Etsy,1,1,701,12,answer,5,0,recommended,0,,Widest variety including custom birthstone jewelry,positive,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Mejuri,1,1,1009,13,answer,6,1,recommended,0,,"Delicate, giftable birthstone pieces",positive,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Pandora,1,1,1017,14,answer,6,1,recommended,0,,Birthstone charms; delicate giftable pieces,positive,high
+2026-11-02_delta_w01_gap12,claude|OC01|r1|t1,claude,OC01,r1,1,Catbird,1,1,1050,15,answer,6,1,recommended,0,,"Delicate, giftable birthstone pieces",positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Blue Nile,1,1,215,1,answer,1,1,recommended,0,,Large online emerald selection with certification details,positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,James Allen,1,1,229,2,answer,1,1,recommended,0,,Large online emerald selection with certification details,positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Brilliant Earth,1,1,347,3,answer,2,0,recommended,0,,"Classic and modern emerald settings, ethically sourced",positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Tiffany & Co.,1,1,459,4,answer,3,1,recommended,0,,High-end choice if budget is generous,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Cartier,1,1,474,5,answer,3,1,recommended,0,,High-end choice if budget is generous,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Mikimoto,1,1,487,6,answer,3,1,recommended,0,,High-end choice if budget is generous,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Kay,1,1,548,7,answer,4,1,recommended,0,,Accessible mid-range option with in-store help,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Zales,1,1,553,8,answer,4,1,recommended,0,,Accessible mid-range option with in-store help,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Jared,1,1,564,9,answer,4,1,recommended,0,,Accessible mid-range option with in-store help,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Ross-Simons,1,1,656,10,answer,5,1,recommended,0,,Good prices on emerald jewelry incl. lab-created,positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Angara,1,1,672,11,answer,5,1,recommended,0,,Good prices on emerald jewelry incl. lab-created,positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Etsy,1,1,753,12,answer,6,0,recommended,0,,Personalized or vintage-style pieces; check sellers,neutral,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,1stDibs,0,,,,,7,0,recommended,0,,Vintage and estate gifts with history,positive,high
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Doyle,0,,,,,8,1,recommended,0,,Auction pieces option,neutral,medium
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Bonhams,0,,,,,8,1,recommended,0,,Auction pieces option,neutral,medium
+2026-11-02_delta_w01_gap12,claude|OC09|r1|t1,claude,OC09,r1,1,Christie's,0,,,,,8,1,recommended,0,,Auction pieces option,neutral,medium
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Angara,1,1,148,1,answer,1,0,recommended,0,$200-$500,"Colored-gem specialist; many ruby pendants $200-$500, clear grading, returns",positive,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Ross-Simons,1,1,293,2,answer,2,0,recommended,0,,Frequent sales; ruby pendants often under $500,positive,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Blue Nile,1,1,394,3,answer,3,1,recommended,0,,"Better transparency but fewer, smaller rubies at this price",neutral,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Brilliant Earth,1,1,408,4,answer,3,1,recommended,0,,"Better transparency but fewer, smaller rubies at this price",neutral,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Jewelry Television (JTV),1,2,518,5,answer,4,1,recommended,0,,Lots of affordable natural rubies; check treatment disclosures,neutral,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Gemporia,1,1,547,6,answer,4,1,recommended,0,,Lots of affordable natural rubies; check treatment disclosures,neutral,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Etsy,1,1,635,7,answer,5,0,recommended,0,,Independent designers; vet the seller,neutral,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Costco,1,1,769,8,answer,6,0,recommended,0,,Sometimes good deals locally,neutral,high
+2026-11-02_delta_w01_gap12,claude|PR05|r1|t1,claude,PR05,r1,1,Amazon,1,1,1567,9,answer,,0,mentioned,0,,Be wary: fake or glass-filled stones common,negative,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Angara,1,1,141,1,answer,1,0,recommended,0,,Colored-gem focus; large yellow sapphire selection across grades,positive,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,The Natural Sapphire Company,0,,,,,2,0,recommended,0,,"Large loose sapphire inventory; pick stone, unheated options",positive,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Brilliant Earth,1,1,534,2,answer,3,0,recommended,0,,Yellow sapphire rings with responsible sourcing,positive,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Blue Nile,1,1,639,3,answer,4,1,recommended,0,,Customizable sapphire rings; smaller yellow selection,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,James Allen,1,1,653,4,answer,4,1,recommended,0,,Customizable sapphire rings; smaller yellow selection,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Kay,1,1,816,5,answer,5,1,recommended,0,,Affordable pre-set yellow sapphire designs,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Zales,1,1,821,6,answer,5,1,recommended,0,,Affordable pre-set yellow sapphire designs,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Helzberg,1,1,828,7,answer,5,1,recommended,0,,Affordable pre-set yellow sapphire designs,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Macy's,1,1,842,8,answer,5,1,recommended,0,,Affordable pre-set yellow sapphire designs,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST09|r1|t1,claude,ST09,r1,1,Etsy,1,1,932,9,answer,6,0,recommended,0,,Custom yellow sapphire work; quality varies,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Blue Nile,1,1,162,1,answer,1,0,recommended,0,,Pair loose sapphire with setting; free shipping and returns,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,James Allen,1,1,264,2,answer,2,0,recommended,0,,360° video to inspect sapphire color and clarity,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Brilliant Earth,1,2,360,3,answer,3,0,recommended,0,,Ethical and lab-grown sapphires in many colors,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Angara,1,1,498,4,answer,4,0,recommended,0,,Colored-gem focus; many ready-made sapphire designs across prices,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,The Natural Sapphire Company,0,,,,,5,0,recommended,0,,Large sapphire-specific dealer; unheated or rare colors,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Ritani,1,1,747,5,answer,6,0,recommended,0,,Custom-design options for unique sapphire rings,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Kay,1,1,849,6,answer,7,1,recommended,0,,"Frequent sales, financing and in-store resizing",neutral,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Zales,1,1,854,7,answer,7,1,recommended,0,,"Frequent sales, financing and in-store resizing",neutral,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Jared,1,1,865,8,answer,7,1,recommended,0,,"Frequent sales, financing and in-store resizing",neutral,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Costco,1,1,946,9,answer,8,0,recommended,0,,Surprisingly good value with generous returns,positive,high
+2026-11-02_delta_w01_gap12,claude|ST13|r1|t1,claude,ST13,r1,1,Etsy,1,1,1009,10,answer,9,0,recommended,0,,"Vintage, handmade, one-of-a-kind pieces; check sellers",neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Angara,1,1,148,1,answer,1,0,recommended,0,,Colored-gem focus; large ruby ring selection across qualities and prices,positive,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Brilliant Earth,1,1,275,2,answer,2,0,recommended,0,,"Natural and lab-grown rubies, ethical sourcing",positive,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Blue Nile,1,1,398,3,answer,3,1,recommended,0,,Diamond-known but carry ruby rings and custom design,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,James Allen,1,1,412,4,answer,3,1,recommended,0,,Diamond-known but carry ruby rings and custom design,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Zales,1,1,551,5,answer,4,1,recommended,0,,Lower-priced ready-to-ship ruby rings with sales,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Kay,1,1,558,6,answer,4,1,recommended,0,,Lower-priced ready-to-ship ruby rings with sales,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Helzberg,1,1,563,7,answer,4,1,recommended,0,,Lower-priced ready-to-ship ruby rings with sales,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Macy's,1,1,577,8,answer,4,1,recommended,0,,Lower-priced ready-to-ship ruby rings with sales,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Costco,1,1,656,9,answer,5,0,recommended,0,,"Small well-priced fine jewelry selection, easy returns",positive,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Tiffany & Co.,1,1,751,10,answer,6,1,recommended,0,,Luxury designs with brand premium,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Cartier,1,1,766,11,answer,6,1,recommended,0,,Luxury designs with brand premium,neutral,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,1stDibs,0,,,,,7,0,recommended,0,,Antique and estate pieces from vetted dealers,positive,high
+2026-11-02_delta_w01_gap12,claude|ST19|r1|t1,claude,ST19,r1,1,Etsy,1,1,932,12,answer,8,0,recommended,0,,Handmade and vintage rings; quality varies,neutral,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Angara,1,3,138,1,answer,1,0,recommended,0,,"30 days from delivery, two free insured return labels per order",positive,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Blue Nile,1,2,435,2,answer,2,0,recommended,0,,"30 days from shipment, free label; two free returns per year",neutral,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Brilliant Earth,1,2,680,3,answer,3,0,recommended,0,,Free FedEx return label; window starts at shipment availability,neutral,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Ritani,1,1,907,4,answer,4,0,recommended,0,,"30-day no-questions returns, free shipping, no restocking fee",positive,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Charles & Colvard,1,2,1037,5,answer,5,0,recommended,0,,"30 days from ship date, free US return shipping",neutral,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,AZEERA,0,,,,,6,0,recommended,0,,30-day money-back guarantee with free return shipping,positive,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Barkev's,0,,,,,7,0,recommended,0,,"30 days from receipt, free US return shipping",neutral,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Gem Noir,0,,,,,8,0,recommended,0,,Free US returns within 30 days with prepaid labels,neutral,high
+2026-11-02_delta_w01_gap12,claude|TR04|r1|t1,claude,TR04,r1,1,Fire & Brilliance,0,,,,,,0,mentioned,0,,Example: full eternity rings non-returnable,neutral,high
+2026-11-02_delta_w01_gap12,claude|TR08|r1|t1,claude,TR08,r1,1,Angara,1,3,121,1,answer,1,0,recommended,0,,"Free express shipping, no minimum, 3-4 business days, free returns",positive,high
+2026-11-02_delta_w01_gap12,claude|TR08|r1|t1,claude,TR08,r1,1,Blue Nile,1,3,412,2,answer,2,0,recommended,0,,"Free overnight over $500, two-day under $500",positive,high
+2026-11-02_delta_w01_gap12,claude|TR08|r1|t1,claude,TR08,r1,1,James Allen,1,3,575,3,answer,3,0,recommended,0,,"Same as Blue Nile: overnight over $500, two-day under",positive,high
+2026-11-02_delta_w01_gap12,claude|TR08|r1|t1,claude,TR08,r1,1,Brilliant Earth,1,1,765,4,answer,4,0,recommended,0,,"Free FedEx shipping, but no overnight promise",neutral,high
+2026-11-02_delta_w01_gap12,claude|TR08|r1|t1,claude,TR08,r1,1,Gem Jewelers Co.,0,,,,,5,0,recommended,0,,Free overnight anywhere in USA; clear standout under $500,positive,high
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,Angara,1,3,247,1,answer,1,0,recommended,0,,"Most-cited gemstone specialist; Trustpilot 4.5 from ~3,000 reviews, Bizrate 9.4",positive,high
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,The Natural Sapphire Company,0,,,,,2,0,recommended,0,,5.0 WeddingWire rating; praised consultants for custom pieces,positive,high
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,Brilliant Earth,1,1,1237,2,answer,3,0,recommended,0,,"Trustpilot 4/5; premium pricing, delivery timing complaints",neutral,high
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,Ross-Simons,1,1,1584,5,answer,4,0,recommended,0,,"Value option; Trustpilot 4/5, Bizrate 9.1; stones look smaller",neutral,high
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,GemSelect,0,,,,,5,0,recommended,0,,Loose gemstones; stones match pictures per reviewer,positive,medium
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,James Allen,1,1,1486,3,answer,,0,compared_against,0,,Price benchmark: Brilliant Earth charges 15-20% more,neutral,high
+2026-11-02_delta_w01_gap12,claude|TR10|r1|t1,claude,TR10,r1,1,Blue Nile,1,1,1502,4,answer,,0,compared_against,0,,Price benchmark: Brilliant Earth charges 15-20% more,neutral,high
+2026-11-02_delta_w01_gap12,gemini|CU10|r1|t1,gemini,CU10,r1,1,Brilliant Earth,1,1,543,1,answer,1,0,recommended,0,,Online builder with massive gemstone inventory and US showrooms,positive,high
+2026-11-02_delta_w01_gap12,gemini|CU10|r1|t1,gemini,CU10,r1,1,Angara,1,2,934,2,answer,2,0,recommended,0,,Colored-gem specialist; builder starts with gemstone then setting,positive,high
+2026-11-02_delta_w01_gap12,gemini|CU10|r1|t1,gemini,CU10,r1,1,Grown Brilliance,1,1,1198,3,answer,3,0,recommended,0,,Ideal for lab-grown gemstones; online custom studio,positive,high
+2026-11-02_delta_w01_gap12,gemini|CU10|r1|t1,gemini,CU10,r1,1,Alexis Russell,0,,,,,4,0,recommended,0,,"3D builder for unique, artisan-style alternative gemstone rings",positive,high
+2026-11-02_delta_w01_gap12,gemini|CU10|r1|t1,gemini,CU10,r1,1,CustomMade,0,,,,,5,0,recommended,0,,Fully bespoke design with dedicated consultant and CAD renders,positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,The Natural Sapphire Company,0,,,,,1,0,recommended,0,,"One of largest natural, untreated, fancy-color sapphire inventories",positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,GemsNY,0,,,,,2,0,recommended,0,,Massive natural and lab sapphire inventory with 3D renderings,positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,Rare Carat,1,2,1178,1,answer,3,0,recommended,0,,Highly rated for transparency; compare certified natural sapphires,positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,Anueva Jewelry,0,,,,,4,0,recommended,0,,Specializes in American-mined Montana sapphires,positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,Brilliant Earth,1,2,1769,2,answer,5,0,recommended,0,,Major player with 40+ showrooms and online builder,positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,Blue Nile,1,2,2041,3,answer,6,0,recommended,0,,Trusted name with gemstone section and 360-degree video,positive,high
+2026-11-02_delta_w01_gap12,gemini|EN03|r1|t1,gemini,EN03,r1,1,EraGem,0,,,,,7,0,recommended,0,,"Vintage, antique and estate-style sapphire rings",positive,high
+2026-11-02_delta_w01_gap12,gemini|GN05|r1|t1,gemini,GN05,r1,1,Angara,1,2,421,1,answer,1,0,recommended,0,,Best for gemstone variety and direct-from-source value; lifetime warranty,positive,high
+2026-11-02_delta_w01_gap12,gemini|GN05|r1|t1,gemini,GN05,r1,1,GemsNY,0,,,,,2,0,recommended,0,,Best for loose stone customization,positive,high
+2026-11-02_delta_w01_gap12,gemini|GN05|r1|t1,gemini,GN05,r1,1,James Allen,1,2,1478,2,answer,3,0,recommended,0,,Best for visual certainty with HD 360 video,positive,high
+2026-11-02_delta_w01_gap12,gemini|GN05|r1|t1,gemini,GN05,r1,1,Brilliant Earth,1,2,1993,3,answer,4,0,recommended,0,,Best for ethical and sustainable sourcing,positive,high
+2026-11-02_delta_w01_gap12,gemini|GN05|r1|t1,gemini,GN05,r1,1,Blue Nile,1,2,2473,4,answer,5,0,recommended,0,,Best for high-end fine jewelry and heritage,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Helzberg,1,3,298,1,answer,1,0,recommended,0,,Wide garnet selection online and at mall locations,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Zales,1,1,567,2,answer,2,1,recommended,0,,Mall staples with dedicated birthstone collections,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Jared,1,2,575,3,answer,2,1,recommended,0,,Mall staples with dedicated birthstone collections,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Kohl's,0,,,,,3,1,recommended,0,,Mid-tier department store for affordable garnet pieces,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Macy's,1,1,752,4,answer,3,1,recommended,0,,Mid-tier department store for affordable garnet pieces,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Angara,1,2,965,5,answer,4,0,recommended,0,,"Extensive customization of garnet grade, carat and metal",positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Blue Nile,1,1,1196,6,answer,5,1,recommended,0,,High-end fine garnet jewelry with free shipping and returns,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Brilliant Earth,1,2,1208,7,answer,5,1,recommended,0,,High-end fine garnet jewelry with free shipping and returns,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Kendra Scott,1,2,1458,8,answer,6,0,recommended,0,,Popular everyday birthstone lines,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,BaubleBar,0,,,,,7,0,recommended,0,,"Trendier, budget-friendly customizable birthstone pieces",positive,high
+2026-11-02_delta_w01_gap12,gemini|OC01|r1|t1,gemini,OC01,r1,1,Catbird,1,2,1880,9,answer,8,0,recommended,0,,Delicate heirloom-quality designer garnet pieces,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Tiffany & Co.,1,1,406,1,answer,1,1,recommended,0,,High-end emerald and diamond fine jewelry,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Blue Nile,1,1,422,2,answer,1,1,recommended,0,,High-end emerald and diamond fine jewelry,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Fink's Jewelers,0,,,,,2,0,recommended,0,,Regional fine jeweler with emerald anniversary collections,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Tanishq,0,,,,,3,0,recommended,0,,"Gold and emerald rings, earrings and necklace sets",positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Etsy,1,1,1024,3,answer,4,0,recommended,0,,Independent creators for personalized emerald keepsakes,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Uncommon Goods,0,,,,,5,0,recommended,0,,Curated emerald-inspired gifts,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Nordstrom,1,1,1607,4,answer,6,1,recommended,0,,Luxury emerald home accents and glassware,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Saks Fifth Avenue,0,,,,,6,1,recommended,0,,Luxury emerald home accents and glassware,positive,high
+2026-11-02_delta_w01_gap12,gemini|OC09|r1|t1,gemini,OC09,r1,1,Macy's,1,1,1731,5,answer,7,0,recommended,0,,Accessible emerald-hued home decor,neutral,high
+2026-11-02_delta_w01_gap12,gemini|PR05|r1|t1,gemini,PR05,r1,1,Blue Nile,1,2,535,1,answer,1,1,recommended,0,$350 to $450,Dainty natural ruby pendants in 14K gold around $350-$450,positive,high
+2026-11-02_delta_w01_gap12,gemini|PR05|r1|t1,gemini,PR05,r1,1,James Allen,1,1,547,2,answer,1,1,recommended,0,$350 to $450,Dainty natural ruby pendants in 14K gold around $350-$450,positive,high
+2026-11-02_delta_w01_gap12,gemini|PR05|r1|t1,gemini,PR05,r1,1,Helzberg,1,2,815,3,answer,2,0,recommended,0,,Natural and lab ruby pieces under $500,positive,high
+2026-11-02_delta_w01_gap12,gemini|PR05|r1|t1,gemini,PR05,r1,1,Etsy,1,3,1044,4,answer,3,0,recommended,0,$50-$250,Handmade or vintage genuine ruby necklaces well under budget,positive,high
+2026-11-02_delta_w01_gap12,gemini|PR05|r1|t1,gemini,PR05,r1,1,Macy's,1,1,1437,5,answer,4,1,recommended,0,$300-$500,Department store promotions on ruby pendants,neutral,high
+2026-11-02_delta_w01_gap12,gemini|PR05|r1|t1,gemini,PR05,r1,1,Kay,1,1,1445,6,answer,4,1,recommended,0,$300-$500,Kay Outlet promotions on ruby pendants,neutral,high
+2026-11-02_delta_w01_gap12,gemini|ST09|r1|t1,gemini,ST09,r1,1,The Natural Sapphire Company,0,,,,,1,0,recommended,0,,"Thousands of natural yellow sapphire rings, each stone photographed",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST09|r1|t1,gemini,ST09,r1,1,Brilliant Earth,1,2,471,1,answer,2,0,recommended,0,,Create Your Own Ring with loose yellow sapphires,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST09|r1|t1,gemini,ST09,r1,1,Blue Nile,1,2,777,2,answer,3,0,recommended,0,,Browse natural yellow sapphires and set in custom mountings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST09|r1|t1,gemini,ST09,r1,1,Fenton,0,,,,,4,0,recommended,0,,"Ethical made-to-order yellow sapphire rings, free shipping and resizing",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST09|r1|t1,gemini,ST09,r1,1,Shane Co.,1,2,1259,3,answer,5,0,recommended,0,,Yellow sapphire rings with delivery or store pickup,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST09|r1|t1,gemini,ST09,r1,1,Ross-Simons,1,2,1472,4,answer,6,0,recommended,0,,Yellow sapphire cocktail rings and stackable bands,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,GemsNY,0,,,,,1,0,recommended,0,,Massive certified natural and lab-grown sapphire inventory,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,The Natural Sapphire Company,0,,,,,2,0,recommended,0,,"Exclusively natural, untreated, rare-colored sapphires",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,Earth's Treasury,0,,,,,3,0,recommended,0,,Ethically sourced precision-cut natural sapphires,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,Blue Nile,1,1,1507,1,answer,4,0,recommended,0,,Industry giant with diverse sapphire rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,Brilliant Earth,1,2,1729,2,answer,5,0,recommended,0,,"Ethical sourcing, preset and custom sapphire rings",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,Angara,1,1,1987,3,answer,6,0,recommended,0,,"Made-to-order; customize sapphire grade, carat, metal to budget",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,Etsy,1,1,2329,4,answer,7,0,recommended,0,,Antique estate and handmade sapphire rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,The RealReal,0,,,,,8,1,recommended,0,,Consignment platform for discounted vintage cocktail rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST13|r1|t1,gemini,ST13,r1,1,EBTH,0,,,,,8,1,recommended,0,,Estate sale platform for discounted vintage cocktail rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,GemsNY,0,,,,,1,0,recommended,0,,"Vast loose ruby selection with NYC custom settings, lab certificates",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,The Natural Ruby Company,0,,,,,2,0,recommended,0,,"Specialist since 1939 in natural, untreated rubies",positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,Angara,1,2,852,1,answer,3,0,recommended,0,,Extensive customizable ruby rings with certificate and free shipping,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,Brilliant Earth,1,3,1150,2,answer,4,0,recommended,0,,Ethical natural and lab-grown rubies with builder,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,Helzberg,1,1,1423,3,answer,5,0,recommended,0,,Solid inventory of natural and lab ruby rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,Hannoush Jewelers,0,,,,,6,1,recommended,0,,Traditional national jeweler with classic ruby rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|ST19|r1|t1,gemini,ST19,r1,1,Gordon Jewelers,0,,,,,6,1,recommended,0,,Traditional national jeweler with classic ruby rings,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR04|r1|t1,gemini,TR04,r1,1,James Allen,1,1,249,1,answer,1,0,recommended,0,,30-day money-back guarantee with free US return shipping,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR04|r1|t1,gemini,TR04,r1,1,Angara,1,4,596,2,answer,2,0,recommended,0,,"30-day returns, free insured return shipping, two free labels",positive,high
+2026-11-02_delta_w01_gap12,gemini|TR04|r1|t1,gemini,TR04,r1,1,Brilliant Earth,1,2,945,3,answer,3,0,recommended,0,,30-day guarantee from shipment availability; free FedEx label,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR04|r1|t1,gemini,TR04,r1,1,Blue Nile,1,3,1297,4,answer,4,0,recommended,0,,30-day full refund returns with free US shipping,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR08|r1|t1,gemini,TR08,r1,1,Angara,1,2,295,1,answer,1,0,recommended,0,,"Massive gemstone selection; free standard shipping, expedited extra",positive,high
+2026-11-02_delta_w01_gap12,gemini|TR08|r1|t1,gemini,TR08,r1,1,Brilliant Earth,1,2,626,2,answer,2,0,recommended,0,,Free secure insured express shipping on US orders,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR08|r1|t1,gemini,TR08,r1,1,Blue Nile,1,2,968,3,answer,3,0,recommended,0,,Free insured shipping on all US orders,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR08|r1|t1,gemini,TR08,r1,1,GemsNY,0,,,,,4,0,recommended,0,,Certified natural gemstones with free US shipping,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR08|r1|t1,gemini,TR08,r1,1,SuperJeweler,0,,,,,5,0,recommended,0,,Budget-friendly with free shipping on all US orders,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR10|r1|t1,gemini,TR10,r1,1,Rare Carat,1,2,292,1,answer,1,0,recommended,0,,Top transparency and satisfaction; ~4.9/5 Trustpilot and Google,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR10|r1|t1,gemini,TR10,r1,1,Angara,1,1,851,2,answer,2,0,recommended,0,,Praised for gemstone specialization and endless personalization,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR10|r1|t1,gemini,TR10,r1,1,GemsNY,0,,,,,3,0,recommended,0,,~4.9/5 from thousands of reviews for support and inventory,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR10|r1|t1,gemini,TR10,r1,1,Brilliant Earth,1,1,1858,3,answer,4,0,recommended,0,,Favored for ethical sourcing and transparent supply chains,positive,high
+2026-11-02_delta_w01_gap12,gemini|TR10|r1|t1,gemini,TR10,r1,1,Blue Nile,1,1,2375,4,answer,5,0,recommended,0,,Pioneer with reliable shipping and straightforward returns,positive,high

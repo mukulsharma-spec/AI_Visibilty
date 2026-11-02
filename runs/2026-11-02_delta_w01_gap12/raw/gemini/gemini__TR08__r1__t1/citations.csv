@@ -1,0 +1,8 @@
+prompt_id,app,source_name,domain,url,source_file
+TR08,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/#:~:text=Angara%3A%20Custom%20Gemstone%20Jewelry%2C%20Made%20To%20Order.%20Angara.,html_sources_panel
+TR08,gemini,Brilliant Earth,www.brilliantearth.com,"https://www.brilliantearth.com/jewelry/gemstone/#:~:text=Gemstone%20Jewelry.%20Our%20gemstone%20jewelry%20collection%20showcases,piece%20is%20ethically%20sourced%20and%20carefully%20crafted",html_sources_panel
+TR08,gemini,Brilliant Earth,www.brilliantearth.com,"https://www.brilliantearth.com/gemstones/shop-all/#:~:text=ENGAGEMENT%20RINGS%20DESIGN%20YOUR%20OWN%20ENGAGEMENT%20RING,Account%20Sign%20In.%20Wish%20List()%20My%20Bag()",html_sources_panel
+TR08,gemini,Blue Nile,www.bluenile.com,"https://www.bluenile.com/jewelry/gemstone-jewelry/all#:~:text=%2D30%25%20Oval%20Cut%20Blue%20Sapphire%20and%20Pav%C3%A9,Earrings%20in%20Sterling%20Silver%20(5mm)%20%24180.%20New.",html_sources_panel
+TR08,gemini,GemsNY,www.gemsny.com,"https://www.gemsny.com/gems#:~:text=Browse%20through%20our%20carefully%20curated%20selection%2C%20which,offer%20something%20for%20every%20preference%20and%20budget.",html_sources_panel
+TR08,gemini,GemsNY,www.gemsny.com,https://www.gemsny.com/gemstone-rings,html_sources_panel
+TR08,gemini,SuperJeweler.com,www.superjeweler.com,https://www.superjeweler.com/gemstone-jewelry,html_sources_panel
