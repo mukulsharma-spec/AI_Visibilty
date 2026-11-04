@@ -1,0 +1,113 @@
+@gemini|SG05|r1|t1 bullets_by_category
+Evelyn Gold Jewels|1|R|0|DTC brand focused on solid gold gemstones
+Missoma|2|R|0|Expanding solid gold fine line
+Daisy London|3|R|0|9ct and 14ct solid gold gemstone pieces
+Astrid & Miyu|4|R|0|Fine gemstone pieces beyond ear-stacking
+The Wearer|5|R|0|Islington multi-brand curator
+Catbird|6|R|+|US brand globally adored, ships to UK
+@gemini|SG06|r1|t1 bullets_by_category
+Ernest Jones|1|R|0|Well-known high street tennis bracelets
+T.H. Baker|2|R|0|Established independent family jeweller
+TJC|3|R|0|Colourful budget gemstone bracelets
+Tiffany & Co.|4|R|+|Timeless ultra-luxury investment piece
+@gemini|SG07|r1|t1 bullets_by_category
+Etsy|1|R|+|Incredible hub for independent makers
+eBay|2|R|0|Deals on pre-owned rings
+The Jewellery Store London|3|R|0|Sterling silver gemstone stacking rings
+Alison Moore Designs|4|R|0|Handcrafted in Orkney
+H.AZEEM London|5|R|0|925 sterling silver gemstone rings
+Daisy London|6|R|0|Signature stackable ring concept
+Missoma|7|R|0|Luxury demi-fine stacking rings
+Ernest Jones|8|R|0|Major high-street fixture
+H.Samuel|9|R|0|Reliable high-street option
+@gemini|SG11|r1|t1 bullets_by_category
+Grays Antique Market;Bermondsey Antique Market|1|R|0|World-famous for genuine Art Deco jewellery
+London Victorian Ring Co|2|R|0|Edwardian and Art Deco-style rings with showroom
+Antique Jewellery Company|3|R|0|Original Art Deco platinum emerald rings
+Lancastrian Jewellers|4|R|0|Extensive antique collection
+Berganza|5|R|0|Hatton Garden antique specialist
+Etsy|6|R|0|UK-based vintage-style sellers
+@gemini|SG12|r1|t1 bullets_by_category
+Angara|1|R|+|Excellent online selection of men's gemstone rings
+Diamond Heaven|2|R|0|Birmingham Jewellery Quarter based
+Ruby & Oscar|3|R|0|Accessible fine and contemporary men's rings
+Etsy|4|R|0|Artisan-crafted men's rings
+@gemini|SG13|r1|t1 bullets_by_category
+Target||F|0|Word 'target rings' as a ring style
+Hancocks|1|R|+|World-renowned antique and bespoke cocktail rings
+Garrard|2|R|0|Historic Royal Warrant holder
+Liberty London|3|R|0|Iconic department store curated designers
+Astrid & Miyu|4|R|0|London-born contemporary brand
+Tilly Sveaas;The Wearer|5|R|0|Multi-brand independent curators
+Lucy Andy Jewellery|6|R|0|Handmade bold statement rings
+Oliver Bonas|7|R|0|UK high street staple for trendy rings
+Missoma|8|R|0|London-based statement rings
+Pandora|9|R|0|Dedicated line of chunky statement rings
+@gemini|SG14|r1|t1 bullets_by_category
+Maya Magal|1|R|0|Modern everyday fine jewellery
+Phoebe Coleman|2|R|0|Contemporary fine jewellery
+À Vie Diamonds|3|R|+|Explicitly designs low-profile engagement rings
+Etsy|4|R|0|Search low profile bezel sapphire rings
+@gemini|ST01|r1|t1 bullets_by_category
+Ernest Jones|1|R|0|Well-known UK high street garnet rings
+T.H. Baker|2|R|0|Family-run UK jeweller
+Ramsdens|3|R|0|Large pre-owned garnet selection
+Grays Antique Market|4|R|0|London antique centre
+The Diamond Store|5|R|0|Popular UK online jeweller
+W Hamond|6|R|0|Historic Whitby jeweller
+TJC|7|R|0|Budget garnet rings
+@gemini|ST02|r1|t1 bullets_by_category
+John Lewis|1|R|0|Curated range of peridot earrings
+Monica Vinader;Missoma||M|0|Brands carried by John Lewis
+TJC|2|R|0|Extensive peridot selection
+Gemondo|3|R|+|UK gemstone specialist
+FineDiam|4|R|0|Handcrafted fine jewellery
+Etsy|5|R|0|Unique handmade peridot earrings
+Not On The High Street|6|R|0|Peridot birthstone earrings
+@gemini|ST04|r1|t1 bullets_by_category
+Goldsmiths|1|R|0|One of UK's leading luxury jewellers
+F. Hinds;Ernest Jones|2|R|0|Excellent high-street options
+Angara|3|R|+|Massive dedicated London blue topaz range
+Temple & Grace|4|R|0|High-grade gemstone and diamond rings
+TJC|5|R|0|Budget-friendly option
+Etsy|6|R|0|Unique vintage-inspired rings
+@gemini|ST05|r1|t1 bullets_by_category
+John Lewis|1|R|0|Aggregates many citrine jewellery brands
+Alex Monroe;Rachel Jackson London;Missoma;Monica Vinader||M|0|Brands available via John Lewis
+T.H. Baker|2|R|0|Long-standing British family jeweller
+ChloBo|3|R|0|Stacking bracelets and chokers
+Daisy London|4|R|0|Elegant wearable everyday pieces
+Djuna & Co.|5|R|0|Raw bohemian citrine pieces
+@gemini|ST08|r1|t1 bullets_by_category
+Aardvark Jewellery|1|R|0|Birmingham Jewellery Quarter
+Temple & Grace|2|R|0|Bespoke gemstone and diamond pieces
+EVGAD Jewellery|3|R|0|Independent maker specialising in alexandrite
+Grays Antique Market;London Silver Vaults|4|R|0|High-end antique dealers
+@gemini|ST09|r1|t1 bullets_by_category
+Angara|1|R|+|One of largest online gemstone jewellers
+Temple & Grace|2|R|0|Specialist fine jewellery store
+GLAMIRA|3|R|0|Granular customisation control
+Berganza|4|R|0|Unique one-of-a-kind antique pieces
+TJC|5|R|0|Budget-friendly option
+@gemini|ST10|r1|t1 bullets_by_category
+Holts Gems|1|R|0|Hatton Garden staple
+Austen & Blake|2|R|0|Custom-made ruby rings
+Taylor & Hart|3|R|0|London bespoke with virtual consultations
+Novita Diamonds|4|R|0|Premium lab-grown rubies
+Berganza|5|R|0|World-renowned antique rings
+Kojis|6|R|0|Bold high-end vintage
+Antique Jewellery Online|7|R|0|UK-based web platform
+@gemini|ST11|r1|t1 bullets_by_category
+H.Samuel;Ernest Jones|1|R|0|Nationwide high-street staples
+T.H. Baker|2|R|0|Established family jeweller
+Gemondo|3|R|+|Trusted UK online ruby destination
+TJC|4|R|0|Budget ruby jewellery
+Lloyds Family Jewellery;FineDiam|5|R|0|Excellent online UK jewellers
+New Cavendish Jewellers|6|R|0|Marylebone High Street boutique
+@gemini|ST13|r1|t1 bullets_by_category
+Goldsmiths|1|R|0|Excellent sapphire and diamond selection
+Ernest Jones;H.Samuel|2|R|0|Extensive online collections
+Laings|3|R|0|Historic UK jeweller
+Hancocks|4|R|0|Exquisite high-end sapphires
+Taylor & Hart;77 Diamonds|5|R|0|Custom-design online
+TJC|6|R|0|Affordable sapphire styles

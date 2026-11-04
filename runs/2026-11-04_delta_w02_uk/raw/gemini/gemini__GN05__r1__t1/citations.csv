@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+GN05,gemini,Berry's Jewellers,www.berrysjewellers.co.uk,https://www.berrysjewellers.co.uk/collections/berrys-coloured-gemstones,html_sources_panel
+GN05,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/multi-gemstone,html_sources_panel
+GN05,gemini,Titcombe Bespoke Jewellery,titcombebespoke.co.uk,https://titcombebespoke.co.uk/gemstones/,html_sources_panel
+GN05,gemini,londongemstones.com,londongemstones.com,https://londongemstones.com/,html_sources_panel

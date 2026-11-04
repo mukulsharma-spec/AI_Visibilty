@@ -1,0 +1,17 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "web_search": true,
+ "capture_quality": "full",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T08:06:30.662221Z",
+ "turn": 2,
+ "followup": true,
+ "answer_chars": 1350,
+ "citations": 7,
+ "citation_unique_urls": 7,
+ "notes": "turn=2 followup, verbatim, same chat. Clarifying-questions widget from t1 dismissed via X before sending. Searched the web panel expanded; chips are the only sources. Prompt: which of those has the best return policy",
+ "search_queries": [
+  "return policies UK sapphire engagement ring retailers (query text not exposed)"
+ ]
+}

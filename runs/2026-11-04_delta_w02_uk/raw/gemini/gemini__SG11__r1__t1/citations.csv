@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+SG11,gemini,The London Victorian Ring Co,www.london-victorian-ring.com,https://www.london-victorian-ring.com/collections/art-deco-emerald-rings,html_sources_panel
+SG11,gemini,The Antique Jewellery Company,www.antiquejewellerycompany.com,https://www.antiquejewellerycompany.com/shop/period/art-deco/antique-rings/emerald/,html_sources_panel
+SG11,gemini,Delphi Antiques,delphiantiques.com,https://delphiantiques.com/emerald-and-diamond-rings/,html_sources_panel

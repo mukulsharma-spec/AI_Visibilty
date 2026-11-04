@@ -1,0 +1,12 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "CP04",
+ "web_search": false,
+ "capture_quality": "good",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T08:00:50.937752Z",
+ "answer_chars": 3149,
+ "cite_count": 0,
+ "note": "Thinking rows only (Explaining the 4 Cs; Checking UK consumer protections); no Searched the web row"
+}

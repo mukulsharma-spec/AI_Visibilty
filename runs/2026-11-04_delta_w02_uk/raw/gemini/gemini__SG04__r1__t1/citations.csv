@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+SG04,gemini,Gatsby Jewellery,gatsbyjewellery.co.uk,https://gatsbyjewellery.co.uk/,html_sources_panel
+SG04,gemini,Antique Ring Boutique,www.antiqueringboutique.com,https://www.antiqueringboutique.com/collections/all-vintage-antique-rings,html_sources_panel
+SG04,gemini,Vintage Tom,vintagetom.co.uk,https://vintagetom.co.uk/collections/vintage-antique-rings,html_sources_panel
+SG04,gemini,Tobi Gem Setting,tobigem.co.uk,https://tobigem.co.uk/collections/engagement-rings,html_sources_panel

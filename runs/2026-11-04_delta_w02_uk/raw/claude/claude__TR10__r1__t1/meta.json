@@ -1,0 +1,11 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "TR10",
+ "prompt": "What are the highest-rated online gemstone jewelry stores based on customer reviews? I'm shopping in the UK.",
+ "web_search": true,
+ "capture_quality": "full (answer text, expanded Searched-the-web rows, screenshot; answer.html is simplified reconstruction)",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T06:55:00Z",
+ "unique_citation_urls": 35
+}

@@ -1,0 +1,13 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "pid": "CU03",
+  "engine": "claude",
+  "web_search": true,
+  "capture_quality": "ok",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "incognito_no_id",
+  "send_text": "Which online jewelers let me pick the metal and gemstone size for a pendant? I'm shopping in the UK.",
+  "answer_chars": 2160,
+  "citation_urls": 18,
+  "captured_at_utc": "2026-11-04T07:35:00Z"
+}

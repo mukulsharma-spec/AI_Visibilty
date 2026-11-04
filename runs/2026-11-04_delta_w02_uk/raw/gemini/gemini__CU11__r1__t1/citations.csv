@@ -1,0 +1,8 @@
+prompt_id,app,source_name,domain,url,source_file
+CU11,gemini,Beaverbrooks,www.beaverbrooks.co.uk,https://www.beaverbrooks.co.uk/jewellery/rings/proposal-rings,html_sources_panel
+CU11,gemini,www.proposalring.co.uk,www.proposalring.co.uk,https://www.proposalring.co.uk/,html_sources_panel
+CU11,gemini,The Cornish Diamond Co,www.thecornishdiamondco.com,https://www.thecornishdiamondco.com/pages/temporary-engagement-ring-before-forever-ring,html_sources_panel
+CU11,gemini,Beaverbrooks,www.beaverbrooks.co.uk,https://www.beaverbrooks.co.uk/jewellery/rings/proposal-rings,html_sources_panel
+CU11,gemini,The Cornish Diamond Co,www.thecornishdiamondco.com,https://www.thecornishdiamondco.com/pages/order-a-ring-sizer,html_sources_panel
+CU11,gemini,Kate Smith Jewellery,katesmithjewellery.co.uk,https://katesmithjewellery.co.uk/products/free-ring-sizer,html_sources_panel
+CU11,gemini,Sunshine Diamonds,www.sunshinediamonds.com,https://www.sunshinediamonds.com/resizing,html_sources_panel

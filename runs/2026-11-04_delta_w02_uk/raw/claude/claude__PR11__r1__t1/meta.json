@@ -1,0 +1,11 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "PR11",
+ "prompt": "sapphire earrings under 500 that are actually real I'm shopping in the UK.",
+ "platform": "claude",
+ "web_search": true,
+ "capture_quality": "ok",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T07:07:52Z"
+}

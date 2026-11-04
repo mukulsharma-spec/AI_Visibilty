@@ -1,0 +1,16 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "EN02",
+ "app": "claude",
+ "repeat": "r1",
+ "turn": "t1",
+ "prompt_sent": "What are the best places to buy an engagement ring online? I'm shopping in the UK.",
+ "chat_url": "https://claude.ai/new?incognito",
+ "chat_url_note": "incognito_no_id: Incognito chats keep address bar at /new?incognito",
+ "model_ui": "Sonnet 5.5 Medium (Incognito)",
+ "capture_quality": "text_wrapped_html",
+ "web_search": true,
+ "citation_count": 1,
+ "method": "3 parallel Claude incognito tabs, one prompt per tab",
+ "captured_at_utc": "2026-11-04T06:20:00Z"
+}

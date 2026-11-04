@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+CP04,chatgpt,GIA,gia.edu,https://www.gia.edu/?utm_source=chatgpt.com,html_card
+CP04,chatgpt,National Association of Jewellers,naj.co.uk,https://www.naj.co.uk/?utm_source=chatgpt.com,html_card
+CP04,chatgpt,Assay Assured,assayassured.co.uk,https://www.assayassured.co.uk/?utm_source=chatgpt.com,html_card
+CP04,chatgpt,Gem-A,gem-a.com,https://www.gem-a.com/?utm_source=chatgpt.com,html_card

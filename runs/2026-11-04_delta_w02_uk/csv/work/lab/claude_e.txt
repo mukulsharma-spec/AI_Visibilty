@@ -1,0 +1,220 @@
+@claude|SG12|r1|t1 paragraphs_by_category
+Jewlr|1|R|0|Affordable customisable men's gemstone rings
+Forge & Foundry;Not On The High Street|2|R|0|Signet ring styles on NOTHS
+Etsy|3|R|0|Sterling silver onyx signets
+Craft'd London|4|R|0|Dedicated onyx collection
+NineTwoFive|5|R|0|Men's signet ring collection
+Gems and Jewels UK;1stDibs|6|R|0|Birmingham seller via 1stDibs
+@claude|SG13|r1|t1 paragraphs_by_category
+Dinny Hall|1|R|0|Libby cocktail ring in 9k gold
+Catherine Best|2|R|0|Bold multi-stone colour rings
+Astley Clarke|3|R|0|Statement jewellery edit
+McCaul|4|R|0|Handmade 18-carat cocktail rings
+Fenton|5|R|0|Limited-edition cocktail collection
+Not On The High Street|6|R|0|Handmade British mid-range pieces
+Lat Elita|7|R|0|Silver cocktail rings with large stones
+1stDibs|8|R|0|Vintage cocktail rings from London dealers
+Vinted|9|R|0|Cheap end, costume statement rings
+@claude|SG14|r1|t1 paragraphs_by_category
+Maya Magal|1|R|0|London workshop bezel set rings
+Pruden & Smith|2|R|0|Dainty sapphire bezel ring
+Taylor & Hart|3|R|0|Bezel sapphire rings, Covent Garden
+Tomfoolery London|4|R|0|Stocks Shimara Carlow bezel ring
+Angara|5|R|0|Several affordable bezel sapphire styles
+Holts Gems|6|R|0|Bezel sapphire rings
+@claude|ST01|r1|t1 paragraphs_by_category
+F. Hinds|1|R|0|Wide garnet range from silver
+Ramsdens|2|R|0|Many 9ct yellow gold garnet rings
+TJC|3|R|0|Online option for gold garnet rings
+Holts Gems|4|R|0|Higher-spend garnet and diamond pieces
+@claude|ST02|r1|t1 bullets_by_price_tier
+Silver Scene|1|R|0|Under £60 independent UK jeweller
+Etsy|2|R|0|Many small sellers under £60
+F. Hinds|3|R|0|9ct gold peridot studs from £89.99
+The Fine Jewellery Company|4|R|0|Peridot studs and clusters
+Peter Jackson|5|R|0|Sterling silver peridot studs
+Angara|6|R|0|Higher-end pear-shaped peridot drops
+The Jewel Hut|7|R|0|18ct gold peridot studs
+Diamond Heaven|8|R|0|Peridot and diamond earrings
+@claude|ST04|r1|t1 bullets_by_category
+Michael Jones Jeweller|1|R|0|London Blue Topaz 9ct pieces
+The Fine Jewellery Company|2|R|0|9ct white gold blue topaz pieces
+TJC|3|R|0|9k white gold London blue topaz
+Juwelo|4|R|0|Cheaper Brazilian London blue topaz
+1stDibs|5|R|0|UK-based vintage sellers
+Etsy;eBay|6|R|0|Plenty of silver and gold-plated pieces
+@claude|ST05|r1|t1 bullets_by_category
+Goldsmiths|1|R|0|Citrine collection in gold
+Ramsdens|2|R|0|Gold and silver citrine rings
+The Fine Jewellery Company|3|R|0|Ladies' citrine rings
+Whamond|4|R|0|Hand-crafted gold citrine jewellery
+Silver Scene|5|R|0|Budget-friendly silver citrine
+Michael Jones Jeweller|6|R|0|Citrine pieces in 9ct gold
+Sheila Fleet|7|R|0|Distinctive designer citrine pieces
+Jewellery Discovery|8|R|0|Modern, vintage and antique citrine
+@claude|ST08|r1|t1 headings
+Hancocks;Bentley & Skinner|1|R|0|Specialist antique jewellers that source alexandrite
+Bonhams;Chiswick Auctions;Fellows|2|R|0|Auctions with vintage alexandrite rings
+@claude|ST09|r1|t1 paragraphs_by_category
+Angara|1|R|+|Wide range of yellow sapphire rings in UK
+Holts Gems|2|R|0|Yellow sapphire and diamond floral ring
+Pruden & Smith|3|R|0|28-day returns
+AC Silver|4|R|0|Dedicated yellow sapphire section
+KJJ|5|R|0|Vintage yellow sapphire pieces
+Jewellery Discovery|6|R|0|Estate and pre-owned pieces
+Antique Ring Boutique|7|R|0|Vintage and mid-century rings
+1stDibs|8|R|0|Marketplace with UK-based sellers
+Shining Diamonds||M|-|Page lists yellow diamonds, not sapphires
+@claude|ST10|r1|t1 paragraphs_by_category
+Goldsmiths;Mappin & Webb;Beaverbrooks;Ernest Jones|1|R|0|High street established ruby retailers
+Boodles;Garrard;Graff|2|R|0|Luxury end ruby jewellers
+Angara|3|R|0|UK site with large selection of rubies
+@claude|ST11|r1|t1 paragraphs_by_category
+Goldsmiths;Ernest Jones;H. Samuel|1|R|0|Widely available high-street ruby pendants
+Beaverbrooks|2|R|0|Well-regarded UK chain
+Pandora;Swarovski|3|R|0|Lower budget options
+John Lewis;Argos|4|R|0|Affordable options
+Angara|5|R|0|Lots of ruby pendants in different settings
+Blue Nile;Brilliant Earth|6|R|0|Good for higher-end pieces
+Etsy|7|R|0|Independent makers and vintage-style
+Mappin & Webb;Garrard;Boodles|8|R|0|High-end ruby pendants
+Bonhams;Sotheby's|9|R|0|Auction houses for distinctive pieces
+@claude|ST13|r1|t1 paragraphs_by_category
+Beaverbrooks;Goldsmiths;Ernest Jones;F. Hinds|1|R|0|High street chains with big online ranges
+Angara|2|R|0|Large selection of natural and lab-created sapphires
+Blue Nile|3|R|0|Best for diamond-accented sapphire rings
+Taylor & Hart;Ingle & Rhode|4|R|0|Well regarded online specialists
+Monica Vinader;Astley Clarke;Missoma|5|R|0|Fashion everyday gemstone jewellery
+Boodles;Garrard|6|R|0|Luxury pieces
+Etsy|7|R|0|One-of-a-kind pieces
+@claude|ST14|r1|t1 paragraphs
+Angara|1|R|+|Cheapest route: lab-grown emerald from about £599
+Diamond Heaven;Shining Diamonds|2|R|0|Natural emerald pieces with sale pricing
+Juwelo|3|R|0|Emerald pieces come with certificate
+Ramsdens|4|R|0|UK high-street jeweller with free delivery
+@claude|ST15|r1|t1 paragraphs
+Angara|1|R|+|Big range of morganite rings
+GLAMIRA|2|R|0|Good for customising
+Lloyds Family Jewellery|3|R|0|Natural earth-mined morganite in solid gold
+Shining Diamonds|4|R|0|Dedicated morganite engagement section
+Etsy|5|R|0|Independent makers and one-off designs
+@claude|ST16|r1|t1 paragraphs_by_category
+Pragnell|1|R|0|British-made fine sapphire necklaces
+Mappin & Webb|2|R|0|Dedicated sapphire necklace range
+Berry's Jewellers|3|R|0|Own collections plus brands like Fope
+Goldsmiths|4|R|0|Range of sapphire necklaces and pendants
+Michael Jones Jeweller|5|R|0|Sapphire and diamond necklaces in 18ct gold
+The Jewellers|6|R|0|9ct gold options
+Hatton Jewellers|7|R|0|New and pre-owned with certificates
+@claude|ST17|r1|t1 paragraphs_by_category
+F. Hinds|1|R|0|9ct gold emerald studs from about £109
+Ernest Jones|2|R|0|9ct emerald studs, halos and hoops
+Goldsmiths|3|R|0|Dedicated emerald earrings category
+Ramsdens|4|R|0|Free UK delivery, 14-day returns
+Hatton Jewellers|5|R|0|Emerald earrings come with certificate
+Michael Jones Jeweller|6|R|0|Fine 18ct pear-shaped emerald pieces
+Pragnell|7|R|0|High-end emerald earrings
+Mozeris Fine Antiques|8|R|0|Vintage and antique emerald earrings
+Wowcher|9|R|0|Emerald stud deals
+Le Vian||M|0|Designer pieces carried by Ernest Jones
+@claude|ST18|r1|t1 paragraphs_by_category
+Ernest Jones|1|R|0|Dedicated opal engagement ring section
+Angara|2|R|0|Opal and diamond rings, vintage-style
+MOH London|3|R|0|Hatton Garden opal engagement rings
+Laurelle Antique Jewellery|4|R|0|Art Deco, Georgian, Edwardian opal rings
+Jewellery Discovery|5|R|0|Antique opal pieces
+Jewlr|6|R|0|Design your own opal ring
+Not On The High Street|7|R|0|Independent makers
+IfShe;TJC|8|R|0|More affordable opal rings in silver
+@claude|ST19|r1|t1 paragraphs_by_category
+Goldsmiths|1|R|0|Dedicated ruby ring range online
+Ramsdens|2|R|0|Ruby jewellery with Click & Collect
+Shining Diamonds|3|R|0|Ruby and diamond rings with finance
+The Diamond Store|4|R|0|Ruby rings from about £219
+Juvetti|5|R|0|London lab-grown ruby rings
+The Diamond Ring Company|6|R|0|Hatton Garden bespoke rubies
+1stDibs|7|R|0|Vintage and antique UK dealers
+eBay|8|R|0|Huge range, quality varies
+@claude|ST20|r1|t1 paragraphs
+Lily Arkwright|1|R|0|UK online jeweller with 450+ moissanite rings
+Charles & Colvard|2|R|0|Sells direct; Forever One stones
+IfShe|3|R|0|Also sells moissanite rings in UK
+Walmart||M|-|Cheap marketplace rings with variable plating and quality
+@claude|ST23|r1|t1 paragraphs_by_category
+H. Samuel|1|R|0|Dedicated aquamarine engagement section
+Angara|2|R|0|UK site with free express shipping and returns
+Lily Arkwright|3|R|0|Lab-grown aquamarine engagement rings
+Fine Diam|4|R|0|UK hallmarked oval aquamarine halo ring
+Jewellery Discovery|5|R|0|Large aquamarine range
+Laurelle Antique Jewellery|6|R|0|22 aquamarine engagement rings
+eBay||M|-|Avoid unless seller is reputable
+@claude|TR01|r1|t1 numbered_headings
+@claude|TR02|r1|t1 paragraphs_by_category
+Angara|1|R|0|UK listings include GIA-certified stones
+Reve Diamonds|2|R|0|Certified gemstones in London
+Berganza|3|R|0|Hatton Garden antique specialist
+Gems and Jewels UK|4|R|0|Loose certified stones in Birmingham
+@claude|TR03|r1|t1 paragraphs
+London Diamonds|1|R|+|Standout lifetime warranty with resizing
+Queensmith|2|R|0|One free resize within 60 days
+Cullen Jewellery|3|R|0|One free resize within 12 months
+Pruden & Smith||C|0|Weaker fit; one free resize
+The Diamond Store||C|0|Only a 5-year warranty
+@claude|TR04|r1|t1 paragraphs
+Angara|1|R|0|Free 30-day returns on product pages
+The Diamond Store|2|R|0|Free 30-day returns
+Ernest Jones|3|R|0|Return online purchases in store
+Monica Vinader;John Lewis|4|R|0|30-day returns direct and via John Lewis
+Beaverbrooks|5|R|0|30-day return window
+@claude|TR05|r1|t1 headings
+Beaverbrooks;Goldsmiths;Ernest Jones;Mappin & Webb|1|R|0|Convenient with straightforward returns and aftercare
+Angara;Blue Nile|2|R|0|Online specialists with UK sites
+@claude|TR06|r1|t1 paragraphs_by_category
+Apsara|1|R|0|Full disclosure policy on treatments
+Gems and Jewels UK|2|R|0|Clear disclosure, via 1stDibs
+Prins & Prins|3|R|0|Publishes treatment guide
+Gemporia;Angara||M|0|Generally state treatments in listings
+@claude|TR07|r1|t1 paragraphs_by_category
+Nineteen48;Rubyfair|1|R|0|Loose ethically sourced stones
+Holts Gems|2|R|0|Hatton Garden; guide to ethical sourcing
+London DE|3|R|0|Bespoke jewellery with traceable emeralds
+Just D|4|R|0|Traceable diamonds and gemstones
+Ingle & Rhode|5|R|0|Traceable Canadian diamonds in rings
+Pragnell|6|R|0|Applies ethical principles to gemstones
+@claude|TR08|r1|t1 paragraphs_by_category
+Berry's Jewellers|1|R|0|Free UK next-day delivery
+C W Sellors|2|R|0|Free next-day on gemstone collection
+John Lewis||C|0|Free standard delivery, not fast
+Ramsdens||C|0|Free UK delivery, no speed stated
+Monica Vinader||M|0|Brand sold at John Lewis
+@claude|TR09|r1|t1 paragraphs
+Hatton Jewellers|1|R|+|Widest range of pay-later options
+Beaverbrooks|2|R|0|Klarna pay 30 days after delivery
+Diamond Rocks|3|R|0|0% finance via Klarna
+Daisy Jewellery|4|R|0|Offers Klarna
+Antique Jewellers|5|R|0|Klarna pay in 30 days
+Jewlr|6|R|0|Split cost into three payments
+EverWith|7|R|0|Klarna buy now pay later
+Ramsdens|8|R|0|Introductions to third-party funders
+@claude|TR10|r1|t1 paragraphs_by_category
+Lily Arkwright|1|R|+|TrustScore 5.0 from 935 reviews
+Lloyds Family Jewellery|2|R|0|4.9 from 211 reviews
+Gemporia|3|R|0|4.5-4.6 across ~19,000 reviews
+Angara|4|R|0|4.5-4.7 from nearly 3,000 reviews
+Love Amber X|5|R|0|4.5-4.6 from 3,000+ reviews
+Gemondo|6|R|0|4.4-4.5 from 306 reviews
+Gem Bazaar|7|R|0|Customers praise service, 51 reviews
+Jian London|8|R|0|519 reviews
+Great British Gems;Berlin Gems|9|R|0|Score around 4.8+ with fewer reviews
+@claude|TR11|r1|t1 headings
+@claude|TR12|r1|t1 bullets
+Sonny's Jewellers|1|R|0|Always provides a certificate
+Reve Diamonds|2|R|0|Certified gemstone collection
+Berry's Jewellers|3|R|0|Natural gemstone pieces with certificates
+Timothy Roe|4|R|0|Pieces labelled with certificate
+Holts Gems|5|R|0|In-house qualified gemmologists
+Laurelle Antique Jewellery|6|R|0|Partnered with European lab
+@claude|TR13|r1|t1 paragraphs_by_category
+Gem Collector UK||M|0|Feefo reviews praise; one cancellation complaint
+GemSelect||M|+|Reviewers praised shipping and service
+Gemondo||M|-|Trustpilot: items look smaller than online

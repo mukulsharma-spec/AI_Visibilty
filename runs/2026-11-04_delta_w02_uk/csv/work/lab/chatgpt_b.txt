@@ -1,0 +1,138 @@
+@chatgpt|GN03|r1|t1 numbered_list
+Missoma|1|R|+|Best overall jewellery store
+Astrid & Miyu|2|R|0|Best for minimalist jewellery
+Monica Vinader|3|R|+|Elegant and sophisticated pick
+Orelia|4|R|0|Best for affordable jewellery
+Pandora|5|R|0|Best for personalised gifts
+Mejuri|6|R|+|Best for everyday fine jewellery
+Edge of Ember|7|R|0|Mid-range jewellery
+Astley Clarke|8|R|0|Best for fine jewellery
+Daphine|9|R|0|Mid-premium jewellery
+Tiffany & Co.|10|R|0|Luxury jewellery
+Cartier|11|R|+|Top luxury jewellery pick
+Mappin & Webb|12|R|0|Luxury jewellery
+@chatgpt|GN04|r1|t1 numbered_list
+Taylor & Hart|1|R|+|Best for fully bespoke designs
+Harriet Kelsall|2|R|+|Best for creative one-of-a-kind pieces
+Blackacre London|3|R|0|Best for luxury bespoke jewellery
+Lily & Roo|4|R|0|Best for personalised fine jewellery
+Edge of Ember|5|R|0|Best for modern personalised designs
+Monica Vinader|6|R|0|Best for engraving and personalisation
+Queensmith||M|0|Pick for custom diamond ring
+@chatgpt|GN05|r1|t1 numbered_list
+Gemondo|1|R|+|First recommendation; specialises in coloured gemstones
+Astley Clarke|2|R|0|Elegant contemporary designer jewellery
+C W Sellors|3|R|0|Traditional gemstone jewellery
+Gemporia|4|R|0|Best for variety and value
+Monica Vinader|5|R|0|Modern stylish gemstone jewellery
+@chatgpt|IM01|r1|t1 product_cards
+Sunshine Diamonds|1|R|+|Best budget oval sapphire halo option
+Prime Jewellery|2|R|0|Natural sapphire halo, middle-ground option
+The Fine Jewellery Company|3|R|0|Natural sapphire and diamond halo
+Purely Diamonds|4|R|0|1.10ct oval sapphire halo
+Robert Gatward|5|R|0|Statement luxury double halo
+@chatgpt|IM02|r1|t1 product_cards
+Cheshires the Jewellers|1|R|+|Closest match emerald with diamond shoulders
+City of London Jewellers|2|R|0|Emerald-cut with graduated diamonds
+Johnsons Jewellers|3|R|0|Emerald cluster with diamond shoulders
+Paul James Jewellers|4|R|0|Octagon-cut emerald; listed sold out
+Hancocks||M|0|More UK jewellers worth exploring
+@chatgpt|IM03|r1|t1 product_cards
+Goldsmiths|1|R|0|Ruby birthstone studs
+WJ Shaw Jewellers|2|R|0|Round ruby bezel studs
+Jordans Jewellers|3|R|0|Oval ruby rubover studs
+Michael Jones Jeweller|4|R|+|Beautiful fine-jewellery ruby solitaire studs
+Bercott|5|R|0|Round ruby studs
+@chatgpt|IM04|r1|t1 product_cards
+Franki Baker|1|R|0|Natural tanzanite solitaire necklace
+The Diamond Store|2|R|0|Tanzanite birthstone locket and pendant
+TJC|3|R|0|Tanzanite teardrop halo pendant
+Chisholm Hunter|4|R|0|9ct gold and 18ct tanzanite pendants
+Ruby & Oscar|5|R|+|Lovely fine-jewellery tanzanite necklace
+@chatgpt|IM05|r1|t1 product_cards
+Fenton & Co|1|R|0|Garland emerald pink sapphire ring
+Temple & Grace|2|R|0|Oval pink sapphire and diamond
+Juvetti|3|R|0|Lab-grown princess-cut pink sapphire
+The Diamond Store|4|R|0|Oval pink sapphire and diamond ring
+Cheshires the Jewellers|5|R|0|Oval pink sapphire halo, platinum
+Robert Gatward|6|R|+|Beautiful pink sapphire trilogy
+@chatgpt|IM07|r1|t1 product_cards
+Abiza|1|R|0|Handmade UK Ethiopian fire opal studs
+Tish Lyon;John Lewis|2|R|0|White opal flower studs at John Lewis
+F. Hinds|3|R|0|9ct gold opal studs
+TJC|4|R|0|Affordable Ethiopian opal studs
+Glitter & Gem|5|R|0|Independent UK jeweller opal studs
+Shooting Star Cornwall|6|R|0|Budget blue opal studs from £16
+@chatgpt|IM10|r1|t1 product_cards
+Smiths the Jewellers|1|R|+|Best affordable option at £899
+Segal's Jewellers|2|R|0|Ruby and diamond three-stone, in stock
+Michael Jones Jeweller|3|R|+|Best traditional design and statement ring
+Susannah Lovis Jewellers|4|R|+|Best exceptional gemstone, GIA unheated ruby
+@chatgpt|IM11|r1|t1 product_cards
+QP Jewellers|1|R|0|Stella Infinite bestseller and Colette bracelets
+RH Jewellers|2|R|0|18ct sapphire tennis bracelet
+The Diamond Store|3|R|0|Sapphire and diamond bracelet
+Diamonds & Co|4|R|0|Rain natural sapphire and diamond
+Juvetti||M|0|More UK collections: gemstone tennis bracelets
+@chatgpt|IM12|r1|t1 product_cards
+QP Jewellers|1|R|0|Rose gold aquamarine, amethyst, sapphire, ruby rings
+Gold Boutique|2|R|0|Art Deco garnet halo ring
+Ruby & Oscar|3|R|0|Solstice emerald ring
+@chatgpt|LG01|r1|t1 numbered_list
+The Diamond Store|1|R|+|Best overall selection
+Created Brilliance|2|R|0|Best for fine gold jewellery
+TJC|3|R|0|Best budget-friendly selection
+Heavenly London|4|R|0|Modern minimalist pieces
+Keanis|5|R|0|Certified blue lab sapphires
+Eleanor Johnson Jewellery|6|R|0|Unusual designer jewellery
+@chatgpt|LG02|r1|t1 numbered_list
+Created Brilliance|1|R|+|Top pick for fine jewellery
+Nude Jewellery|2|R|0|Bespoke and premium
+Juvetti|3|R|0|Approx £180-£950
+Rosec Jewels|4|R|0|Approx £218-£1,600
+Loveness Lee|5|R|0|Contemporary artistic designs
+Goldlinks|6|R|0|Approx £649-£789
+@chatgpt|LG03|r1|t1 numbered_list
+Goldlinks|1|R|+|Best overall starting point
+Rosec Jewels|2|R|0|Best for variety
+Temple & Grace|3|R|0|Best for bespoke designs
+@chatgpt|LG05|r1|t1 numbered_headings
+Lily Arkwright|1|R|+|Pick for engagement rings
+The Diamond Store|2|R|0|Good range of prices
+Eleanor Johnson Jewellery|3|R|0|Lab-grown sapphire jewellery
+Keanis|4|R|0|Lab-grown sapphires
+TJC|5|R|0|Lab-grown sapphires
+@chatgpt|LG08|r1|t1 numbered_list
+Jeff Davies & Son|1|R|+|Best for loose coloured gemstones
+President Jewellers|2|R|0|Best for emeralds
+Hatton Garden Bespoke Jewellery|3|R|0|Bespoke natural and lab gemstones
+The Carat Club|4|R|0|Gemstone and diamond supplier
+Titcombe Bespoke|5|R|0|Bespoke natural and lab-grown gems
+@chatgpt|LG09|r1|t1 numbered_headings
+The Diamond Store|1|R|+|Good starting point for choice
+Juvetti|2|R|+|Pick for something more special
+Created Brilliance|3|R|0|Lab-created emeralds
+Anabela Chan|4|R|0|Lab emerald jewellery
+Temple & Grace|5|R|0|Emerald rings
+@chatgpt|MT01|r1|t1 headings
+Garrard|1|R|0|Heritage sapphire designs
+Pragnell|2|R|0|Luxury coloured gemstones
+Austen & Blake|3|R|0|Customisable engagement rings
+The Antique Jewellery Company|4|R|0|Antique and vintage sapphire rings
+A Vie Diamonds|5|R|0|Bespoke sapphire engagement rings
+@chatgpt|MT01|r1|t2 comparison_table
+The Antique Jewellery Company|1|R|+|Top pick for return flexibility
+Austen & Blake|2|R|0|Free return options with conditions
+Garrard|3|R|0|Free UK collection returns
+Pragnell|4|R|-|Customer pays return postage
+@chatgpt|MT02|r1|t1 product_cards
+Sunshine Diamonds|1|R|0|Affordable emerald earrings £156.75
+The Diamond Store|2|R|0|Natural and lab-grown emerald options
+Astley Clarke|3|R|0|Created emerald earrings
+Rosec Jewels|4|R|0|Lab-grown emerald earrings from £198
+@chatgpt|MT02|r1|t2 product_cards
+Juvetti|1|R|+|Everyday pick and prettiest halo
+Sunshine Diamonds|2|R|0|Great value emerald studs
+The Diamond Store|3|R|+|Best dramatic pair, Astra drops
+Bail & Stone|4|R|0|Kiss crossover emerald drop
+Northumberland Goldsmiths|5|R|+|Best straightforward solid-gold option

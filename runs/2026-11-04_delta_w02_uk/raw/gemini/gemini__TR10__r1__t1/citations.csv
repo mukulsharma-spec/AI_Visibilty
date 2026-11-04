@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+TR10,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/,html_sources_panel
+TR10,gemini,www.austenblake.com,www.austenblake.com,https://www.austenblake.com/,html_sources_panel
+TR10,gemini,Trustpilot,www.trustpilot.com,https://www.trustpilot.com/review/www.thecuriousgem.co.uk,html_sources_panel
+TR10,gemini,Trustpilot,www.trustpilot.com,https://www.trustpilot.com/review/www.thecuriousgem.co.uk,html_sources_panel

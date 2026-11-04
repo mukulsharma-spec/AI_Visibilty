@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+ST01,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/l/garnet-rings,html_sources_panel
+ST01,gemini,T.H.Baker,www.thbaker.co.uk,https://www.thbaker.co.uk/garnet-jewellery/,html_sources_panel
+ST01,gemini,T.H.Baker,www.thbaker.co.uk,https://www.thbaker.co.uk/garnet-jewellery/,html_sources_panel
+ST01,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/garnet-rings,html_sources_panel
+ST01,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/garnet-rings,html_sources_panel

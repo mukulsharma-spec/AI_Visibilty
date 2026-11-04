@@ -1,0 +1,11 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "CP10",
+ "prompt": "what makes one sapphire more expensive than another? I'm shopping in the UK.",
+ "platform": "claude",
+ "web_search": false,
+ "capture_quality": "ok",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T08:31:00Z"
+}

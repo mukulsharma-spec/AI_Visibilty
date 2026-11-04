@@ -1,0 +1,13 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "pid": "CU01",
+  "engine": "claude",
+  "web_search": true,
+  "capture_quality": "ok",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "incognito_no_id",
+  "send_text": "Where can I buy a gemstone ring and choose the gemstone quality grade? I'm shopping in the UK.",
+  "answer_chars": 2088,
+  "citation_urls": 20,
+  "captured_at_utc": "2026-11-04T07:25:00Z"
+}

@@ -1,0 +1,7 @@
+prompt_id,app,source_name,domain,url,source_file
+ST19,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/l/ruby-rings,html_sources_panel
+ST19,gemini,H.Samuel,www.hsamuel.co.uk,https://www.hsamuel.co.uk/l/ruby-rings,html_sources_panel
+ST19,gemini,F.Hinds,www.fhinds.co.uk,https://www.fhinds.co.uk/jewellery/gold-and-silver-jewellery/rings/ruby-rings,html_sources_panel
+ST19,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/ruby-rings,html_sources_panel
+ST19,gemini,Hancocks London,hancockslondon.com,https://hancockslondon.com/engagement/shop-by-gemstone/ruby,html_sources_panel
+ST19,gemini,Garrard,www.garrard.com,https://www.garrard.com/en-us/collections/ruby-rings,html_sources_panel

@@ -1,0 +1,128 @@
+prompt_id,category,prompt_text,followup_text,send_text
+GN02,Generic,Where can I buy fine jewelry online?,,Where can I buy fine jewelry online? I'm shopping in the UK.
+GN03,Generic,What are the best online jewelry stores?,,What are the best online jewelry stores? I'm shopping in the UK.
+GN04,Generic,What are the best online jewelry stores for custom jewelry?,,What are the best online jewelry stores for custom jewelry? I'm shopping in the UK.
+GN05,Generic,What is the best place to buy colored gemstone jewelry online?,,What is the best place to buy colored gemstone jewelry online? I'm shopping in the UK.
+EN01,Engagement,Where can I buy a 1 carat diamond ring?,,Where can I buy a 1 carat diamond ring? I'm shopping in the UK.
+EN02,Engagement,What are the best places to buy an engagement ring online?,,What are the best places to buy an engagement ring online? I'm shopping in the UK.
+EN03,Engagement,"engagement ring with a sapphire center instead of a diamond, where to buy",,"engagement ring with a sapphire center instead of a diamond, where to buy I'm shopping in the UK."
+ST01,Stone,My girlfriend's birthstone is garnet. Where's a good place to get her a garnet ring?,,My girlfriend's birthstone is garnet. Where's a good place to get her a garnet ring? I'm shopping in the UK.
+ST02,Stone,Where can I buy peridot earrings online?,,Where can I buy peridot earrings online? I'm shopping in the UK.
+ST04,Stone,Where can I buy a London blue topaz ring?,,Where can I buy a London blue topaz ring? I'm shopping in the UK.
+ST05,Stone,Looking for some nice citrine jewelry. Any good places to shop online?,,Looking for some nice citrine jewelry. Any good places to shop online? I'm shopping in the UK.
+ST08,Stone,"I want a real alexandrite ring, not a synthetic one. Where can I find one?",,"I want a real alexandrite ring, not a synthetic one. Where can I find one? I'm shopping in the UK."
+ST09,Stone,Where can I buy a yellow sapphire ring online?,,Where can I buy a yellow sapphire ring online? I'm shopping in the UK.
+ST10,Stone,I'm thinking of proposing with a ruby instead of a diamond. Where should I buy a ruby engagement ring?,,I'm thinking of proposing with a ruby instead of a diamond. Where should I buy a ruby engagement ring? I'm shopping in the UK.
+ST11,Stone,Where can I buy a ruby pendant necklace?,,Where can I buy a ruby pendant necklace? I'm shopping in the UK.
+ST13,Stone,sapphire ring where to buy online,,sapphire ring where to buy online I'm shopping in the UK.
+ST14,Stone,best site for emerald jewelry that isn't overpriced,,best site for emerald jewelry that isn't overpriced I'm shopping in the UK.
+ST15,Stone,"i want a morganite ring, any recommendations",,"i want a morganite ring, any recommendations I'm shopping in the UK."
+ST16,Stone,Where can I buy a sapphire necklace online?,,Where can I buy a sapphire necklace online? I'm shopping in the UK.
+ST17,Stone,Where can I buy emerald earrings online?,,Where can I buy emerald earrings online? I'm shopping in the UK.
+ST18,Stone,Where can I buy an opal engagement ring?,,Where can I buy an opal engagement ring? I'm shopping in the UK.
+ST19,Stone,Where can I buy a ruby ring online?,,Where can I buy a ruby ring online? I'm shopping in the UK.
+BS01,Bestseller,Where can I buy blue sapphire halo stud earrings online?,,Where can I buy blue sapphire halo stud earrings online? I'm shopping in the UK.
+BS02,Bestseller,What's the best place to buy ruby and diamond halo stud earrings?,,What's the best place to buy ruby and diamond halo stud earrings? I'm shopping in the UK.
+BS03,Bestseller,Where can I get an oval blue sapphire pendant with a diamond halo?,,Where can I get an oval blue sapphire pendant with a diamond halo? I'm shopping in the UK.
+BS04,Bestseller,Where can I buy a pear-shaped emerald engagement ring?,,Where can I buy a pear-shaped emerald engagement ring? I'm shopping in the UK.
+BS05,Bestseller,Best online store for an emerald-cut sapphire engagement ring with side diamonds,,Best online store for an emerald-cut sapphire engagement ring with side diamonds I'm shopping in the UK.
+BS06,Bestseller,Where can I buy a three-stone sapphire and diamond ring?,,Where can I buy a three-stone sapphire and diamond ring? I'm shopping in the UK.
+BS07,Bestseller,Who sells good tanzanite engagement rings online?,,Who sells good tanzanite engagement rings online? I'm shopping in the UK.
+BS08,Bestseller,I'm looking for aquamarine halo stud earrings. Where should I get them?,,I'm looking for aquamarine halo stud earrings. Where should I get them? I'm shopping in the UK.
+BS09,Bestseller,Where can I buy a sapphire and diamond eternity band online?,,Where can I buy a sapphire and diamond eternity band online? I'm shopping in the UK.
+BS10,Bestseller,Best place to buy a gemstone solitaire pendant necklace in 14k gold,,Best place to buy a gemstone solitaire pendant necklace in 14k gold I'm shopping in the UK.
+BS11,Bestseller,Where can I buy an opal pendant necklace online?,,Where can I buy an opal pendant necklace online? I'm shopping in the UK.
+BS12,Bestseller,Where can I buy an Akoya pearl strand necklace online?,,Where can I buy an Akoya pearl strand necklace online? I'm shopping in the UK.
+TR01,Trust,How can I tell if an online jeweler sells real natural gemstones?,,How can I tell if an online jeweler sells real natural gemstones? I'm shopping in the UK.
+TR02,Trust,Which online jewelers provide certification or grading reports for colored gemstones?,,Which online jewelers provide certification or grading reports for colored gemstones? I'm shopping in the UK.
+TR03,Trust,Which online jewelry stores offer free resizing and a lifetime warranty?,,Which online jewelry stores offer free resizing and a lifetime warranty? I'm shopping in the UK.
+TR04,Trust,Which online jewelers have 30-day free returns on gemstone rings?,,Which online jewelers have 30-day free returns on gemstone rings? I'm shopping in the UK.
+TR05,Trust,Is it safe to buy a sapphire engagement ring online? Where should I buy one?,,Is it safe to buy a sapphire engagement ring online? Where should I buy one? I'm shopping in the UK.
+TR06,Trust,Which online jewelers disclose gemstone treatments like heating or filling?,,Which online jewelers disclose gemstone treatments like heating or filling? I'm shopping in the UK.
+TR07,Trust,I care about ethics. Where can I buy colored gemstones that are ethically sourced?,,I care about ethics. Where can I buy colored gemstones that are ethically sourced? I'm shopping in the UK.
+TR08,Trust,Which online jewelers offer free fast shipping on gemstone jewelry?,,Which online jewelers offer free fast shipping on gemstone jewelry? I'm shopping in the UK.
+TR09,Trust,Which online jewelry stores offer financing or buy now pay later?,,Which online jewelry stores offer financing or buy now pay later? I'm shopping in the UK.
+TR10,Trust,What are the highest-rated online gemstone jewelry stores based on customer reviews?,,What are the highest-rated online gemstone jewelry stores based on customer reviews? I'm shopping in the UK.
+TR11,Trust,is it safe to order a $2000 gemstone ring from a site i haven't heard of,,is it safe to order a $2000 gemstone ring from a site i haven't heard of I'm shopping in the UK.
+PR01,Price,What's the best sapphire ring under $500?,,What's the best sapphire ring under $500? I'm shopping in the UK.
+PR02,Price,Where can I buy real gemstone earrings under $300?,,Where can I buy real gemstone earrings under $300? I'm shopping in the UK.
+PR03,Price,"Best sapphire stud earrings under $1,000",,"Best sapphire stud earrings under $1,000 I'm shopping in the UK."
+PR04,Price,"Where can I find an affordable emerald ring under $1,000?",,"Where can I find an affordable emerald ring under $1,000? I'm shopping in the UK."
+PR05,Price,I need a real ruby necklace but my budget is $500. Where should I look?,,I need a real ruby necklace but my budget is $500. Where should I look? I'm shopping in the UK.
+PR06,Price,Fine jewelry gifts with real gemstones under $200,,Fine jewelry gifts with real gemstones under $200 I'm shopping in the UK.
+PR07,Price,"Where should I buy a high-end colored gemstone ring over $5,000?",,"Where should I buy a high-end colored gemstone ring over $5,000? I'm shopping in the UK."
+PR08,Price,I'd like a tanzanite ring for under $800. Where's a good place to buy one?,,I'd like a tanzanite ring for under $800. Where's a good place to buy one? I'm shopping in the UK.
+PR11,Price,sapphire earrings under 500 that are actually real,,sapphire earrings under 500 that are actually real I'm shopping in the UK.
+OC01,Occasion,Where can I buy January birthstone jewelry?,,Where can I buy January birthstone jewelry? I'm shopping in the UK.
+OC02,Occasion,My wife was born in February. Where can I get her some amethyst birthstone jewelry?,,My wife was born in February. Where can I get her some amethyst birthstone jewelry? I'm shopping in the UK.
+OC07,Occasion,Our 45th anniversary is coming up and I want to get my wife a sapphire. Where should I shop?,,Our 45th anniversary is coming up and I want to get my wife a sapphire. Where should I shop? I'm shopping in the UK.
+OC08,Occasion,Where can I buy a ruby gift for a 40th wedding anniversary?,,Where can I buy a ruby gift for a 40th wedding anniversary? I'm shopping in the UK.
+OC09,Occasion,Where can I buy an emerald gift for a 55th anniversary?,,Where can I buy an emerald gift for a 55th anniversary? I'm shopping in the UK.
+OC10,Occasion,My daughter is graduating and I want to get her a gemstone necklace. Where should I buy one?,,My daughter is graduating and I want to get her a gemstone necklace. Where should I buy one? I'm shopping in the UK.
+OC13,Occasion,mother's day gift ideas with real gemstones,,mother's day gift ideas with real gemstones I'm shopping in the UK.
+OC14,Occasion,"treating myself to a nice gemstone ring, where should i shop",,"treating myself to a nice gemstone ring, where should i shop I'm shopping in the UK."
+OC15,Occasion,need a birthstone necklace delivered before christmas,,need a birthstone necklace delivered before christmas I'm shopping in the UK.
+OC16,Occasion,Where can I buy October birthstone jewelry?,,Where can I buy October birthstone jewelry? I'm shopping in the UK.
+CU01,Custom,Where can I buy a gemstone ring and choose the gemstone quality grade?,,Where can I buy a gemstone ring and choose the gemstone quality grade? I'm shopping in the UK.
+CU02,Custom,I'd like a gemstone ring engraved for free. Which stores do that?,,I'd like a gemstone ring engraved for free. Which stores do that? I'm shopping in the UK.
+CU03,Custom,Which online jewelers let me pick the metal and gemstone size for a pendant?,,Which online jewelers let me pick the metal and gemstone size for a pendant? I'm shopping in the UK.
+CU04,Custom,Where can I buy a ready-to-ship sapphire engagement ring that arrives in 2 days?,,Where can I buy a ready-to-ship sapphire engagement ring that arrives in 2 days? I'm shopping in the UK.
+CU08,Custom,Which online jewelers have virtual try-on for gemstone rings?,,Which online jewelers have virtual try-on for gemstone rings? I'm shopping in the UK.
+CU10,Custom,Where can I design my own gemstone ring online?,,Where can I design my own gemstone ring online? I'm shopping in the UK.
+SG02,Segment,Where can I buy a men's sapphire wedding band?,,Where can I buy a men's sapphire wedding band? I'm shopping in the UK.
+SG03,Segment,I want to give my girlfriend a promise ring with a real gemstone. Where should I get one?,,I want to give my girlfriend a promise ring with a real gemstone. Where should I get one? I'm shopping in the UK.
+SG04,Segment,Where can I buy vintage-style gemstone engagement rings?,,Where can I buy vintage-style gemstone engagement rings? I'm shopping in the UK.
+SG05,Segment,Where can I buy dainty everyday gemstone jewelry in solid gold?,,Where can I buy dainty everyday gemstone jewelry in solid gold? I'm shopping in the UK.
+SG06,Segment,What's a good place to buy a gemstone tennis bracelet?,,What's a good place to buy a gemstone tennis bracelet? I'm shopping in the UK.
+SG07,Segment,Where can I buy stackable gemstone rings?,,Where can I buy stackable gemstone rings? I'm shopping in the UK.
+SG11,Segment,"art deco style emerald ring, where would i even find that",,"art deco style emerald ring, where would i even find that I'm shopping in the UK."
+LG01,Lab-grown,Where can I buy lab-grown sapphire jewelry online?,,Where can I buy lab-grown sapphire jewelry online? I'm shopping in the UK.
+LG02,Lab-grown,What's a good place to get a lab-created emerald ring?,,What's a good place to get a lab-created emerald ring? I'm shopping in the UK.
+LG03,Lab-grown,What's the best place to buy a lab-grown ruby ring?,,What's the best place to buy a lab-grown ruby ring? I'm shopping in the UK.
+LG05,Lab-grown,"Are lab-grown sapphires worth buying, and where can I get one?",,"Are lab-grown sapphires worth buying, and where can I get one? I'm shopping in the UK."
+LG08,Lab-grown,Which online jewelers sell both natural and lab-grown gemstones?,,Which online jewelers sell both natural and lab-grown gemstones? I'm shopping in the UK.
+LG09,Lab-grown,are lab created emeralds any good and where do people buy them,,are lab created emeralds any good and where do people buy them I'm shopping in the UK.
+IM01,Show-me,Show me oval blue sapphire rings with a diamond halo in white gold,,Show me oval blue sapphire rings with a diamond halo in white gold I'm shopping in the UK.
+IM02,Show-me,Show me emerald-cut emerald rings with diamond side stones,,Show me emerald-cut emerald rings with diamond side stones I'm shopping in the UK.
+IM03,Show-me,Show me ruby stud earrings in yellow gold,,Show me ruby stud earrings in yellow gold I'm shopping in the UK.
+IM04,Show-me,Show me tanzanite pendant necklaces,,Show me tanzanite pendant necklaces I'm shopping in the UK.
+IM05,Show-me,Show me pink sapphire engagement rings,,Show me pink sapphire engagement rings I'm shopping in the UK.
+IM07,Show-me,Show me opal stud earrings,,Show me opal stud earrings I'm shopping in the UK.
+IM10,Show-me,Show me three-stone ruby and diamond rings,,Show me three-stone ruby and diamond rings I'm shopping in the UK.
+CP01,Compare,Sapphire vs diamond for an engagement ring: which is better?,,Sapphire vs diamond for an engagement ring: which is better? I'm shopping in the UK.
+CP02,Compare,Natural vs lab-grown sapphire: what's the difference and which should I buy?,,Natural vs lab-grown sapphire: what's the difference and which should I buy? I'm shopping in the UK.
+CP04,Compare,What should I look for when buying a sapphire online?,,What should I look for when buying a sapphire online? I'm shopping in the UK.
+CP05,Compare,Is tanzanite a good stone for an engagement ring?,,Is tanzanite a good stone for an engagement ring? I'm shopping in the UK.
+CP08,Compare,"What do gemstone quality grades like AA, AAA and AAAA mean?",,"What do gemstone quality grades like AA, AAA and AAAA mean? I'm shopping in the UK."
+CH01,Channel,should i buy gemstone jewelry on amazon or from a jeweler directly,,should i buy gemstone jewelry on amazon or from a jeweler directly I'm shopping in the UK.
+CH02,Channel,is etsy ok for buying a real sapphire ring,,is etsy ok for buying a real sapphire ring I'm shopping in the UK.
+MT01,Multi-turn,looking for a sapphire engagement ring,which of those has the best return policy,looking for a sapphire engagement ring I'm shopping in the UK.
+MT02,Multi-turn,i want emerald earrings,ok now show me ones under $600,i want emerald earrings I'm shopping in the UK.
+MT03,Multi-turn,best place to buy a ruby ring,is that site trustworthy,best place to buy a ruby ring I'm shopping in the UK.
+MT04,Multi-turn,"birthstone jewelry for my mom, her birthday is in may",where can i actually order that,"birthstone jewelry for my mom, her birthday is in may I'm shopping in the UK."
+MT05,Multi-turn,i need a gemstone ring resized and engraved,which of those ships fastest,i need a gemstone ring resized and engraved I'm shopping in the UK.
+CP09,Compare,is a heated sapphire worth less than an unheated one?,,is a heated sapphire worth less than an unheated one? I'm shopping in the UK.
+TR12,Trust,which online jewelers include a lab report with a colored gemstone?,,which online jewelers include a lab report with a colored gemstone? I'm shopping in the UK.
+CU11,Custom,"i don't know her ring size, which jewelers make that easy?",,"i don't know her ring size, which jewelers make that easy? I'm shopping in the UK."
+ST20,Stone,where can i buy a moissanite ring that doesn't look fake,,where can i buy a moissanite ring that doesn't look fake I'm shopping in the UK.
+SG12,Segment,"mens ring with a colored stone, not a diamond",,"mens ring with a colored stone, not a diamond I'm shopping in the UK."
+OC17,Occasion,do any jewelers include gift wrapping and a gift receipt for a gemstone necklace?,,do any jewelers include gift wrapping and a gift receipt for a gemstone necklace? I'm shopping in the UK.
+BS13,Bestseller,where can i get a wedding band that matches a sapphire engagement ring,,where can i get a wedding band that matches a sapphire engagement ring I'm shopping in the UK.
+PR12,Price,"where should i buy an unheated sapphire over $10,000",,"where should i buy an unheated sapphire over $10,000 I'm shopping in the UK."
+IM11,Show-me,show me gemstone tennis bracelets in white gold,,show me gemstone tennis bracelets in white gold I'm shopping in the UK.
+MT06,Multi-turn,i want a ruby ring under $1500,which of those actually certifies the stone,i want a ruby ring under $1500 I'm shopping in the UK.
+CH03,Channel,is it better to buy colored gemstones from a specialist or a big jewelry chain?,,is it better to buy colored gemstones from a specialist or a big jewelry chain? I'm shopping in the UK.
+CP10,Compare,what makes one sapphire more expensive than another?,,what makes one sapphire more expensive than another? I'm shopping in the UK.
+SG13,Segment,where can i buy a big statement cocktail ring with a colored stone,,where can i buy a big statement cocktail ring with a colored stone I'm shopping in the UK.
+OC18,Occasion,"valentine's day gift for her, something with a real gemstone, need it by the 14th",,"valentine's day gift for her, something with a real gemstone, need it by the 14th I'm shopping in the UK."
+TR13,Trust,what do customer reviews actually say about buying colored gemstones online?,,what do customer reviews actually say about buying colored gemstones online? I'm shopping in the UK.
+IM12,Show-me,"show me rose gold gemstone rings under $1,000",,"show me rose gold gemstone rings under $1,000 I'm shopping in the UK."
+OC21,Occasion,"push present for my wife, something with a real gemstone, where should i look?",,"push present for my wife, something with a real gemstone, where should i look? I'm shopping in the UK."
+ST23,Stone,"aquamarine engagement ring, where's a good place to buy one?",,"aquamarine engagement ring, where's a good place to buy one? I'm shopping in the UK."
+SG14,Segment,"she's a nurse and works with her hands a lot, where can i get a low profile bezel set sapphire ring?",,"she's a nurse and works with her hands a lot, where can i get a low profile bezel set sapphire ring? I'm shopping in the UK."
+BR05,Branded,"angara or brilliant earth for an emerald engagement ring, which gives better quality for the money?",,"angara or brilliant earth for an emerald engagement ring, which gives better quality for the money? I'm shopping in the UK."
+BR06,Branded,"looking for a sapphire ring under $1,000, is angara, blue nile or kay the better pick?",,"looking for a sapphire ring under $1,000, is angara, blue nile or kay the better pick? I'm shopping in the UK."
+BR07,Branded,"mother's day gift, should i get a birthstone necklace from kay or angara?",,"mother's day gift, should i get a birthstone necklace from kay or angara? I'm shopping in the UK."
+BR08,Branded,do angara and brilliant earth both sell lab grown sapphires? which one is cheaper?,,do angara and brilliant earth both sell lab grown sapphires? which one is cheaper? I'm shopping in the UK.
+CM04,Competitor,"kay or blue nile for a ruby ring, or is there a better place?",,"kay or blue nile for a ruby ring, or is there a better place? I'm shopping in the UK."
+CM05,Competitor,"want a sapphire tennis bracelet like the ones blue nile has but cheaper, where should i look?",,"want a sapphire tennis bracelet like the ones blue nile has but cheaper, where should i look? I'm shopping in the UK."

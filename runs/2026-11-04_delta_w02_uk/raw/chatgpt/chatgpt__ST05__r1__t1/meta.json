@@ -1,0 +1,18 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "prompt_id": "ST05",
+  "app": "chatgpt",
+  "signed_in": false,
+  "session": "chrome_incognito",
+  "egress_country": "IN",
+  "egress_city": "Gurugram",
+  "egress_ip": "49.249.146.90",
+  "web_search": true,
+  "web_search_note": "inferred: answer contains website cards/links with utm_source=chatgpt.com",
+  "chat_url": "https://chatgpt.com/uc/6aeacc65-7424-83ea-8d8d-e4eeb16e0f3a",
+  "captured_at_utc": "2026-11-04T06:12:39Z",
+  "citation_count": 6,
+  "turn": "t1",
+  "capture_quality": "answer text + card links complete; answer.html cleaned reconstruction; shot_1.png viewport; chips not itemized; send_text from run_list; ST05 retried after message limit",
+  "capture_note": "first send hit Message limit reached (empty /uc/6aeacc2b-d5b8-83ea-878c-66ce84b53661); retry succeeded in fresh chat"
+}

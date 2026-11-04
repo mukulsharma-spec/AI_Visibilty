@@ -1,0 +1,195 @@
+@chatgpt|BR05|r1|t1 comparison_table
+Angara|1|R|+|Winner for value; gemstone-focused emerald catalogue
+Brilliant Earth||C|0|Design pick; contemporary aesthetic, may carry premium
+@chatgpt|BR06|r1|t1 comparison_table
+Angara|1|R|+|First choice; best selection of natural sapphires
+Blue Nile||C|0|Strong traditional option; import charges may apply
+Kay||C|-|Only ships to US; harder for UK buyers
+@chatgpt|BR07|r1|t1 comparison
+Angara|1|R|+|My pick; gemstone-focused designs, ships to UK
+Kay||C|-|US website does not ship to UK
+@chatgpt|BR08|r1|t1 comparison_table
+Angara|1|R|+|Better starting point; lab sapphire rings from $719
+Brilliant Earth||C|0|Lab sapphire around $2,200-$2,900
+@chatgpt|BS01|r1|t1 product_cards
+Prime Jewellery|1|R|+|Great value in natural sapphire halo studs
+Juvetti|2|R|+|Pick for contemporary design, lab-grown studs
+Rosec Jewels|3|R|0|More affordable natural sapphire halo studs
+FANCI Fine Jewellery|4|R|0|Premium studs, made to order
+Aladdins Cave Jewellery|5|R|0|Moissanite halo studs; sold out
+@chatgpt|BS02|r1|t1 product_cards
+Berry's Jewellers|1|R|+|Best luxury choice; pear-cut ruby halo studs
+Pravins|2|R|0|Best elegant design; Camellia teardrop studs
+Phillip Stoner|3|R|0|Classic round ruby halo studs
+Segal's Jewellers|4|R|0|Petite 9ct yellow gold halo studs
+Goldsmiths|5|R|0|Good entry-level white gold halo studs
+@chatgpt|BS03|r1|t1 product_cards
+Chisholm Hunter|1|R|+|Best budget option; also statement pendant pick
+JAY NICK|2|R|0|Best customisation of sapphire quality
+City of London Jewellers|3|R|0|Great 18ct white gold option
+Robert Gatward|4|R|0|18ct white gold sapphire halo pendant
+Pravins|5|R|0|Camellia 18ct white gold pendant
+@chatgpt|BS04|r1|t1 product_cards
+Nude Jewellery|1|R|+|Pick for contemporary pear emerald design
+Aardvark Jewellery|2|R|0|Best lower-budget option from £869
+Temple & Grace|3|R|0|London showroom, bespoke service
+Manna Jewellers|4|R|0|Natural pear emerald with diamond halo
+Wakefields Jewellers|5|R|0|2.50ct pear-cut emerald in platinum
+@chatgpt|BS05|r1|t1 product_cards
+Element Bespoke Jewellery|1|R|+|Best match for the brief
+Queensmith|2|R|0|Best premium bespoke option
+Keanis|3|R|0|Blossom emerald-cut sapphire ring
+The London Victorian Ring Co|4|R|0|Bespoke alterations and metal choices
+Cullen Jewellery|5|R|0|Emerald-cut sapphire rings
+@chatgpt|BS06|r1|t1 product_cards
+Gold Arts Jewellers|1|R|0|Good affordable three-stone options
+Segal's Jewellers|2|R|0|0.72ct oval royal-blue sapphire ring
+Philip Lloyd Jewellers|3|R|0|Sapphire ring collection
+Avanti Jewellers|4|R|0|Sapphire ring collection
+Robert Gatward|5|R|0|Sapphire engagement rings
+Hancocks|6|R|0|Three-stone sapphire ring
+@chatgpt|BS07|r1|t1 product_cards
+Philip Lloyd Jewellers|1|R|+|Top pick for fine jewellery
+Temple & Grace|2|R|0|Tanzanite engagement rings
+Chisholm Hunter|3|R|0|Good choice of oval, pear, emerald cuts
+C W Sellors|4|R|0|Tanzanite engagement rings
+GLAMIRA|5|R|0|Best for variety and personalisation
+Goldsmiths|6|R|0|Tanzanite engagement rings
+Michael Jones Jeweller|7|R|0|Tanzanite engagement rings
+@chatgpt|BS08|r1|t1 product_cards
+Goldsmiths|1|R|+|Best value: aquamarine halo studs £275
+WJ Shaw Jewellers|2|R|+|Best classic design at £395
+Sunshine Diamonds|3|R|0|Handcrafted Hatton Garden halo studs
+The Diamond Store|4|R|0|Aquamarine diamond halo earrings
+Nettletons Jewellers|5|R|0|Best lower budget at £180
+@chatgpt|BS09|r1|t1 product_cards
+Aspens Jewellers|1|R|0|Best full eternity option
+Cheshires the Jewellers|2|R|0|Platinum sapphire and diamond ring
+Finnies Jewellers|3|R|0|Good value in platinum
+Chloe's Jewellers|4|R|0|Natural sapphire half eternity
+F. Hinds|5|R|0|9ct half eternity, 30-day guarantee
+RH Jewellers|6|R|0|Edwardian-inspired rubover setting
+@chatgpt|BS10|r1|t1 product_cards
+Murray & Co|1|R|+|First choice; actual 14ct gold sapphire pendants
+Pruden & Smith|2|R|0|Handmade bespoke gemstone pendants
+Gemondo|3|R|0|Accessible prices; not first choice for 14ct
+McCulloch Jewellers|4|R|0|14ct sapphire minimalist pendant
+@chatgpt|BS11|r1|t1 product_cards
+Lavan Jewellery|1|R|+|Top pick for handmade opal designs
+Franki Baker|2|R|0|Natural Ethiopian opal pendant
+The Opal|3|R|0|Large selection of opal pendants
+TJC|4|R|0|Good for affordable opal jewellery
+Wicked Wires Jewellery|5|R|0|Unusual one-off Australian opal pendants
+Joanna's Jewellery|6|R|0|Simple lab-created opal pendant
+@chatgpt|BS12|r1|t1 product_cards
+Susannah Lovis Jewellers|1|R|+|Pick for classic understated Akoya strand
+Browns Family Jewellers|2|R|0|AAA Akoya pearls at accessible price
+Nettletons Jewellers|3|R|0|Traditional yellow-gold Akoya strand
+Wakefields Jewellers|4|R|0|Full 18-inch Akoya strand
+Mikimoto||M|0|Vintage Mikimoto strand sold by Susannah Lovis
+@chatgpt|BS13|r1|t1 product_cards
+Serendipity Diamonds|1|R|+|Great for sapphire colour matching
+H K Jewellery|2|R|0|Beautiful bespoke sapphire wedding bands
+Queensmith|3|R|0|Excellent for curved and shaped bands
+Stephen Einhorn|4|R|0|Individual artistic designs
+President Jewellers|5|R|0|Large selection of bespoke bands
+RING Jewellers|6|R|0|Handmade individually shaped bands
+@chatgpt|CH01|r1|t1 comparison_table
+Amazon||C|-|Fine for inexpensive pieces; avoid for expensive gems
+@chatgpt|CH02|r1|t1 headings
+Etsy||M|0|Can be good if seller checks pass
+@chatgpt|CH03|r1|t1 headings
+Gemfields||O|0|Source chip label only|m
+@chatgpt|CM04|r1|t1 headings
+Queensmith|1|R|+|First choice to investigate; sources specific rubies
+Blue Nile|2|R|0|Wider selection worth considering
+F. Hinds|3|R|0|Ruby rings on UK high street
+Kay||C|-|Less inclined to choose Kay for UK
+@chatgpt|CM05|r1|t1 product_cards
+The Diamond Store|1|R|+|First stop; sapphire tennis bracelet £332
+Ruby & Oscar|2|R|+|Excellent budget option for classic look
+QP Jewellers|3|R|0|Solid 9ct white gold sapphire bracelet
+Diamonds Factory|4|R|0|Customisable sapphire tennis bracelet from £762
+The Opal|5|R|0|Pretty option for less money
+Blue Nile||C|0|Benchmark for look-alike alternatives
+@chatgpt|CP01|r1|t1 comparison_table
+@chatgpt|CP02|r1|t1 comparison_table
+@chatgpt|CP04|r1|t1 numbered_headings
+@chatgpt|CP05|r1|t1 numbered_headings
+Tiffany & Co.||M|0|Tiffany UK gemstone care guide listed as resource
+@chatgpt|CP08|r1|t1 numbered_headings
+@chatgpt|CP09|r1|t1 comparison_table
+@chatgpt|CP10|r1|t1 numbered_headings
+@chatgpt|CU01|r1|t1 numbered_list
+President Jewellers|1|R|+|Best for selecting individual gemstones
+Queensmith|2|R|+|Best for expert guidance
+The Workbench London|3|R|0|Gemstone selection
+Hatton Garden Bespoke Jewellery|4|R|0|Gemstone ring studio
+Si Vis Amari|5|R|0|Gemstone rings with chosen stones
+@chatgpt|CU02|r1|t1 numbered_list
+Tiffany & Co.|1|R|0|Complimentary engraving; best for luxury
+Bvlgari|2|R|0|Complimentary engraving
+Friendly Diamonds|3|R|0|Free engraving on custom rings
+MD Diamonds|4|R|+|Straightforward free engraving at purchase
+President Jewellers|5|R|0|Complimentary engraving
+De Beers|6|R|0|First engraving complimentary on eligible pieces
+@chatgpt|CU03|r1|t1 numbered_list
+Juvetti|1|R|0|Best for choosing stone size
+Pruden & Smith|2|R|0|Best for bespoke gemstone pendants
+Austen & Blake|3|R|0|Sapphire, emerald, ruby gemstone choices
+H K Jewellery|4|R|0|Extensive gemstone, cut, metal choices
+ASD Jewellers|5|R|0|Customisable gemstone jewellery
+Splendaura;100kGems|6|R|0|Visual customiser and build-your-own pendant tool
+@chatgpt|CU04|r1|t1 product_cards
+Sunshine Diamonds|1|R|+|Strongest next-day delivery match
+The Diamond Store|2|R|0|Multiple next-day options
+Goldsmiths|3|R|0|£2,500 sapphire ring
+Diana Porter|4|R|0|Ready-to-ship sapphire rings
+@chatgpt|CU08|r1|t1 numbered_list
+Brilliant Earth|1|R|+|Confirmed virtual try-on
+Mikimoto|2|R|+|Confirmed virtual fitting
+Alpoe London|3|R|0|Confirmed virtual try-on ring builder
+Gems Jewellers;Lily Arkwright||M|0|Virtual consultations, not confirmed try-on
+@chatgpt|CU10|r1|t1 numbered_list
+For Your Eternity|1|R|+|Best overall for coloured gemstones
+Browns Family Jewellers|2|R|0|Best for customisation
+Meerayah|3|R|0|Create your gemstone ring
+Queensmith|4|R|0|Bespoke rings
+Wrights Jewellery|5|R|0|Create your own ring
+Gardner's Gold Jewellery|6|R|0|Bespoke design
+@chatgpt|CU11|r1|t1 numbered_list
+Queensmith|1|R|+|Best all-round for surprise proposals
+Taylor & Hart|2|R|0|Best for estimating her ring size
+Tiffany & Co.|3|R|0|Luxury brand with free resizing
+Robert Gatward|4|R|0|Free resizing service
+ROX|5|R|0|Resizing for surprise proposals
+President Jewellers|6|R|0|Best if lifetime resizing matters
+@chatgpt|EN01|r1|t1 numbered_list
+The Diamond Store|1|R|0|Good range of 1-carat rings to compare
+Queensmith|2|R|0|1-carat engagement rings
+Austen & Blake|3|R|0|1-carat engagement rings
+The Lab Jewellers|4|R|0|1-carat collection
+Sunshine Diamonds|5|R|0|1-carat rings
+@chatgpt|EN02|r1|t1 numbered_list
+77 Diamonds|1|R|+|Best for choice and value
+Taylor & Hart|2|R|0|Best for bespoke designs
+Queensmith|3|R|0|Best for craftsmanship
+The Diamond Store|4|R|0|Best for more affordable options
+Beaverbrooks|5|R|0|Best established high-street retailer
+Kimai|6|R|0|Best for modern minimalist designs
+De Beers;VRAI||M|0|Other retailers worth considering
+@chatgpt|EN03|r1|t1 numbered_list
+Queensmith|1|R|+|First recommendation for sapphire engagement rings
+Holts Gems|2|R|0|London sapphire specialist
+Robert Gatward|3|R|0|Sapphire engagement rings
+Hancocks|4|R|0|Manchester sapphire engagement rings
+Manna Jewellers|5|R|0|Birmingham sapphire engagement rings
+@chatgpt|GN02|r1|t1 numbered_list
+Mejuri|1|R|0|Great for everyday fine jewellery
+Monica Vinader|2|R|0|Everyday luxury and gifting
+Daisy London|3|R|0|UK fine jewellery store
+Rachel Entwistle|4|R|0|UK fine jewellery store
+Alex Monroe|5|R|0|UK fine jewellery store
+Tiffany & Co.|6|R|0|Luxury fine jewellery
+The Diamond Store|7|R|0|Fine jewellery online
+Mappin & Webb|8|R|0|Fine jewellery online

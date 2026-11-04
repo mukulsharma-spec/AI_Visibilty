@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+ST02,gemini,John Lewis,www.johnlewis.com,https://www.johnlewis.com/browse/women/womens-jewellery-watches/womens-earrings/peridot/_/N-5w5eZ1z0phcx,html_sources_panel
+ST02,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/peridot-earrings,html_sources_panel
+ST02,gemini,Gemondo UK,www.gemondo.com,https://www.gemondo.com/collections/peridot-earrings,html_sources_panel

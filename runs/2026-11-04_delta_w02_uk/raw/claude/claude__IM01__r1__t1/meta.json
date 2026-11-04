@@ -1,0 +1,12 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "IM01",
+ "web_search": true,
+ "capture_quality": "full_panel",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T07:47:13.064212Z",
+ "citation_count": 19,
+ "answer_chars": 1124,
+ "note": "answer.html class/style attrs stripped; answer includes reasoning-summary blocks inside .standard-markdown"
+}

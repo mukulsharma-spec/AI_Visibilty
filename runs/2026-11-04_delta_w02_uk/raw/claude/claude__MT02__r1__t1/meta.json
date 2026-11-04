@@ -1,0 +1,11 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "web_search": false,
+ "capture_quality": "partial_clarifying_questions",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T08:13:02Z",
+ "answer_chars": 182,
+ "citations": 0,
+ "notes": "partial_clarifying_questions: widget (1 of 3, 'What style of earrings are you after?') shown after t1; dismissed with X after capture. No web search. Fresh incognito chat via Exit incognito + Use incognito (earlier contaminated attempt overwritten). Prompt: i want emerald earrings I'm shopping in the UK."
+}

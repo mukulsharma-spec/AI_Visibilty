@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+GN02,gemini,Harrods,www.harrods.com,https://www.harrods.com/en-gb/fine-jewellery,html_sources_panel
+GN02,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/,html_sources_panel
+GN02,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/,html_sources_panel

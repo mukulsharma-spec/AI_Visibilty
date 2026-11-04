@@ -1,0 +1,75 @@
+@gemini|BR05|r1|t1 numbered_headings
+Angara|1|R|+|Winner on value; go with Angara to maximise quality
+Brilliant Earth||C|0|Only if in love with intricate designer setting
+@gemini|BR06|r1|t1 numbered_headings
+Angara|1|R|+|The best pick; large sapphire selection under budget
+Blue Nile|2|R|0|Runner-up; smaller coloured gemstone selection
+Kay||C|-|Not recommended for UK; skip entirely
+@gemini|BR07|r1|t1 headings
+Angara|1|R|+|Clear winner for UK; dedicated international store
+Kay||C|-|US-based; does not ship to UK seamlessly
+Gemporia;Astley Clarke;Beaverbrooks;H.Samuel||M|0|Alternative UK-accessible options
+@gemini|BR08|r1|t1 paragraphs_bullets
+Angara|1|R|+|More budget-friendly option for lab sapphires
+Brilliant Earth||C|0|Known more for ethical diamonds; good loose stones
+@gemini|BS01|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|Major UK online jeweller with halo studs
+FANCI Fine Jewellery|2|R|0|Southampton-crafted sapphire halo studs
+Angara|3|R|+|Dedicated UK site with large customisable range
+The Opal|4|R|0|Sterling silver alternative
+Buckley London|5|R|0|Fashionable British-designed jewellery
+Etsy|6|R|0|Handcrafted or vintage halo studs
+@gemini|BS02|r1|t1 bullets_by_category
+Austen & Blake|1|R|0|Bespoke made-to-order fine jewellery
+FANCI Fine Jewellery|2|R|+|Top-rated independent fine jeweller
+T.H. Baker|3|R|0|Long-standing British family jeweller
+Beaverbrooks;Ernest Jones|4|R|0|Staple high street luxury jewellers
+New Cavendish Jewellers|5|R|0|Independent Marylebone boutique
+@gemini|BS03|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|Major UK online jeweller with sapphire pendants
+JAY NICK|2|R|0|Customisable oval sapphire halo pendant
+Austen & Blake|3|R|0|Customisable fine jewellery
+Shining Diamonds|4|R|0|Online with showroom appointments
+Angara|5|R|0|Major online gemstone specialist with UK platform
+Goldsmiths;Ernest Jones;Mappin & Webb|6|R|0|High street jewellers carrying halo pendants
+@gemini|BS04|r1|t1 bullets_by_category
+Angara|1|R|+|Massive online selection of emerald rings
+Diamond Heaven|2|R|0|Showrooms in major UK cities
+GLAMIRA|3|R|0|Highly customisable rings
+JAY NICK|4|R|0|Specialised fine jewellery in London
+Etsy|5|R|0|Unique independent maker rings
+@gemini|BS05|r1|t1 numbered_list
+Angara|1|R|+|One of most extensive coloured gemstone ring selections
+Austen & Blake|2|R|0|Hand-finished, free UK delivery
+Diamond Heaven|3|R|0|Competitive pricing, UK service hubs
+The Diamond Store|4|R|0|5-year warranty, free delivery
+@gemini|BS06|r1|t1 bullets_by_category
+Austen & Blake|1|R|0|Wide customisation options
+Diamonds Factory|2|R|0|Large pre-set and custom collection
+Steven Stone|3|R|0|Bespoke trilogy rings
+Hancocks|4|R|0|High-end vintage-inspired rings
+Powells Jewellery|5|R|0|Fine pre-owned and antique pieces
+@gemini|BS07|r1|t1 bullets_by_category
+Angara|1|R|+|Specialises in coloured gemstones, heavy customisation
+Temple & Grace|2|R|0|Handcrafted tanzanite rings, London showroom
+Ernest Jones|3|R|0|Trusted high-street tanzanite selection
+TJC|4|R|0|Budget option with specific tanzanite grades
+@gemini|BS08|r1|t1 bullets_by_category
+Angara|1|R|+|Excellent for gemstone jewellery
+The Diamond Store|2|R|0|Trusted UK online fine jeweller
+Diamonds Factory|3|R|0|Bespoke craftsmanship
+H.Samuel;Ernest Jones|4|R|0|Traditional high street options
+TJC|5|R|0|Budget-friendly aquamarine studs
+Etsy|6|R|0|Vintage, art deco or unique makers
+@gemini|BS09|r1|t1 bullets_by_category
+Diamond Heaven|1|R|0|UK-based eternity band specialist
+Ernest Jones|2|R|0|High street eternity band collection
+TJC|3|R|0|Budget-friendly option
+Angara|4|R|+|Specialises in coloured gemstone eternity bands
+Beaverbrooks|5|R|0|Major UK heritage jeweller
+@gemini|BS10|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|One of UK's largest online fine jewellers
+Goldsmiths;Beaverbrooks|2|R|0|Major high-street chains with gold pendants
+Astrid & Miyu|3|R|0|Contemporary everyday fine jewellery
+Edge of Ember|4|R|0|Ethically conscious UK fine jeweller
+Etsy|5|R|0|Handmade independent gemstone pendants

@@ -1,0 +1,85 @@
+@gemini|OC21|r1|t1 bullets_by_category
+Astrid & Miyu|1|R|0|Contemporary stackable pieces
+Monica Vinader|2|R|+|Massive UK favourite for demi-fine
+Taylor & Hart|3|R|0|Fully bespoke push present
+Beaverbrooks;Ernest Jones|4|R|0|Nationwide high-street options
+Angara|5|R|+|Dedicated online section for gemstone gifts
+Liberty London;Selfridges|6|R|0|High-end designer brands
+John Lewis|7|R|0|Mid-range contemporary fine jewellery
+@gemini|PR01|r1|t1 headings
+H.Samuel|1|R|0|High-street sapphire rings under £500
+F. Hinds|2|R|0|High-street sapphire rings under £500
+@gemini|PR02|r1|t1 numbered_headings
+Gemondo|1|R|+|Specialises in genuine natural gemstones
+Carrie Elizabeth|2|R|0|Gemstone earrings under budget
+Astrid & Miyu|3|R|0|Gemstone earrings under budget
+Missoma|4|R|+|Staple of modern British jewellery, semi-precious drops
+Liberty London;Selfridges;John Lewis|5|R|0|Department stores
+@gemini|PR03|r1|t1 numbered_headings
+Chisholm Hunter;Ernest Jones|1|R|0|Classic high-street sapphire studs, £350–£995
+Diamond Treats|2|R|0|Specialist sapphire and diamond halos
+Beaverbrooks;Garrard;Liberty London;John Lewis|3|R|0|Department stores and heritage options
+@gemini|PR04|r1|t1 bullets_by_category
+F. Hinds|1|R|0|Wide collection of real emerald rings
+H.Samuel|2|R|0|9ct yellow and white gold emerald rings
+Ernest Jones|3|R|0|Step up in traditional luxury
+Austen & Blake|4|R|0|Bespoke made-to-order
+Ramsdens|5|R|+|Best value second-hand emerald rings
+Max Spielmann|6|R|0|High street pawnbroker
+@gemini|PR05|r1|t1 bullets_by_category
+Gemondo|1|R|+|Ethically sourced genuine gemstones
+Diamonds Factory|2|R|0|Customisable ruby pendants
+Ruby & Oscar|3|R|0|UK online jeweller dedicated to rubies
+Goldsmiths;Ernest Jones;Beaverbrooks|4|R|0|Premier high street names
+Etsy|5|R|0|Antique and vintage ruby pendants
+@gemini|PR06|r1|t1 numbered_headings
+Astley Clarke|1|R|+|Contemporary, elegant, deeply popular
+Gemondo|2|R|+|UK specialist in authentic gemstones
+H.AZEEM London|3|R|0|Luxury-inspired colourful statement pieces
+Maya Magal|4|R|0|Handcrafted sustainable modern jewellery
+Spells of Love|5|R|0|Ethically made delicate demi-fine
+@gemini|PR07|r1|t1 bullets_by_category
+Hancocks|1|R|0|Magnificent high-end coloured gemstones
+Berry's Jewellers|2|R|0|Premier luxury jeweller in Northern England
+Mortimers Jewellers|3|R|0|Antique and estate jewellery
+SJ Phillips;Wartski|4|R|0|Museum-quality pieces
+Cartier;Tiffany & Co.;Bvlgari|5|R|0|Luxury Bond Street houses
+Blair and Sheridan|6|R|0|Bespoke custom design studio
+@gemini|PR08|r1|t1 numbered_headings
+The Diamond Store|1|R|0|Tanzanite rings under £800
+TJC|2|R|0|Tanzanite rings under £800
+F. Hinds|3|R|0|Tanzanite rings under £800
+T.H. Baker|4|R|0|Tanzanite rings under £800
+@gemini|PR11|r1|t1 bullets_by_category
+John Lewis|1|R|0|Fine sapphire jewellery pieces
+H.Samuel;Ernest Jones|2|R|0|Dedicated gemstone collections
+Edge of Ember|3|R|0|Delicate ethically made pieces
+Auree Jewellery|4|R|0|Stunning sapphire pieces
+Astley Clarke|5|R|0|Stackable celestial styles
+@gemini|PR12|r1|t1 bullets_by_category
+Apsara;Flawless Fine Jewellery|1|R|0|Hatton Garden gem dealers for unheated sapphires
+Queensmith|2|R|0|Bespoke with strong sourcing networks
+Taylor & Hart|3|R|0|Excel at sourcing traceable unheated sapphires
+@gemini|SG02|r1|t1 bullets_by_category
+HusBands|1|R|+|Popular UK men's ring specialist
+GLAMIRA|2|R|0|Online customiser
+Diamonds Factory|3|R|0|Dedicated men's collections
+Angara|4|R|0|Fine gemstone jewellery
+H.Samuel|5|R|0|Traditional high street
+Etsy|6|R|0|Hand-forged or vintage bands
+@gemini|SG03|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|Dedicated promise rings collection
+Angara|2|R|+|Specialises heavily in gemstone jewellery
+Vianne Jewellery;Diamonds Factory|3|R|0|Lovely fine jewellery lines
+H.Samuel;Ernest Jones|4|R|0|Ubiquitous high street jewellers
+TJC|5|R|0|Affordable silver gemstone rings
+@gemini|SG04|r1|t1 bullets_by_category
+Antique Ring Boutique|1|R|0|Brook Street showroom vintage rings
+Berganza|2|R|+|World-renowned high-end antique rings
+AC Silver|3|R|0|One of UK's leading online antique dealers
+Gatsby Jewellery|4|R|0|Fine vintage and antique
+Ellibelle Jewellery;Vintage Tom|5|R|0|Independent online vintage boutiques
+Farringdons Jewellery;Tobi Gems|6|R|0|Hatton Garden antique specialists
+Fenton|7|R|0|Ethical vintage-inspired
+Taylor & Hart|8|R|0|London vintage-inspired designs
+Jessica McCormack|9|R|0|High-end luxury townhouse

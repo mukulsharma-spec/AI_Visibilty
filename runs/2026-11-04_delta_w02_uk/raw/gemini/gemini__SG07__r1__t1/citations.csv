@@ -1,0 +1,7 @@
+prompt_id,app,source_name,domain,url,source_file
+SG07,gemini,Etsy,www.etsy.com,https://www.etsy.com/uk/market/gemstone_stacking_rings,html_sources_panel
+SG07,gemini,eBay UK,www.ebay.co.uk,https://www.ebay.co.uk/b/bn_7114029952,html_sources_panel
+SG07,gemini,The Jewellery Store London,thejewellerystorelondon.co.uk,https://thejewellerystorelondon.co.uk/collections/staking-rings,html_sources_panel
+SG07,gemini,H.AZEEM London,www.hazeem.co.uk,https://www.hazeem.co.uk/collections/stacking-rings,html_sources_panel
+SG07,gemini,Daisy London,www.daisyjewellery.com,https://www.daisyjewellery.com/collections/stacking-rings,html_sources_panel
+SG07,gemini,Missoma,www.missoma.com,https://www.missoma.com/collections/stacking-rings,html_sources_panel

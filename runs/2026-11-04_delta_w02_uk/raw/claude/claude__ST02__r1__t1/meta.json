@@ -1,0 +1,14 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "ST02",
+ "prompt": "Where can I buy peridot earrings online? I'm shopping in the UK.",
+ "platform": "claude",
+ "web_search": true,
+ "capture_quality": "good_text_dom_scrape_html_reconstructed",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id (https://claude.ai/new?incognito)",
+ "captured_at_utc": "2026-11-04T06:13:19Z",
+ "citation_count_rows": 9,
+ "citation_count_unique": 9,
+ "note": "Sources panel items hidden behind '+2' chips not enumerated"
+}

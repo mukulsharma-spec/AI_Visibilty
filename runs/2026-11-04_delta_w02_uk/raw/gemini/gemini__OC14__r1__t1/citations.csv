@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+OC14,gemini,Harriet Kelsall Bespoke Jewellery,www.hkjewellery.co.uk,https://www.hkjewellery.co.uk/bespoke/start-with-gemstone,html_sources_panel
+OC14,gemini,Titcombe Bespoke Jewellery,titcombebespoke.co.uk,https://titcombebespoke.co.uk/ethical-sustainable-gemstone-sourcing/,html_sources_panel
+OC14,gemini,Wild Fawn Jewellery,www.wildfawnjewellery.com,https://www.wildfawnjewellery.com/collections/ethical-engagement-rings,html_sources_panel
+OC14,gemini,Austen & Blake,www.austenblake.com,https://www.austenblake.com/,html_sources_panel

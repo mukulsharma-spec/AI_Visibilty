@@ -1,0 +1,17 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "prompt_id": "MT05",
+  "app": "chatgpt",
+  "signed_in": false,
+  "session": "chrome_incognito",
+  "egress_country": "IN",
+  "egress_city": "Gurugram",
+  "egress_ip": "49.249.146.90",
+  "web_search": true,
+  "web_search_note": "inferred: answer contains website cards/links with utm_source=chatgpt.com",
+  "chat_url": "https://chatgpt.com/uc/6aeadee4-9740-83ea-9bd6-06ce7c1cb196",
+  "captured_at_utc": "2026-11-04T07:32:00Z",
+  "citation_count": 1,
+  "turn": "t1",
+  "capture_quality": "answer text + card links complete; answer.html cleaned reconstruction; shot_1.png viewport; chips not itemized; send_text from run_list"
+}

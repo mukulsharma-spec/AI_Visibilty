@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+CU01,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/gem-stone-rings,html_sources_panel
+CU01,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/gem-stone-rings,html_sources_panel
+CU01,gemini,Yorkshire Jewellery Company,www.yorkshirejewellerycompany.co.uk,https://www.yorkshirejewellerycompany.co.uk/pages/gemstone-ring-builder,html_sources_panel
+CU01,gemini,Flawless Fine Jewellery,www.flawlessfinejewelry.com,https://www.flawlessfinejewelry.com/gemstones/loose/,html_sources_panel

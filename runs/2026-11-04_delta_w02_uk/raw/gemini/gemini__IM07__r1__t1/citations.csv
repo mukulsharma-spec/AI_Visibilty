@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+IM07,gemini,Etsy,www.etsy.com,https://www.etsy.com/uk/market/opal_stud_earrings,html_sources_panel
+IM07,gemini,John Lewis,www.johnlewis.com,https://www.johnlewis.com/browse/women/womens-jewellery-watches/womens-earrings/opal/_/N-5w5eZ1z0phcv,html_sources_panel
+IM07,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/opal-earrings,html_sources_panel
+IM07,gemini,Sarah Beth Jewellers,sarahbeth.co.uk,https://sarahbeth.co.uk/collections/opal-earrings,html_sources_panel

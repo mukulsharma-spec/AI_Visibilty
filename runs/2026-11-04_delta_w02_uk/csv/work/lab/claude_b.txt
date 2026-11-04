@@ -1,0 +1,115 @@
+@claude|CP01|r1|t1 paragraphs
+@claude|CP02|r1|t1 headings
+@claude|CP04|r1|t1 numbered_headings
+@claude|CP05|r1|t1 headings
+@claude|CP08|r1|t1 headings
+@claude|CP09|r1|t1 headings
+@claude|CP10|r1|t1 paragraphs
+@claude|CU01|r1|t1 paragraphs_by_category
+Angara|1|R|+|Build-your-own flow choosing gemstone quality grade
+Azeera|2|R|0|Each gem type has its own grade considerations
+Yorkshire Jewellery Company|3|R|0|UK jeweller with customisable gemstone options
+@claude|CU02|r1|t1 paragraphs
+Holts Gems|1|R|+|Best fit for free engraving on gemstone rings
+Fossil|2|R|0|Lists free engraving on its Ellis signet ring
+The Diamond Store||M|-|Treat with caution; laser engraving on select items
+Jewlr;Astrid & Miyu||M|-|Offer engraving but caution advised
+Lunns||M|0|Ran a free engraving offer previously
+@claude|CU03|r1|t1 paragraphs
+DiamondsByMe|1|R|+|Probably the best fit for custom stone pendants
+Pruden & Smith|2|R|0|UK jeweller with customisable pendants
+Jewlr|3|R|0|Personalisation-focused UK site
+Jewellery Studio Online|4|R|0|Everything made to order
+MoH London|5|R|0|Build Your Own Pendant flow
+Diamond Studs;Earth's Treasury|6|R|0|US sites offering custom pendants
+@claude|CU04|r1|t1 paragraphs
+Beaverbrooks|1|R|+|Best bet for fast sapphire engagement ring delivery
+Hancocks|2|R|0|Higher-end option
+Johnsons Jewellers|3|R|0|More modest 18ct option
+Gemondo|4|R|0|Good choice to spend less
+@claude|CU08|r1|t1 paragraphs_by_category
+H. Samuel|1|R|+|Dedicated virtual try-on tool for rings
+Goldsmiths|2|R|0|Uses Tangiblee try-on technology
+Get-Diamonds|3|R|0|Launched AR virtual hand tool
+Angara||M|0|Gemstone specialist; AR try-on not confirmed|m
+@claude|CU10|r1|t1 paragraphs_by_category
+Angara|1|R|+|Choose gemstone and design ring on UK site
+Diamonds by Me|2|R|0|Configurator to pick stone and setting
+Yorkshire Jewellery Company|3|R|0|Ring Builder for gemstone rings
+Austen Blake|4|R|0|Gemstone rings made to order
+Ernest Jones|5|R|0|Ring builder for engagement rings
+H. Samuel|6|R|0|Choose stone, setting and budget
+Hancocks|7|R|0|Design online or visit showroom
+MOH London|8|R|0|Online ring builder, bespoke option
+Alison Moore|9|R|0|Mix and match gemstone stacking rings
+Not On The High Street|10|R|0|Made-to-order pieces from small makers
+@claude|CU11|r1|t1 paragraphs_by_category
+Queensmith|1|R|+|Free resizing on nearly all ring purchases
+Angelic Diamonds|2|R|0|Free resize within 90 days
+Purely Diamonds|3|R|0|Free resize within 60 days
+Joshua James|4|R|0|One free resize in first 12 months
+Sonny's Jewellers|5|R|0|Free resizing when needed
+W Hamond|6|R|0|Free resizing on new engagement rings
+F. Hinds|7|R|0|Free ring adjustment service
+Stephen Einhorn|8|R|0|Flexible sizing for surprise proposals
+H. Samuel|9|R|0|Third-party guide says free resizing may apply|m
+@claude|EN01|r1|t1 bullets_by_category
+Taylor & Hart|1|R|+|Well-regarded for custom engagement rings
+Angelic Diamonds;Vashi;Diamonds Factory|2|R|0|Online specialists with good value
+Blue Nile;Brilliant Earth|3|R|0|Big online selections via UK sites
+Goldsmiths;Ernest Jones;Beaverbrooks;H. Samuel|4|R|0|High-street chains, convenient but pricier
+@claude|EN02|r1|t1 paragraphs_by_category
+Blue Nile|1|R|+|Big catalogue of diamonds and settings, good prices
+Rêve Diamonds;The Diamond Ring Company|2|R|0|Online-first Hatton Garden options
+Taylor & Hart|3|R|0|Known for bespoke work
+Samara James|4|R|0|Good online tools for made-to-order rings
+Blair and Sheridan;Mitchel & Co.|5|R|0|Regional bespoke jewellers
+Lily Arkwright|6|R|0|Lab-grown diamonds and alternative stones
+@claude|EN03|r1|t1 paragraphs_by_category
+Goldsmiths|1|R|0|Selection of sapphire rings
+Hancocks|2|R|0|Dedicated sapphire engagement ring section
+Austen Blake|3|R|0|Find and design your sapphire ring
+C W Sellors|4|R|0|One of UK's leading coloured gemstone jewellers
+Holts Gems|5|R|0|London sapphire engagement rings
+Jewellery Discovery|6|R|0|Mix of sapphire and diamond rings
+Mozeris|7|R|0|Specialises in antique sapphire rings
+@claude|GN02|r1|t1 paragraphs_by_category
+Goldsmiths;Mappin & Webb;Beaverbrooks;Ernest Jones|1|R|0|Established UK high-street jewellers
+Boodles;Garrard;Annoushka;Pragnell|2|R|0|British luxury jewellers
+Monica Vinader;Astrid & Miyu;Missoma|3|R|0|Accessible modern design-led fine jewellery
+Mejuri|4|R|0|Ships to UK; solid gold everyday pieces
+Blue Nile;Brilliant Earth;Cred Jewellery|5|R|0|Good for diamonds and engagement rings
+Vashi|6|R|0|Hatton Garden jeweller
+The Antique Jewellery Company;Lang Antiques;1stDibs|7|R|0|Antique and vintage fine jewellery
+@claude|GN03|r1|t1 paragraphs_by_category
+Monica Vinader|1|R|+|Well-made gold vermeil and solid gold pieces
+Missoma|2|R|0|Trendy layerable pieces at accessible prices
+Astrid & Miyu|3|R|0|Delicate stackable pieces
+Mejuri|4|R|0|Minimalist fine jewellery shipping to UK
+Taylor & Hart|5|R|0|Customisable engagement rings
+Ingle & Rhode|6|R|0|British brand with ethical sourcing focus
+Blue Nile|7|R|0|Big selection of loose diamonds
+Beaverbrooks;Goldsmiths;Ernest Jones|8|R|0|Broad high-street ranges
+Pandora|9|R|0|Charms and bracelets, good for gifts
+Boodles;Tiffany & Co.;Cartier|10|R|0|Prestige luxury pieces
+Etsy;Not On The High Street|11|R|0|Independent UK makers
+@claude|GN04|r1|t1 paragraphs_by_category
+Jewlr|1|R|0|UK site to pick metal, gemstones and engraving
+Not On The High Street|2|R|0|Marketplace of small UK makers
+Merci Maman;Posh Totty Designs|3|R|0|Well-known personalised jewellery brands
+Etsy|4|R|+|Often recommended for flexibility with independent makers
+@claude|GN05|r1|t1 bullets_by_category
+Astley Clarke;Monica Vinader|1|R|0|Well-known demi-fine coloured stone jewellery
+Gemondo|2|R|+|UK online jeweller specialising in gemstones
+C W Sellors|3|R|0|Makes natural gemstone fine jewellery
+Goldsmiths|4|R|0|Large UK retailer with gemstone range
+Crystal Myths|5|R|0|UK loose gemstone dealer
+Topgem|6|R|0|Recommended on gem-collector forum
+@claude|IM01|r1|t1 product_cards_text_missing
+@claude|IM02|r1|t1 headings
+Angara|1|R|+|Several emerald side stone rings; UK prices include VAT
+Diamond Rocks|2|R|0|Emerald octagon and diamond trilogy ring
+Finediam|3|R|0|Made in UK, flexible custom option
+@claude|IM03|r1|t1 product_cards_text_missing
+James Porter|1|R|0|Budget 9ct ruby studs from £145|m
+John Lewis||M|0|E.W. Adams ruby studs out of stock online

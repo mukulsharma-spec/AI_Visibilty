@@ -1,0 +1,13 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "pid": "CP02",
+ "prompt": "Natural vs lab-grown sapphire: what's the difference and which should I buy? I'm shopping in the UK.",
+ "web_search": false,
+ "capture_quality": "ok",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T07:58:43.140310Z",
+ "citation_count": 0,
+ "answer_chars": 2729,
+ "notes": "No 'Searched the web' panel; no citations. Expanded reasoning block ('Checking UK rules on sapphire labelling', Thought for 3s) excluded from answer.txt. answer from .standard-markdown"
+}

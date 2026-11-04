@@ -1,0 +1,13 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "ST09",
+ "prompt": "Where can I buy a yellow sapphire ring online? I'm shopping in the UK.",
+ "platform": "claude",
+ "web_search": true,
+ "capture_quality": "text_wrapped_html",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id (https://claude.ai/new?incognito)",
+ "captured_at_utc": "2026-11-04T06:16:53Z",
+ "citation_count_rows": 10,
+ "citation_count_unique": 10
+}

@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+ST20,gemini,Moissanite UK,moissanite.co.uk,https://moissanite.co.uk/,html_sources_panel
+ST20,gemini,Franc Laurent,franclaurent.com,https://franclaurent.com/blogs/guide/moissanite-wedding-rings-london,html_sources_panel
+ST20,gemini,Diamonds Factory,www.diamondsfactory.co.uk,https://www.diamondsfactory.co.uk/engagement-rings/moissanite,html_sources_panel

@@ -1,0 +1,78 @@
+@chatgpt|ST20|r1|t1 numbered_list
+Lily Arkwright|1|R|+|First choice for moissanite
+Lady Lynsey Jewellery|2|R|0|Moissanite rings, offers Charles & Colvard stones
+Moissanite UK|3|R|0|Moissanite rings £280-£3,500
+Charles & Colvard||M|0|Forever One moissanite stocked by retailers
+@chatgpt|ST23|r1|t1 numbered_list
+Aardvark Jewellery|1|R|+|Top pick for aquamarine
+Diorah Jewellers|2|R|0|Examples from £870
+Temple & Grace|3|R|0|Examples £2,930-£4,754
+Chisholm Hunter|4|R|0|Examples from £645
+Finediam|5|R|0|Made-to-order and bespoke
+@chatgpt|TR01|r1|t1 numbered_headings
+@chatgpt|TR02|r1|t1 numbered_list
+President Jewellers|1|R|+|Independent report included; start here
+VERDAAN|2|R|+|House certificate on every stone
+Rêve Diamonds|3|R|+|Independent reports included
+Amada Diamonds|4|R|0|Certified coloured gemstones
+Imperial Time|5|R|0|Certified coloured gemstones
+@chatgpt|TR03|r1|t1 numbered_list
+Orla James|1|R|+|Strong match for free lifetime resizing
+London Diamonds|2|R|0|Lifetime resizing
+Masaat London|3|R|0|Lifetime resizing
+President Jewellers|4|R|0|Lifetime resizing
+Wongs Jewellers|5|R|0|Free resizing
+Queensmith;Friendly Diamonds||M|0|Shorter free-resizing period options
+@chatgpt|TR04|r1|t1 numbered_list
+Harper Tait|1|R|+|Attractive for precious-metal gemstone jewellery
+Sunshine Diamonds|2|R|+|Good gemstone selection and free resizing
+Liberty London|3|R|0|Colourful contemporary designs
+The Diamond Store|4|R|0|30-day free returns
+Shining Diamonds|5|R|0|30-day free returns
+MOH London|6|R|0|30-day free returns
+@chatgpt|TR05|r1|t1 numbered_headings
+Queensmith|1|R|+|First choice for natural sapphire
+Austen & Blake|2|R|0|Lifetime warranty, free resizing
+Lily Arkwright|3|R|0|Pick if happy with lab-grown
+President Jewellers|4|R|+|Start here for natural sapphire with reports
+@chatgpt|TR06|r1|t1 numbered_list
+Apsara|1|R|+|Start here; strong disclosure policy
+Vivaaz Gems & Jewellery|2|R|+|Product-by-product treatment disclosures
+Topgem|3|R|0|Detailed treatment explanations
+Angels Bespoke Jewellers|4|R|0|Written disclosure on quotes
+R.M. Shah|5|R|-|Treatment info caveat in policy
+@chatgpt|TR07|r1|t1 numbered_list
+Nineteen48|1|R|+|First recommendation; traceable natural gemstones
+The Curious Gem|2|R|0|Best for transparency
+Harriet Kelsall|3|R|0|Best for fair sourcing
+TwoSkies|4|R|0|Locally sourced Scottish gemstones
+CR Gems|5|R|0|Specialist gemstone selection
+@chatgpt|TR08|r1|t1 numbered_list
+Created Brilliance|1|R|+|Fastest free next-day delivery
+Sunshine Diamonds|2|R|0|Free next-day delivery
+ASD Jewellers|3|R|0|Free delivery over £50
+The Diamond Store|4|R|0|Free UK delivery
+H.AZEEM London|5|R|0|Free standard delivery
+@chatgpt|TR09|r1|t1 numbered_list
+Beaverbrooks|1|R|+|Up to 36 months 0% finance
+Swarovski|2|R|0|Klarna/Clearpay short-term instalments
+Bijou Jewellery|3|R|0|Finance available
+Atelier Rings|4|R|0|Shop Pay up to 24 months
+H.Samuel|5|R|0|Clearpay available
+The London Victorian Ring Co|6|R|0|Novuna 0% finance
+@chatgpt|TR10|r1|t1 numbered_list
+Vianne Jewellery|1|R|+|Best specialist gemstone option, 4.93/5
+Gemporia|2|R|+|Best for gemstone variety
+Rocks & Co.|3|R|0|Best for gemstone-focused collections
+Monica Vinader|4|R|0|Good for everyday luxury and gifting
+Beaverbrooks|5|R|0|Rated 4.8/5 on Trustpilot
+Abelini;The Diamond Store||M|0|Other retailers worth considering
+@chatgpt|TR11|r1|t1 numbered_headings
+@chatgpt|TR12|r1|t1 numbered_list
+President Jewellers|1|R|+|Report included as standard; start here
+Ceylon Gems London|2|R|0|Independent reports available
+Giri Stones|3|R|0|Report status shown per stone
+Imperial Time|4|R|0|Lab reports on gemstones
+Hatton Garden Bespoke Jewellery|5|R|0|Lab reports on gemstones
+@chatgpt|TR13|r1|t1 numbered_headings
+Gemstones Uncut;The Curious Gem;Gemondo;Gemporia||M|0|Listed with customer review ratings

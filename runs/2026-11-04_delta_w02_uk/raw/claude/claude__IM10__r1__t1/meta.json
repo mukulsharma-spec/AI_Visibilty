@@ -1,0 +1,13 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "pid": "IM10",
+ "prompt": "Show me three-stone ruby and diamond rings I'm shopping in the UK.",
+ "web_search": true,
+ "capture_quality": "full_panel",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T07:57:16.039059Z",
+ "citation_count": 20,
+ "answer_chars": 610,
+ "notes": "answer from .standard-markdown; no reasoning blocks included; search panel expanded, no further nested rows found"
+}

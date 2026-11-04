@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+ST11,gemini,Gemondo UK,www.gemondo.com,https://www.gemondo.com/collections/ruby,html_sources_panel
+ST11,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/ruby-necklaces,html_sources_panel
+ST11,gemini,Lloyds Family Jewellery™️,www.lloydsfamilyjewellery.co.uk,https://www.lloydsfamilyjewellery.co.uk/pendants-necklaces/gemstone-pendants/ruby-pendants,html_sources_panel
+ST11,gemini,New Cavendish Jewellers,www.newcavendishjewellers.com,https://www.newcavendishjewellers.com/pages/ruby-jewellery,html_sources_panel

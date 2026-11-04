@@ -1,0 +1,121 @@
+@chatgpt|OC17|r1|t1 numbered_list
+Jewel Tree London|1|R|+|Start here; explicitly offers gift receipt
+Berry's Jewellers|2|R|+|Good choice for complimentary gift wrapping
+Astley Clarke|3|R|0|Gift wrapping available
+Westermoy Jewellery|4|R|0|Packaging and gift wrap
+Goldsmiths|5|R|0|Gift wrapping information
+@chatgpt|OC18|r1|t1 product_cards
+QP Jewellers|1|R|+|Best everyday gift; Barcelona pendant and ruby ring
+The Real Gem|2|R|0|Natural aquamarine ring
+H.AZEEM London|3|R|0|Natural gemstone jewellery, free UK delivery
+@chatgpt|OC21|r1|t1 numbered_list
+C W Sellors|1|R|0|Push present gemstone jewellery
+Kiaash|2|R|0|Push present gemstone jewellery
+Hatton Garden Bespoke Jewellery|3|R|0|Bespoke gemstone jewellery
+Temple & Grace|4|R|0|Gemstone jewellery
+Lebrusan Studio|5|R|0|Gemstone jewellery
+@chatgpt|PR01|r1|t1 product_cards
+H.Samuel|1|R|+|9ct gold oval sapphire and diamond ring
+Gold Boutique|2|R|0|Oval lab-grown sapphire ring
+QP Jewellers|3|R|0|Ariel Desire sapphire ring
+Nude Jewellery|4|R|0|Best for distinctive handmade look
+F. Hinds|5|R|0|Sapphire and diamond crossover
+@chatgpt|PR02|r1|t1 numbered_list
+Gemondo|1|R|+|Best overall choice, £31-£265
+Sarah Beth Jewellers|2|R|+|Best for real coloured stones
+Ruby & Oscar|3|R|0|Selected styles £149-£255
+Franki Baker|4|R|0|Natural gemstone studs £32-£160
+The Jewellery Store|5|R|0|Affordable teardrops and studs
+@chatgpt|PR03|r1|t1 product_cards
+C W Sellors|1|R|+|Best premium choice
+Carolyn Codd|2|R|+|Best overall luxury, platinum studs
+QP Jewellers|3|R|+|Best carat value
+The Fine Jewellery Company|4|R|+|Best everyday elegance
+Goldsmiths|5|R|0|Best sparkle, sapphire diamond halo
+Sonny's Jewellers|6|R|0|Oval sapphire claw studs
+@chatgpt|PR04|r1|t1 numbered_list
+Created Brilliance|1|R|+|Top pick for emerald ring under budget
+Finediam|2|R|0|Larger-looking emerald designs from £675
+Luma Jewellery|3|R|0|Emerald rings from £680
+@chatgpt|PR05|r1|t1 product_cards
+QP Jewellers|1|R|+|Pick for romantic classic heart ruby pendant
+Sonny's Jewellers|2|R|+|Shortlisted round ruby pendant
+Sarah Beth Jewellers|3|R|0|Best if you prefer silver
+@chatgpt|PR06|r1|t1 product_cards
+Monica Vinader|1|R|0|Refined understated gifts
+Missoma|2|R|0|Contemporary birthstone jewellery
+Daisy London|3|R|0|Feminine gemstone designs
+Gemporia|4|R|+|Pick for traditional fine jewellery; actual gemstones
+@chatgpt|PR07|r1|t1 numbered_list
+Blackacre London|1|R|+|Best overall for exceptional colour; first choice
+Boodles|2|R|0|Best for traditional British luxury
+Robinson Pelham|3|R|+|Best for colourful distinctive gemstones
+Smith & Green|4|R|0|Best for gemstone quality and value
+Queensmith|5|R|0|Best for contemporary sapphire rings
+Bentley & Skinner|6|R|0|Best for rare antique gemstones
+@chatgpt|PR08|r1|t1 numbered_list
+F. Hinds|1|R|+|Best overall starting point
+Gold Boutique|2|R|0|Best for elegant gold designs
+QVC UK|3|R|0|Best for larger gemstones
+QP Jewellers|4|R|0|Floral and vintage-inspired designs
+No.13 Jewellery|5|R|0|Handmade Hatton Garden sugarloaf tanzanite
+@chatgpt|PR11|r1|t1 product_cards
+The Fine Jewellery Company|1|R|+|Pick for everyday wear
+Northumberland Goldsmiths|2|R|0|Round sapphire studs
+Sarah Beth Jewellers|3|R|0|Blue sapphire studs
+Murray & Co|4|R|0|Oval sapphire studs
+Aurée|5|R|0|Mini Manhattan sapphire drops
+Franki Baker|6|R|0|Genuine sapphire studs
+@chatgpt|PR12|r1|t1 numbered_list
+Apsara|1|R|+|First choice to visit
+Jabir|2|R|+|Excellent for high-value purchases
+McLauchlan Gems|3|R|0|Unheated sapphires
+Rêve Diamonds|4|R|0|Unheated sapphires
+Roughcut Ceylon|5|R|0|Natural unheated Ceylon sapphires
+Leibish|6|R|0|LEIBISH UK unheated sapphires
+@chatgpt|SG02|r1|t1 numbered_list
+Diamonds Factory|1|R|+|Best overall selection
+Austen & Blake|2|R|0|Men's sapphire wedding bands
+HusBands UK|3|R|0|Best budget option
+Temple & Grace|4|R|0|Men's sapphire bands
+Jewelry By Johan|5|R|0|Men's sapphire bands
+Goldsmiths|6|R|0|Men's sapphire bands
+@chatgpt|SG03|r1|t1 numbered_list
+Mayuri Paris|1|R|+|Pick for romance
+President Jewellers|2|R|+|Best for gemstone authenticity
+Platform Jewellers|3|R|0|Traditional jeweller with aftercare
+A Jewellers|4|R|0|Quality craftsmanship
+@chatgpt|SG04|r1|t1 numbered_list
+Gatsby Jewellery|1|R|+|Best for genuine antique styles
+Pruden & Smith|2|R|0|Best for bespoke vintage-inspired rings
+Charlotte Sayers|3|R|0|Vintage-style gemstone rings
+Wild Fawn Jewellery|4|R|0|Vintage-style gemstone rings
+Chains of Gold|5|R|0|Vintage-style gemstone rings
+Antique Jewellers|6|R|0|Vintage-style gemstone rings
+Tobi Gem Setting|7|R|0|Vintage-style gemstone rings
+@chatgpt|SG05|r1|t1 numbered_list
+Kiaash|1|R|+|Best overall match
+Dainty London|2|R|0|Made in UK dainty jewellery
+Kirstin Ash|3|R|0|Dainty everyday gemstone jewellery
+Daisy London|4|R|0|Dainty gemstone jewellery
+Pruden & Smith|5|R|0|Handmade gemstone jewellery
+Majestic Jewellery;Iceni Silvercraft||M|0|Worth bookmarking
+@chatgpt|SG06|r1|t1 numbered_list
+Amada Diamonds|1|R|+|First choice for gemstone tennis bracelet
+Finediam|2|R|0|Gemstone tennis bracelets
+Manna Jewellers|3|R|0|Gemstone tennis bracelets
+Chisholm Hunter|4|R|0|Gemstone tennis bracelets
+@chatgpt|SG07|r1|t1 numbered_list
+Carrie Elizabeth|1|R|+|Best all-rounder
+Phoebe Coleman|2|R|0|Stacking rings £115-£1,500+
+H.AZEEM London|3|R|0|Stacking rings £45-£115
+Daisy London|4|R|0|Stacking rings £49-£300
+Alison Moore Designs|5|R|0|Stacking rings £55-£1,900+
+Pruden & Smith|6|R|0|Stacking rings £200-£4,000+
+Gold Boutique;Manna Jewellers;The Jewellery Store||M|0|More places worth browsing
+@chatgpt|SG11|r1|t1 numbered_list
+Goodwin Antiques|1|R|0|Art deco emerald rings
+The Antique Jewellery Company|2|R|0|Art deco emerald rings
+Philip Lloyd Jewellers|3|R|0|Art deco emerald rings
+Farringdons Jewellery|4|R|0|Art deco emerald rings
+Antique Jewellery Store|5|R|0|Art deco emerald rings

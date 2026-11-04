@@ -1,0 +1,13 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "pid": "OC10",
+  "engine": "claude",
+  "web_search": false,
+  "web_search_note": "no Searched-the-web block shown",
+  "capture_quality": "ok",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "incognito_no_id",
+  "send_text": "My daughter is graduating and I want to get her a gemstone necklace. Where should I buy one? I'm shopping in the UK.",
+  "answer_chars": 1777,
+  "captured_at_utc": "2026-11-04T07:13:43Z"
+}

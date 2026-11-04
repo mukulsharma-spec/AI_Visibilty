@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+MT02,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/jewellery/gemstones/emerald/c/6445000000,html_sources_panel
+MT02,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/emerald-earrings,html_sources_panel
+MT02,gemini,W Hamond,whamond.com,https://whamond.com/en-row/collections/emerald-earrings,html_sources_panel
+MT02,gemini,Garrard,www.garrard.com,https://www.garrard.com/en-us/collections/emerald-jewellery,html_sources_panel

@@ -1,0 +1,13 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "pid": "CP01",
+ "prompt": "Sapphire vs diamond for an engagement ring: which is better? I'm shopping in the UK.",
+ "web_search": false,
+ "capture_quality": "ok",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T07:57:51.606707Z",
+ "citation_count": 0,
+ "answer_chars": 2326,
+ "notes": "No 'Searched the web' panel appeared; Claude answered without search. No citations. answer from .standard-markdown"
+}

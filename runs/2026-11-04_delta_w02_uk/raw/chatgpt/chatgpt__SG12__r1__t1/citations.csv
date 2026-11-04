@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+SG12,chatgpt,Gemondo,gemondo.com,https://www.gemondo.com/?utm_source=chatgpt.com,html_card
+SG12,chatgpt,Rebus,rebus.co.uk,https://rebus.co.uk/?utm_source=chatgpt.com,html_card
+SG12,chatgpt,Stephen Einhorn,stepheneinhorn.co.uk,https://www.stepheneinhorn.co.uk/?utm_source=chatgpt.com,html_card
+SG12,chatgpt,Manful,manful.co.uk,https://manful.co.uk/?utm_source=chatgpt.com,html_card

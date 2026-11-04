@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+SG05,gemini,Missoma,www.missoma.com,https://www.missoma.com/collections/missoma-fine,html_sources_panel
+SG05,gemini,Missoma,www.missoma.com,https://www.missoma.com/collections/missoma-fine,html_sources_panel
+SG05,gemini,Daisy London,www.daisyjewellery.com,https://www.daisyjewellery.com/collections/solid-gold-jewellery,html_sources_panel
+SG05,gemini,Astrid & Miyu,www.astridandmiyu.com,https://www.astridandmiyu.com/collections/solid-gold-jewellery-collection,html_sources_panel
+SG05,gemini,The Wearer,www.thewearer.com,https://www.thewearer.com/,html_sources_panel

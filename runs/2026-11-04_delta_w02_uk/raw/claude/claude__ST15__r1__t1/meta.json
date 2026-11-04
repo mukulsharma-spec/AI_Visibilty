@@ -1,0 +1,14 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "ST15",
+ "platform": "claude",
+ "prompt": "i want a morganite ring, any recommendations I'm shopping in the UK.",
+ "web_search": true,
+ "search_queries": [],
+ "capture_quality": "good",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T06:21:00Z",
+ "citation_links": 9,
+ "citation_unique_urls": 5
+}

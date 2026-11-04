@@ -1,0 +1,7 @@
+prompt_id,app,source_name,domain,url,source_file
+MT01,gemini,Queensmith,www.queensmith.co.uk,https://www.queensmith.co.uk/about-us/our-commitment,html_sources_panel
+MT01,gemini,Queensmith,www.queensmith.co.uk,https://www.queensmith.co.uk/about-us/our-commitment,html_sources_panel
+MT01,gemini,Austen & Blake,www.austenblake.com,https://www.austenblake.com/customer-care/returns-policy,html_sources_panel
+MT01,gemini,Austen & Blake,www.austenblake.com,https://www.austenblake.com/customer-care/returns-policy,html_sources_panel
+MT01,gemini,Novita Diamonds UK,novitadiamonds.co.uk,https://novitadiamonds.co.uk/returns-resizing-repairs-policy,html_sources_panel
+MT01,gemini,Novita Diamonds UK,novitadiamonds.co.uk,https://novitadiamonds.co.uk/free-return,html_sources_panel

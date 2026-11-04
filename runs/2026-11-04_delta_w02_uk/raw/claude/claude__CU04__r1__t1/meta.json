@@ -1,0 +1,13 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "pid": "CU04",
+  "engine": "claude",
+  "web_search": true,
+  "capture_quality": "ok",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "incognito_no_id",
+  "send_text": "Where can I buy a ready-to-ship sapphire engagement ring that arrives in 2 days? I'm shopping in the UK.",
+  "answer_chars": 2779,
+  "citation_urls": 19,
+  "captured_at_utc": "2026-11-04T07:35:00Z"
+}

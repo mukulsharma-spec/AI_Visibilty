@@ -1,0 +1,67 @@
+@gemini|LG03|r1|t1 bullets_by_category
+Novita Diamonds|1|R|+|Highly reputable lab-grown specialist
+Temple & Grace|2|R|0|Online and London lab-grown jeweller
+Juvetti|3|R|0|Contemporary lab-grown gemstone specialist
+Keanis|4|R|0|UK luxury lab-grown jewellery brand
+Angara|5|R|0|Major online fine jeweller with lab ruby range
+@gemini|LG05|r1|t1 headings
+Angara|1|R|+|Extensive customisable lab-grown sapphire range
+Diamonds & Co.;TJC|2|R|0|Popular UK-facing lab gemstone options
+Chatham||M|0|Lab-created sapphire brand via authorised retailers
+eBay||M|0|Platform for loose lab stones
+@gemini|LG08|r1|t1 numbered_headings
+The Diamond Store|1|R|0|Major online UK jeweller with natural and lab options
+Lily Arkwright|2|R|0|Manchester-based ethical jeweller
+Austen & Blake|3|R|0|Prominent custom jeweller
+Queensmith;Vashi|4|R|0|Bespoke online retailers stocking both
+@gemini|LG09|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|Well-known UK online fine jeweller
+Novita Diamonds|2|R|0|Specialise in lab-grown gemstones
+GLAMIRA|3|R|0|Heavy customisation
+H.Samuel;Ernest Jones|4|R|0|High street expanding lab-grown selection
+@gemini|MT01|r1|t1 headings
+Queensmith|1|R|+|Widely praised for ethical sourcing and bespoke design
+Ernest Jones;H.Samuel|2|R|0|Ready-to-wear sapphire cluster rings
+Austen & Blake;Novita Diamonds|3|R|0|Modern customisable online jewellers
+@gemini|MT01|r1|t2 numbered_headings
+Queensmith|1|R|+|The winner on returns policy
+Austen & Blake|2|R|0|Second on returns policy
+Novita Diamonds|3|R|0|Third on returns policy
+@gemini|MT02|r1|t1 bullets_by_category
+Ernest Jones;Goldsmiths|1|R|0|Prominent UK high-street emerald earrings
+TJC|2|R|0|Budget-friendly emerald earrings
+Angara|3|R|+|Extensive online catalogue, customisable
+W Hamond;Burrells|4|R|0|Independent British fine jewellers
+Garrard|5|R|0|Top-tier luxury heritage brand
+@gemini|MT02|r1|t2 numbered_headings
+Gemondo|1|R|+|Emerald cluster earrings within budget
+F. Hinds;Ernest Jones|2|R|0|High street favourites
+Angara|3|R|0|Scale down gemstone size to fit budget
+Etsy|4|R|0|Independent artisan solid gold pieces
+@gemini|MT03|r1|t1 bullets_by_category
+Queensmith|1|R|+|Highly regarded bespoke and ethical
+Berganza|2|R|0|Antique and vintage ruby rings
+Powells Jewellery|3|R|0|Pre-owned high-karat pieces
+F. Hinds|4|R|0|Family-run British high street jeweller
+Ernest Jones;H.Samuel|5|R|0|Mainstay high street names
+TJC|6|R|0|Massive variety for value
+@gemini|MT03|r1|t2 headings
+TJC||M|0|Legitimate; fine for low-cost pieces, not investment pieces
+@gemini|MT04|r1|t1 bullets_by_category
+Beaverbrooks|1|R|0|UK high street staple emerald jewellery
+The Diamond Store|2|R|0|Excellent online option
+T.H. Baker;Ernest Jones|3|R|0|Traditional UK chains
+Kit Heath|4|R|0|Contemporary British silver designs
+Vianne Jewellery;Astley Clarke|5|R|0|Modern demi-fine jewellery
+Etsy|6|R|0|Thousands of UK makers for May birthstone gifts
+@gemini|MT04|r1|t2 bullets_by_category
+Beaverbrooks|1|R|0|Order online at beaverbrooks.co.uk
+The Diamond Store|2|R|0|Order at thediamondstore.co.uk
+Austen & Blake|3|R|0|Order at austenblake.co.uk
+Monica Vinader|4|R|+|Favourite for modern British demi-fine
+Kit Heath|5|R|0|Browse British designs at kitheath.com
+Etsy|6|R|0|Search May birthstone on etsy.co.uk
+@gemini|MT05|r1|t1 headings
+Beaverbrooks;Goldsmiths;H.Samuel|1|R|0|High street jewellers for resizing and engraving
+In-Time;Prestige|2|R|0|Mail-in specialist services
+@gemini|MT05|r1|t2 headings

@@ -1,0 +1,100 @@
+@chatgpt|MT03|r1|t1 numbered_list
+C W Sellors|1|R|+|Top pick for natural rubies
+Queensmith|2|R|0|Hatton Garden ruby rings
+Goldsmiths|3|R|0|Multiple UK stores
+F. Hinds|4|R|0|Ruby rings
+Temple & Grace|5|R|0|London showroom and online
+@chatgpt|MT03|r1|t2 clarifying_question
+C W Sellors;Queensmith;Goldsmiths||M|0|Asked which site user meant
+@chatgpt|MT04|r1|t1 product_cards
+Wanderlust Life|1|R|+|Best for a special birthday gift
+Goldsmiths|2|R|0|9ct gold emerald birthstone bracelet
+Abiza|3|R|0|Raw emerald necklace, something unusual
+The Jewellery Store|4|R|0|Genuine emerald necklace from £38
+Lapis London|5|R|0|Orb emerald birthstone necklace
+@chatgpt|MT04|r1|t2 numbered_list
+Wanderlust Life|1|R|+|Recommended choice to order
+Abiza|2|R|0|Genuine emerald jewellery from £35
+Djuna & Co|3|R|0|Emerald necklaces from £29.95
+Monica Vinader|4|R|0|May birthstone jewellery
+Astley Clarke|5|R|0|May birthstone jewellery
+@chatgpt|MT05|r1|t1 numbered_list
+Jewellery Repair Workshop|1|R|0|Hatton Garden resizing and engraving
+Dorado Jewellery|2|R|0|Brixton jeweller
+Ronesans Jewellery Workshop|3|R|0|Hackney workshop
+Jewellery By Liam Ross|4|R|0|Edinburgh jeweller
+Monty's Jewellery|5|R|0|Exeter jeweller
+@chatgpt|MT05|r1|t2 comparison_table
+Dorado Jewellery|1|R|+|Contact first; engraving next working day
+Jewellery Repair Workshop|2|R|+|Same-day resizing available
+Ronesans Jewellery Workshop|3|R|0|Repairs 3-7 days
+Monty's Jewellery|4|R|0|Time confirmed after inspection
+@chatgpt|MT06|r1|t1 product_cards
+Smiths the Jewellers|1|R|+|My pick: natural pear ruby three-stone
+Diamonds Factory|2|R|0|Oval ruby halo from £907
+F. Hinds|3|R|0|Ruby and diamond cluster ring
+Temple & Grace|4|R|0|Quatrefoil ruby and diamond ring
+@chatgpt|MT06|r1|t2 comparison_table
+Temple & Grace|1|R|0|Own certificate of authenticity and valuation
+Diamonds Factory|2|R|0|Certification details compared
+Smiths the Jewellers|3|R|0|Certification details compared
+F. Hinds|4|R|0|Certification details compared
+@chatgpt|OC01|r1|t1 product_cards
+Wanderlust Life|1|R|+|Great affordable choice, handmade in UK
+Rachel Jackson London|2|R|0|Garnet heart necklaces
+Astley Clarke|3|R|+|Best premium designs
+Abiza|4|R|0|Genuine garnet jewellery, handmade in Chester
+Goldsmiths|5|R|0|Garnet birthstone bracelets, click and collect
+jewellerybox|6|R|0|Affordable garnet-coloured jewellery
+TigerLily Jewellery;Palenque;Macintyres of Edinburgh||M|0|More UK jewellers worth exploring
+@chatgpt|OC02|r1|t1 numbered_list
+Abiza|1|R|+|Great thoughtful gift
+F. Hinds|2|R|0|Best range of prices
+Goldsmiths|3|R|0|Premium gift
+Chapelle|4|R|0|Amethyst and diamond necklaces from £209
+H.AZEEM London|5|R|0|Amethyst gold necklaces
+@chatgpt|OC07|r1|t1 numbered_list
+Queensmith|1|R|+|First choice for a special ring
+Pruden & Smith|2|R|0|For something personal
+Hancocks|3|R|0|Traditional fine jewellery
+F. Hinds|4|R|0|Accessible high-street shopping
+David Ashton|5|R|0|Natural gemstones
+@chatgpt|OC08|r1|t1 headings
+Samuel Perry;Aladdins Cave Jewellery|1|R|0|Ruby and diamond pendants
+Not On The High Street;My Happy Moments|2|R|0|Engraved ruby glass vase
+Forget Me Not 247;The Personal Shop|3|R|0|Ruby champagne flutes
+From Willow;ASDA Photo|4|R|0|Personalised photo frame
+The Gift Experience;Keep It Personal|5|R|0|Ruby crystal keepsake
+@chatgpt|OC09|r1|t1 numbered_list
+Avanti Jewellers|1|R|+|Best for genuine emerald jewellery
+Sophie Harley London|2|R|0|Best for elegant jewellery
+Not On The High Street|3|R|0|Best for personalised gifts
+The Gift Experience|4|R|0|Emerald anniversary gifts
+Catherine Best|5|R|0|Emerald jewellery £460+
+@chatgpt|OC10|r1|t1 numbered_list
+Pruden & Smith|1|R|+|Gemstone pendants from £99
+Astley Clarke|2|R|+|Lovely delicate contemporary gemstone pieces
+Daisy London|3|R|0|Featured pendants £79-£129
+Goldsmiths|4|R|0|Selected pendants £275-£325
+Abiza|5|R|0|From approximately £31
+@chatgpt|OC13|r1|t1 product_cards
+Decadorn|1|R|+|Favourite for something unique
+Goldsmiths|2|R|0|Traditional emerald birthstone pendant £275
+Gemporia|3|R|0|Colourful natural gemstone rings
+Pandora||M|-|Birthstone pieces not necessarily natural gemstones
+@chatgpt|OC14|r1|t1 numbered_list
+Garrard|1|R|+|Luxury pick
+Annoushka|2|R|0|Luxury designer
+Pippa Small|3|R|0|Artisan luxury
+Temple & Grace|4|R|0|Bespoke fine jewellery
+The Cut London|5|R|0|Independent designer discovery
+Berganza|6|R|0|Vintage and collectible
+@chatgpt|OC15|r1|t1 product_cards
+Sophelia & Co|1|R|+|Birthstone necklaces with Christmas delivery deadlines
+@chatgpt|OC16|r1|t1 numbered_list
+Decadorn|1|R|+|Great affordable contemporary option
+Palenque|2|R|0|Unusual artistic designs
+Franki Baker|3|R|0|Natural gemstones at accessible prices
+Goldsmiths|4|R|0|Fine jewellery and traditional gifts
+Astley Clarke|5|R|0|Minimalist sophisticated gifts
+Avanti Jewellers|6|R|0|Premium gemstone jewellery

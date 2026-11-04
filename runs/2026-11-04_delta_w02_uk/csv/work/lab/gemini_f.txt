@@ -1,0 +1,92 @@
+@gemini|MT06|r1|t1 bullets_by_category
+F. Hinds|1|R|0|Massive range of 9ct and 18ct ruby rings
+Ernest Jones|2|R|0|Elegant pieces within £1,500
+Le Vian||M|0|Example designer pieces at Ernest Jones
+The Diamond Store|3|R|0|Highly customisable online UK jeweller
+Ramsdens|4|R|0|Pre-owned and vintage ruby rings
+Grays Antique Market|5|R|0|London antique market
+@gemini|MT06|r1|t2 numbered_headings
+F. Hinds;Ernest Jones;The Diamond Store||M|0|Provide in-house certificates, not lab reports
+Ramsdens||M|0|Guarantees natural ruby with own appraisal
+AnchorCert||M|0|Independent Birmingham gem lab
+@gemini|OC01|r1|t1 bullets_by_category
+John Lewis|1|R|0|Browse multiple garnet brands
+H.Samuel;T.H. Baker|2|R|0|Well-known British high street jewellers
+Rachel Jackson London|3|R|0|Electric Love art-deco birthstone jewellery
+Daisy London|4|R|0|Delicate stackable birthstone rings
+Astley Clarke|5|R|0|Higher-end contemporary pieces
+Etsy|6|R|0|Personalised handmade garnet pieces
+Angara|7|R|+|Great online specialist for garnet
+@gemini|OC02|r1|t1 bullets_by_category
+H.Samuel;Ernest Jones|1|R|0|Major UK high street names
+TJC|2|R|0|Online-first amethyst option
+Wanderlust Life|3|R|0|UK minimalist birthstone jewellery
+Emma Chapman Jewels|4|R|0|Artisanal bohemian style
+Designs by Nature Gems|5|R|0|UK boutique handmade gemstone jewellery
+Beaverbrooks|6|R|0|Respected family-run jeweller
+Liberty London;Selfridges|7|R|0|Designer collections
+@gemini|OC07|r1|t1 numbered_headings
+Flawless Fine Jewellery;Apsara|1|R|0|Hatton Garden unheated coloured gemstone specialists
+C W Sellors|2|R|+|UK independent luxury jeweller with heritage
+Titcombe Bespoke Jewellery|3|R|0|Loose natural sapphires set in custom pieces
+Garrard|4|R|+|Longest-serving Crown Jeweller
+Ernest Jones|5|R|0|Reliable nationwide high-street jeweller
+@gemini|OC08|r1|t1 bullets_by_category
+C W Sellors|1|R|0|Dedicated ruby anniversary collections
+PureJewels|2|R|0|Gold and ruby anniversary pieces
+Ernest Jones;Goldsmiths|3|R|0|Ruby rings and pendants year-round
+Dinny Hall|4|R|0|Contemporary ruby pieces, Shuga collection
+David Morris;Tiffany & Co.|5|R|0|High-end luxury ruby pieces
+Not On The High Street|6|R|+|One of best UK platforms for 40th anniversary gifts
+Etsy|7|R|0|Small British creators, customised gifts
+John Lewis;Selfridges|8|R|0|Ruby-themed luxury homeware
+The Chinashop|9|R|0|Crystal and porcelain milestone gifts
+@gemini|OC09|r1|t1 bullets_by_category
+Beaverbrooks|1|R|0|Extensive emerald anniversary selection
+Ernest Jones|2|R|0|Emerald rings, bracelets and necklaces
+Avanti Jewellers;Golden Snowdrop|3|R|0|Dedicated 55th anniversary ranges
+Not On The High Street|4|R|+|One of best UK platforms for unique gifts
+Etsy|5|R|0|Hundreds of independent British makers
+The Gift Experience|6|R|0|55th anniversary experience days
+Fortnum & Mason;Harvey Nichols||M|0|High-end hamper companies
+@gemini|OC10|r1|t1 bullets_by_category
+Astrid & Miyu|1|R|0|Modern stackable delicate necklaces
+Monica Vinader|2|R|+|Favourite for contemporary British luxury
+The Diamond Store|3|R|0|One of UK's largest online fine jewellers
+Beaverbrooks;Ernest Jones|4|R|0|Major high street chains
+Taylor & Hart|5|R|0|Bespoke showrooms in London and Manchester
+@gemini|OC13|r1|t1 numbered_headings
+Gemporia;Gemondo;Not On The High Street|1|R|+|Family birthstone jewellery; Gemondo exceptional for vintage lockets
+Ernest Jones;Goldsmiths|2|R|0|Classic gemstone cluster studs
+Astrid & Miyu;Monica Vinader|3|R|0|Contemporary semi-precious pendants
+@gemini|OC14|r1|t1 bullets_by_category
+Harriet Kelsall|1|R|+|Renowned for ethical sourcing and bespoke design
+Titcombe Bespoke Jewellery|2|R|0|Highly regarded artisan craftsmanship
+Anna Loucah|3|R|0|Pioneer in ethical fine jewellery
+Wild Fawn Jewellery|4|R|0|Minimalist understated rings
+Astrid & Miyu;Missoma|5|R|0|Demi-fine with some fine gemstone rings
+Austen & Blake|6|R|0|Customisable luxury
+Ernest Jones;Pravins|7|R|0|High-street and showroom options
+@gemini|OC15|r1|t1 numbered_headings
+Abbott Lyon|1|R|0|Birthstone necklace with Christmas delivery
+Wanderlust Life|2|R|0|Birthstone necklace with Christmas delivery
+Inscripture|3|R|0|Personalised birthstone necklace
+TJC|4|R|0|Birthstone necklace with fast delivery
+@gemini|OC16|r1|t1 bullets_by_category
+Goldsmiths|1|R|0|Dedicated October birthstone collection
+H.Samuel|2|R|0|Familiar high-street name
+John Lewis|3|R|0|Online and department store birthstone ranges
+The Diamond Store|4|R|0|UK online jeweller with opal and tourmaline range
+Monica Vinader|5|R|0|Modern demi-fine everyday luxury
+Boho Betty|6|R|0|Casual indie styles
+Etsy|7|R|0|Unique handmade options
+@gemini|OC17|r1|t1 numbered_headings
+Goldsmiths;Beaverbrooks;Ernest Jones;Berry's Jewellers;Astley Clarke||M|0|Offer dedicated gift-wrapping services
+Etsy||M|0|Independent sellers accommodate wrapping and omit pricing
+@gemini|OC18|r1|t1 numbered_headings
+The Diamond Store|1|R|0|Classic real ruby or pink sapphire pieces
+Phoenix & The Moon;Nova Lore|2|R|0|Handmade gemstone pieces
+Maya Magal|3|R|0|Handcrafted birthstone jewellery
+TJC|4|R|0|Massive variety of genuine gemstones
+C W Sellors|5|R|0|British-made stacking pieces
+Diamonds Factory|6|R|0|Elegant gemstone rings and pendants

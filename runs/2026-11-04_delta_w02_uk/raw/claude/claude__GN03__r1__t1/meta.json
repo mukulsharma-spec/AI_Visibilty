@@ -1,0 +1,16 @@
+{
+  "run_key": "2026-11-04_delta_w02_uk",
+  "prompt_id": "GN03",
+  "app": "claude",
+  "repeat": "r1",
+  "turn": "t1",
+  "prompt_sent": "What are the best online jewelry stores? I'm shopping in the UK.",
+  "chat_url": "https://claude.ai/new?incognito",
+  "chat_url_note": "Incognito chats keep address bar at /new?incognito; no chat id exposed",
+  "model_ui": "Sonnet 5.5 Medium (Incognito)",
+  "egress_country": "not checked (owner said skip; UK suffix used)",
+  "capture_quality": "partial",
+  "web_search": false,
+  "web_search_note": "No search; 'Deciding whether a search is worth running'",
+  "captured_at_utc": "2026-11-04T06:03:00Z"
+}

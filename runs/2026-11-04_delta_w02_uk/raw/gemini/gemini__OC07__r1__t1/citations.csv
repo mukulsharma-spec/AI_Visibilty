@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+OC07,gemini,Flawless Fine Jewellery,www.flawlessfinejewelry.com,https://www.flawlessfinejewelry.com/gemstones/sapphire/,html_sources_panel
+OC07,gemini,www.apsara.co.uk,www.apsara.co.uk,https://www.apsara.co.uk/,html_sources_panel
+OC07,gemini,C W Sellors | Fine Jewellery & Luxury Watches,www.cwsellors.co.uk,https://www.cwsellors.co.uk/collections/precious-gemstone-jewellery,html_sources_panel
+OC07,gemini,Titcombe Bespoke Jewellery,titcombebespoke.co.uk,https://titcombebespoke.co.uk/gemstones/,html_sources_panel

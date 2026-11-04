@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+TR09,gemini,Beaverbrooks,www.beaverbrooks.co.uk,https://www.beaverbrooks.co.uk/info/klarna,html_sources_panel
+TR09,gemini,Britannia Jewellery,britannia-jewellery.co.uk,https://britannia-jewellery.co.uk/product-category/klarna-jewellery/,html_sources_panel
+TR09,gemini,Ramsdens Jewellery,www.ramsdensjewellery.co.uk,https://www.ramsdensjewellery.co.uk/klarna,html_sources_panel
+TR09,gemini,John Greed,www.johngreed.com,https://www.johngreed.com/finance,html_sources_panel
+TR09,gemini,London Diamond Online,www.londondiamondonline.com,https://www.londondiamondonline.com/pages/instalments-option-with-klarna-and-laybuy,html_sources_panel

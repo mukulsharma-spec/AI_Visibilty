@@ -1,0 +1,149 @@
+# ChatGPT capture — 2026-11-04_delta_w02_uk
+
+Signed-out ChatGPT (Chrome Incognito), 3-tab waves, UK suffix on t1; MT t2 followups verbatim in same chat. Capture by Friday.
+
+- **Folders:** 133 (127 t1 + 6 MT t2)
+- **Session:** `chrome_incognito`, signed out
+- **Egress:** IN / Gurugram / 49.249.146.90 (tagged; not GB)
+- **Wall clock (first→last meta):** 2026-11-04T06:04:46Z → 2026-11-04T08:04:51Z (~7205s / 2.0h)
+- **Zero-cite answers:** 7 — CP01(t1), CP02(t1), CP08(t1), CH02(t1), MT01(t1), MT03(t2), MT06(t2)
+- **Notes:** Anonymous message limit cleared once via fresh Incognito. Screenshots mid-run saved via desktop ffmpeg to `/tmp` after asset-store path became unreachable. Do not Load live_csv. Push raw when coordinating with Grok Bot Build.
+
+| ID | turn | web_search | cites | answer_chars |
+|---|---|---|---:|---:|
+| GN02 | t1 | True | 8 | 3085 |
+| GN03 | t1 | True | 12 | 3765 |
+| GN04 | t1 | True | 7 | 3749 |
+| GN05 | t1 | True | 5 | 2952 |
+| EN01 | t1 | True | 5 | 2493 |
+| EN02 | t1 | True | 9 | 4163 |
+| EN03 | t1 | True | 5 | 2906 |
+| ST01 | t1 | True | 7 | 2526 |
+| ST02 | t1 | True | 6 | 2272 |
+| ST04 | t1 | True | 5 | 2092 |
+| ST05 | t1 | True | 6 | 2751 |
+| ST08 | t1 | True | 4 | 3299 |
+| ST09 | t1 | True | 5 | 2523 |
+| ST10 | t1 | True | 4 | 4329 |
+| ST11 | t1 | True | 5 | 2224 |
+| ST13 | t1 | True | 5 | 1957 |
+| ST14 | t1 | True | 5 | 2560 |
+| ST15 | t1 | True | 4 | 2504 |
+| ST16 | t1 | True | 6 | 2790 |
+| ST17 | t1 | True | 5 | 2415 |
+| ST18 | t1 | True | 5 | 3206 |
+| ST19 | t1 | True | 6 | 2642 |
+| BS01 | t1 | True | 6 | 2465 |
+| BS02 | t1 | True | 6 | 2552 |
+| BS03 | t1 | True | 6 | 2757 |
+| BS04 | t1 | True | 5 | 2596 |
+| BS05 | t1 | True | 5 | 3028 |
+| BS06 | t1 | True | 9 | 2499 |
+| BS07 | t1 | True | 7 | 3548 |
+| BS08 | t1 | True | 6 | 2401 |
+| BS09 | t1 | True | 6 | 2959 |
+| BS10 | t1 | True | 4 | 2536 |
+| BS11 | t1 | True | 6 | 2663 |
+| BS12 | t1 | True | 5 | 2605 |
+| TR01 | t1 | True | 6 | 6599 |
+| TR02 | t1 | True | 8 | 5152 |
+| TR03 | t1 | True | 5 | 3502 |
+| TR04 | t1 | True | 6 | 3225 |
+| TR05 | t1 | True | 5 | 6306 |
+| TR06 | t1 | True | 6 | 6171 |
+| TR07 | t1 | True | 5 | 7367 |
+| TR08 | t1 | True | 5 | 2978 |
+| TR09 | t1 | True | 6 | 3069 |
+| TR10 | t1 | True | 7 | 4556 |
+| TR11 | t1 | True | 1 | 3480 |
+| PR01 | t1 | True | 5 | 2680 |
+| PR02 | t1 | True | 5 | 3146 |
+| PR03 | t1 | True | 6 | 2936 |
+| PR04 | t1 | True | 3 | 2781 |
+| PR05 | t1 | True | 4 | 2946 |
+| PR06 | t1 | True | 10 | 3012 |
+| PR07 | t1 | True | 6 | 5916 |
+| PR08 | t1 | True | 5 | 3058 |
+| PR11 | t1 | True | 6 | 3178 |
+| OC01 | t1 | True | 9 | 2924 |
+| OC02 | t1 | True | 5 | 2440 |
+| OC07 | t1 | True | 5 | 3615 |
+| OC08 | t1 | True | 9 | 2274 |
+| OC09 | t1 | True | 5 | 2734 |
+| OC10 | t1 | True | 5 | 2729 |
+| OC13 | t1 | True | 14 | 3203 |
+| OC14 | t1 | True | 6 | 2964 |
+| OC15 | t1 | True | 1 | 1137 |
+| OC16 | t1 | True | 6 | 2687 |
+| CU01 | t1 | True | 5 | 3627 |
+| CU02 | t1 | True | 6 | 2670 |
+| CU03 | t1 | True | 7 | 3667 |
+| CU04 | t1 | True | 4 | 2505 |
+| CU08 | t1 | True | 3 | 3137 |
+| CU10 | t1 | True | 6 | 2760 |
+| SG02 | t1 | True | 6 | 3023 |
+| SG03 | t1 | True | 4 | 3142 |
+| SG04 | t1 | True | 7 | 4210 |
+| SG05 | t1 | True | 7 | 3356 |
+| SG06 | t1 | True | 4 | 2524 |
+| SG07 | t1 | True | 9 | 2603 |
+| SG11 | t1 | True | 4 | 2244 |
+| LG01 | t1 | True | 6 | 3151 |
+| LG02 | t1 | True | 6 | 2543 |
+| LG03 | t1 | True | 3 | 2541 |
+| LG05 | t1 | True | 5 | 4719 |
+| LG08 | t1 | True | 5 | 3512 |
+| LG09 | t1 | True | 5 | 4158 |
+| IM01 | t1 | True | 6 | 2123 |
+| IM02 | t1 | True | 6 | 2117 |
+| IM03 | t1 | True | 6 | 1895 |
+| IM04 | t1 | True | 7 | 2291 |
+| IM05 | t1 | True | 6 | 2464 |
+| IM07 | t1 | True | 6 | 1846 |
+| IM10 | t1 | True | 6 | 2419 |
+| CP01 | t1 | False | 0 | 5851 |
+| CP02 | t1 | False | 0 | 5001 |
+| CP04 | t1 | True | 4 | 7950 |
+| CP05 | t1 | True | 3 | 4308 |
+| CP08 | t1 | False | 0 | 3564 |
+| CH01 | t1 | True | 1 | 3349 |
+| CH02 | t1 | False | 0 | 2798 |
+| MT01 | t1 | False | 0 | 2689 |
+| MT01 | t2 | True | 4 | 2124 |
+| MT02 | t1 | True | 4 | 1410 |
+| MT02 | t2 | True | 6 | 2203 |
+| MT03 | t1 | True | 5 | 2275 |
+| MT03 | t2 | False | 0 | 120 |
+| MT04 | t1 | True | 5 | 1980 |
+| MT04 | t2 | True | 5 | 1326 |
+| MT05 | t1 | True | 1 | 2324 |
+| MT05 | t2 | True | 2 | 1018 |
+| CP09 | t1 | True | 2 | 2252 |
+| TR12 | t1 | True | 5 | 3532 |
+| CU11 | t1 | True | 6 | 2877 |
+| ST20 | t1 | True | 6 | 3039 |
+| SG12 | t1 | True | 4 | 1776 |
+| OC17 | t1 | True | 5 | 2582 |
+| BS13 | t1 | True | 6 | 3246 |
+| PR12 | t1 | True | 10 | 4095 |
+| IM11 | t1 | True | 10 | 2167 |
+| MT06 | t1 | True | 4 | 1842 |
+| MT06 | t2 | False | 0 | 1897 |
+| CH03 | t1 | True | 3 | 3654 |
+| CP10 | t1 | True | 1 | 6074 |
+| SG13 | t1 | True | 6 | 2199 |
+| OC18 | t1 | True | 4 | 1931 |
+| TR13 | t1 | True | 1 | 5963 |
+| IM12 | t1 | True | 6 | 1801 |
+| OC21 | t1 | True | 5 | 3129 |
+| ST23 | t1 | True | 5 | 2820 |
+| SG14 | t1 | True | 4 | 2929 |
+| BR05 | t1 | True | 2 | 4490 |
+| BR06 | t1 | True | 3 | 3618 |
+| BR07 | t1 | True | 9 | 2546 |
+| BR08 | t1 | True | 2 | 2133 |
+| CM04 | t1 | True | 3 | 2393 |
+| CM05 | t1 | True | 6 | 2885 |
+
+Done: **133/133**.
+Finished: 2026-11-04T08:04:51Z

@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+BS10,gemini,www.thediamondstore.co.uk,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/,html_sources_panel
+BS10,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/gemstone-necklaces-pendants,html_sources_panel
+BS10,gemini,Astrid & Miyu,www.astridandmiyu.com,https://www.astridandmiyu.com/collections/solid-gold-necklaces,html_sources_panel
+BS10,gemini,Edge of Ember,edgeofember.com,https://edgeofember.com/collections/fine-jewellery,html_sources_panel
+BS10,gemini,Etsy,www.etsy.com,https://www.etsy.com/uk/market/gemstone_14k_gold_pendant,html_sources_panel

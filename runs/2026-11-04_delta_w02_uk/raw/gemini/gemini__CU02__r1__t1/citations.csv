@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+CU02,gemini,Astrid & Miyu,www.astridandmiyu.com,https://www.astridandmiyu.com/pages/personalised-jewellery-engraving,html_sources_panel
+CU02,gemini,Missoma,www.missoma.com,https://www.missoma.com/pages/in-store-engraving,html_sources_panel
+CU02,gemini,Orla James,www.orlajames.co.uk,https://www.orlajames.co.uk/engraving/,html_sources_panel
+CU02,gemini,Friendly Diamonds,friendlydiamonds.com,https://friendlydiamonds.com/uk/customer-service/ring-engraving,html_sources_panel
+CU02,gemini,A Star Diamonds,astardiamonds.co.uk,https://astardiamonds.co.uk/ring-engraving-near-me/,html_sources_panel

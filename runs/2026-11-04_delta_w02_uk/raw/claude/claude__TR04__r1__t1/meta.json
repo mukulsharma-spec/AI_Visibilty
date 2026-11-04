@@ -1,0 +1,12 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "pid": "TR04",
+ "web_search": true,
+ "capture_quality": "full",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T06:39:44.976Z",
+ "citation_rows": 41,
+ "unique_urls": 34,
+ "inline_chip_links": 7
+}

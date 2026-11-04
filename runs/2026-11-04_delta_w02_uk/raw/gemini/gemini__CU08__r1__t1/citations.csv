@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+CU08,gemini,Abelini,www.abelini.com,https://www.abelini.com/information/virtual-try,html_sources_panel
+CU08,gemini,Abelini,www.abelini.com,https://www.abelini.com/information/virtual-try,html_sources_panel
+CU08,gemini,H.Samuel,www.hsamuel.co.uk,https://www.hsamuel.co.uk/services/virtual-try-on,html_sources_panel
+CU08,gemini,H.Samuel,www.hsamuel.co.uk,https://www.hsamuel.co.uk/services/virtual-try-on,html_sources_panel
+CU08,gemini,Friendly Diamonds,friendlydiamonds.com,https://friendlydiamonds.com/blog/virtual-engagement-ring-try-on,html_sources_panel

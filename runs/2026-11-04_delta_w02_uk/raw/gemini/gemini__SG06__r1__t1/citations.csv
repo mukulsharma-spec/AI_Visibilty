@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+SG06,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/l/tennis-bracelets,html_sources_panel
+SG06,gemini,T.H.Baker,www.thbaker.co.uk,https://www.thbaker.co.uk/tennis-bracelets/,html_sources_panel
+SG06,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/tennis-bracelets,html_sources_panel
+SG06,gemini,Tiffany,www.tiffany.co.uk,https://www.tiffany.co.uk/jewelry/tennis-bracelets/,html_sources_panel

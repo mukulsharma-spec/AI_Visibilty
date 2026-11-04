@@ -1,0 +1,75 @@
+@gemini|CP08|r1|t1 numbered_headings
+@gemini|CP09|r1|t1 numbered_headings
+@gemini|CP10|r1|t1 numbered_headings
+@gemini|CU01|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|Massive custom gemstone ring builder
+Yorkshire Jewellery Company|2|R|0|Interactive gemstone ring builder
+Flawless Fine Jewellery|3|R|0|Hatton Garden bespoke specialist
+JQV Gems;Kernowcraft;Cooksongold|4|R|0|Loose gemstone suppliers plus setting service
+@gemini|CU02|r1|t1 bullets_by_category
+Monica Vinader|1|R|+|Semi-precious gemstone jewellery with engraving
+Astrid & Miyu|2|R|0|Contemporary stacked rings
+Missoma|3|R|0|Semi-precious stone rings with personalisation
+Orla James|4|R|0|Gemstone-set wedding and fine jewellery
+Friendly Diamonds|5|R|0|Lab-diamond specialist with engraving
+@gemini|CU03|r1|t1 headings
+HiSpek Diamonds;100kGems|1|R|0|Online custom pendant builders
+Pruden & Smith;Charms of Light|2|R|0|British bespoke made-to-order workshops
+Astrid & Miyu|3|R|0|Story Chain modular charm builder
+@gemini|CU04|r1|t1 headings
+The Diamond Store|1|R|0|Ready-to-ship sapphire rings with fast delivery
+Serendipity Diamonds|2|R|0|Fast-delivery sapphire rings
+DiamondsByMe|3|R|0|Fast UK delivery sapphire rings
+FineDiam|4|R|0|Ready-to-ship sapphire and diamond rings
+@gemini|CU08|r1|t1 bullets_by_category
+Abelini|1|R|+|UK fine jeweller with virtual try-on
+H.Samuel|2|R|0|Online virtual try-on tools
+Cartier|3|R|0|High-end luxury virtual try-on
+James Allen;Blue Nile|4|R|0|Global build-your-own sites shipping to UK
+Friendly Diamonds|5|R|0|International, ships to UK
+Jessica Flinn|6|R|0|3D-printed at-home try-on rings
+Lily Arkwright|7|R|0|Ethical lab-grown coloured stones
+@gemini|CU10|r1|t1 bullets_by_category
+DiamondsByMe|1|R|0|Extensive online jewellery configurator
+Yorkshire Jewellery Company|2|R|0|Interactive gemstone ring builder
+The Workbench London|3|R|0|Design-your-own studio
+Jessica Flinn|4|R|0|Custom ring design service
+Lily Arkwright|5|R|0|Ethical stones, remote bespoke consultation
+Cullen Jewellery|6|R|0|Streamlined online custom process
+@gemini|CU11|r1|t1 headings
+Beaverbrooks|1|R|+|Proposal ring scheme with silver CZ stand-ins
+The Cornish Diamond Co.|2|R|0|The Yes Ring placeholder scheme
+H.Samuel;Ernest Jones||M|0|High street stores to measure a borrowed ring
+@gemini|EN01|r1|t1 bullets_by_category
+MOH London|1|R|0|Reputable Hatton Garden storefront
+Beaverbrooks|2|R|0|Major family-owned UK jeweller
+Ernest Jones;H.Samuel|3|R|0|High street mainstays
+Austen & Blake|4|R|0|Bespoke made-to-order 1-carat rings
+The Diamond Store|5|R|0|One of UK's largest online jewellers
+Queensmith;77 Diamonds|6|R|+|Highly rated online-first bespoke jewellers
+@gemini|EN02|r1|t1 numbered_headings
+Taylor & Hart|1|R|+|Best for bespoke and custom design
+77 Diamonds|2|R|+|Massive selection and competitive pricing
+The Diamond Store|3|R|0|Best large UK online specialist
+VRAI|4|R|+|Best for eco-conscious lab-grown luxury
+Goldsmiths;Ernest Jones;H.Samuel|5|R|0|Hybrid high street brands
+Blue Nile;James Allen||M|0|US-based; check VAT and import duties
+@gemini|EN03|r1|t1 bullets_by_category
+Queensmith|1|R|+|Highly regarded bespoke custom sapphire rings
+Purely Diamonds|2|R|0|London showroom and online
+Hancocks|3|R|0|Manchester antique and heritage specialist
+Ernest Jones;H.Samuel|4|R|0|High street ready-to-wear sapphire rings
+@gemini|GN02|r1|t1 bullets_by_category
+Cartier;Chopard;Boucheron||M|0|High fashion houses at department stores
+Harrods|1|R|0|Ultimate ultra-luxury destination
+Selfridges|2|R|0|Modern fashion-forward curation
+John Lewis|3|R|0|Reliable everyday fine jewellery
+Missoma||M|0|Brand stocked at John Lewis
+The Diamond Store|4|R|0|One of UK's largest online-exclusive jewellers
+77 Diamonds|5|R|0|London-based online jeweller
+Vashi;Queensmith|6|R|0|Modern UK-based options
+Ernest Jones|7|R|0|Long-standing British specialist
+Le Vian||M|0|Branded collection carried by Ernest Jones
+H.Samuel|8|R|0|Vast online inventory
+Monica Vinader|9|R|+|Sustainable high-quality everyday jewellery
+Astley Clarke|10|R|0|London luxury gemstone brand

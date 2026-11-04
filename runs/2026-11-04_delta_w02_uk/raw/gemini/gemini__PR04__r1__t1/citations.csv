@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+PR04,gemini,F.Hinds,www.fhinds.co.uk,https://www.fhinds.co.uk/jewellery/gold-and-silver-jewellery/rings/emerald-rings,html_sources_panel
+PR04,gemini,H.Samuel,www.hsamuel.co.uk,https://www.hsamuel.co.uk/l/emerald-rings,html_sources_panel
+PR04,gemini,Ramsdens Jewellery,www.ramsdensjewellery.co.uk,https://www.ramsdensjewellery.co.uk/jewellery/rings/emerald,html_sources_panel

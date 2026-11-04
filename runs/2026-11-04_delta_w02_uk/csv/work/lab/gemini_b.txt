@@ -1,0 +1,46 @@
+@gemini|BS11|r1|t1 bullets_by_category
+Angara|1|R|+|Great for customisable opal pendants
+C W Sellors|2|R|0|UK luxury jeweller famous for opals
+TJC|3|R|0|Budget-friendly opal pendants
+The Opal|4|R|0|Specialist online opal retailer
+T. Paterson Jewellers;Sheila Fleet|5|R|0|Independent regional UK jewellers
+Etsy|6|R|0|Hand-crafted or vintage opal pendants
+@gemini|BS12|r1|t1 bullets_by_category
+Pearls.co.uk|1|R|0|Long-established UK pearl specialist
+PearlsOnly|2|R|0|Major online pearl retailer with UK site
+The Pearl Source|3|R|0|Internationally recognised pearl company with UK site
+Yoko London|4|R|+|Globally renowned UK luxury pearl brand
+Mikimoto|5|R|+|Creators of cultured pearls; UK online store
+Angara|6|R|0|Online fine jeweller with dedicated pearl range
+@gemini|BS13|r1|t1 bullets_by_category
+Ernest Jones;Beaverbrooks|1|R|0|Major high street jewellers with wedding bands
+Goldsmiths|2|R|0|Robust wedding ring collection
+Temple & Grace|3|R|0|Custom gemstone rings and bridal sets
+GLAMIRA|4|R|0|Online customiser to build matching band
+Tiffany & Co.|5|R|+|Timeless luxury wedding bands
+@gemini|CH01|r1|t1 comparison_table
+Amazon||C|-|Convenient but quality and authenticity risks for fine jewellery
+@gemini|CH02|r1|t1 headings
+Etsy||M|0|Can be great but requires careful vetting of sellers
+@gemini|CH03|r1|t1 headings
+@gemini|CM04|r1|t1 headings
+Kay||C|-|US high-street giant; does not easily serve UK
+Blue Nile||C|-|Ships to UK but diamond-focused; limited rubies
+Browns Family Jewellers;Berganza|1|R|+|Best choice for vintage and antique rubies
+Ernest Jones;H.Samuel;Beaverbrooks|2|R|0|High street trust and service
+Gemporia;Gemondo|3|R|0|UK online jewellers for coloured stones
+Brilliant Earth;Taylor & Hart|4|R|0|Bespoke engagement-style ruby ring
+@gemini|CM05|r1|t1 bullets_by_category
+Blue Nile||M|0|Reference point for classic sapphire tennis bracelets
+Diamonds Factory|1|R|0|Dedicated range of sapphire tennis bracelets
+Austen & Blake|2|R|0|Jewellery made to order
+FineDiam|3|R|0|Specialises in sapphire and diamond bracelets
+Goldsmiths;Ernest Jones;Beaverbrooks|4|R|0|Major UK commercial jewellers
+QVC;TJC|5|R|0|Substantially cheaper options
+Etsy|6|R|0|Handmade independent sapphire tennis bracelets
+@gemini|CP01|r1|t1 numbered_headings
+@gemini|CP02|r1|t1 comparison_table
+Novita Diamonds||M|0|Specialist lab-grown retailer operating in UK
+@gemini|CP04|r1|t1 numbered_headings
+@gemini|CP05|r1|t1 numbered_headings
+The Diamond Store;Ernest Jones;TJC||M|0|Places to find tanzanite in UK

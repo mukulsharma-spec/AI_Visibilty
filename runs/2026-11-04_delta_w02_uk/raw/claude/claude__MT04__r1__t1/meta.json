@@ -1,0 +1,11 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "web_search": false,
+ "capture_quality": "full",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T08:11:47Z",
+ "answer_chars": 1797,
+ "citations": 0,
+ "notes": "No web search, no sources. Fresh Claude incognito chat via Exit incognito + Use incognito toggle. Prompt: birthstone jewelry for my mom, her birthday is in may I'm shopping in the UK."
+}

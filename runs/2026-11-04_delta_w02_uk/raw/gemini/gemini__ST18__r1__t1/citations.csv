@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+ST18,gemini,Wedding Bands,www.templeandgrace.co.uk,https://www.templeandgrace.co.uk/jewellery/engagement-rings/opal-engagement-rings,html_sources_panel
+ST18,gemini,Angara,www.angara.com,https://www.angara.com/uk-en/engagement-rings/stones/opal,html_sources_panel
+ST18,gemini,GLAMIRA UK,www.glamira.co.uk,https://www.glamira.co.uk/engagement-rings/black-opal/,html_sources_panel
+ST18,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/opal-rings,html_sources_panel
+ST18,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/opal-engagement-rings,html_sources_panel

@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+TR08,gemini,www.thediamondstore.co.uk,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/,html_sources_panel
+TR08,gemini,Astley Clarke,www.astleyclarke.com,https://www.astleyclarke.com/collections/gemstone-jewellery,html_sources_panel
+TR08,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/,html_sources_panel
+TR08,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/gemstones,html_sources_panel

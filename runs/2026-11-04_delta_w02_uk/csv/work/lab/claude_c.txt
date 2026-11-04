@@ -1,0 +1,99 @@
+@claude|IM04|r1|t1 product_cards_text_missing
+Otis Jaxon;TJC|1|R|0|Budget silver tanzanite pendants with plating|m
+C W Sellors;Angara;Leibish|2|R|0|Solid 14ct or 18ct gold tanzanite pendants|m
+@claude|IM05|r1|t1 paragraphs_by_price_tier
+Love2have|1|R|0|UK-made sterling silver pink sapphire ring
+H. Samuel|2|R|0|9ct white gold pink sapphire and diamond ring
+Lily Arkwright|3|R|0|Specialises in lab-grown pink sapphires
+Queensmith|4|R|0|1.27ct oval deep pink sapphire ring
+KJJ|5|R|0|1.94ctw oval pink sapphire ring
+Jewellery Discovery|6|R|0|Antique and vintage pink sapphire pieces
+Pragnell|7|R|0|High-end Madagascan pink sapphire rings
+@claude|IM07|r1|t1 product_cards_text_missing
+@claude|IM10|r1|t1 product_cards_text_missing
+@claude|IM11|r1|t1 product_cards
+The Jewellers|1|R|0|18ct white gold sapphire and diamond tennis bracelet|m
+The Fine Jewellery Company|2|R|0|18ct white gold ruby and diamond tennis bracelet|m
+Beaverbrooks|3|R|0|9ct white gold multi-gemstone tennis bracelet|m
+Taylor & Hart|4|R|0|Marquise lab-grown diamond tennis bracelet|m
+Goldsmiths|5|R|0|Classic 18ct 0.50ct diamond tennis bracelet|m
+Graff;Harrods||M|0|Appear only in scraped search result listings|m
+Angara||M|0|Appears only in scraped search/source text|l
+@claude|IM12|r1|t1 numbered_list
+Grays Antiques|1|R|0|Pre-owned 9ct rose gold pear morganite ring|m
+The British Craft House|2|R|0|Hallmarked 9ct rose gold morganite ring|m
+The Fine Jewellery Company|3|R|0|Morganite three stone and pear dress rings
+Embers|4|R|0|18K rose gold plated stacking ring
+@claude|LG01|r1|t1 paragraphs
+Lily Arkwright|1|R|0|Manchester-based UK jeweller with lab-grown gemstones
+Created Brilliance|2|R|0|Good option for lab-created stones
+Astrid & Miyu|3|R|0|UK fashion jewellery brand with lab gems
+TJC|4|R|0|Budget-friendly lab gemstone choice
+Angara|5|R|+|Widest range of customisation
+@claude|LG02|r1|t1 paragraphs_by_price_tier
+Penman Jewellery|1|R|0|9ct gold lab emerald Cate ring, mid-range
+Costco|2|R|0|Costco UK lists oval lab-created emerald ring
+Angara|3|R|0|Higher-end lab emerald rings
+Lily Arkwright|4|R|0|Bespoke lab emerald rings
+@claude|LG03|r1|t1 paragraphs_by_category
+Angara|1|R|+|Premium certified lab-grown ruby rings, UK prices with VAT
+Lily Arkwright|2|R|0|Handcrafted by UK jewellers, customisable
+Juvetti|3|R|0|Large London range of lab-grown rubies
+Hollins and Hollinshead|4|R|0|Budget 9ct gold lab ruby cluster ring
+The Jewel Hut|5|R|0|Budget 9ct yellow gold lab ruby ring
+Etsy|6|R|0|Independent sellers offering lab ruby rings
+@claude|LG05|r1|t1 paragraphs
+Taylor & Hart|1|R|0|Dedicated lab sapphire search
+Created Brilliance|2|R|0|Hatton Garden lab-grown sapphire seller
+Dower & Hall|3|R|0|Lab-grown sapphire rings in 14k gold
+Angara|4|R|0|Wide range of lab sapphire settings
+Cullen Jewellery|5|R|0|Worth a look for loose lab sapphires
+@claude|LG08|r1|t1 paragraphs_by_category
+The Diamond Store|1|R|0|Sells mined and lab-grown diamonds
+Sunshine Diamonds|2|R|0|Hatton Garden; both natural and lab
+Just Diamonds|3|R|0|Choose natural or lab-grown
+Diamonds Factory|4|R|0|Sells both natural and lab-grown
+Lily Arkwright;Reve Diamonds;The Diamond Lab||M|0|Lab-grown only, not what user wants
+@claude|LG09|r1|t1 paragraphs
+Lily Arkwright|1|R|0|UK hallmarked with Chatham lab emeralds
+Astrid & Miyu|2|R|0|UK brand with lab-grown gemstone line
+Angara|3|R|0|Offers natural and lab-grown emeralds
+Juvetti|4|R|0|London brand selling loose lab stones
+@claude|MT01|r1|t1 clarifying_question
+@claude|MT01|r1|t2 paragraphs
+Taylor & Hart|1|R|+|Longest return window: 180-day returns
+Lily Arkwright|2|R|0|50-day returns with free insured shipping
+Avita Jewellery|3|R|0|60 days from delivery
+The Diamond Store|4|R|0|Free 30-day returns
+Tiffany & Co.|5|R|0|30 days from purchase for refund or exchange
+Berganza|6|R|0|14 days for unseen antique purchases
+@claude|MT02|r1|t1 clarifying_question
+@claude|MT02|r1|t2 product_cards
+F. Hinds|1|R|0|9ct gold emerald studs and clusters from £109
+Fraser Hart|2|R|0|9ct white gold emerald and diamond earrings £450
+@claude|MT03|r1|t1 paragraphs_by_category
+Beaverbrooks;Goldsmiths;Ernest Jones;Mappin & Webb|1|R|0|High-street chains, easier but pricier
+Angara;Blue Nile|2|R|0|Online specialists for rubies
+Bonhams;Sotheby's|3|R|0|Auction houses for top-end antique rubies
+@claude|MT03|r1|t2 paragraphs
+Angara;Blue Nile||M|+|Long-established well-known jewellers, not obscure sellers
+@claude|MT04|r1|t1 headings
+Angara;Ernest Jones;H. Samuel;Goldsmiths;Beaverbrooks|1|R|0|Good starting points for emerald birthstone jewellery
+Etsy|2|R|0|Independent makers for unique personalised pieces
+@claude|MT04|r1|t2 bullets_by_price_tier
+The Jewel Hut|1|R|0|9ct yellow gold emerald and diamond pendant
+Browns Family Jewellers|2|R|0|0.46ct pear cut emerald pendant
+The Fine Jewellery Company|3|R|0|9ct yellow gold pear emerald pendant
+Goldsmiths|4|R|0|9ct white gold emerald and diamond pendant
+Ernest Jones|5|R|0|9ct yellow gold emerald pendant necklace
+John Lewis|6|R|0|9ct yellow gold emerald pendant
+@claude|MT05|r1|t1 headings
+@claude|MT05|r1|t2 paragraphs
+@claude|MT06|r1|t1 paragraphs_by_category
+Lloyds Family Jewellery|1|R|0|Natural ruby half eternity rings, best value
+The Fine Jewellery Company|2|R|0|9ct white gold natural ruby rings
+Shining Diamonds|3|R|0|Marquise ruby and diamond halo ring
+Diamond Heaven|4|R|0|0.40ct round ruby ring in 18k gold
+TJC||M|-|Very large cheap stones are a warning sign
+@claude|MT06|r1|t2 paragraphs
+Jewellery Discovery||M|0|Only listing naming a lab report, above budget

@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+OC15,gemini,Wanderlust Life,wanderlustlife.co.uk,https://wanderlustlife.co.uk/collections/birthstone-necklaces,html_sources_panel
+OC15,gemini,Inscripture,www.inscripture.com,https://www.inscripture.com/products/personalised-birthstone-necklace/,html_sources_panel
+OC15,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/personalised-birthstone-necklaces,html_sources_panel

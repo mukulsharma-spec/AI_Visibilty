@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+SG06,chatgpt,Explore Amada Diamonds,amadadiamonds.com,https://amadadiamonds.com/collections/gemstone-jewellery?utm_source=chatgpt.com,html_card
+SG06,chatgpt,Explore FineDiam,finediam.com,https://finediam.com/collections/gemstone-bracelets?utm_source=chatgpt.com,html_card
+SG06,chatgpt,Visit Manna Jewellers,mannajewellers.com,https://www.mannajewellers.com/?utm_source=chatgpt.com,html_card
+SG06,chatgpt,Visit Chisholm Hunter,chisholmhunter.co.uk,https://www.chisholmhunter.co.uk/?utm_source=chatgpt.com,html_card

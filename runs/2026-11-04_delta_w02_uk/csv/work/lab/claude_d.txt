@@ -1,0 +1,175 @@
+@claude|OC01|r1|t1 paragraphs_by_category
+Goldsmiths;Beaverbrooks;Ernest Jones;H. Samuel|1|R|0|Established high-street jewellers with garnet pieces
+Pandora;Swarovski|2|R|0|Birthstone charms and pendants
+Monica Vinader;Missoma;Astrid & Miyu|3|R|0|Delicate contemporary mid-range birthstone pieces
+Etsy;Not On The High Street|4|R|0|Handmade and personalised garnet jewellery
+Gemporia|5|R|0|Online gem specialist with larger choice
+@claude|OC02|r1|t1 paragraphs_by_category
+Goldsmiths|1|R|0|Amethyst and diamond necklaces
+Beaverbrooks|2|R|0|Amethyst rings, necklaces and earrings
+H. Samuel|3|R|0|Wide selection in sterling silver
+Silverscene|4|R|0|Independent UK jeweller
+The Fine Jewellery Company|5|R|0|Sterling silver amethyst pieces
+C W Sellors|6|R|0|Handmade amethyst rings and earrings
+TJC|7|R|0|Affordable rings and matching sets
+Jewlr|8|R|0|Customisable birthstone pieces
+Jewellery Discovery|9|R|0|Victorian and vintage amethyst pieces
+@claude|OC07|r1|t1 paragraphs_by_category
+Goldsmiths|1|R|0|Sapphire rings online and in UK stores
+Ernest Jones;H. Samuel|2|R|0|Carry sapphire ranges
+The Diamond Ring Company|3|R|0|Hatton Garden specialist sourcing stones|m
+Fellows;Dawsons;Noonans|4|R|0|Auction houses for antique sapphire pieces
+C W Sellors||M|-|Had administrators appointed; avoid without checking
+@claude|OC08|r1|t1 paragraphs_by_category
+Honey Willow|1|R|0|UK handmade jewellery with genuine rubies
+Goldsmiths;The Diamond Store|2|R|0|Established ruby jewellery retailers
+C W Sellors|3|R|0|Derbyshire specialist jeweller
+Not On The High Street|4|R|0|40th anniversary ruby gift products
+Heads and Tails Jewellery|5|R|0|Personalised necklaces and cufflinks
+@claude|OC09|r1|t1 paragraphs_by_category
+Honey Willow|1|R|0|Handmade in England emerald pieces
+Not On The High Street|2|R|0|Stocks Claudette Worters gifts
+C W Sellors|3|R|0|Dedicated 55th anniversary collection
+Michael Spiers|4|R|0|Emerald jewellery collection
+Angara|5|R|0|Guide to emerald anniversary gifts
+@claude|OC10|r1|t1 paragraphs_by_category
+Beaverbrooks;Goldsmiths;Ernest Jones;Mappin & Webb|1|R|0|High-street jewellers easy to see in person
+Monica Vinader;Missoma;Astrid & Miyu|2|R|0|Modern giftable fashion-fine jewellery
+Not On The High Street;Etsy|3|R|0|Personal or unique independent pieces
+Angara|4|R|0|Online specialist with wide gemstone range
+Pandora||M|0|Mentioned among gift options|m
+@claude|OC13|r1|t1 headings
+Etsy|1|R|0|Independent makers on Etsy UK
+Monica Vinader||M|0|Mentioned as example brand|m
+@claude|OC14|r1|t1 paragraphs_by_category
+Goldsmiths;Mappin & Webb;Ernest Jones|1|R|0|Reliable established high-street jewellers
+Beaverbrooks|2|R|0|Well-regarded family-run chain
+Boodles;Annoushka;Kiki McDonough|3|R|0|Higher-end British jewellers
+Angara|4|R|+|Big choice of natural and lab-grown gemstones online
+Monica Vinader;Astley Clarke|5|R|0|More modest prices
+Etsy|6|R|0|Independent makers for unique pieces
+@claude|OC15|r1|t1 paragraphs
+Hersey & Son|1|R|0|Ready-made sterling silver birthstone necklace
+Lily Charmed|2|R|0|Personalised birthstone charm style
+Next|3|R|0|Personalised birthstone necklaces
+Honey Willow|4|R|0|Handmade higher-end pieces in Bath
+@claude|OC16|r1|t1 paragraphs_by_category
+Allum & Sidaway|1|R|0|October birthstones collection
+Banks Lyon|2|R|0|Opal and tourmaline jewellery
+Kiki McDonough|3|R|0|Birthstone necklace
+Chupi|4|R|0|Featured in Luxury London
+Alison Moore|5|R|0|Mid-range with free UK postage
+Jewlr|6|R|0|Custom October birthstone pieces
+Niche Jewellery|7|R|0|Large budget-friendly October collection
+@claude|OC17|r1|t1 paragraphs_by_category
+Astrid & Miyu|1|R|+|All orders come with gift receipt and wrapping
+Berry's Jewellers|2|R|0|Free gift wrapping on every purchase
+Winterson|3|R|0|Complimentary gift wrapping
+C W Sellors|4|R|0|Free luxury gift wrapping
+Alison Moore|5|R|0|Items can be gift wrapped
+Thistledown Wishes|6|R|0|Delivered gift wrapped
+@claude|OC18|r1|t1 numbered_list
+Goldsmiths|1|R|0|9ct white gold sapphire and diamond halo pendant|m
+Gemondo||M|0|Appears in product listing text|l
+@claude|OC21|r1|t1 paragraphs_by_category
+Monica Vinader;Astley Clarke;Missoma|1|R|0|Mid-range fine jewellery brands
+Auree;Daisy London|2|R|0|Simpler, more affordable pieces
+Goldsmiths;Beaverbrooks;Ernest Jones;F. Hinds|3|R|0|High-street jewellers with wide range
+Mappin & Webb;Boodles|4|R|0|More premium end
+Etsy;Not On The High Street|5|R|0|Independent makers for personal pieces
+@claude|PR01|r1|t1 numbered_list
+Gemondo||O|0|Source chip label only|m
+@claude|PR02|r1|t1 paragraphs_by_category
+Gemondo|1|R|0|Real gemstone jewellery in 9ct gold
+Juwelo;Rocks & Co|2|R|0|Focus on genuine gemstone earrings
+Whamond|3|R|0|Handmade gold and silver earrings
+Astley Clarke|4|R|0|Jewellery gifts under £250 section
+Monica Vinader|5|R|0|Good choice for diamond and gemstone studs
+Beaverbrooks;Ernest Jones|6|R|0|High-street sales on gemstone studs|m
+@claude|PR03|r1|t1 paragraphs
+The Fine Jewellery Company|1|R|+|Best overall value: 1.20ct sapphire studs £399
+Hugh Rice|2|R|0|Best for 18ct gold: Stargazer studs £650
+Ernest Jones|3|R|0|Best for trying in person; studs £375
+@claude|PR04|r1|t1 paragraphs_by_category
+Ernest Jones|1|R|0|Lots of emerald rings, sales
+Shining Diamonds|2|R|0|0.42ct round emerald ring
+Very;Created Brilliance|3|R|0|Created emerald rings in 9ct gold
+Not On The High Street|4|R|0|Smaller makers
+Alison Moore|5|R|0|Handcrafted emerald stacking ring
+From Edinburgh With Love|6|R|0|Vintage hallmarked emerald rings
+@claude|PR05|r1|t1 paragraphs
+The Fine Jewellery Company|1|R|0|9ct yellow gold natural ruby pendant
+TJC|2|R|0|9K gold AA African ruby and diamond pendant
+Juwelo|3|R|0|10K white gold ruby and diamond pendant
+Love Antiques|4|R|0|Antique and vintage ruby pendants
+@claude|PR06|r1|t1 product_cards
+Gemondo|1|R|+|Most picks from this UK genuine-gemstone retailer
+OD's Jewellers|2|R|0|Clogau infinity ring with white topaz £99
+@claude|PR07|r1|t1 paragraphs_by_category
+Hancocks|1|R|0|Burlington Arcade, known for antique gemstone jewellery
+Bentley & Skinner;Wartski|2|R|0|Long-established London fine jewellers
+Blowers Jewellers|3|R|0|Natural coloured gemstones, Mayfair and Hull
+Garrard;Boodles;David Morris|4|R|0|Highest-end London jewellers
+Bonhams;Christie's;Sotheby's;Fellows|5|R|0|Auctions for fine gemstone rings
+Target||F|0|Word target used as verb
+@claude|PR08|r1|t1 paragraphs
+TJC|1|R|0|Dedicated tanzanite ring range in budget
+David Christopher Jewellers|2|R|0|9ct gold tanzanite rings
+Abelini|3|R|0|Tanzanite diamond ring range
+The Fine Jewellery Company|4|R|0|9ct yellow gold round tanzanite ring
+Allum & Sidaway||M|-|Skip 18ct pieces there; above budget
+@claude|PR11|r1|t1 product_cards
+Lily Blanche|1|R|0|Solid 9ct gold sapphire studs £275
+The Jewellers|2|R|0|18ct white gold sapphire studs £355
+Ernest Jones|3|R|0|Big-name retailer; sapphire studs £375-£500
+QP Jewellers|4|R|0|Pear-cut sapphire studs 3ctw in 9ct gold
+@claude|PR12|r1|t1 paragraphs_by_category
+Bonhams;Christie's;Sotheby's|1|R|0|Auction houses for unheated sapphires|m
+Graff;Boodles|2|R|0|High-end jewellers carrying unheated sapphires
+Gem Rock Auctions;Lotus Gemology|3|R|0|Overseas dealers shipping to UK
+@claude|SG02|r1|t1 paragraphs
+Taylor & Hart|1|R|0|Yellow gold sapphire ring collection
+Austen & Blake|2|R|0|Dedicated sapphire section
+Angara|3|R|0|UK storefront with free express shipping
+Jas Boutique|4|R|0|Luxury-end sapphire rings
+Etsy|5|R|0|Handmade sapphire rings from independent makers
+1stDibs|6|R|0|Vintage and pre-owned UK sellers
+@claude|SG03|r1|t1 paragraphs_by_category
+C W Sellors|1|R|0|One of UK's leading gemstone jewellers
+Austen & Blake|2|R|0|Promise rings
+Jewlr|3|R|0|Promise rings from £99
+Holts Gems|4|R|0|Worth a look for coloured gemstones
+Beaverbrooks;Ernest Jones;H. Samuel|5|R|0|High-street options
+Etsy|6|R|0|Handmade or vintage; vet sellers
+@claude|SG04|r1|t1 paragraphs_by_category
+Berganza|1|R|0|Hatton Garden antique ring specialist
+Gatsby Jewellery|2|R|0|Vintage gemstone range
+Parkin & Gerrish|3|R|0|500+ curated vintage rings
+London Victorian Ring Co|4|R|0|Hatton Garden vintage-style maker
+C W Sellors|5|R|0|Vintage-inspired gemstone rings
+Austen & Blake|6|R|0|Custom vintage-style engagement rings
+H. Samuel;Ernest Jones|7|R|0|High-street vintage-style options
+@claude|SG05|r1|t1 paragraphs_by_category
+Mejuri|1|R|+|Good starting point for everyday fine jewellery
+Linjer|2|R|0|Dainty minimalist stacking pieces
+Lily & Roo|3|R|0|Solid gold gemstone pieces
+Edge of Ember|4|R|0|Fine solid gold chains and pavé
+Dinny Hall|5|R|0|Long-established London brand
+Monica Vinader;Astrid & Miyu|6|R|0|Best known for demi-fine, also solid gold
+Heads & Tails|7|R|0|Smaller independent UK maker
+@claude|SG06|r1|t1 paragraphs_by_category
+Angara|1|R|+|UK site with wide range of sapphire jewellery
+Blue Nile|2|R|0|Mostly diamonds, some gemstones
+Beaverbrooks;Goldsmiths;Ernest Jones;Fraser Hart|3|R|0|Established UK chains
+H. Samuel;Pandora|4|R|0|Suit lower budgets
+@claude|SG07|r1|t1 paragraphs
+Alison Moore|1|R|0|Gemstone stacking rings, own site and NOTHS
+Embers|2|R|0|Finer stacking rings on Not On The High Street
+Gemondo|3|R|0|Stackable gemstone collection
+Jewlr|4|R|0|Personalised stacking rings
+@claude|SG11|r1|t1 paragraphs_by_category
+The Antique Jewellery Company|1|R|0|Genuine 1920s-30s Mayfair rings
+The Antique Ring Boutique|2|R|0|Another antique specialist
+Antiques Atlas;Selling Antiques|3|R|0|Marketplaces for genuine Deco rings
+Pruden & Smith|4|R|0|Deco-inspired new rings
+Pragnell|5|R|0|Platinum Art Deco emerald ring

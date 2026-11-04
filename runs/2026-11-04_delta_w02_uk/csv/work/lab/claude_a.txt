@@ -1,0 +1,124 @@
+@claude|BR05|r1|t1 comparison
+Angara|1|R|+|Better value for emeralds; colour gemstone specialist
+Brilliant Earth||C|0|Stronger on design and emerald settings, pricier
+@claude|BR06|r1|t1 comparison
+Angara|1|R|+|Better pick for UK; UK site with prices in pounds
+Blue Nile||C|0|Ships to UK; compare only for specific ring
+Kay||C|-|Weakest fit; US chain, no UK shipping confirmed
+@claude|BR07|r1|t1 comparison
+Angara|1|R|+|More practical UK choice; UK site prices include VAT
+Kay||C|-|US chain without clear UK delivery
+@claude|BR08|r1|t1 comparison
+Angara|1|R|+|Both sell lab sapphires; Angara looks cheaper with UK pricing
+Brilliant Earth||C|0|Sells lab-grown sapphires; only US pricing found
+@claude|BS01|r1|t1 paragraphs_by_price_tier
+Shining Diamonds|1|R|0|Round sapphire diamond halo studs, lower to mid price
+Robert Gatward Jewellers|2|R|0|18ct white gold pear-cut sapphire halo studs
+Fenton|3|R|0|Round sapphire halo studs in 18k white gold
+Diamond Rocks|4|R|0|Round sapphire and diamond halo studs
+Strange the Jewellers|5|R|0|18ct white gold sapphire and diamond halo studs
+Banks Lyon|6|R|0|Higher-priced 18ct gold oval sapphire halo studs
+Michael Jones Jeweller|7|R|0|Higher-priced sapphire and diamond halo studs
+Angara|8|R|+|Widest choice of shapes and metals
+@claude|BS02|r1|t1 paragraphs_by_category
+Angara|1|R|+|Choose ruby quality grade and metal; wide choice online
+The Jewel Hut|2|R|0|18ct white gold brilliant-cut ruby halo studs
+Diamond Rocks|3|R|0|Several mid-range hallmarked ruby halo styles
+Holts Gems|4|R|0|Ruby diamond halo studs around £1,295
+Michael Jones Jeweller|5|R|0|18ct white gold oval ruby and diamond studs
+Berry's Jewellers|6|R|+|Independent firm with 125+ years, see in person
+Gemondo||M|0|Appears only in scraped product listing text|m
+@claude|BS03|r1|t1 paragraphs_by_price_tier
+TJC|1|R|0|Budget oval blue sapphire pendant under £700
+Finediam|2|R|0|UK-made sapphire and diamond halo pendant
+Costco|3|R|0|Costco UK lists oval sapphire and diamond pendant
+Chisholm Hunter|4|R|0|18ct white gold oval sapphire pendant, mid-range
+Purely Diamonds|5|R|0|18ct white gold oval sapphire pendant
+Angara|6|R|0|Oval sapphire pendant with floral diamond halo
+Banks Lyon|7|R|0|Higher-end 18ct yellow gold oval sapphire pendant
+Hamilton & Inches|8|R|0|Higher-end 18ct white gold oval sapphire pendant
+Leibish|9|R|0|Royal blue oval sapphire and diamond pendant
+@claude|BS04|r1|t1 paragraphs_by_category
+Angara|1|R|+|Biggest range found: halos, three-stone and more
+Diamond Rocks|2|R|0|Two-stone ring with pear emerald
+Jewellery Discovery|3|R|0|2.15ct pear emerald and diamond ring
+Hugh Rice|4|R|0|Carries alternative-gemstone engagement rings
+Element Bespoke Jewellery|5|R|0|Bespoke pear emerald and diamond ring
+Lily Arkwright|6|R|+|Award-winning UK jeweller specialising in emeralds
+1stDibs|7|R|0|Vintage and estate pear emerald rings
+@claude|BS05|r1|t1 paragraphs
+Angara|1|R|+|Widest selection for this exact style on UK site
+Rêve Diamonds|2|R|0|Emerald-cut blue sapphire design
+Hancocks|3|R|0|Long-established London jeweller
+Finediam|4|R|0|Smaller UK seller with emerald-cut sapphire ring
+@claude|BS06|r1|t1 bullets_by_category
+Beaverbrooks;Ernest Jones;Goldsmiths;Fraser Hart;H. Samuel|1|R|0|High-street chains stocking sapphire trilogy rings
+Warren James|2|R|0|Often cheaper for simpler designs
+Angelic Diamonds;Taylor & Hart|3|R|+|UK-based online specialists with customisable rings
+Blue Nile;Brilliant Earth|4|R|0|Ship to UK; build your own ring online
+Boodles;Mappin & Webb;Garrard|5|R|0|Luxury high-end sapphire rings
+Etsy||M|0|Vintage route alongside eBay and auction houses
+@claude|BS07|r1|t1 bullets_by_category
+Angara|1|R|+|Large tanzanite range with UK pricing
+TJC|2|R|0|Dedicated tanzanite engagement ring section
+Beaverbrooks|3|R|0|Sells tanzanite engagement rings online
+Queensmith|4|R|0|London maker with free UK delivery
+Juwelo|5|R|0|Very wide selection, about 900 tanzanite rings
+Jewellery Discovery;1stDibs|6|R|0|Worth a look for vintage pieces
+@claude|BS08|r1|t1 paragraphs_by_price_tier
+TJC|1|R|0|Budget sterling silver aquamarine halo studs
+Hugh Rice|2|R|0|Round aquamarine and diamond halo studs, mid-range
+The Fine Jewellery Company|3|R|0|9ct white gold aquamarine halo pair
+Robert Gatward Jewellers|4|R|0|18ct white gold pear-cut aquamarine studs
+Diamond Rocks|5|R|0|Round, oval and emerald-cut halo studs, higher-end
+KJJ|6|R|0|Round-cut pair in 18ct white gold £1,495
+Banks Lyon|7|R|0|1.44ct pair in 18ct white gold
+Angara|8|R|+|Best choice to choose stone quality and metal
+@claude|BS09|r1|t1 paragraphs
+Diamond Heaven|1|R|+|Widest choice found for sapphire eternity rings
+Michael Jones Jeweller|2|R|0|Sells half eternity styles
+Brown's Family Jewellers|3|R|0|More affordable option
+James Porter|4|R|0|18ct yellow gold sapphire eternity pieces
+Pruden & Smith|5|R|0|More bespoke 18ct option
+Chisholm Hunter|6|R|0|18ct white gold sapphire eternity ring
+Berganza|7|R|0|Vintage option
+@claude|BS10|r1|t1 paragraphs_by_category
+Angara|1|R|+|Widest choice of 14ct coloured gemstone pendants
+Taylor & Hart|2|R|0|UK jeweller with Covent Garden showroom
+Astley Clarke|3|R|0|Solid 14ct gold solitaire pendant
+Astrid & Miyu|4|R|0|14k solid gold lab diamond solitaire
+TJC|5|R|0|Lower-budget 14k pieces
+@claude|BS11|r1|t1 paragraphs_by_price_tier
+Michael Jones Jeweller|1|R|0|Budget silver opal pendant
+The Fine Jewellery Company|2|R|0|9ct white gold oval opal pendant
+TJC|3|R|0|Large range of Ethiopian opal pendants
+John Lewis|4|R|0|Stocks E.W Adams 9ct gold opal pendant
+Angara|5|R|0|Solid gold and diamond-accented opal pendants
+Tomfoolery London|6|R|0|Higher-end 18ct yellow gold opal pendant
+eBay|7|R|0|Second-hand and one-off opal pieces
+@claude|BS12|r1|t1 paragraphs_by_category
+Pearlescence|1|R|0|Dedicated Akoya necklace section
+Pearls.co.uk|2|R|0|Classic single strand of Akoya pearls
+Angara|3|R|0|Japanese Akoya strands in classic styles
+Jewellery Discovery|4|R|0|Gold-clasped pearl strands
+Mappin & Webb|5|R|0|Pearl pendants and formal strands
+Pearl Paradise|6|R|+|US option often recommended on pearl forums
+@claude|BS13|r1|t1 paragraphs_by_category
+Goldsmiths;Mappin & Webb;Ernest Jones;Beaverbrooks;Fraser Hart|1|R|0|High-street ranges; try bands against your ring
+Taylor & Hart;Lily Arkwright;Angelic Diamonds|2|R|0|UK makers with customisable bands
+Blue Nile;Brilliant Earth|3|R|0|Ship to UK, but cannot try against ring
+@claude|CH01|r1|t1 paragraphs
+Amazon||M|0|Fine for cheap pieces; jeweller safer for real gemstones
+@claude|CH02|r1|t1 paragraphs
+Etsy||M|0|Can be fine, but a marketplace with variable sellers
+@claude|CH03|r1|t1 paragraphs
+@claude|CM04|r1|t1 paragraphs
+Kay||C|-|Not an option; US retailer without UK shipping
+Blue Nile|1|R|0|Ships to UK; loose rubies limited
+Goldsmiths;Mappin & Webb;Beaverbrooks|2|R|0|Established UK chains with easier returns, pricier
+@claude|CM05|r1|t1 bullets_by_price_tier
+Blue Nile||C|0|Reference piece; cheaper alternatives suggested
+Daisy London|1|R|0|Sterling silver sapphire tennis bracelet
+Ross-Simons|2|R|0|US seller of sterling sapphire bracelets
+Angara|3|R|+|UK site lab sapphire and lab diamond bracelet
+Ernest Jones|4|R|0|9ct white gold sapphire and diamond bracelet

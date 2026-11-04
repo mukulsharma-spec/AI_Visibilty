@@ -1,0 +1,16 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "ST19",
+ "platform": "claude",
+ "prompt": "Where can I buy a ruby ring online? I'm shopping in the UK.",
+ "web_search": true,
+ "search_queries": [
+  "best places to buy ruby ring online UK"
+ ],
+ "capture_quality": "good",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T06:35:00Z",
+ "citation_links": 0,
+ "citation_unique_urls": 0
+}

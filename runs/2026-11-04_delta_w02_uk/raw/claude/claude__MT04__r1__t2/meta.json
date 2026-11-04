@@ -1,0 +1,13 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "web_search": true,
+ "capture_quality": "full",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T08:12:16Z",
+ "turn": 2,
+ "followup": true,
+ "answer_chars": 1917,
+ "citations": 8,
+ "notes": "turn=2 followup, verbatim, same chat. Searched the web expanded; links read from inline View it here links and chips (8 unique URLs). Query: emerald pendant necklace UK buy 9ct gold. Prompt: where can i actually order that"
+}

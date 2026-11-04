@@ -1,0 +1,762 @@
+399 334 2604 399 399 0
+W chatgpt__IM04__r1__t1: 2 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__IM11__r1__t1: 5 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__IM12__r1__t1: 2 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__OC08__r1__t1: 1 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__OC13__r1__t1: 1 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__OC18__r1__t1: 1 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__PR06__r1__t1: 2 duplicate citation rows dropped (dedupe by URL)
+W chatgpt__TR01__r1__t1: 1 duplicate citation rows dropped (dedupe by URL)
+W claude__BR05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BR05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BR06__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BR06__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BR07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BR07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BR08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BR08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS01__r1__t1: 1 duplicate citation rows dropped (dedupe by URL)
+W claude__BS01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS02__r1__t1: 9 duplicate citation rows dropped (dedupe by URL)
+W claude__BS02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS03__r1__t1: 1 duplicate citation rows dropped (dedupe by URL)
+W claude__BS03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS06__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS06__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS09__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS12__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS12__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__BS13__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__BS13__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CH01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CH01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CH02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CH02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CH03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CH03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CM04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CM04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CM05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CM05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP09__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CP10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CP10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__CU11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__CU11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__EN01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__EN01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__EN02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__EN02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__EN03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__EN03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__GN02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__GN02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__GN02__r1__t1: meta.egress_country "not checked (owner said skip; UK suffix used)" not ISO-2; set IN (box egress)
+W claude__GN03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__GN03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__GN03__r1__t1: meta.egress_country "not checked (owner said skip; UK suffix used)" not ISO-2; set IN (box egress)
+W claude__GN04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__GN04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__GN04__r1__t1: meta.egress_country "not checked (owner said skip; UK suffix used)" not ISO-2; set IN (box egress)
+W claude__GN05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__GN05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__IM12__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__IM12__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__LG01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__LG01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__LG02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__LG02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__LG03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__LG03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__LG05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__LG05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__LG08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__LG08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__LG09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__LG09__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT01__r1__t2: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT01__r1__t2: meta.session missing; set "claude_incognito_chat"
+W claude__MT02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT02__r1__t2: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT02__r1__t2: meta.session missing; set "claude_incognito_chat"
+W claude__MT03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT03__r1__t2: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT03__r1__t2: meta.session missing; set "claude_incognito_chat"
+W claude__MT04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT04__r1__t2: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT04__r1__t2: meta.session missing; set "claude_incognito_chat"
+W claude__MT05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT05__r1__t2: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT05__r1__t2: meta.session missing; set "claude_incognito_chat"
+W claude__MT06__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT06__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__MT06__r1__t2: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__MT06__r1__t2: meta.session missing; set "claude_incognito_chat"
+W claude__OC01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC09__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC13__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC13__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC14__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC14__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC15__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC15__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC16__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC16__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC17__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC17__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC18__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC18__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__OC21__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__OC21__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR06__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR06__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__PR12__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__PR12__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG06__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG06__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG12__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG12__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG13__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG13__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__SG14__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__SG14__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST09__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST13__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST13__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST14__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST14__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST15__r1__t1: 4 duplicate citation rows dropped (dedupe by URL)
+W claude__ST15__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST15__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST16__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST16__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST17__r1__t1: 2 duplicate citation rows dropped (dedupe by URL)
+W claude__ST17__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST17__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST18__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST18__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST19__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST19__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST20__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST20__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__ST23__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__ST23__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR01__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR01__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR02__r1__t1: 8 duplicate citation rows dropped (dedupe by URL)
+W claude__TR02__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR02__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR03__r1__t1: 9 duplicate citation rows dropped (dedupe by URL)
+W claude__TR03__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR03__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR04__r1__t1: 7 duplicate citation rows dropped (dedupe by URL)
+W claude__TR04__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR04__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR05__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR05__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR06__r1__t1: 8 duplicate citation rows dropped (dedupe by URL)
+W claude__TR06__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR06__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR07__r1__t1: 12 duplicate citation rows dropped (dedupe by URL)
+W claude__TR07__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR07__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR08__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR08__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR09__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR09__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR10__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR10__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR11__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR11__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR12__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR12__r1__t1: meta.session missing; set "claude_incognito_chat"
+W claude__TR13__r1__t1: meta.signed_in missing; set true (Claude captured signed-in Incognito per BRIEF)
+W claude__TR13__r1__t1: meta.session missing; set "claude_incognito_chat"
+W gemini__BR05__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BR08__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS01__r1__t1: 6 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS02__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS03__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS04__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS05__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS07__r1__t1: 4 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS11__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS12__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__BS13__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CH03__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CM05__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CP01__r1__t1: 11 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CP02__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CP04__r1__t1: 4 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CP05__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CP09__r1__t1: 8 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CP10__r1__t1: 10 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CU01__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CU03__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CU04__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CU08__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CU10__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__CU11__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__EN02__r1__t1: 7 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__GN03__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__GN04__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__IM01__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__IM02__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__IM04__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__IM05__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__IM10__r1__t1: 7 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__IM12__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__LG01__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__LG02__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__LG03__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__LG05__r1__t1: 5 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__LG08__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT01__r1__t1: 4 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT01__r1__t2: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT02__r1__t2: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT03__r1__t2: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT04__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT04__r1__t2: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT05__r1__t2: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__MT06__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__OC02__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__OC13__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__OC16__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__OC17__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__PR01__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__PR02__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__PR05__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__PR06__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__PR08__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__PR11__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__SG02__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__SG03__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__SG05__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__SG14__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__ST01__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__ST04__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__ST15__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__ST17__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__ST23__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR01__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR02__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR03__r1__t1: 3 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR04__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR05__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR07__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR10__r1__t1: 1 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR11__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+W gemini__TR12__r1__t1: 2 duplicate citation rows dropped (dedupe by URL after stripping #:~:text fragments)
+chatgpt|BR05|r1|t1 4490 2026-11-04 07:59:57 false ws 1 ang 10 nl 2 al 1 | Angara Brilliant Earth
+chatgpt|BR06|r1|t1 3618 2026-11-04 07:59:57 false ws 1 ang 7 nl 3 al 1 | Angara Blue Nile Kay
+chatgpt|BR07|r1|t1 2546 2026-11-04 08:03:23 false ws 1 ang 9 nl 9 al 1 | Angara Kay
+chatgpt|BR08|r1|t1 2133 2026-11-04 08:03:23 false ws 1 ang 11 nl 2 al 1 | Angara Brilliant Earth
+chatgpt|BS01|r1|t1 2465 2026-11-04 06:22:09 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|BS02|r1|t1 2552 2026-11-04 06:22:09 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|BS03|r1|t1 2757 2026-11-04 06:24:35 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|BS04|r1|t1 2596 2026-11-04 06:24:36 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|BS05|r1|t1 3028 2026-11-04 06:24:36 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|BS06|r1|t1 2499 2026-11-04 06:27:03 false ws 1 ang 0 nl 9 al 0 | 
+chatgpt|BS07|r1|t1 3548 2026-11-04 06:27:03 false ws 1 ang 0 nl 7 al 0 | 
+chatgpt|BS08|r1|t1 2401 2026-11-04 06:27:03 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|BS09|r1|t1 2959 2026-11-04 06:29:28 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|BS10|r1|t1 2536 2026-11-04 06:29:37 false ws 1 ang 0 nl 4 al 0 | Gemondo
+chatgpt|BS11|r1|t1 2663 2026-11-04 06:29:37 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|BS12|r1|t1 2605 2026-11-04 06:32:04 false ws 1 ang 0 nl 5 al 0 | Mikimoto
+chatgpt|BS13|r1|t1 3246 2026-11-04 07:47:21 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|CH01|r1|t1 3349 2026-11-04 07:23:10 false ws 1 ang 0 nl 1 al 0 | Amazon
+chatgpt|CH02|r1|t1 2798 2026-11-04 07:23:10 false ws 0 ang 0 nl 0 al 0 | Etsy
+chatgpt|CH03|r1|t1 3654 2026-11-04 07:50:09 false ws 1 ang 0 nl 3 al 0 | 
+chatgpt|CM04|r1|t1 2393 2026-11-04 08:03:23 false ws 1 ang 0 nl 3 al 0 | Kay Blue Nile
+chatgpt|CM05|r1|t1 2885 2026-11-04 08:04:51 false ws 1 ang 0 nl 6 al 0 | Blue Nile
+chatgpt|CP01|r1|t1 5851 2026-11-04 07:18:18 false ws 0 ang 0 nl 0 al 0 | 
+chatgpt|CP02|r1|t1 5001 2026-11-04 07:18:18 false ws 0 ang 0 nl 0 al 0 | 
+chatgpt|CP04|r1|t1 7950 2026-11-04 07:20:47 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|CP05|r1|t1 4308 2026-11-04 07:20:47 false ws 1 ang 0 nl 3 al 0 | Tiffany & Co.
+chatgpt|CP08|r1|t1 3564 2026-11-04 07:20:48 false ws 0 ang 0 nl 0 al 0 | 
+chatgpt|CP09|r1|t1 2252 2026-11-04 07:36:13 false ws 1 ang 0 nl 2 al 0 | 
+chatgpt|CP10|r1|t1 6074 2026-11-04 07:50:09 false ws 1 ang 0 nl 1 al 0 | 
+chatgpt|CU01|r1|t1 3627 2026-11-04 06:54:28 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|CU02|r1|t1 2670 2026-11-04 06:56:32 false ws 1 ang 0 nl 6 al 0 | Tiffany & Co. Bvlgari De Beers
+chatgpt|CU03|r1|t1 3667 2026-11-04 06:56:32 false ws 1 ang 0 nl 7 al 0 | 
+chatgpt|CU04|r1|t1 2505 2026-11-04 06:56:32 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|CU08|r1|t1 3137 2026-11-04 06:58:51 false ws 1 ang 0 nl 3 al 0 | Brilliant Earth Mikimoto
+chatgpt|CU10|r1|t1 2760 2026-11-04 06:58:51 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|CU11|r1|t1 2877 2026-11-04 07:38:28 false ws 1 ang 0 nl 6 al 0 | Tiffany & Co.
+chatgpt|EN01|r1|t1 2493 2026-11-04 06:07:06 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|EN02|r1|t1 4163 2026-11-04 06:07:06 false ws 1 ang 0 nl 9 al 0 | De Beers VRAI
+chatgpt|EN03|r1|t1 2906 2026-11-04 06:09:21 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|GN02|r1|t1 3085 2026-11-04 06:04:46 false ws 1 ang 0 nl 8 al 0 | Mejuri Monica Vinader Tiffany & Co.
+chatgpt|GN03|r1|t1 3765 2026-11-04 06:04:46 false ws 1 ang 0 nl 12 al 0 | Missoma Monica Vinader Pandora Mejuri Tiffany & Co. Cartier
+chatgpt|GN04|r1|t1 3749 2026-11-04 06:04:46 false ws 1 ang 0 nl 7 al 0 | Monica Vinader
+chatgpt|GN05|r1|t1 2952 2026-11-04 06:07:05 false ws 1 ang 0 nl 5 al 0 | Gemondo Gemporia Monica Vinader
+chatgpt|IM01|r1|t1 2123 2026-11-04 07:13:28 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|IM02|r1|t1 2117 2026-11-04 07:13:29 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|IM03|r1|t1 1895 2026-11-04 07:13:29 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|IM04|r1|t1 2291 2026-11-04 07:15:51 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|IM05|r1|t1 2464 2026-11-04 07:15:51 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|IM07|r1|t1 1846 2026-11-04 07:15:52 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|IM10|r1|t1 2419 2026-11-04 07:18:17 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|IM11|r1|t1 2167 2026-11-04 07:50:08 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|IM12|r1|t1 1801 2026-11-04 07:56:42 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|LG01|r1|t1 3151 2026-11-04 07:09:16 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|LG02|r1|t1 2543 2026-11-04 07:09:16 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|LG03|r1|t1 2541 2026-11-04 07:09:16 false ws 1 ang 0 nl 3 al 0 | 
+chatgpt|LG05|r1|t1 4719 2026-11-04 07:11:35 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|LG08|r1|t1 3512 2026-11-04 07:11:35 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|LG09|r1|t1 4158 2026-11-04 07:11:36 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|MT01|r1|t1 2689 2026-11-04 07:23:11 false ws 0 ang 0 nl 0 al 0 | 
+chatgpt|MT01|r1|t2 2124 2026-11-04 07:26:14 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|MT02|r1|t1 1410 2026-11-04 07:32:00 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|MT02|r1|t2 2203 2026-11-04 07:32:12 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|MT03|r1|t1 2275 2026-11-04 07:26:14 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|MT03|r1|t2 120 2026-11-04 07:29:16 false ws 0 ang 0 nl 0 al 0 | 
+chatgpt|MT04|r1|t1 1980 2026-11-04 07:29:16 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|MT04|r1|t2 1326 2026-11-04 07:34:01 false ws 1 ang 0 nl 5 al 0 | Monica Vinader
+chatgpt|MT05|r1|t1 2324 2026-11-04 07:32:00 false ws 1 ang 0 nl 1 al 0 | 
+chatgpt|MT05|r1|t2 1018 2026-11-04 07:34:02 false ws 1 ang 0 nl 2 al 0 | 
+chatgpt|MT06|r1|t1 1842 2026-11-04 07:34:01 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|MT06|r1|t2 1897 2026-11-04 07:36:13 false ws 0 ang 0 nl 0 al 0 | 
+chatgpt|OC01|r1|t1 2924 2026-11-04 06:48:09 false ws 1 ang 0 nl 9 al 0 | 
+chatgpt|OC02|r1|t1 2440 2026-11-04 06:48:09 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|OC07|r1|t1 3615 2026-11-04 06:50:14 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|OC08|r1|t1 2274 2026-11-04 06:50:14 false ws 1 ang 0 nl 8 al 0 | 
+chatgpt|OC09|r1|t1 2734 2026-11-04 06:50:15 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|OC10|r1|t1 2729 2026-11-04 06:52:27 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|OC13|r1|t1 3203 2026-11-04 06:52:27 false ws 1 ang 0 nl 13 al 0 | Gemporia Pandora
+chatgpt|OC14|r1|t1 2964 2026-11-04 06:52:27 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|OC15|r1|t1 1137 2026-11-04 06:54:27 false ws 1 ang 0 nl 1 al 0 | 
+chatgpt|OC16|r1|t1 2687 2026-11-04 06:54:27 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|OC17|r1|t1 2582 2026-11-04 07:47:21 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|OC18|r1|t1 1931 2026-11-04 07:52:38 false ws 1 ang 0 nl 3 al 0 | 
+chatgpt|OC21|r1|t1 3129 2026-11-04 07:56:43 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|PR01|r1|t1 2680 2026-11-04 06:41:59 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|PR02|r1|t1 3146 2026-11-04 06:42:00 false ws 1 ang 0 nl 5 al 0 | Gemondo
+chatgpt|PR03|r1|t1 2936 2026-11-04 06:42:00 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|PR04|r1|t1 2781 2026-11-04 06:44:02 false ws 1 ang 0 nl 3 al 0 | 
+chatgpt|PR05|r1|t1 2946 2026-11-04 06:44:02 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|PR06|r1|t1 3012 2026-11-04 06:44:02 false ws 1 ang 0 nl 8 al 0 | Monica Vinader Missoma Gemporia
+chatgpt|PR07|r1|t1 5916 2026-11-04 06:46:06 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|PR08|r1|t1 3058 2026-11-04 06:46:06 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|PR11|r1|t1 3178 2026-11-04 06:48:09 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|PR12|r1|t1 4095 2026-11-04 07:47:21 false ws 1 ang 0 nl 10 al 0 | Leibish
+chatgpt|SG02|r1|t1 3023 2026-11-04 06:58:51 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|SG03|r1|t1 3142 2026-11-04 07:05:01 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|SG04|r1|t1 4210 2026-11-04 07:05:02 false ws 1 ang 0 nl 7 al 0 | 
+chatgpt|SG05|r1|t1 3356 2026-11-04 07:05:02 false ws 1 ang 0 nl 7 al 0 | 
+chatgpt|SG06|r1|t1 2524 2026-11-04 07:07:07 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|SG07|r1|t1 2603 2026-11-04 07:07:07 false ws 1 ang 0 nl 9 al 0 | 
+chatgpt|SG11|r1|t1 2244 2026-11-04 07:07:08 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|SG12|r1|t1 1776 2026-11-04 07:38:29 false ws 1 ang 0 nl 4 al 0 | Gemondo
+chatgpt|SG13|r1|t1 2199 2026-11-04 07:52:38 false ws 1 ang 0 nl 6 al 0 | Gemondo
+chatgpt|SG14|r1|t1 2929 2026-11-04 07:59:57 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|ST01|r1|t1 2526 2026-11-04 06:09:21 false ws 1 ang 0 nl 7 al 0 | Gemondo
+chatgpt|ST02|r1|t1 2272 2026-11-04 06:09:21 false ws 1 ang 0 nl 6 al 0 | Gemporia
+chatgpt|ST04|r1|t1 2092 2026-11-04 06:12:39 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|ST05|r1|t1 2751 2026-11-04 06:12:39 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|ST08|r1|t1 3299 2026-11-04 06:12:39 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|ST09|r1|t1 2523 2026-11-04 06:15:04 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|ST10|r1|t1 4329 2026-11-04 06:15:04 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|ST11|r1|t1 2224 2026-11-04 06:15:04 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|ST13|r1|t1 1957 2026-11-04 06:17:15 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|ST14|r1|t1 2560 2026-11-04 06:17:15 false ws 1 ang 0 nl 5 al 0 | Gemondo
+chatgpt|ST15|r1|t1 2504 2026-11-04 06:17:15 false ws 1 ang 0 nl 4 al 0 | 
+chatgpt|ST16|r1|t1 2790 2026-11-04 06:19:43 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|ST17|r1|t1 2415 2026-11-04 06:19:44 false ws 1 ang 2 nl 5 al 1 | Angara
+chatgpt|ST18|r1|t1 3206 2026-11-04 06:19:44 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|ST19|r1|t1 2642 2026-11-04 06:22:09 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|ST20|r1|t1 3039 2026-11-04 07:38:28 false ws 1 ang 0 nl 6 al 0 | Charles & Colvard
+chatgpt|ST23|r1|t1 2820 2026-11-04 07:56:43 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR01|r1|t1 6599 2026-11-04 06:32:04 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR02|r1|t1 5152 2026-11-04 06:32:04 false ws 1 ang 0 nl 8 al 0 | 
+chatgpt|TR03|r1|t1 3502 2026-11-04 06:34:51 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR04|r1|t1 3225 2026-11-04 06:34:51 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|TR05|r1|t1 6306 2026-11-04 06:34:52 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR06|r1|t1 6171 2026-11-04 06:37:21 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|TR07|r1|t1 7367 2026-11-04 06:37:22 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR08|r1|t1 2978 2026-11-04 06:37:22 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR09|r1|t1 3069 2026-11-04 06:39:22 false ws 1 ang 0 nl 6 al 0 | 
+chatgpt|TR10|r1|t1 4556 2026-11-04 06:39:22 false ws 1 ang 0 nl 7 al 0 | Gemporia Monica Vinader
+chatgpt|TR11|r1|t1 3480 2026-11-04 06:39:22 false ws 1 ang 0 nl 1 al 0 | 
+chatgpt|TR12|r1|t1 3532 2026-11-04 07:36:13 false ws 1 ang 0 nl 5 al 0 | 
+chatgpt|TR13|r1|t1 5963 2026-11-04 07:52:39 false ws 1 ang 0 nl 1 al 0 | Gemondo Gemporia
+claude|BR05|r1|t1 2493 2026-11-04 08:41:12 true ws 1 ang 5 nl 5 al 1 | Angara Brilliant Earth
+claude|BR06|r1|t1 2219 2026-11-04 08:46:51 true ws 1 ang 4 nl 51 al 1 | Angara Blue Nile Kay
+claude|BR07|r1|t1 1253 2026-11-04 08:43:16 true ws 1 ang 4 nl 2 al 1 | Angara Kay
+claude|BR08|r1|t1 1461 2026-11-04 08:43:55 true ws 1 ang 5 nl 7 al 1 | Angara Brilliant Earth
+claude|BS01|r1|t1 2309 2026-11-04 06:35:00 true ws 1 ang 6 nl 9 al 1 | Angara
+claude|BS02|r1|t1 3637 2026-11-04 06:27:36 true ws 1 ang 7 nl 19 al 1 | Angara Gemondo
+claude|BS03|r1|t1 2736 2026-11-04 06:27:36 true ws 1 ang 3 nl 11 al 1 | Costco Angara Leibish
+claude|BS04|r1|t1 2400 2026-11-04 06:27:36 true ws 1 ang 1 nl 5 al 1 | Angara
+claude|BS05|r1|t1 2026 2026-11-04 06:30:06 true ws 1 ang 1 nl 4 al 1 | Angara
+claude|BS06|r1|t1 1693 2026-11-04 06:30:06 true ws 0 ang 0 nl 0 al 0 | Blue Nile Brilliant Earth Etsy
+claude|BS07|r1|t1 2489 2026-11-04 06:30:06 true ws 1 ang 1 nl 6 al 1 | Angara
+claude|BS08|r1|t1 2196 2026-11-04 06:31:50 true ws 1 ang 1 nl 0 al 0 | Angara
+claude|BS09|r1|t1 2354 2026-11-04 06:31:50 true ws 1 ang 0 nl 8 al 0 | 
+claude|BS10|r1|t1 2206 2026-11-04 06:31:50 true ws 1 ang 1 nl 6 al 1 | Angara
+claude|BS11|r1|t1 2026 2026-11-04 06:35:30 true ws 1 ang 1 nl 0 al 0 | Angara
+claude|BS12|r1|t1 2103 2026-11-04 06:35:45 true ws 1 ang 2 nl 7 al 1 | Angara
+claude|BS13|r1|t1 1735 2026-11-04 08:24:41 true ws 0 ang 0 nl 0 al 0 | Blue Nile Brilliant Earth
+claude|CH01|r1|t1 2981 2026-11-04 08:04:00 true ws 0 ang 0 nl 0 al 0 | Amazon
+claude|CH02|r1|t1 2550 2026-11-04 08:04:50 true ws 0 ang 0 nl 0 al 0 | Etsy
+claude|CH03|r1|t1 2970 2026-11-04 08:29:19 true ws 0 ang 0 nl 0 al 0 | 
+claude|CM04|r1|t1 2086 2026-11-04 08:48:01 true ws 1 ang 0 nl 17 al 0 | Kay Blue Nile
+claude|CM05|r1|t1 2044 2026-11-04 08:48:52 true ws 1 ang 3 nl 20 al 1 | Blue Nile Ross-Simons Angara
+claude|CP01|r1|t1 2326 2026-11-04 07:57:51 true ws 0 ang 0 nl 0 al 0 | 
+claude|CP02|r1|t1 2729 2026-11-04 07:58:43 true ws 0 ang 0 nl 0 al 0 | 
+claude|CP04|r1|t1 3149 2026-11-04 08:00:50 true ws 0 ang 0 nl 0 al 0 | 
+claude|CP05|r1|t1 2847 2026-11-04 08:01:42 true ws 0 ang 0 nl 0 al 0 | 
+claude|CP08|r1|t1 2631 2026-11-04 08:02:16 true ws 0 ang 0 nl 0 al 0 | 
+claude|CP09|r1|t1 2367 2026-11-04 08:16:13 true ws 0 ang 0 nl 0 al 0 | 
+claude|CP10|r1|t1 2908 2026-11-04 08:31:00 true ws 0 ang 0 nl 0 al 0 | 
+claude|CU01|r1|t1 2088 2026-11-04 07:25:00 true ws 1 ang 1 nl 20 al 1 | Angara
+claude|CU02|r1|t1 1672 2026-11-04 07:35:00 true ws 1 ang 0 nl 18 al 0 | 
+claude|CU03|r1|t1 2160 2026-11-04 07:35:00 true ws 1 ang 0 nl 18 al 0 | 
+claude|CU04|r1|t1 2779 2026-11-04 07:35:00 true ws 1 ang 0 nl 19 al 0 | Gemondo
+claude|CU08|r1|t1 1834 2026-11-04 07:21:31 true ws 1 ang 3 nl 37 al 1 | Angara
+claude|CU10|r1|t1 2418 2026-11-04 07:21:31 true ws 1 ang 3 nl 18 al 1 | Angara
+claude|CU11|r1|t1 2380 2026-11-04 08:19:39 true ws 1 ang 0 nl 19 al 0 | 
+claude|EN01|r1|t1 1899 2026-11-04 06:16:00 true ws 0 ang 0 nl 0 al 0 | Blue Nile Brilliant Earth
+claude|EN02|r1|t1 2007 2026-11-04 06:20:00 true ws 1 ang 0 nl 1 al 0 | Blue Nile
+claude|EN03|r1|t1 2666 2026-11-04 06:20:00 true ws 1 ang 0 nl 18 al 0 | 
+claude|GN02|r1|t1 1664 2026-11-04 06:03:00 true ws 1 ang 0 nl 0 al 0 | Monica Vinader Missoma Mejuri Blue Nile Brilliant Earth
+claude|GN03|r1|t1 2070 2026-11-04 06:03:00 true ws 0 ang 0 nl 0 al 0 | Monica Vinader Missoma Mejuri Blue Nile Pandora Tiffany & Co. Cartier Etsy
+claude|GN04|r1|t1 2021 2026-11-04 06:03:00 true ws 1 ang 0 nl 18 al 0 | Etsy
+claude|GN05|r1|t1 2198 2026-11-04 06:12:00 true ws 1 ang 0 nl 17 al 0 | Monica Vinader Gemondo
+claude|IM01|r1|t1 1124 2026-11-04 07:47:13 true ws 1 ang 0 nl 19 al 1 | 
+claude|IM02|r1|t1 2174 2026-11-04 07:49:17 true ws 1 ang 4 nl 18 al 1 | Angara
+claude|IM03|r1|t1 801 2026-11-04 07:50:44 true ws 1 ang 0 nl 20 al 0 | 
+claude|IM04|r1|t1 822 2026-11-04 07:53:01 true ws 1 ang 2 nl 18 al 1 | Angara Leibish
+claude|IM05|r1|t1 2104 2026-11-04 07:54:06 true ws 1 ang 0 nl 19 al 0 | 
+claude|IM07|r1|t1 690 2026-11-04 07:54:56 true ws 1 ang 0 nl 19 al 1 | 
+claude|IM10|r1|t1 610 2026-11-04 07:57:16 true ws 1 ang 0 nl 20 al 0 | 
+claude|IM11|r1|t1 4486 2026-11-04 08:27:34 true ws 1 ang 1 nl 20 al 1 | Graff Angara
+claude|IM12|r1|t1 2268 2026-11-04 08:55:00 true ws 1 ang 0 nl 5 al 0 | 
+claude|LG01|r1|t1 1852 2026-11-04 07:34:42 true ws 1 ang 2 nl 18 al 1 | Angara
+claude|LG02|r1|t1 2271 2026-11-04 07:35:20 true ws 1 ang 3 nl 18 al 1 | Costco Angara
+claude|LG03|r1|t1 2350 2026-11-04 07:35:55 true ws 1 ang 1 nl 20 al 1 | Angara Etsy
+claude|LG05|r1|t1 2460 2026-11-04 07:42:50 true ws 1 ang 2 nl 18 al 1 | Angara
+claude|LG08|r1|t1 2061 2026-11-04 07:43:32 true ws 1 ang 0 nl 17 al 0 | 
+claude|LG09|r1|t1 2784 2026-11-04 07:44:24 true ws 1 ang 4 nl 17 al 1 | Angara
+claude|MT01|r1|t1 183 2026-11-04 08:05:26 true ws 0 ang 0 nl 0 al 0 | 
+claude|MT01|r1|t2 1350 2026-11-04 08:06:30 true ws 1 ang 0 nl 7 al 0 | Tiffany & Co.
+claude|MT02|r1|t1 183 2026-11-04 08:13:02 true ws 0 ang 0 nl 0 al 0 | 
+claude|MT02|r1|t2 1735 2026-11-04 08:13:37 true ws 1 ang 0 nl 2 al 0 | 
+claude|MT03|r1|t1 2008 2026-11-04 08:10:58 true ws 0 ang 1 nl 0 al 0 | Angara Blue Nile
+claude|MT03|r1|t2 1137 2026-11-04 08:11:16 true ws 0 ang 1 nl 0 al 0 | Angara Blue Nile
+claude|MT04|r1|t1 1798 2026-11-04 08:11:47 true ws 0 ang 1 nl 0 al 0 | Angara Etsy
+claude|MT04|r1|t2 1918 2026-11-04 08:12:16 true ws 1 ang 0 nl 8 al 0 | 
+claude|MT05|r1|t1 2152 2026-11-04 08:15:28 true ws 0 ang 0 nl 0 al 0 | 
+claude|MT05|r1|t2 1084 2026-11-04 08:15:45 true ws 0 ang 0 nl 0 al 0 | 
+claude|MT06|r1|t1 4231 2026-11-04 08:28:21 true ws 1 ang 0 nl 20 al 0 | 
+claude|MT06|r1|t2 2004 2026-11-04 08:28:50 true ws 1 ang 0 nl 2 al 0 | 
+claude|OC01|r1|t1 1392 2026-11-04 07:07:52 true ws 0 ang 0 nl 0 al 0 | Pandora Monica Vinader Missoma Etsy Gemporia
+claude|OC02|r1|t1 2203 2026-11-04 07:07:52 true ws 1 ang 0 nl 19 al 0 | 
+claude|OC07|r1|t1 2558 2026-11-04 07:11:24 true ws 1 ang 0 nl 16 al 0 | 
+claude|OC08|r1|t1 1611 2026-11-04 07:11:24 true ws 1 ang 0 nl 17 al 0 | 
+claude|OC09|r1|t1 2069 2026-11-04 07:11:24 true ws 1 ang 2 nl 17 al 1 | Angara
+claude|OC10|r1|t1 1777 2026-11-04 07:13:43 true ws 0 ang 1 nl 0 al 0 | Monica Vinader Missoma Pandora Etsy Angara
+claude|OC13|r1|t1 2305 2026-11-04 07:13:43 true ws 0 ang 0 nl 0 al 0 | Etsy Monica Vinader
+claude|OC14|r1|t1 1811 2026-11-04 07:13:43 true ws 0 ang 1 nl 0 al 0 | Angara Monica Vinader Etsy
+claude|OC15|r1|t1 1919 2026-11-04 07:25:00 true ws 1 ang 0 nl 20 al 0 | 
+claude|OC16|r1|t1 1999 2026-11-04 07:25:00 true ws 1 ang 0 nl 19 al 0 | 
+claude|OC17|r1|t1 1733 2026-11-04 08:23:25 true ws 1 ang 0 nl 20 al 0 | 
+claude|OC18|r1|t1 2698 2026-11-04 08:45:00 true ws 1 ang 0 nl 4 al 0 | Gemondo
+claude|OC21|r1|t1 1706 2026-11-04 09:00:00 true ws 0 ang 0 nl 0 al 0 | Monica Vinader Missoma Etsy
+claude|PR01|r1|t1 2367 2026-11-04 06:55:00 true ws 1 ang 0 nl 17 al 0 | Gemondo
+claude|PR02|r1|t1 2214 2026-11-04 06:55:00 true ws 1 ang 0 nl 17 al 0 | Gemondo Monica Vinader
+claude|PR03|r1|t1 1389 2026-11-04 07:00:06 true ws 1 ang 0 nl 20 al 1 | 
+claude|PR04|r1|t1 2277 2026-11-04 07:00:06 true ws 1 ang 0 nl 17 al 0 | 
+claude|PR05|r1|t1 2489 2026-11-04 07:00:06 true ws 1 ang 0 nl 19 al 0 | 
+claude|PR06|r1|t1 4316 2026-11-04 07:04:38 true ws 1 ang 0 nl 21 al 0 | Gemondo
+claude|PR07|r1|t1 3493 2026-11-04 07:04:38 true ws 1 ang 0 nl 17 al 0 | Target
+claude|PR08|r1|t1 3626 2026-11-04 07:04:38 true ws 1 ang 0 nl 20 al 0 | 
+claude|PR11|r1|t1 2905 2026-11-04 07:07:52 true ws 1 ang 0 nl 19 al 0 | 
+claude|PR12|r1|t1 1813 2026-11-04 08:25:18 true ws 0 ang 0 nl 0 al 0 | Graff
+claude|SG02|r1|t1 1997 2026-11-04 07:21:31 true ws 1 ang 2 nl 20 al 1 | Angara Etsy
+claude|SG03|r1|t1 1985 2026-11-04 07:25:41 true ws 1 ang 0 nl 17 al 0 | Etsy
+claude|SG04|r1|t1 2232 2026-11-04 07:25:41 true ws 1 ang 0 nl 17 al 0 | 
+claude|SG05|r1|t1 2310 2026-11-04 07:25:41 true ws 1 ang 0 nl 16 al 0 | Mejuri Monica Vinader
+claude|SG06|r1|t1 1874 2026-11-04 07:30:01 true ws 0 ang 1 nl 0 al 0 | Angara Blue Nile Pandora
+claude|SG07|r1|t1 1748 2026-11-04 07:30:01 true ws 1 ang 0 nl 17 al 0 | Gemondo
+claude|SG11|r1|t1 2456 2026-11-04 07:30:01 true ws 1 ang 0 nl 40 al 0 | 
+claude|SG12|r1|t1 1673 2026-11-04 08:21:29 true ws 1 ang 0 nl 17 al 0 | Etsy
+claude|SG13|r1|t1 1750 2026-11-04 08:36:00 true ws 1 ang 0 nl 18 al 0 | 
+claude|SG14|r1|t1 2419 2026-11-04 08:40:29 true ws 1 ang 1 nl 8 al 1 | Angara
+claude|ST01|r1|t1 1716 2026-11-04 06:20:00 true ws 1 ang 0 nl 5 al 0 | 
+claude|ST02|r1|t1 1618 2026-11-04 06:13:19 true ws 1 ang 1 nl 9 al 1 | Etsy Angara
+claude|ST04|r1|t1 1955 2026-11-04 06:13:19 true ws 1 ang 0 nl 5 al 0 | Etsy
+claude|ST05|r1|t1 1627 2026-11-04 06:13:19 true ws 1 ang 0 nl 9 al 0 | 
+claude|ST08|r1|t1 2397 2026-11-04 06:16:53 true ws 0 ang 0 nl 0 al 0 | 
+claude|ST09|r1|t1 2013 2026-11-04 06:16:53 true ws 1 ang 1 nl 10 al 1 | Angara
+claude|ST10|r1|t1 2389 2026-11-04 06:16:53 true ws 0 ang 1 nl 0 al 0 | Graff Angara
+claude|ST11|r1|t1 1790 2026-11-04 06:19:14 true ws 0 ang 1 nl 0 al 0 | Pandora Angara Blue Nile Brilliant Earth Etsy
+claude|ST13|r1|t1 1735 2026-11-04 06:19:14 true ws 0 ang 1 nl 0 al 0 | Angara Blue Nile Monica Vinader Missoma Etsy
+claude|ST14|r1|t1 2190 2026-11-04 06:19:14 true ws 1 ang 2 nl 4 al 1 | Angara
+claude|ST15|r1|t1 2288 2026-11-04 06:21:00 true ws 1 ang 3 nl 5 al 1 | Angara Etsy
+claude|ST16|r1|t1 2054 2026-11-04 06:21:00 true ws 1 ang 0 nl 6 al 0 | 
+claude|ST17|r1|t1 2125 2026-11-04 06:21:00 true ws 1 ang 0 nl 10 al 0 | Le Vian
+claude|ST18|r1|t1 2596 2026-11-04 06:35:00 true ws 1 ang 3 nl 6 al 1 | Angara
+claude|ST19|r1|t1 1878 2026-11-04 06:35:00 true ws 1 ang 0 nl 0 al 0 | 
+claude|ST20|r1|t1 2360 2026-11-04 08:20:32 true ws 1 ang 0 nl 17 al 0 | Charles & Colvard Walmart
+claude|ST23|r1|t1 2210 2026-11-04 08:39:55 true ws 1 ang 1 nl 18 al 1 | Angara
+claude|TR01|r1|t1 3718 2026-11-04 06:35:15 true ws 0 ang 0 nl 0 al 0 | 
+claude|TR02|r1|t1 2676 2026-11-04 06:39:44 true ws 1 ang 2 nl 51 al 1 | Angara
+claude|TR03|r1|t1 2225 2026-11-04 06:39:44 true ws 1 ang 0 nl 16 al 0 | 
+claude|TR04|r1|t1 2513 2026-11-04 06:39:44 true ws 1 ang 2 nl 34 al 1 | Angara Monica Vinader
+claude|TR05|r1|t1 2898 2026-11-04 06:43:31 true ws 0 ang 1 nl 0 al 0 | Angara Blue Nile
+claude|TR06|r1|t1 2538 2026-11-04 06:43:31 true ws 1 ang 1 nl 19 al 0 | Gemporia Angara
+claude|TR07|r1|t1 3080 2026-11-04 06:43:31 true ws 1 ang 0 nl 20 al 0 | 
+claude|TR08|r1|t1 1450 2026-11-04 06:50:00 true ws 1 ang 0 nl 18 al 0 | Monica Vinader
+claude|TR09|r1|t1 2048 2026-11-04 06:55:00 true ws 1 ang 0 nl 18 al 0 | 
+claude|TR10|r1|t1 2303 2026-11-04 06:55:00 true ws 1 ang 1 nl 35 al 0 | Gemporia Angara Gemondo
+claude|TR11|r1|t1 2885 2026-11-04 06:55:00 true ws 0 ang 0 nl 0 al 0 | 
+claude|TR12|r1|t1 2203 2026-11-04 08:16:53 true ws 1 ang 0 nl 20 al 1 | 
+claude|TR13|r1|t1 3258 2026-11-04 08:50:00 true ws 1 ang 0 nl 11 al 0 | Gemondo
+gemini|BR05|r1|t1 4307 2026-11-04 08:44:15 false ws 1 ang 9 nl 2 al 1 | Angara Brilliant Earth
+gemini|BR06|r1|t1 2745 2026-11-04 08:45:00 false ws 1 ang 6 nl 1 al 0 | Angara Blue Nile Kay
+gemini|BR07|r1|t1 1935 2026-11-04 08:47:41 false ws 1 ang 5 nl 2 al 1 | Angara Kay Gemporia
+gemini|BR08|r1|t1 1807 2026-11-04 08:48:31 false ws 1 ang 5 nl 2 al 1 | Angara Brilliant Earth
+gemini|BS01|r1|t1 2471 2026-11-04 06:28:58 false ws 1 ang 2 nl 6 al 1 | Angara Etsy
+gemini|BS02|r1|t1 2842 2026-11-04 06:28:58 false ws 1 ang 0 nl 2 al 0 | 
+gemini|BS03|r1|t1 3125 2026-11-04 06:32:36 false ws 1 ang 1 nl 5 al 1 | Angara
+gemini|BS04|r1|t1 2516 2026-11-04 06:32:36 false ws 1 ang 1 nl 5 al 1 | Angara Etsy
+gemini|BS05|r1|t1 3371 2026-11-04 06:31:14 false ws 1 ang 2 nl 3 al 1 | Angara
+gemini|BS06|r1|t1 2929 2026-11-04 06:34:45 false ws 1 ang 0 nl 4 al 0 | 
+gemini|BS07|r1|t1 3047 2026-11-04 06:35:35 false ws 1 ang 3 nl 4 al 1 | Angara
+gemini|BS08|r1|t1 3047 2026-11-04 06:36:42 false ws 1 ang 1 nl 2 al 0 | Angara Etsy
+gemini|BS09|r1|t1 2583 2026-11-04 06:38:42 false ws 1 ang 2 nl 1 al 1 | Angara
+gemini|BS10|r1|t1 3153 2026-11-04 06:39:41 false ws 1 ang 0 nl 5 al 0 | Etsy
+gemini|BS11|r1|t1 2119 2026-11-04 06:40:39 false ws 1 ang 1 nl 5 al 1 | Angara Etsy
+gemini|BS12|r1|t1 2883 2026-11-04 06:42:46 false ws 1 ang 1 nl 4 al 0 | Mikimoto Angara
+gemini|BS13|r1|t1 2794 2026-11-04 08:27:15 false ws 1 ang 0 nl 3 al 0 | Tiffany & Co.
+gemini|CH01|r1|t1 4302 2026-11-04 08:06:14 false ws 1 ang 0 nl 2 al 0 | Amazon
+gemini|CH02|r1|t1 3845 2026-11-04 08:10:45 false ws 1 ang 0 nl 1 al 0 | Etsy
+gemini|CH03|r1|t1 4210 2026-11-04 08:31:54 false ws 1 ang 0 nl 3 al 0 | 
+gemini|CM04|r1|t1 3804 2026-11-04 08:50:16 false ws 1 ang 0 nl 2 al 0 | Kay Blue Nile Gemporia Gemondo Brilliant Earth
+gemini|CM05|r1|t1 2814 2026-11-04 08:52:02 false ws 1 ang 0 nl 4 al 0 | Blue Nile Etsy
+gemini|CP01|r1|t1 3598 2026-11-04 08:00:04 false ws 1 ang 0 nl 4 al 1 | 
+gemini|CP02|r1|t1 3213 2026-11-04 08:01:09 false ws 1 ang 0 nl 4 al 0 | 
+gemini|CP04|r1|t1 4287 2026-11-04 08:02:04 false ws 1 ang 0 nl 5 al 1 | 
+gemini|CP05|r1|t1 3365 2026-11-04 08:04:28 false ws 1 ang 0 nl 2 al 0 | 
+gemini|CP08|r1|t1 4281 2026-11-04 08:05:31 false ws 1 ang 0 nl 0 al 0 | 
+gemini|CP09|r1|t1 2650 2026-11-04 08:18:42 false ws 1 ang 0 nl 3 al 0 | 
+gemini|CP10|r1|t1 4691 2026-11-04 08:32:35 false ws 1 ang 0 nl 5 al 0 | 
+gemini|CU01|r1|t1 3656 2026-11-04 07:21:37 false ws 1 ang 0 nl 3 al 0 | 
+gemini|CU02|r1|t1 2662 2026-11-04 07:22:15 false ws 1 ang 0 nl 5 al 0 | Monica Vinader Missoma
+gemini|CU03|r1|t1 3364 2026-11-04 07:25:07 false ws 1 ang 0 nl 3 al 0 | 
+gemini|CU04|r1|t1 2203 2026-11-04 07:25:07 false ws 1 ang 0 nl 4 al 0 | 
+gemini|CU08|r1|t1 2844 2026-11-04 07:25:07 false ws 1 ang 0 nl 3 al 0 | Cartier James Allen Blue Nile
+gemini|CU10|r1|t1 2813 2026-11-04 07:27:54 false ws 1 ang 0 nl 5 al 0 | 
+gemini|CU11|r1|t1 2836 2026-11-04 08:21:15 false ws 1 ang 0 nl 6 al 0 | 
+gemini|EN01|r1|t1 3314 2026-11-04 06:09:25 false ws 1 ang 0 nl 3 al 0 | 
+gemini|EN02|r1|t1 3633 2026-11-04 06:09:25 false ws 1 ang 0 nl 2 al 0 | VRAI Blue Nile James Allen
+gemini|EN03|r1|t1 2311 2026-11-04 06:11:55 false ws 1 ang 0 nl 2 al 0 | 
+gemini|GN02|r1|t1 3202 2026-11-04 06:04:43 false ws 1 ang 0 nl 3 al 0 | Cartier Chopard Monica Vinader Missoma Le Vian
+gemini|GN03|r1|t1 3001 2026-11-04 06:04:51 false ws 1 ang 0 nl 3 al 0 | Monica Vinader Missoma
+gemini|GN04|r1|t1 3218 2026-11-04 06:04:51 false ws 1 ang 0 nl 4 al 0 | 
+gemini|GN05|r1|t1 3356 2026-11-04 06:09:25 false ws 1 ang 2 nl 4 al 0 | Blue Nile Angara
+gemini|IM01|r1|t1 2770 2026-11-04 07:48:21 false ws 1 ang 1 nl 3 al 0 | Angara
+gemini|IM02|r1|t1 3644 2026-11-04 07:51:25 false ws 1 ang 0 nl 4 al 0 | 
+gemini|IM03|r1|t1 2465 2026-11-04 07:52:00 false ws 1 ang 0 nl 6 al 0 | 
+gemini|IM04|r1|t1 2658 2026-11-04 07:53:22 false ws 1 ang 0 nl 3 al 0 | Tiffany & Co.
+gemini|IM05|r1|t1 3227 2026-11-04 07:55:58 false ws 1 ang 0 nl 4 al 0 | 
+gemini|IM07|r1|t1 3245 2026-11-04 07:56:58 false ws 1 ang 0 nl 4 al 0 | Etsy
+gemini|IM10|r1|t1 2776 2026-11-04 07:58:03 false ws 1 ang 2 nl 4 al 1 | Angara
+gemini|IM11|r1|t1 2827 2026-11-04 08:29:15 false ws 1 ang 0 nl 5 al 0 | Tiffany & Co.
+gemini|IM12|r1|t1 3062 2026-11-04 08:39:50 false ws 1 ang 0 nl 5 al 0 | 
+gemini|LG01|r1|t1 3086 2026-11-04 07:37:34 false ws 1 ang 3 nl 5 al 1 | Angara
+gemini|LG02|r1|t1 2654 2026-11-04 07:41:51 false ws 1 ang 0 nl 5 al 0 | 
+gemini|LG03|r1|t1 3013 2026-11-04 07:42:42 false ws 1 ang 1 nl 5 al 1 | Angara
+gemini|LG05|r1|t1 2947 2026-11-04 07:43:35 false ws 1 ang 1 nl 5 al 1 | Angara
+gemini|LG08|r1|t1 2632 2026-11-04 07:45:39 false ws 1 ang 0 nl 1 al 0 | 
+gemini|LG09|r1|t1 2988 2026-11-04 07:46:47 false ws 1 ang 0 nl 6 al 0 | 
+gemini|MT01|r1|t1 3113 2026-11-04 08:55:39 false ws 1 ang 0 nl 5 al 0 | 
+gemini|MT01|r1|t2 2014 2026-11-04 08:56:52 false ws 1 ang 0 nl 4 al 0 | 
+gemini|MT02|r1|t1 2517 2026-11-04 08:59:13 false ws 1 ang 1 nl 4 al 0 | Angara
+gemini|MT02|r1|t2 1980 2026-11-04 08:59:44 false ws 1 ang 2 nl 4 al 1 | Gemondo Angara Etsy
+gemini|MT03|r1|t1 3193 2026-11-04 09:00:44 false ws 1 ang 0 nl 3 al 0 | 
+gemini|MT03|r1|t2 1893 2026-11-04 09:01:21 false ws 1 ang 0 nl 2 al 0 | 
+gemini|MT04|r1|t1 3106 2026-11-04 09:03:36 false ws 1 ang 0 nl 4 al 0 | Etsy
+gemini|MT04|r1|t2 1458 2026-11-04 09:04:17 false ws 1 ang 0 nl 3 al 0 | Monica Vinader Etsy
+gemini|MT05|r1|t1 3478 2026-11-04 09:05:05 false ws 1 ang 0 nl 0 al 0 | 
+gemini|MT05|r1|t2 1734 2026-11-04 09:05:56 false ws 1 ang 0 nl 1 al 0 | 
+gemini|MT06|r1|t1 2700 2026-11-04 09:07:48 false ws 1 ang 0 nl 2 al 0 | Le Vian
+gemini|MT06|r1|t2 2443 2026-11-04 09:08:28 false ws 1 ang 0 nl 0 al 0 | 
+gemini|OC01|r1|t1 2111 2026-11-04 07:10:07 false ws 1 ang 1 nl 2 al 0 | Etsy Angara
+gemini|OC02|r1|t1 2446 2026-11-04 07:10:55 false ws 1 ang 0 nl 5 al 0 | 
+gemini|OC07|r1|t1 2884 2026-11-04 07:11:39 false ws 1 ang 0 nl 4 al 0 | 
+gemini|OC08|r1|t1 2385 2026-11-04 07:13:58 false ws 1 ang 0 nl 2 al 0 | Tiffany & Co. Etsy
+gemini|OC09|r1|t1 2434 2026-11-04 07:14:49 false ws 1 ang 0 nl 5 al 0 | Etsy
+gemini|OC10|r1|t1 2863 2026-11-04 07:15:25 false ws 1 ang 0 nl 3 al 0 | Monica Vinader
+gemini|OC13|r1|t1 3578 2026-11-04 07:17:18 false ws 1 ang 0 nl 1 al 0 | Gemporia Gemondo Monica Vinader
+gemini|OC14|r1|t1 3271 2026-11-04 07:18:09 false ws 1 ang 0 nl 4 al 0 | Missoma
+gemini|OC15|r1|t1 2266 2026-11-04 07:18:58 false ws 1 ang 0 nl 3 al 0 | 
+gemini|OC16|r1|t1 2097 2026-11-04 07:20:47 false ws 1 ang 0 nl 5 al 0 | Monica Vinader Etsy
+gemini|OC17|r1|t1 1702 2026-11-04 08:25:02 false ws 1 ang 0 nl 1 al 0 | Etsy
+gemini|OC18|r1|t1 2553 2026-11-04 08:36:01 false ws 1 ang 0 nl 6 al 0 | 
+gemini|OC21|r1|t1 3278 2026-11-04 08:40:54 false ws 1 ang 1 nl 1 al 1 | Monica Vinader Angara
+gemini|PR01|r1|t1 3215 2026-11-04 06:57:58 false ws 1 ang 0 nl 2 al 0 | 
+gemini|PR02|r1|t1 3233 2026-11-04 06:58:54 false ws 1 ang 0 nl 1 al 0 | Gemondo Missoma
+gemini|PR03|r1|t1 2856 2026-11-04 06:59:48 false ws 1 ang 0 nl 1 al 0 | 
+gemini|PR04|r1|t1 2846 2026-11-04 07:01:26 false ws 1 ang 0 nl 3 al 0 | 
+gemini|PR05|r1|t1 2784 2026-11-04 07:02:11 false ws 1 ang 0 nl 2 al 0 | Gemondo Etsy
+gemini|PR06|r1|t1 3566 2026-11-04 07:02:56 false ws 1 ang 0 nl 5 al 0 | Gemondo
+gemini|PR07|r1|t1 4041 2026-11-04 07:04:40 false ws 1 ang 0 nl 1 al 0 | Cartier Tiffany & Co. Bvlgari
+gemini|PR08|r1|t1 2811 2026-11-04 07:05:32 false ws 1 ang 0 nl 4 al 0 | 
+gemini|PR11|r1|t1 2394 2026-11-04 07:06:15 false ws 1 ang 0 nl 1 al 0 | 
+gemini|PR12|r1|t1 3320 2026-11-04 08:28:28 false ws 1 ang 0 nl 2 al 0 | 
+gemini|SG02|r1|t1 2770 2026-11-04 07:29:03 false ws 1 ang 1 nl 4 al 1 | Angara Etsy
+gemini|SG03|r1|t1 3340 2026-11-04 07:29:57 false ws 1 ang 1 nl 2 al 1 | Angara
+gemini|SG04|r1|t1 3896 2026-11-04 07:34:17 false ws 1 ang 0 nl 4 al 0 | 
+gemini|SG05|r1|t1 3032 2026-11-04 07:33:34 false ws 1 ang 0 nl 4 al 0 | Missoma Catbird
+gemini|SG06|r1|t1 2893 2026-11-04 07:32:48 false ws 1 ang 0 nl 4 al 0 | Tiffany & Co.
+gemini|SG07|r1|t1 2535 2026-11-04 07:35:55 false ws 1 ang 0 nl 6 al 0 | Etsy Missoma
+gemini|SG11|r1|t1 3345 2026-11-04 07:36:43 false ws 1 ang 0 nl 3 al 0 | Etsy
+gemini|SG12|r1|t1 2373 2026-11-04 08:24:23 false ws 1 ang 1 nl 3 al 1 | Angara Etsy
+gemini|SG13|r1|t1 2557 2026-11-04 08:34:32 false ws 1 ang 0 nl 3 al 0 | Target Missoma Pandora
+gemini|SG14|r1|t1 3587 2026-11-04 08:43:29 false ws 1 ang 0 nl 4 al 0 | Etsy
+gemini|ST01|r1|t1 2868 2026-11-04 06:11:55 false ws 1 ang 0 nl 4 al 0 | 
+gemini|ST02|r1|t1 2082 2026-11-04 06:11:55 false ws 1 ang 0 nl 3 al 0 | Monica Vinader Missoma Gemondo Etsy
+gemini|ST04|r1|t1 2718 2026-11-04 06:13:18 false ws 1 ang 1 nl 4 al 1 | Angara Etsy
+gemini|ST05|r1|t1 2361 2026-11-04 06:14:14 false ws 1 ang 0 nl 4 al 0 | Missoma Monica Vinader
+gemini|ST08|r1|t1 3093 2026-11-04 06:14:58 false ws 1 ang 0 nl 2 al 0 | 
+gemini|ST09|r1|t1 2222 2026-11-04 06:16:47 false ws 1 ang 1 nl 3 al 1 | Angara
+gemini|ST10|r1|t1 3888 2026-11-04 06:17:35 false ws 1 ang 0 nl 2 al 0 | 
+gemini|ST11|r1|t1 2865 2026-11-04 06:18:22 false ws 1 ang 0 nl 4 al 0 | Gemondo
+gemini|ST13|r1|t1 2784 2026-11-04 06:19:58 false ws 1 ang 0 nl 2 al 0 | 
+gemini|ST14|r1|t1 3087 2026-11-04 06:21:15 false ws 1 ang 1 nl 1 al 0 | Angara
+gemini|ST15|r1|t1 3284 2026-11-04 06:22:02 false ws 1 ang 2 nl 5 al 1 | Angara Etsy
+gemini|ST16|r1|t1 2291 2026-11-04 06:23:30 false ws 1 ang 0 nl 2 al 0 | 
+gemini|ST17|r1|t1 2093 2026-11-04 06:24:33 false ws 1 ang 1 nl 4 al 0 | Angara
+gemini|ST18|r1|t1 3520 2026-11-04 06:25:28 false ws 1 ang 1 nl 5 al 1 | Etsy Angara
+gemini|ST19|r1|t1 2402 2026-11-04 06:28:58 false ws 1 ang 0 nl 6 al 0 | Le Vian
+gemini|ST20|r1|t1 2903 2026-11-04 08:23:35 false ws 1 ang 0 nl 3 al 0 | 
+gemini|ST23|r1|t1 3698 2026-11-04 08:41:49 false ws 1 ang 0 nl 4 al 0 | 
+gemini|TR01|r1|t1 4034 2026-11-04 06:43:46 false ws 1 ang 0 nl 5 al 0 | 
+gemini|TR02|r1|t1 3903 2026-11-04 06:44:38 false ws 1 ang 0 nl 3 al 0 | 
+gemini|TR03|r1|t1 3051 2026-11-04 06:48:11 false ws 1 ang 0 nl 4 al 0 | Blue Nile James Allen
+gemini|TR04|r1|t1 2049 2026-11-04 06:48:11 false ws 1 ang 0 nl 6 al 0 | 
+gemini|TR05|r1|t1 3747 2026-11-04 06:48:11 false ws 1 ang 0 nl 3 al 0 | 
+gemini|TR06|r1|t1 3271 2026-11-04 06:52:53 false ws 1 ang 0 nl 2 al 0 | Gemondo
+gemini|TR07|r1|t1 3520 2026-11-04 06:51:32 false ws 1 ang 0 nl 4 al 0 | 
+gemini|TR08|r1|t1 2378 2026-11-04 06:52:04 false ws 1 ang 0 nl 4 al 0 | 
+gemini|TR09|r1|t1 2309 2026-11-04 06:54:36 false ws 1 ang 0 nl 5 al 0 | 
+gemini|TR10|r1|t1 3352 2026-11-04 06:55:29 false ws 1 ang 0 nl 3 al 0 | 
+gemini|TR11|r1|t1 3265 2026-11-04 06:56:10 false ws 1 ang 0 nl 3 al 0 | 
+gemini|TR12|r1|t1 3284 2026-11-04 08:20:22 false ws 1 ang 0 nl 2 al 0 | Brilliant Earth Blue Nile
+gemini|TR13|r1|t1 3960 2026-11-04 08:37:02 false ws 1 ang 0 nl 0 al 0 | 

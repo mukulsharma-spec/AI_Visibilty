@@ -1,0 +1,118 @@
+@gemini|ST14|r1|t1 numbered_headings
+Ernest Jones|1|R|0|High street sales and value emerald collections
+Goldsmiths;Beaverbrooks|2|R|0|Sale sections
+GLAMIRA;Angara|3|R|+|Modern DTC ethical craftsmanship
+Ramsdens;H. T. Bannister|4|R|0|Pre-owned vintage emeralds, best kept secret
+eBay|5|R|0|Authenticated by eBay pre-owned pieces
+@gemini|ST15|r1|t1 headings
+Temple & Grace|1|R|0|London and online morganite rings
+Shining Diamonds|2|R|0|Hatton Garden and online
+Angara|3|R|+|Immense control over customisation
+Goldsmiths;Ernest Jones|4|R|0|High street staples
+Etsy|5|R|0|Independent and vintage artisans
+@gemini|ST16|r1|t1 bullets_by_category
+Ernest Jones|1|R|0|Reliable high street sapphire necklaces
+Goldsmiths|2|R|0|Fine jewellery sapphire pendants
+John Lewis|3|R|0|Classic sapphire pendants
+Austen & Blake|4|R|0|Customisable sapphire necklaces
+Berry's Jewellers|5|R|0|Luxury jeweller with rich heritage
+Garrard|6|R|0|Ultimate British luxury
+TJC|7|R|0|Budget sapphire pendants
+@gemini|ST17|r1|t1 bullets_by_category
+Ernest Jones|1|R|0|Well-known high-street emerald earrings
+W Hamond|2|R|0|Long-standing British gemstone specialist
+The Emerald Shop|3|R|0|Hatton Garden emerald specialist
+The Fine Jewellery Company|4|R|0|UK online fine jewellery retailer
+Angara|5|R|+|Great if you want to customise
+TJC|6|R|0|Budget-friendly emerald earrings
+@gemini|ST18|r1|t1 bullets_by_category
+Temple & Grace|1|R|0|Gorgeous natural opal engagement rings
+Berg Jewellery|2|R|0|Handcrafted in Godalming, Surrey
+Etsy|3|R|0|Platform for UK-based independent bespoke makers
+Angara|4|R|+|Massive Design Your Own section
+GLAMIRA|5|R|0|Highly customisable
+Ernest Jones|6|R|0|Opal and diamond halo rings
+The Diamond Store|7|R|0|Unique opal and diamond clusters
+TJC|8|R|0|Budget-friendly opal rings
+@gemini|ST19|r1|t1 bullets_by_category
+Ernest Jones|1|R|0|Strong online ruby selection
+Le Vian||M|0|Designer brand carried by Ernest Jones
+H.Samuel|2|R|0|Affordable-to-mid-range rubies
+F. Hinds|3|R|0|Trusted UK family jeweller
+TJC|4|R|0|Massive online ruby inventory
+Hancocks|5|R|0|Burlington Arcade luxury and antique
+Garrard|6|R|0|Historic British luxury brand
+@gemini|ST20|r1|t1 bullets_by_category
+Moissanite UK|1|R|+|Over 20 years in Birmingham Jewellery Quarter
+Franc Laurent|2|R|0|UK fine crafted moissanite
+Diamonds Factory|3|R|0|Moissanite alongside lab-grown diamonds
+Get Caroline;Cullen Jewellery|4|R|0|International brands shipping to UK
+@gemini|ST23|r1|t1 bullets_by_category
+The Diamond Store|1|R|0|One of UK's leading online fine jewellers
+Austen & Blake|2|R|0|Bespoke custom-made jewellery
+GLAMIRA|3|R|0|Highly customisable platform
+London Victorian Ring Co|4|R|0|Vintage Edwardian and Art Deco rings
+Berganza|5|R|0|Actual antique rings
+Emma Chapman Jewels|6|R|0|Artistic bespoke aquamarine rings
+Garrard|7|R|0|Royal-level luxury
+@gemini|TR01|r1|t1 numbered_headings
+@gemini|TR02|r1|t1 numbered_headings
+Taylor & Hart|1|R|+|UK-based with certified coloured gemstones
+Queensmith|2|R|0|UK-based with certified gemstones
+77 Diamonds|3|R|0|UK-based and international
+Gem Rock Auctions|4|R|0|International marketplace with UK shipping
+@gemini|TR03|r1|t1 numbered_headings
+Orla James|1|R|+|Comprehensive lifetime guarantee and free resizing
+Flawless Fine Jewellery|2|R|0|Lifetime aftercare, free resizing
+Atelier Rings|3|R|0|Lifetime craftsmanship warranty
+Blue Nile;James Allen;Cullen Jewellery|4|R|0|DTC brands; check specific terms
+@gemini|TR04|r1|t1 bullets
+Diamond Heaven|1|R|0|Wide natural and lab gemstone ring selection
+Diamonds Factory|2|R|0|Customisation and large range
+Flawless Fine Jewellery|3|R|0|Hatton Garden with 30-day returns
+The Diamond Store|4|R|0|Popular UK online jeweller
+Lloyds Family Jewellery|5|R|0|Genuine gemstone and diamond rings
+@gemini|TR05|r1|t1 bullets_by_category
+Austen & Blake|1|R|+|Highly rated customisable sapphire rings
+Taylor & Hart|2|R|0|Bespoke engagement rings
+Queensmith|3|R|0|Hatton Garden with online service
+Ernest Jones;H.Samuel|4|R|0|Traditional high street brands with robust returns
+Laings|5|R|0|Historic luxury jeweller
+Berganza;Antique Jewellery Online|6|R|0|Reputable antique dealers online
+@gemini|TR06|r1|t1 numbered_headings
+Gemondo|1|R|+|Explicitly features treatment disclosure per gemstone
+Harriet Kelsall|2|R|0|Guides clients through sourcing
+Taylor & Hart|3|R|0|Detailed gemstone education
+Queensmith|4|R|0|Gemmologists walk clients through treatments
+@gemini|TR07|r1|t1 bullets_by_category
+The Curious Gem|1|R|+|Incredible UK-based ethical loose gemstone supplier
+Wild Fawn Jewellery|2|R|0|Contemporary everyday ethical pieces
+Lisa Rothwell-Young|3|R|0|Scottish Borders ethical maker
+Flawless Fine Jewellery|4|R|0|Hatton Garden bespoke
+Titcombe Bespoke Jewellery|5|R|0|Highly regarded in the South West
+Holts Gems|6|R|0|Long-standing Hatton Garden institution
+@gemini|TR08|r1|t1 numbered_headings
+The Diamond Store|1|R|0|One of UK's largest online jewellers, fast delivery
+Astley Clarke|2|R|0|British fashion and fine jeweller
+TJC|3|R|0|Massive online gemstone destination
+C W Sellors|4|R|0|Long-standing British luxury jeweller
+@gemini|TR09|r1|t1 bullets_by_category
+Beaverbrooks|1|R|0|Offers Klarna Pay in 3
+John Lewis|2|R|0|Fine jewellery with finance options
+Britannia Jewellery|3|R|0|Pre-owned and new gold with BNPL
+Ramsdens|4|R|0|Pre-owned luxury with BNPL
+John Greed|5|R|0|Designer jewellery and charms
+London Diamond Online|6|R|0|Fine diamond jewellery with finance
+Klarna;Clearpay||M|0|Common BNPL providers
+@gemini|TR10|r1|t1 numbered_headings
+The Diamond Store|1|R|+|Frequently praised on review platforms
+Goldsmiths|2|R|+|Customers consistently rate highly
+Austen & Blake|3|R|+|Highly rated across review sites
+The Curious Gem|4|R|+|Exceptional Trustpilot scores
+@gemini|TR11|r1|t1 numbered_headings
+@gemini|TR12|r1|t1 bullets_by_category
+Rêve Diamonds|1|R|0|Strong UK presence with lab reports
+Taylor & Hart|2|R|0|Custom rings with lab reports
+Queensmith|3|R|0|Also certified coloured gemstones
+Brilliant Earth;Blue Nile|4|R|0|International with UK shipping, diamond-focused
+@gemini|TR13|r1|t1 numbered_headings

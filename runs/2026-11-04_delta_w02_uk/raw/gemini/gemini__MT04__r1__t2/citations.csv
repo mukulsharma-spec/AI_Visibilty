@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+MT04,gemini,Beaverbrooks,www.beaverbrooks.co.uk,https://www.beaverbrooks.co.uk/jewellery/coloured-gemstones/emerald,html_sources_panel
+MT04,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/emerald-jewellery,html_sources_panel
+MT04,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/collections/emerald-jewellery,html_sources_panel
+MT04,gemini,Austen & Blake,www.austenblake.com,https://www.austenblake.com/jewellery-gifts/birthstones/emerald-stone,html_sources_panel

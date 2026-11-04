@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+MT03,gemini,Queensmith,www.queensmith.co.uk,https://www.queensmith.co.uk/engagement-rings/ruby,html_sources_panel
+MT03,gemini,Powells Jewellery,powellsjewellery.com,https://powellsjewellery.com/collections/ruby-collection,html_sources_panel
+MT03,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/ruby-rings,html_sources_panel

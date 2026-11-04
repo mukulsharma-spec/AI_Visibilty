@@ -1,0 +1,16 @@
+{
+ "run_id": "2026-11-04_delta_w02_uk",
+ "prompt_id": "ST18",
+ "platform": "claude",
+ "prompt": "Where can I buy an opal engagement ring? I'm shopping in the UK.",
+ "web_search": true,
+ "search_queries": [
+  "opal engagement ring UK jeweller"
+ ],
+ "capture_quality": "good",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "incognito_no_id",
+ "captured_at_utc": "2026-11-04T06:35:00Z",
+ "citation_links": 6,
+ "citation_unique_urls": 6
+}

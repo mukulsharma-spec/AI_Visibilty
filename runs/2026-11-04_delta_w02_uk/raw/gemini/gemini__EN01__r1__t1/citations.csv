@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+EN01,gemini,MOH London,www.mohlondon.com,https://www.mohlondon.com/engagement-rings/1-carat-diamond,html_sources_panel
+EN01,gemini,Beaverbrooks,www.beaverbrooks.co.uk,https://www.beaverbrooks.co.uk/diamonds/one-carat,html_sources_panel
+EN01,gemini,Austen & Blake,www.austenblake.com,https://www.austenblake.com/engagement-rings/1-carat,html_sources_panel

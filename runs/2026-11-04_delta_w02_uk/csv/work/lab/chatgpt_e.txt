@@ -1,0 +1,108 @@
+@chatgpt|SG12|r1|t1 headings
+Gemondo|1|R|0|Coloured gemstone jewellery, affordable silver and gold
+Rebus|2|R|0|Traditional men's signet rings with stones
+Stephen Einhorn|3|R|0|Premium contemporary men's rings
+Manful|4|R|0|Affordable men's gemstone rings
+@chatgpt|SG13|r1|t1 numbered_list
+YAA YAA London|1|R|+|Best for big stones
+Astley Clarke|2|R|0|Cocktail rings
+CARAT London|3|R|0|Cocktail rings
+Gemondo|4|R|0|Bold gemstone cocktail rings
+Kiki McDonough|5|R|0|Colourful cocktail rings
+Swarovski|6|R|0|Cocktail rings
+@chatgpt|SG14|r1|t1 numbered_list
+Temple & Grace|1|R|+|Good starting point
+Only Through Shadows|2|R|+|Personal pick: oval bezel sapphire
+Ruby & Oscar|3|R|0|Low-profile gemstone rings
+Holts Gems|4|R|0|Low-profile gemstone rings
+@chatgpt|ST01|r1|t1 numbered_list
+Gemondo|1|R|+|Best overall starting point
+F. Hinds|2|R|0|£339 gold garnet ring
+Robert Anthony Jewellers|3|R|0|Garnet rings
+Sarah Beth Jewellers|4|R|0|Affordable options
+Ellys May|5|R|0|Handmade Glasgow garnet ring
+Segal's Jewellers|6|R|0|Garnet rings
+@chatgpt|ST02|r1|t1 numbered_list
+Abiza|1|R|+|Pick for natural peridot from £43
+Henryka|2|R|0|Peridot earrings
+TJC|3|R|0|Peridot earrings
+F. Hinds|4|R|0|Peridot earrings
+Tamrakar|5|R|0|Peridot earrings
+Gemporia|6|R|0|Peridot earrings
+@chatgpt|ST04|r1|t1 numbered_list
+TJC|1|R|+|Best budget option
+Lloyds Family Jewellery|2|R|+|Good value solid gold
+Goldsmiths|3|R|0|Selected luxury styles
+Temple & Grace|4|R|0|Classic vintage-inspired designs
+Rosec Jewels|5|R|0|Lots of different designs
+@chatgpt|ST05|r1|t1 numbered_list
+Franki Baker|1|R|+|Great for natural gemstones
+Milina London|2|R|+|Lovely affordable designs
+OJ Jewellery|3|R|0|Citrine £39-£475
+Abiza|4|R|0|Handmade UK jewellery
+Goldsmiths|5|R|0|Fine citrine jewellery
+Ramsdens|6|R|0|Citrine jewellery £149+
+@chatgpt|ST08|r1|t1 numbered_list
+Hirsh London|1|R|+|First stop for natural alexandrite
+President Jewellers|2|R|0|Natural alexandrite
+Temple & Grace|3|R|0|Natural alexandrite and diamond ring
+@chatgpt|ST09|r1|t1 numbered_list
+Temple & Grace|1|R|+|Good overall choice
+The London Victorian Ring Co|2|R|0|Yellow sapphire rings
+Juvetti|3|R|0|Yellow sapphire rings
+Holts Gems|4|R|0|Yellow sapphire rings
+President Jewellers|5|R|0|Yellow sapphire rings
+@chatgpt|ST10|r1|t1 numbered_list
+Queensmith|1|R|+|Top recommendation
+Temple & Grace|2|R|0|Bespoke and online
+Hatton Garden Bespoke Jewellery|3|R|0|Premium bespoke
+President Jewellers|4|R|0|UK online retailer
+@chatgpt|ST11|r1|t1 numbered_list
+Goldsmiths|1|R|+|Great for fine jewellery
+John Lewis|2|R|+|Best variety of budgets
+Hancocks|3|R|0|Luxury jewellery
+QP Jewellers|4|R|0|Interesting mid-range option
+New Cavendish Jewellers|5|R|0|Independent luxury jeweller
+@chatgpt|ST13|r1|t1 numbered_list
+Austen & Blake|1|R|+|Best overall
+Lily Arkwright|2|R|0|Best for lab-grown sapphire rings
+F. Hinds|3|R|0|Best for high-street shopping
+Sunshine Diamonds|4|R|0|Bespoke and traditional designs
+The Antique Jewellery Company|5|R|0|Distinctive vintage sapphire rings
+@chatgpt|ST14|r1|t1 numbered_list
+Gemondo|1|R|+|Pick for affordable real emerald jewellery
+Pruden & Smith|2|R|0|Best for natural emeralds
+Decadorn|3|R|0|Emerald jewellery £39-£99
+Luna Tide|4|R|0|Emerald jewellery £39-£113
+Goldsmiths|5|R|0|Emerald jewellery £195+
+@chatgpt|ST15|r1|t1 numbered_list
+Lloyds Family Jewellery|1|R|+|Best affordable option
+The Peacock Jewellery|2|R|0|Best for elegant designs
+Temple & Grace|3|R|0|Morganite rings
+President Jewellers|4|R|0|Morganite rings
+@chatgpt|ST16|r1|t1 numbered_list
+Sarah Beth Jewellers|1|R|0|Good variety of prices
+Prime Jewellery|2|R|0|Worth comparing for natural sapphires
+Goldsmiths|3|R|0|Sapphire necklaces from £695
+Hancocks|4|R|0|From £1,140
+TJC|5|R|0|About £20-£100+
+Laings|6|R|0|From £975
+@chatgpt|ST17|r1|t1 numbered_list
+The Diamond Store|1|R|+|Great all-round choice
+Sunshine Diamonds|2|R|0|Natural and lab-grown emerald earrings
+Angara|3|R|0|Customisable gemstone sizes; studs, hoops, drops
+Rosec Jewels|4|R|0|Large selection of lab-grown emeralds
+Aleks Jewellers|5|R|0|Independent Norwich jeweller
+@chatgpt|ST18|r1|t1 numbered_list
+Temple & Grace|1|R|+|Pick for bespoke opal designs
+Ernest Jones|2|R|0|Opal engagement rings
+Diorah Jewellers|3|R|0|Opal engagement rings
+Rosec Jewels|4|R|0|More choice at different prices
+Harriet Kelsall|5|R|0|Bespoke opal rings
+@chatgpt|ST19|r1|t1 numbered_list
+Ramsdens|1|R|0|Good affordable options
+F. Hinds|2|R|0|Good all-rounder
+Robert Gatward|3|R|0|Luxury designs
+Goldsmiths|4|R|0|Ruby rings
+William May|5|R|0|Ruby rings
+Smiths the Jewellers|6|R|0|Ruby rings

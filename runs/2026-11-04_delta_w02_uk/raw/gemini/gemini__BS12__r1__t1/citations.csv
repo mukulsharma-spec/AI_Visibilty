@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+BS12,gemini,Coleman Douglas Pearls,www.pearls.co.uk,https://www.pearls.co.uk/products/akoya-pearl-necklace,html_sources_panel
+BS12,gemini,Pearls Only,www.pearlsonly.co.uk,https://www.pearlsonly.co.uk/japanese-akoya-pearls/,html_sources_panel
+BS12,gemini,,www.pearlsonly.co.uk,https://www.pearlsonly.co.uk/japanese-akoya-pearls/,html_sources_panel
+BS12,gemini,The Pearl Source,www.thepearlsource.co.uk,https://www.thepearlsource.co.uk/pearl-necklaces/akoya-pearl-necklaces.php,html_sources_panel
+BS12,gemini,Yoko London,yokolondon.com,https://yokolondon.com/collections/japanese-akoya-pearl-jewellery,html_sources_panel
