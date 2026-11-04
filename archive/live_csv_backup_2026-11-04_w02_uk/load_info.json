@@ -1,0 +1,33 @@
+{
+  "run_id": "2026-11-04_delta_w02_uk",
+  "loaded_at_utc": "2026-11-04",
+  "base_tip_sha": "d84bee03e959c645a4b7e081a2c2f3a5f4a4ea7e",
+  "answers_source": "csv/work/answers_live_shape.csv (v2.1 ai_angara_rank_of_n)",
+  "method": "byte-exact append; existing bytes unchanged",
+  "files": {
+    "answers": {
+      "before": 444,
+      "added": 399,
+      "after": 843,
+      "before_git_blob": "a25433617adadf79807ee8c2988c67908d888d98"
+    },
+    "brand_mentions": {
+      "before": 2523,
+      "added": 2125,
+      "after": 4648,
+      "before_git_blob": "1bb7cf65f3abf3aac35aa771be8c5ab15244d92f"
+    },
+    "citations": {
+      "before": 1625,
+      "added": 2604,
+      "after": 4229,
+      "before_git_blob": "0b32e85e984e335e74504c763d35bb6707e3c260"
+    },
+    "answer_text": {
+      "before": 332,
+      "added": 399,
+      "after": 731,
+      "before_git_blob": "cb5af361d5e1229f13c51d2e5a2db054507d6603"
+    }
+  }
+}
