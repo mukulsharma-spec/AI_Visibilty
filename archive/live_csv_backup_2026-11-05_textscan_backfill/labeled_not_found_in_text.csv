@@ -1,0 +1,76 @@
+run_id,run_key,brand,role
+2026-10-baseline_v3,claude|ST08|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|ST10|r1|t1,Pala International,recommended
+2026-10-baseline_v3,claude|ST10|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|ST10|r1|t1,Ruby Lane,recommended
+2026-10-baseline_v3,claude|BS01|r1|t1,Lord & Taylor,recommended
+2026-10-baseline_v3,claude|BS01|r1|t1,Skeies,recommended
+2026-10-baseline_v3,claude|BS01|r1|t1,Robinson's Jewelers,recommended
+2026-10-baseline_v3,claude|BS01|r1|t1,Royal Jewelers,recommended
+2026-10-baseline_v3,claude|BS01|r1|t1,Chairish,recommended
+2026-10-baseline_v3,claude|BS01|r1|t1,Fred Weisman,mentioned
+2026-10-baseline_v3,claude|BS02|r1|t1,Robinson's Jewelers,recommended
+2026-10-baseline_v3,claude|BS02|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|BS02|r1|t1,Replacements.com,recommended
+2026-10-baseline_v3,claude|BS03|r1|t1,Rosec Jewels,recommended
+2026-10-baseline_v3,claude|BS03|r1|t1,Robinson's Jewelers,recommended
+2026-10-baseline_v3,claude|BS03|r1|t1,Joseph Jewelry,recommended
+2026-10-baseline_v3,claude|BS03|r1|t1,Washington Diamond,recommended
+2026-10-baseline_v3,claude|BS03|r1|t1,Roman & Jules,mentioned
+2026-10-baseline_v3,claude|BS04|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|BS04|r1|t1,Mark Broumand,mentioned
+2026-10-baseline_v3,claude|BS05|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|BS06|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|BS07|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|BS07|r1|t1,The Tanzanite Experience,recommended
+2026-10-baseline_v3,claude|BS08|r1|t1,Joseph Jewelry,recommended
+2026-10-baseline_v3,claude|BS09|r1|t1,With Clarity,recommended
+2026-10-baseline_v3,claude|BS12|r1|t1,Pearls of Joy,recommended
+2026-10-baseline_v3,claude|TR02|r1|t1,Skyjems,recommended
+2026-10-baseline_v3,claude|TR02|r1|t1,NNJ Designs,recommended
+2026-10-baseline_v3,claude|TR02|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|TR02|r1|t1,Pala International,recommended
+2026-10-baseline_v3,claude|TR02|r1|t1,The Natural Sapphire Company,recommended
+2026-10-baseline_v3,claude|TR03|r1|t1,Daniel William Diamonds,recommended
+2026-10-baseline_v3,claude|TR03|r1|t1,Alexis Russell,compared_against
+2026-10-baseline_v3,claude|TR03|r1|t1,Diamond Nexus,mentioned
+2026-10-baseline_v3,claude|TR04|r1|t1,Free People,mentioned
+2026-10-baseline_v3,claude|TR07|r1|t1,Perpetuum Jewels,recommended
+2026-10-baseline_v3,claude|PR01|r1|t1,JewelryPalace,recommended
+2026-10-baseline_v3,claude|PR02|r1|t1,Gem Stone King,recommended
+2026-10-baseline_v3,claude|PR03|r1|t1,eBay,recommended
+2026-10-baseline_v3,claude|PR04|r1|t1,Gem Stone King,recommended
+2026-10-baseline_v3,claude|PR06|r1|t1,Mineralogy,recommended
+2026-10-baseline_v3,claude|PR06|r1|t1,Aurate,recommended
+2026-10-baseline_v3,claude|PR07|r1|t1,Greenwich St. Jewelers,recommended
+2026-10-baseline_v3,claude|PR07|r1|t1,Omi Privé,recommended
+2026-10-baseline_v3,claude|PR07|r1|t1,Doyle,recommended
+2026-10-baseline_v3,claude|PR08|r1|t1,Moriarty's Gem Art,recommended
+2026-10-baseline_v3,claude|PR08|r1|t1,Burton's Gems and Opals,recommended
+2026-10-baseline_v3,claude|LG02|r1|t1,James Avery,recommended
+2026-10-baseline_v3,claude|LG02|r1|t1,Dillard's,mentioned
+2026-10-baseline_v3,claude|LG02|r1|t1,Rosec Jewels,recommended
+2026-10-baseline_v3,claude|LG02|r1|t1,Diamondstuds,recommended
+2026-10-baseline_v3,claude|LG02|r1|t1,1stDibs,recommended
+2026-10-baseline_v3,claude|LG02|r1|t1,eBay,compared_against
+2026-10-baseline_v3,claude|LG05|r1|t1,Chatham,recommended
+2026-10-baseline_v3,claude|LG08|r1|t1,Plum Diamonds,mentioned
+2026-11-04_delta_w02_uk,chatgpt|IM03|r1|t1,WJ Shaw Jewellers,recommended
+2026-11-04_delta_w02_uk,chatgpt|IM03|r1|t1,Michael Jones Jeweller,recommended
+2026-11-04_delta_w02_uk,chatgpt|IM05|r1|t1,Cheshires the Jewellers,recommended
+2026-11-04_delta_w02_uk,chatgpt|MT05|r1|t2,Jewellery Repair Workshop,recommended
+2026-11-04_delta_w02_uk,chatgpt|MT05|r1|t2,Ronesans Jewellery Workshop,recommended
+2026-11-04_delta_w02_uk,chatgpt|MT06|r1|t2,Smiths the Jewellers,recommended
+2026-11-04_delta_w02_uk,chatgpt|OC08|r1|t1,Aladdins Cave Jewellery,recommended
+2026-11-04_delta_w02_uk,chatgpt|PR07|r1|t1,Blackacre London,recommended
+2026-11-04_delta_w02_uk,chatgpt|SG07|r1|t1,H.AZEEM London,recommended
+2026-11-04_delta_w02_uk,chatgpt|ST09|r1|t1,The London Victorian Ring Co,recommended
+2026-11-04_delta_w02_uk,claude|IM11|r1|t1,The Jewellers,recommended
+2026-11-04_delta_w02_uk,claude|IM11|r1|t1,The Fine Jewellery Company,recommended
+2026-11-04_delta_w02_uk,claude|IM12|r1|t1,The Fine Jewellery Company,recommended
+2026-11-04_delta_w02_uk,claude|MT02|r1|t2,Fraser Hart,recommended
+2026-11-04_delta_w02_uk,claude|MT06|r1|t2,Jewellery Discovery,mentioned
+2026-11-04_delta_w02_uk,claude|TR03|r1|t1,Cullen Jewellery,recommended
+2026-11-04_delta_w02_uk,gemini|GN04|r1|t1,Flawless Fine Jewellery,recommended
+2026-11-04_delta_w02_uk,gemini|PR03|r1|t1,Liberty London,recommended
+2026-11-04_delta_w02_uk,gemini|SG07|r1|t1,H.AZEEM London,recommended

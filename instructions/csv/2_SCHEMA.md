@@ -1,6 +1,6 @@
 # CSV Schema
 
-csv/2_SCHEMA v2.3.3 · 2026-10-29
+csv/2_SCHEMA v2.4 · 2026-11-05
 
 The three dashboard CSVs: `answers.csv`, `brand_mentions.csv`, `citations.csv`. The same three files exist in each `runs/<run_id>/csv/` (one run) and in `live_csv/` (all runs appended).
 
@@ -117,11 +117,11 @@ From live `answers.csv` at migration. Do not invent new labels without human app
 |---|---|---|---|---|
 | 1–6 | key columns | M | | Section 1 |
 | 7 | `brand` | M/J | string | Alias-list name (`fact_row=1`) or name as written (`fact_row=0`) |
-| 8 | `fact_row` | M | 0/1 | `1` = matched by the alias list; `0` = added by reading |
-| 9 | `mention_count` | M | integer/blank | Number of matches; blank when `fact_row=0` |
-| 10 | `first_char_pos` | M | integer/blank | Position of first match; blank when `fact_row=0` |
-| 11 | `order_of_first_appearance` | M | integer/blank | 1 = first brand in the text (not a rank); blank when `fact_row=0` |
-| 12 | `text_source` | M | string/blank | `answer` or `page_copy`; blank when `fact_row=0` |
+| 8 | `fact_row` | M | 0/1 | `1` = matched by alias list; `0` = added by reading (labeled brand) |
+| 9 | `mention_count` | M | integer/blank | Number of matches; blank if brand not found in text |
+| 10 | `first_char_pos` | M | integer/blank | Position of first match; blank if brand not found in text |
+| 11 | `order_of_first_appearance` | M | integer/blank | 1 = first brand in the text (not a rank); blank if not found |
+| 12 | `text_source` | M | string/blank | `answer` or `page_copy`; blank if brand not found in text |
 | 13 | `published_rank` | J | integer/blank | Only for `recommended` |
 | 14 | `tie` | J\* | 0/1 | Shares its rank slot |
 | 15 | `role` | J\* | string | `recommended`, `mentioned`, `compared_against`, `cited_only`, `false_match` |

@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.3.3 · 2026-10-29
+csv/1_BUILD_AND_LOAD v2.4 · 2026-11-05
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -27,7 +27,8 @@ Build and Load are separate tasks. When yours is done, report to the human and s
 | `runs/<run_id>/raw/<app>/<raw folder>/` | `meta.json`, `answer.txt`, `answer.html` or `answer.html.gz` |
 | `runs/<run_id>/run_info_<app>.json` | Which IDs were assigned, captured, failed, discarded |
 | `inputs/prompts_v3_final.csv` + delta files from `inputs/run_lists/` | Prompt text |
-| `inputs/brand_aliases_v3.csv` | Brand match patterns (Build only) |
+| `inputs/brand_aliases_v3.csv` | Brand alias patterns for exceptions (abbreviations, alternate spellings, ambiguous names) |
+| `tools/labeled_brand_scan.py` | Text scan script for labeled brands (Step 5a) |
 
 ## Rules
 
@@ -98,13 +99,15 @@ When `answer.html` has **no outbound hrefs** (for example ChatGPT `text_wrapped_
 
 **Citation name priority:** Real HTML `href` links first. When no hrefs exist, record the **source chip / site names** (ChatGPT brackets like `[Brilliant Earth]`, Gemini `.source-title` or `citation_chips` in `capture_notes`). **Name is what matters**—URLs are optional when only chip labels are available. If you can map the name to a domain, fill `domain`; otherwise leave it blank but still emit the row so the citation count is accurate.
 
-## Step 3: brand_mentions.csv, measured columns
+## Step 3: brand_mentions.csv, measured columns (alias scan)
 
 One row per brand whose pattern in `brand_aliases_v3.csv` matches the body (case-insensitive). Set `fact_row=1`.
 
 - `mention_count` = number of matches.
 - `first_char_pos` = 0-based start of the first match.
 - `order_of_first_appearance`: sort matched brands by `first_char_pos`; 1 = earliest. This is **not** a rank.
+
+**Note:** Alias patterns are used for brands that need special matching rules (abbreviations like TJC, alternate spellings like Tiffany → Tiffany & Co., ambiguous names like Kay). Step 5a fills measured columns for all other labeled brands.
 
 ## Step 4: answers.csv, measured columns
 
@@ -144,7 +147,27 @@ Read each `answer.txt`. Never change a measured value.
 
 **Brand rows**
 - Fill the judged columns for every `fact_row=1` row.
-- **Add a row with `fact_row=0`** for any store or brand the answer recommends that the alias list missed. Leave its measured columns blank. Use the name as written; check `live_csv/brand_mentions.csv` for an existing spelling first. Report new names so the human can add them to the alias list.
+- **Add a row with `fact_row=0`** for any store or brand the answer recommends that the alias list missed. Use the name as written; check `live_csv/brand_mentions.csv` for an existing spelling first. Report new names.
+
+## Step 5a: Labeled-brand text scan
+
+After judging, fill measured columns for all `fact_row=0` rows using `tools/labeled_brand_scan.py` or equivalent logic:
+
+1. For each answer, take all labeled brands (all brand_mentions rows for that `run_key`).
+2. Search the answer text for each brand name with normalization:
+   - Case-insensitive
+   - `&` matches `and`
+   - Dots/spaces flexible (`H.Samuel` = `H Samuel`)
+   - Optional leading `The`
+   - Optional trailing `'s`
+   - Apostrophe variants (straight `'`, curly `'`)
+   - Accent normalization (`À` = `A`)
+3. If the alias file has a pattern for that brand, use it (union with name search is OK).
+4. Fill `mention_count`, `first_char_pos`, and `text_source` for matches.
+5. Recompute `order_of_first_appearance` for all brands in the answer that have a position.
+6. **Miss report:** brands labeled but not found in text are listed in `build_info.json` `brands_not_found` or a separate miss report file.
+
+Brands that remain blank after the scan are legitimate misses (e.g., named in citation/card but not in text body). The miss report is the human review input for new alias exceptions.
 
 | Role | Use when |
 |---|---|

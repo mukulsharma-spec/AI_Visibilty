@@ -4,6 +4,36 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.4 · 2026-11-05: Labeled-brand text scan
+
+### What changed
+- **New Step 5a:** After judging, fill measured columns (`mention_count`, `first_char_pos`, `order_of_first_appearance`, `text_source`) for `fact_row=0` rows by searching answer text for each labeled brand name.
+- **Text scan logic:** Case-insensitive, `&` vs `and`, dots/spaces flexible, optional leading `The`, optional trailing `'s`, apostrophe variants, accent normalization.
+- **New script:** `tools/labeled_brand_scan.py` - reusable text scan for labeled brands with miss report.
+- **Alias file clarified:** `inputs/brand_aliases_v3.csv` is now exceptions/overrides only (abbreviations like TJC, alternate spellings, ambiguous names). Added UK patterns: TJC, Not On The High Street, Avanti Jewellers, C W Sellors, Grays Antiques.
+- **Schema clarification:** Measured columns in brand_mentions can be filled for `fact_row=0` rows when brand appears in text; blank only when brand not found.
+- **Miss report:** Brands labeled but not found in text are reported for human review to add alias exceptions.
+
+### Data fix (live_csv backfill)
+- Backfilled `live_csv/brand_mentions.csv` with text scan for all `fact_row=0` rows.
+- UK run `2026-11-04_delta_w02_uk`: 1791 blank → 19 blank (1772 filled, 98.9%).
+- Overall: 2593 blank `fact_row=0` rows → 242 blank (2351 filled, 90.7%).
+- Backup: `archive/live_csv_backup_2026-11-05_textscan_backfill/`.
+- Miss report: `archive/live_csv_backup_2026-11-05_textscan_backfill/labeled_not_found_in_text.csv`.
+
+### Updated files
+- `csv/1_BUILD_AND_LOAD.md` v2.4: Step 3 clarification, new Step 5a, inputs table updated
+- `csv/2_SCHEMA.md` v2.4: brand_mentions columns 9-12 clarified (blank when not found, not when fact_row=0)
+- `inputs/brand_aliases_v3.csv`: Added UK exception patterns
+- `tools/labeled_brand_scan.py`: New script
+
+### What stays the same
+- Schema columns unchanged (answers 30, brand_mentions 20, citations 11)
+- fact_row meaning unchanged (1 = alias match, 0 = judged)
+- Human approval still required for Load
+
+---
+
 ## v2.3.3 · 2026-10-29: answer_text.csv for dashboard Prompt tab
 
 ### What changed

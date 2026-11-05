@@ -61,3 +61,9 @@ Gemondo,gemondo
 Gemporia,gemporia
 Walmart,walmart
 Target,\btarget\b(?! (?:audience|budget|price))
+TJC,\btjc\b|the jewel+ery channel
+Not On The High Street,not\s*on\s*the\s*high\s*street|notonthehighstreet
+Avanti Jewellers,avanti jewel+e?r[sy]
+C W Sellors,c\.?\s*w\.?\s*sellors
+Grays Antiques,gray'?s?\s*antiques?
+Grays Antique Market,gray'?s?\s*antique(?:s|\s+market|\s+centre|\s+center)
