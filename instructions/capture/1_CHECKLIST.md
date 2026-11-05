@@ -1,6 +1,6 @@
 # Capture Checklist
 
-capture/1_CHECKLIST v2.3.1 · 2026-10-29
+capture/1_CHECKLIST v2.5 · 2026-11-05
 
 Read this when your task is **Capture**. It's the order of work from first message to hand-off. Details live in two other files:
 
@@ -21,18 +21,20 @@ Do not send any prompt until every item below is answered in the chat.
 - [ ] **Mode**:
   - **Delta**: the exact prompt IDs, or a `prompts_delta_*.csv` the human supplied, or prompt text the human pasted.
   - **Full**: every row with `active=1`. Needs an explicit "yes, full run".
+- [ ] **Market**: `US`, `UK`, `AU` or `CA` (default `US`). It sets the shopping line (C), the prompt wording (B) and `meta.market`. One market per run_id.
 - [ ] **run_id**: use the one the human gives. If none is given, Grok Bot proposes one from capture date + next week number per README naming convention; human confirms before capture. Every bot in the same run uses the same `run_id`.
 - [ ] Confirm IDs are **`prompt_id` values only** (e.g. `CH03`). Do not put bot name or date into `prompt_id` or `run_key`; date/batch is `run_id`.
 - [ ] **Session** for your app is ready. The human sets sign-in state; you never ask for or enter credentials.
   - **ChatGPT / Gemini:** **signed out**. Either a Chrome Incognito window or the signed-out shared profile is fine; no approval needed. Record which one you used in `meta.json` (`incognito` or `signed_out_shared_profile`).
   - **Claude:** signed in (already done by the human), with Claude's own **Incognito chat toggle** turned on for every prompt. A Chrome Incognito window does not replace the toggle.
-- [ ] **Egress**: check the IP inside the capture browser. If the country is not US, ask whether to turn on Route traffic/VPN or proceed tagged `egress_country=IN`.
+- [ ] **Egress**: check the IP inside the capture browser. If the country is not the run's market, ask whether to turn on Route traffic/VPN for that country or proceed tagged with the real country (for example `egress_country=IN`).
 
 If the human asks for "N prompts" without giving IDs or rows: stop and ask. Never write prompts yourself.
 
 ## B. Set up
 
 - [ ] Load prompts from `inputs/prompts_v3_final.csv` (skip `active=0`) or a delta file from `inputs/run_lists/`.
+- [ ] **Other markets:** use the market's prompt list when one exists (`inputs/run_lists/prompts_v3_<market>.csv`, same `prompt_id`s, local wording: `jewellery`, `£`/`A$`/`C$` prices). If none exists, stop and ask; never send US prices (`under $500`) to a UK, AU or CA run.
 - [ ] Confirm every requested ID exists. If any is missing, list them and ask.
 - [ ] Open the session for your app as in A (ChatGPT/Gemini: confirm you are signed out; Claude: confirm signed in, then turn on the Incognito chat toggle).
 - [ ] Create `runs/<run_id>/raw/<app>/` and record your start time (UTC).
@@ -40,8 +42,16 @@ If the human asks for "N prompts" without giving IDs or rows: stop and ask. Neve
 ## C. For each prompt
 
 - [ ] Open a **new chat** (Claude: new Incognito chat).
-- [ ] **Turn 1:** send `prompt_text` + one space + exactly `I'm shopping in the USA.`
-  Example: `Where can I buy fine jewelry online? I'm shopping in the USA.`
+- [ ] **Turn 1:** send `prompt_text` + one space + the market's shopping line, exactly:
+
+  | Market | Line |
+  |---|---|
+  | US | `I'm shopping in the USA.` |
+  | UK | `I'm shopping in the UK.` |
+  | AU | `I'm shopping in Australia.` |
+  | CA | `I'm shopping in Canada.` |
+
+  Example: `Where can I buy fine jewellery online? I'm shopping in the UK.` A **no-suffix** run (the human asks for one, usually from that country's connection) sends `prompt_text` alone; `meta.market` still names the market.
 - [ ] Wait until the answer has **completely finished**.
 - [ ] Save the 4 files into the raw folder for `t1` (App Guide, your app's section).
 - [ ] **Turn 2** (only if `followup_text` is not empty): send `followup_text` exactly as written, **no suffix**, in the **same chat**. Wait, then save into a separate raw folder for `t2`.

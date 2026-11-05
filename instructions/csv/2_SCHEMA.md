@@ -1,10 +1,14 @@
 # CSV Schema
 
-csv/2_SCHEMA v2.4 · 2026-11-05
+csv/2_SCHEMA v2.5 · 2026-11-05
 
 The three dashboard CSVs: `answers.csv`, `brand_mentions.csv`, `citations.csv`. The same three files exist in each `runs/<run_id>/csv/` (one run) and in `live_csv/` (all runs appended).
 
 **Optional:** `answer_text.csv` (section 4a) holds the raw answer body for the dashboard Prompt tab. Build always produces it; Load appends it into `live_csv/` alongside the three SCHEMA files.
+
+**Human-kept:** `inputs/changes_log.csv` (section 4b) lists what the team changed (site, listings, PR) and when, so the dashboard can show Angara's numbers before and after. Bots never write it unless the human asks.
+
+**v2.5 adds columns at the end** of `answers.csv` (31–35) and `citations.csv` (12). The dashboard reads files with or without them, so older rows stay valid; see "Moving live_csv to v2.5" at the end of section 4.
 
 How to fill each column is in `1_BUILD_AND_LOAD.md`. Names (`run_id`, `run_key`) are defined in `README.md`.
 
@@ -52,12 +56,12 @@ How to fill each column is in `1_BUILD_AND_LOAD.md`. Names (`run_id`, `run_key`)
 
 ---
 
-## 2. answers.csv: 30 columns, one row per answer
+## 2. answers.csv: 35 columns, one row per answer
 
 | # | Column | Kind | Type | Meaning / allowed values |
 |---|---|---|---|---|
 | 1–6 | key columns | M | | Section 1 |
-| 7 | `prompt` | M | string | Exact text sent (with USA suffix on turn 1) |
+| 7 | `prompt` | M | string | Exact text sent, with the market's shopping line on turn 1 (`I'm shopping in the USA.` / `the UK.`; Capture Checklist C) |
 | 8 | `captured_at_utc` | M | timestamp | When captured |
 | 9 | `signed_in` | M | true/false | Signed in to the app (lowercase) |
 | 10 | `session` | M | string | `incognito`, `signed_out_shared_profile`, `claude_incognito_chat`; blank for older runs |
@@ -81,6 +85,11 @@ How to fill each column is in `1_BUILD_AND_LOAD.md`. Names (`run_id`, `run_key`)
 | 28 | `ai_angara_rank` | J | integer/blank | 1-based rank position (blank if not ranked) |
 | 29 | `ai_angara_rank_n` | J | integer/blank | Total rank slots, was "of N" (blank if not ranked) |
 | 30 | `ai_top1_brand` | J | string/blank | Rank-1 brand(s), joined by `;` |
+| 31 | `market` | M | string | The market the prompt is asked for: `US`, `UK`, `AU`, `CA`. From the run plan (`meta.market`); the same for every row of a run, turn 2 included. Needed when a run sends no shopping line (a no-suffix run from a UK connection) |
+| 32 | `model_ui` | M | string/blank | Model name the app showed (`meta.model_ui`), e.g. `GPT-5.1`, `Sonnet 5.5`; blank if not shown |
+| 33 | `capture_quality` | M | string | `meta.capture_quality` (App Guide 1.3): `full_verbatim`, `text_wrapped_html`, `partial`, `low` |
+| 34 | `chat_url` | M | string/blank | `meta.chat_url`; blank for incognito chats with no link |
+| 35 | `search_queries` | M | string/blank | The web searches the app showed it ran, joined by ` ; ` (ChatGPT/Claude "Searched for …", Gemini query chips); blank if none shown |
 
 ### 2a. Allowed `ai_answer_format` values (locked 2026-10-27)
 
@@ -126,14 +135,14 @@ From live `answers.csv` at migration. Do not invent new labels without human app
 | 14 | `tie` | J\* | 0/1 | Shares its rank slot |
 | 15 | `role` | J\* | string | `recommended`, `mentioned`, `compared_against`, `cited_only`, `false_match` |
 | 16 | `in_product_card` | J\* | 0/1 | Shown in a product card |
-| 17 | `price_shown_usd` | J | string/blank | Exact price text |
+| 17 | `price_shown_usd` | J | string/blank | Exact price text as shown, in any currency (`£275`, `$1,880–$2,900`); the name stays for compatibility |
 | 18 | `claim` | J\* | string | Why named, max 15 words |
 | 19 | `sentiment` | J\* | string | `positive`, `neutral`, `negative` |
 | 20 | `confidence` | J\* | string | `high`, `medium`, `low` |
 
 ---
 
-## 4. citations.csv: 11 columns, one row per outbound link
+## 4. citations.csv: 12 columns, one row per outbound link
 
 | # | Column | Kind | Type | Meaning / allowed values |
 |---|---|---|---|---|
@@ -143,8 +152,13 @@ From live `answers.csv` at migration. Do not invent new labels without human app
 | 9 | `domain` | M | string | Registrable domain, e.g. `angara.com` |
 | 10 | `is_angara` | M | 0/1 | Domain is angara.com |
 | 11 | `source_file` | M | string | `html` or `html_chip` |
+| 12 | `link_location` | M | string | Where the link was: `inline` (in the answer body), `sources_panel` (only in the app's sources / citations panel, `sources_panel.html`), `chip` (a source chip with no link) |
 
-Within one answer, keep each URL only once. Drop app/support links (`chatgpt.com`, `chat.openai.com`, `claude.ai`, `gemini.google.com`, Google account/support pages).
+Within one answer, keep each URL only once. Drop app/support links (`chatgpt.com`, `chat.openai.com`, `claude.ai`, `gemini.google.com`, Google account/support pages). A URL both inline and in the panel is one row, `inline`.
+
+### Moving live_csv to v2.5
+
+Before the first Load of a v2.5 build, add the new columns to `live_csv/answers.csv` (31–35) and `live_csv/citations.csv` (12) with the header names above and blank values for every existing row, so each file keeps one header. Back up first, as in Load. Older rows may stay blank; where the raw `meta.json` still exists, `market`, `model_ui`, `capture_quality` and `chat_url` can be backfilled from it (needs the human's yes).
 
 ---
 
@@ -170,14 +184,35 @@ This file holds the raw answer body for the dashboard Prompt tab. Build always p
 
 ---
 
+## 4b. inputs/changes_log.csv (human-kept): one row per change the team made
+
+| # | Column | Required | Type | Meaning |
+|---|---|---|---|---|
+| 1 | `date` | yes | date | `YYYY-MM-DD`: the day the change went live |
+| 2 | `market` | no | string | `US`, `UK`, `AU`, `CA`; blank = every market |
+| 3 | `area` | no | string | Short label: `Site`, `Listings`, `PR`, `Reviews`, `Content` |
+| 4 | `change` | yes | string | What was done, one line (e.g. `£ prices and UK returns page live on angara.com/uk`) |
+| 5 | `category` | no | string | The prompt category it aims at (`Price`, `Engagement`…), as in the prompt list; blank = all |
+| 6 | `app` | no | string | `chatgpt`, `claude` or `gemini` if aimed at one app; blank = all |
+
+The dashboard (Focus, "Changes we made") shows Angara's recommended rate in the last week captured before `date` and the latest week captured after it, on the row's market, category and app. Never delete a row; correct it in place.
+
+---
+
 ## 5. Dashboard
 
 | Dashboard panel | Needs |
 |---|---|
 | Mention rate, categories, citations | Measured columns |
 | Recommended, rank, Competitors, Cards | Judged columns |
+| Market switch, US vs UK | `market` (31), else the shopping line in `prompt` |
+| Search funnel, "What the AI read instead" | `web_search_marker`, `angara_link_present`, citations; `link_location` to tell inline links from the panel |
+| Written summaries | All of the above; written by the dashboard's export, nothing extra to fill |
+| Changes we made | `inputs/changes_log.csv` |
 
-Category comes from `inputs/prompts_v3_final.csv` (and delta files), joined on `prompt_id`.
+Category comes from the prompt lists in `inputs/` (`prompts_v3_final.csv`, plus `prompts_v3_extra.csv` for prompts run once from a delta list and kept with `active=0`), joined on `prompt_id`. Every prompt a run uses needs a row in one of them; the dashboard does not read `inputs/run_lists/`.
+
+**Categories (fixed list, 2026-11-05):** `Bestseller` (specific designs and styles, including "show me" requests), `Stone` (a named gemstone), `Occasion` (gifts, birthstones, anniversaries), `Price` (a budget), `Lab-grown`, `Custom` (choosing grade, metal, engraving, try-on, delivery), `Trust` (certificates, returns, warranty, ethics, where it is safe to buy), `Generic` (best stores in general), `Competitor` (alternatives to a named rival), `Branded` (questions naming Angara), `Multi-turn` (short questions with a follow-up). New prompts take one of these; a new category needs the human's OK.
 
 ---
 

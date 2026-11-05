@@ -1,6 +1,6 @@
 # App Capture Guide
 
-capture/3_APP_GUIDE v2.3.2 · 2026-10-29
+capture/3_APP_GUIDE v2.5 · 2026-11-05
 
 What to click and what to save. **Read Part 1 (All apps), then only the section for your app in Part 2.** Policy (sessions, egress, failures) is in `2_RUNBOOK.md`. Names are defined in `README.md`.
 
@@ -49,6 +49,7 @@ Use exactly one of these four values; put any detail in `notes`.
   "repeat": "r1",
   "turn": 1,
   "prompt_sent": "<prompt_text for CH03 from the CSV> I'm shopping in the USA.",
+  "market": "US",
   "source": "grok_bot_ui",
   "captured_by": "Grok Bot",
   "captured_at_utc": "2026-10-27 05:40:00",
@@ -62,6 +63,7 @@ Use exactly one of these four values; put any detail in `notes`.
   "chat_url": "https://chatgpt.com/c/6ae038d5-12a8-83ea-8e0b-305df7653a0b",
   "web_search": true,
   "model_ui": "not shown (signed-out default)",
+  "search_queries": ["best online jewelry stores sapphire", "angara reviews"],
   "capture_quality": "text_wrapped_html",
   "notes": "answer.txt from page innerText (no clipboard); answer.html is <pre> wrapper; shot_1 viewport only."
 }
@@ -71,7 +73,9 @@ Use exactly one of these four values; put any detail in `notes`.
 |---|---|
 | `run_key` | `{app}\|{prompt_id}\|{repeat}\|t{turn}`; no date (date lives in `run_id`). `prompt_id` is the prompt id only — never bot name or date. |
 | `turn` | Number: `1` or `2` |
-| `prompt_sent` | Exact text you sent, including the USA suffix on turn 1 |
+| `prompt_sent` | Exact text you sent, including the market's shopping line on turn 1 (Checklist C) |
+| `market` | The run's market: `US`, `UK`, `AU` or `CA` (Checklist A); same on turn 2 |
+| `search_queries` | The searches the app showed it ran ("Searched for …", query chips), as a list; `[]` if none shown |
 | `captured_by` | Your bot name: `Grok Bot`, `@A` or `check · collector` |
 | `captured_at_utc` | `YYYY-MM-DD HH:MM:SS`, UTC |
 | `signed_in` | JSON boolean in meta (`true`/`false`). Claude = true; ChatGPT/Gemini = false. Build CSVs write lowercase text `true`/`false` into `live_csv`. |
@@ -103,6 +107,7 @@ After your last prompt, write two files in `runs/<run_id>/` (not inside `raw/`).
   "session": "signed_out_shared_profile",
   "egress": { "ip": "104.28.225.10", "city": "Delhi", "country": "IN", "in_approved_by_human": true },
   "model_ui": "not shown (signed-out default)",
+  "search_queries": ["best online jewelry stores sapphire", "angara reviews"],
   "ids_assigned": ["CH01", "CH02", "CH03"],
   "ids_captured": ["CH01", "CH03"],
   "ids_failed": [{ "id": "CH02", "reason": "silent_send_fail" }],

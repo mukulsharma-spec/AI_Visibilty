@@ -1,6 +1,6 @@
 # Build & Load CSVs
 
-csv/1_BUILD_AND_LOAD v2.4 · 2026-11-05
+csv/1_BUILD_AND_LOAD v2.5 · 2026-11-05
 
 How raw captures become the three dashboard CSVs. **Read "All CSV tasks", then only the section for your task.** Column names, order and allowed values are in `2_SCHEMA.md`; this file says how to fill them. Names (`run_id`, `run_key`, folders) are in `README.md`.
 
@@ -29,6 +29,7 @@ Build and Load are separate tasks. When yours is done, report to the human and s
 | `inputs/prompts_v3_final.csv` + delta files from `inputs/run_lists/` | Prompt text |
 | `inputs/brand_aliases_v3.csv` | Brand alias patterns for exceptions (abbreviations, alternate spellings, ambiguous names) |
 | `tools/labeled_brand_scan.py` | Text scan script for labeled brands (Step 5a) |
+| `inputs/changes_log.csv` | Not used by Build. Kept by the human (SCHEMA 4b) |
 
 ## Rules
 
@@ -75,7 +76,7 @@ Do all measured columns by script first (steps 1–4), then the judged columns (
 
 ## Step 2: citations.csv (measured)
 
-One row per outbound link in `answer.html` (decompress `.gz` first).
+One row per outbound link in `answer.html` (decompress `.gz` first), then in `sources_panel.html` when the raw folder has one.
 
 - Take `http`/`https` `href` values only.
 - **Drop app links:** any URL on `chatgpt.com`, `chat.openai.com`, `openai.com`, `claude.ai`, `anthropic.com`, `gemini.google.com`, `accounts.google.com`, `support.google.com`, `policies.google.com`, plus `mailto:`, `javascript:` and `#` links.
@@ -84,6 +85,7 @@ One row per outbound link in `answer.html` (decompress `.gz` first).
 - `domain` = registrable domain without `www.` (for example `blog.angara.com` → `angara.com`).
 - `is_angara` = `1` if `domain` is `angara.com`.
 - `source_file` = `html`.
+- `link_location` = `inline` for links in `answer.html`; `sources_panel` for links found only in `sources_panel.html` (a URL already inline is not repeated); `chip` for chip rows below.
 
 **Chip-based citations (fallback when no outbound hrefs):**
 
@@ -126,6 +128,9 @@ One row per raw folder.
 | `n_brands_found` | Rows in `brand_mentions.csv` with `fact_row=1` for this answer |
 | `n_links` | Rows in `citations.csv` for this answer |
 | `angara_link_present` | `1` if any of those rows has `is_angara=1` |
+| `market` | `meta.market`. Older meta without it: from the shopping line in `prompt_sent` (`USA` → `US`, `the UK` → `UK`); turn 2 takes its turn 1's |
+| `model_ui`, `capture_quality`, `chat_url` | Copy from `meta.json`; blank if missing |
+| `search_queries` | `meta.search_queries` joined by ` ; `; blank if missing |
 
 ## Step 4a: answer_text.csv (measured)
 
@@ -253,7 +258,7 @@ Appends a built run to `live_csv/`. **Needs the human's explicit yes.**
 
 ## Steps
 
-1. Show the human: `run_id`, apps included, rows to add per file, check results.
+1. Show the human: `run_id`, apps included, rows to add per file, check results. If `live_csv/` is still on v2.4 columns and the build is v2.5, say so and do "Moving live_csv to v2.5" (SCHEMA end of section 4) first, with the same yes.
 2. After the yes, for each of the four files (answers, brand_mentions, citations, answer_text):
    1. Copy the current `live_csv/<file>` to `archive/live_csv_backup_<YYYY-MM-DD>/`.
    2. Append the run's rows (same column order as SCHEMA).

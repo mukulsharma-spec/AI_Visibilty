@@ -103,6 +103,7 @@ Format: `YYYY-MM-DD_<type>_<label>`
 
 **Rules:**
 - Week numbers count from the baseline. Oct 22–27 data is week 1 (w01); first weekly rerun is w02.
+- Week numbers are calendar weeks shared by every market: runs in the same week get the same wNN, and a non-US run adds its market: `2026-11-04_delta_w02_uk`, `2026-11-11_full_w03_uk`. The dashboard compares markets week by week only when both ran that week.
 - One wNN per week. Mid-week new prompts go in that week's `_new` run, not a new week number.
 - Grok Bot proposes the run_id from capture date + next week number; human confirms before capture starts.
 - Never rename a run_id once its rows are in `live_csv/`.

@@ -4,6 +4,47 @@ Record of rule and structure changes, newest first. Bots read this only for the 
 
 ---
 
+## v2.5.1 · 2026-11-05: Simpler prompt categories
+
+### What changed
+- Five categories retired, their prompts moved to the closest remaining one: `Show-me` and `Segment` → `Bestseller` (one to `Price`); `Engagement` → `Generic` or `Stone`; `Compare` → `Stone`, `Trust` or `Lab-grown`; `Channel` → `Trust` or `Generic`. Done in `prompts_v3_final.csv` and every list in `inputs/run_lists/`; only the `category` column changed.
+- New `inputs/prompts_v3_extra.csv`: the 20 prompts run once from `run_lists/prompts_delta_2026-10-27_br20.csv` but missing from the lists the dashboard reads, with `active=0` so Full runs skip them.
+- `csv/2_SCHEMA.md` section 5 lists the categories.
+
+### Why
+- The retired names were unclear to readers outside the project, and three of them held two or three prompts each.
+- The 20 missing prompts showed as "(not set)" on the dashboard.
+
+---
+
+## v2.5 · 2026-11-05: Markets, capture details and the changes log
+
+### What changed
+- **answers.csv 30 → 35 columns** (added at the end): `market`, `model_ui`, `capture_quality`, `chat_url`, `search_queries`. All but `search_queries` already sit in `meta.json`; Build copies them.
+- **citations.csv 11 → 12 columns:** `link_location` (`inline` / `sources_panel` / `chip`). Build also reads `sources_panel.html` when present.
+- **`price_shown_usd`** is the price text in any currency; the name stays.
+- **Markets in Capture:** pick the market first (US, UK, AU, CA); the shopping line, the prompt wording and `meta.market` follow it. Non-US runs use a local prompt list (`inputs/run_lists/prompts_v3_<market>.csv`: `jewellery`, local currency); never send US prices to another market.
+- **Week numbers are shared across markets** (README run_id naming): a UK run in week 2 is `_w02_uk`.
+- **New `inputs/changes_log.csv`** (SCHEMA 4b), kept by the human: date, market, area, change, category, app. The dashboard shows Angara's rate before and after each change.
+- **Moving live_csv to v2.5** (SCHEMA end of section 4): add the new columns blank to existing rows before the first v2.5 Load.
+
+### Why
+- The market came only from the shopping line, so a no-suffix run from a UK connection had no market.
+- The UK run sent US prompts (`under $500`), which skews the UK Price category.
+- Inline vs sources-panel links and capture quality explain why UK and US citation numbers differ (the UK run saved the panels).
+- Search queries show what the apps looked for when they missed Angara.
+- The team needs to see whether a change moved the numbers.
+
+### Updated files
+- `csv/2_SCHEMA.md` v2.5, `csv/1_BUILD_AND_LOAD.md` v2.5, `capture/1_CHECKLIST.md` v2.5, `capture/3_APP_GUIDE.md` v2.5, `README.md` (run_id naming)
+- `inputs/changes_log.csv`: new, header only
+
+### What stays the same
+- Every existing column, its order and meaning; older rows stay valid with the new columns blank.
+- Human approval still required for Load.
+
+---
+
 ## v2.4 · 2026-11-05: Labeled-brand text scan
 
 ### What changed
