@@ -1,0 +1,12 @@
+# Agreed split with Friday 2026-11-05
+# Friday keeps: OC14 GN02 GN03 GN05 EN02 CH03 CU01 CU02 CU03 CU08
+# Grok Bot takes:
+LG01
+LG02
+LG03
+LG08
+MT02
+MT03
+MT06
+CM05
+# (+ MT02/MT03/MT06 t2 in same chat)

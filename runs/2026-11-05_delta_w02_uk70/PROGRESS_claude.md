@@ -1,0 +1,60 @@
+BS01 done
+BS02 done
+BS03 done
+BS04 done
+BS06 done
+BS07 done
+BS08 done
+BS09 done
+BS11 done (no web search shown)
+SG02 done (no web search shown)
+SG03 done (no web search shown)
+SG06 done (no web search shown)
+IM01 done
+IM03 done
+IM04 done
+ST04 done (no web search shown)
+ST09 done (no web search shown)
+ST10 done (no web search shown)
+ST11 done (no web search shown)
+ST14 done (no web search shown)
+ST16 done (no web search shown)
+ST17 done (no web search shown)
+ST19 done (no web search shown)
+PR01 done (web search used; 3 sources)
+PR02 done (web search used; 7 sources)
+PR03 done (web search used; 5 sources, product cards)
+PR04 done (web search used; 8 sources)
+PR05 done (web search used; 5 sources)
+PR06 done (web search used; 2 source pages, product cards)
+PR07 done (no web search shown)
+PR08 done (web search used; 8 sources)
+PR11 done (web search used; 4 sources)
+IM12 done (web search used; 5 sources)
+TR02 done (web search used; 9 sources)
+TR03 done (web search used; 8 sources)
+TR04 done (web search used; 6 sources)
+TR05 done (no web search shown)
+TR06 done (web search used; 9 sources)
+TR07 done (web search used; 7 sources)
+TR09 done (web search used; 6 sources)
+TR11 done (no web search shown)
+CH02 done (no web search shown)
+OC01 done (no web search; 0 sources)
+OC02 done (no web search; 0 sources)
+OC07 done (no web search; 0 sources)
+OC08 done (search step 'Choosing London shops' shown; 0 sources)
+OC09 done (thinking label 'Choosing a gift for London anniversary' only, no web search; 0 sources)
+OC10 done (thinking label only, no web search; 0 sources)
+OC13 done (thinking label only, no web search; 0 sources)
+OC14 done (no web search; 0 sources)
+GN02 done (thinking label only, no web search; 0 sources)
+GN03 done (web search used; 3 sources)
+GN05 done (web search used; 3 sources)
+EN02 done (web search used; 4 sources)
+CH03 done (no web search shown; 0 sources)
+CU01 done (thinking label only, no web search; 0 sources)
+CU02 done (web search used; 8 sources)
+LG02 done (thinking label only, no web search; 0 sources)
+LG03 done (web search used; 5 sources, no +N chip)
+LG08 done (web search used; 10 inline chips, 9 distinct sources, no +N chip)

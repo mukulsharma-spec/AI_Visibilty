@@ -1,0 +1,7 @@
+prompt_id,app,source_name,domain,url,source_file
+GN03,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/,html_sources_panel
+GN03,gemini,Whiteflash,www.whiteflash.com,https://www.whiteflash.com/blog/best-online-jewelry-store-2026/,html_sources_panel
+GN03,gemini,Mejuri,mejuri.com,https://mejuri.com/,html_sources_panel
+GN03,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/,html_sources_panel
+GN03,gemini,Whiteflash,www.whiteflash.com,https://www.whiteflash.com/blog/best-online-jewelry-store-2026/,html_sources_panel
+GN03,gemini,Reviewed,www.reviewed.com,https://www.reviewed.com/style/features/10-best-places-buy-jewelry-online,html_sources_panel

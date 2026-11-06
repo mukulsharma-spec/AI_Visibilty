@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+GN02,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/,html_sources_panel
+GN02,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/,html_sources_panel
+GN02,gemini,Brilliant Earth,www.brilliantearth.com,https://www.brilliantearth.com/en-gb/,html_sources_panel
+GN02,gemini,The 1916 Company,www.the1916company.com,https://www.the1916company.com/jewelry/,html_sources_panel

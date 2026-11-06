@@ -1,0 +1,20 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "LG03",
+ "prompt": "What's the best place to buy a lab-grown ruby ring?",
+ "app": "chatgpt",
+ "signed_in": false,
+ "session": "chrome_incognito",
+ "send_suffix": "none",
+ "egress_country": "GB",
+ "egress_city": "London",
+ "egress_ip": "206.189.112.208",
+ "web_search": true,
+ "web_search_note": "no 'Searched' indicator shown; product cards + map widget",
+ "chat_url": "https://chatgpt.com/uc/6aecc518-4818-83ea-9cfa-1b7b6c27c089",
+ "captured_at_utc": "2026-11-05T18:07:00Z",
+ "citation_count": 4,
+ "turn": "t1",
+ "capture_quality": "text_wrapped_html",
+ "note": "grok_bot 3-tab own-desktop"
+}

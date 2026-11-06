@@ -1,0 +1,24 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "TR03",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html is innerHTML of answer article; fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelry stores offer free resizing and a lifetime warranty?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.bluenile.com/hu/services/warranty",
+  "https://www.bluenile.com/mt/services/warranty",
+  "https://www.jamesallen.com/Faq",
+  "https://www.brilliance.com/services/lifetime-warranty-upgrades",
+  "https://www.usajewels.com/blog/?p=305",
+  "https://www.coupons.com/coupon-codes/frank-darling",
+  "https://www.alexisrussell.com/pages/resizing-warranty-repairs",
+  "https://www.diamondnexus.com/customer-service"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt; egress not re-verified"
+}

@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+OC08,gemini,Not On The High Street,www.notonthehighstreet.com,https://www.notonthehighstreet.com/gifts/shop-by-occasion/anniversary/by-year/40th-anniversary-ruby,html_sources_panel
+OC08,gemini,UK Gift Store Online,www.ukgiftstoreonline.co.uk,https://www.ukgiftstoreonline.co.uk/collections/40th-anniversary,html_sources_panel
+OC08,gemini,Royal Scot Crystal,www.royalscotcrystal.com,https://www.royalscotcrystal.com/occasions/anniversary-wedding-gifts/ruby-wedding-anniversary-40th-gifts.html,html_sources_panel
+OC08,gemini,Tree2mydoor,tree2mydoor.com,https://tree2mydoor.com/blogs/gifting/ruby-wedding-anniversary-gift-ideas,html_sources_panel

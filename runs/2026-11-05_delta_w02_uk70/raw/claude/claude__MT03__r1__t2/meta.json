@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "prompt_id": "MT03",
+  "app": "claude",
+  "session": "claude_incognito",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "https://claude.ai/new?incognito",
+  "turn": "t2",
+  "searched_web": false,
+  "source_links": [],
+  "send_suffix": "none",
+  "capture_quality": "good",
+  "note": "Same incognito chat as t1. No web search; thinking status line 'Weighing whether to check the site' (excluded). No sources. answer.html reconstructed.",
+  "followup_text": "is that site trustworthy"
+}

@@ -1,0 +1,34 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "builder": "Grok Bot",
+  "script_version": "build_run_csv.py v1",
+  "built_at_utc": "2026-11-05 18:16:21",
+  "apps": [
+    "chatgpt",
+    "claude",
+    "gemini"
+  ],
+  "raw_folders_read": 204,
+  "folders_skipped_discarded": 0,
+  "rows": {
+    "answers": 204,
+    "brand_mentions": 417,
+    "citations": 593,
+    "answer_text": 204
+  },
+  "app_folder_counts": {
+    "claude": 73,
+    "chatgpt": 58,
+    "gemini": 73
+  },
+  "capture_notes": {
+    "claude": "Complete: 70 t1 + 3 t2 (MT02/MT03/MT06); session=claude_incognito; send_suffix=none",
+    "chatgpt": "PARTIAL: 58 of 73 folders; user stopped early. Missing t1: OC10, OC13, OC14, GN02, GN03, GN05, EN02, CH03, CU01, CU02, CU03, CU08, MT06, CM05. Missing t2: MT06.",
+    "gemini": "73 folders complete. KNOWN ISSUE: MT02/MT03/MT06 t2 answers lost t1 context (different chat_urls); build included as-is for completeness."
+  },
+  "chatgpt_missing_t1": ["OC10", "OC13", "OC14", "GN02", "GN03", "GN05", "EN02", "CH03", "CU01", "CU02", "CU03", "CU08", "MT06", "CM05"],
+  "chatgpt_missing_t2": ["MT06"],
+  "gemini_mt_context_issue": ["MT02", "MT03", "MT06"],
+  "new_brand_names": [],
+  "warnings": []
+}

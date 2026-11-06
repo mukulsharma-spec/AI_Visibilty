@@ -1,0 +1,17 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "MT03",
+ "app": "chatgpt",
+ "signed_in": false,
+ "session": "chrome_incognito",
+ "send_suffix": "none",
+ "egress_country": "GB",
+ "egress_city": "London",
+ "egress_ip": "206.189.112.208",
+ "web_search": true,
+ "chat_url": "https://chatgpt.com/uc/6aecc62b-c468-83ea-bfcb-080d341bedfd",
+ "citation_count": 3,
+ "turn": "t2",
+ "capture_quality": "text_wrapped_html",
+ "note": "grok_bot 3-tab own-desktop; 3 source chips (Trustpilot, Hatton Garden Jewellers, Queensmith) had no hrefs captured"
+}

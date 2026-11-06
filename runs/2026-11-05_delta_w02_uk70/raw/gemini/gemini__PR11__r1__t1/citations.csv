@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+PR11,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/l/sapphire-earrings,html_sources_panel
+PR11,gemini,Gemondo UK,www.gemondo.com,https://www.gemondo.com/collections/sapphire-earrings,html_sources_panel
+PR11,gemini,Diamonds Factory,www.diamondsfactory.co.uk,https://www.diamondsfactory.co.uk/diamond-earrings/Sapphire-diamond-earrings,html_sources_panel

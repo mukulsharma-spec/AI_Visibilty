@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "prompt_id": "MT06",
+  "app": "claude",
+  "session": "claude_incognito",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "https://claude.ai/new?incognito",
+  "turn": "t2",
+  "searched_web": false,
+  "source_links": [],
+  "send_suffix": "none",
+  "capture_quality": "good",
+  "note": "Same incognito chat as t1. No web search (t1 gave no listings, so 'those' had no referent; Claude answered generically about labs). Thinking status 'Naming the labs that certify gemstones' excluded. answer.html reconstructed.",
+  "followup_text": "which of those actually certifies the stone"
+}

@@ -1,0 +1,19 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "GN05",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "What is the best place to buy colored gemstone jewelry online?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.brilliantearth.com/guides/best-place-to-buy-gemstones/",
+  "https://learningjewelry.com/?p=27181",
+  "https://www.brilliantearth.com/en-gb/gemstones/buying-guide/best-place-to-buy-gemstones/"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt (exit/re-enter incognito); web search used"
+}

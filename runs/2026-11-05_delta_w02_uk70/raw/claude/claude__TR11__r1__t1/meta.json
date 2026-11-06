@@ -1,0 +1,15 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "TR11",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "is it safe to order a \u00a32,000 gemstone ring from a site i haven't heard of",
+ "searched_web": false,
+ "source_links": [],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt; web search not shown; 0 sources"
+}

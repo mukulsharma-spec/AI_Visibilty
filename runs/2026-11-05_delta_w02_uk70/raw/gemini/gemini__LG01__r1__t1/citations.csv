@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+LG01,gemini,Chatham Inc.,www.chatham.com,https://www.chatham.com/pages/lab-grown-sapphire,html_sources_panel
+LG01,gemini,Chatham Inc.,www.chatham.com,https://www.chatham.com/pages/lab-grown-sapphire,html_sources_panel
+LG01,gemini,Mejuri,mejuri.com,https://mejuri.com/gb/en/collections/lab-grown-gemstones,html_sources_panel
+LG01,gemini,Lily Arkwright,lilyarkwright.com,https://lilyarkwright.com/collections/lab-grown-blue-sapphire-rings,html_sources_panel

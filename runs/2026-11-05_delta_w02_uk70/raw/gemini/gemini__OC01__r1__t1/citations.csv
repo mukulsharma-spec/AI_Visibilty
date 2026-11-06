@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+OC01,gemini,Kay's Fine Jewelry,www.kaysfinejewelry.com,https://www.kaysfinejewelry.com/blogs/news/january-birthstone,html_sources_panel
+OC01,gemini,REEDS Jewelers,www.reeds.com,https://www.reeds.com/jewelry/collections/birthstone-jewelry/garnet-jewelry.html?rfk=1,html_sources_panel
+OC01,gemini,Brilliant Earth,www.brilliantearth.com,https://www.brilliantearth.com/jewelry/birthstones/january/,html_sources_panel

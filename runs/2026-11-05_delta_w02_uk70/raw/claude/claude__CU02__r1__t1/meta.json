@@ -1,0 +1,24 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "CU02",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "I'd like a gemstone ring engraved for free. Which stores do that?",
+ "searched_web": true,
+ "source_links": [
+  "https://au.trustpilot.com/review/johngreed.com?page=4",
+  "https://faq.vanbruun.com/category/1092/article/10829",
+  "https://joshuajames.com/in-store-services",
+  "https://www.holtsgems.com/blogs/blogs-news/a-journey-through-time-the-2010s",
+  "https://lunns.com/blogs/the-lunns-diary/ring-engraving-at-lunns",
+  "https://bridebook.com/uk/wedding-rings-jewellery/kaanaanmaa-wokingham-berkshire-bbnXV0RKYr",
+  "https://eu.astridandmiyu.com/blogs/news/personalised-jewellery-engraving",
+  "https://www.purelydiamonds.co.uk/help/jewellery-services/ring-engraving"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt; web search used; 8 inline source chips; no +N chip"
+}

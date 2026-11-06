@@ -1,0 +1,19 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "GN03",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "What are the best online jewelry stores?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.top10.com/online-jewelry-stores/top-products",
+  "https://www.thecaratcut.com/guides/best-jewelry-stores",
+  "https://ajluxe.com/blogs/jewelry-guide/best-online-jewelry-shopping-2026"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt (exit/re-enter incognito); web search used"
+}

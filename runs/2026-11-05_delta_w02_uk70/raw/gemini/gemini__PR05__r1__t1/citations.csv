@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+PR05,gemini,Diamonds Factory,www.diamondsfactory.co.uk,https://www.diamondsfactory.co.uk/diamond-pendants/ruby-diamond-pendants,html_sources_panel
+PR05,gemini,QP Jewellers,www.qpjewellers.com,https://www.qpjewellers.com/jewellery/necklaces-ruby,html_sources_panel
+PR05,gemini,Tiffany,www.tiffany.co.uk,https://www.tiffany.co.uk/jewelry/necklaces-pendants/ruby/,html_sources_panel

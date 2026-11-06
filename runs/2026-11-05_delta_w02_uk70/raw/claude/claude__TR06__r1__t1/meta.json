@@ -1,0 +1,25 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "TR06",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelers disclose gemstone treatments like heating or filling?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.angara.com/au-en/p/round-and-marquise-sapphire-olive-branch-pendant-sp1632s/certificate",
+  "https://magicvideos.allurez.com/education-guide/gemstone_treatments_guide.html",
+  "https://topgem.co.uk/index.php/shop-info/gem-treatments.html",
+  "https://nnjdesigns.com/products/aa-ceylon-blue-sapphire-1-07ct-pear-8-4x5-1mm-natural-earth-mined-heat-treated-loose-gemstone-one-stone",
+  "https://anuevajewelry.com/collections/caribbean-teal-sapphires.oembed?page=2",
+  "https://www.jckonline.com/?p=38208",
+  "https://skyjems.ca/pages/encyclopedia-ftc-guides-for-jewellery",
+  "https://gems.jewelry/blog/what-to-check-when-buying-gemstones-online/",
+  "https://www.nationaljeweler.com/articles/10083-creative-connecting-how-to-handle-disclosures"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt (exit/re-enter incognito); egress not re-verified; web search used; 9 sources; screenshot shows top of answer (full text captured from DOM)"
+}

@@ -1,0 +1,20 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "LG02",
+ "prompt": "What's a good place to get a lab-created emerald ring?",
+ "app": "chatgpt",
+ "signed_in": false,
+ "session": "chrome_incognito",
+ "send_suffix": "none",
+ "egress_country": "GB",
+ "egress_city": "London",
+ "egress_ip": "206.189.112.208",
+ "web_search": true,
+ "web_search_note": "no search indicator shown; product cards with links",
+ "chat_url": "https://chatgpt.com/uc/6aecc517-e2fc-83ea-b1ae-e3a729c6ada9",
+ "captured_at_utc": "2026-11-05T18:07:00Z",
+ "citation_count": 3,
+ "turn": "t1",
+ "capture_quality": "text_wrapped_html",
+ "note": "grok_bot 3-tab own-desktop"
+}

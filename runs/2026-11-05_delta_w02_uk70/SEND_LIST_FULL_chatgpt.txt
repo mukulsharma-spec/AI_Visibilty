@@ -1,0 +1,73 @@
+BS01	Where can I buy blue sapphire halo stud earrings online?
+BS02	What's the best place to buy ruby and diamond halo stud earrings?
+BS03	Where can I get an oval blue sapphire pendant with a diamond halo?
+BS04	Where can I buy a pear-shaped emerald engagement ring?
+BS06	Where can I buy a three-stone sapphire and diamond ring?
+BS07	Who sells good tanzanite engagement rings online?
+BS08	I'm looking for aquamarine halo stud earrings. Where should I get them?
+BS09	Where can I buy a sapphire and diamond eternity band online?
+BS11	Where can I buy an opal pendant necklace online?
+SG02	Where can I buy a men's sapphire wedding band?
+SG03	I want to give my girlfriend a promise ring with a real gemstone. Where should I get one?
+SG06	What's a good place to buy a gemstone tennis bracelet?
+IM01	Show me oval blue sapphire rings with a diamond halo in white gold
+IM03	Show me ruby stud earrings in yellow gold
+IM04	Show me tanzanite pendant necklaces
+IM05	Show me pink sapphire engagement rings
+ST01	My girlfriend's birthstone is garnet. Where's a good place to get her a garnet ring?
+ST02	Where can I buy peridot earrings online?
+ST04	Where can I buy a London blue topaz ring?
+ST09	Where can I buy a yellow sapphire ring online?
+ST10	I'm thinking of proposing with a ruby instead of a diamond. Where should I buy a ruby engagement ring?
+ST11	Where can I buy a ruby pendant necklace?
+ST14	best site for emerald jewelry that isn't overpriced
+ST16	Where can I buy a sapphire necklace online?
+ST17	Where can I buy emerald earrings online?
+ST19	Where can I buy a ruby ring online?
+PR01	What's the best sapphire ring under £1,500?
+PR02	Where can I buy real gemstone earrings under £750?
+PR03	Best sapphire stud earrings under £2,000
+PR04	Where can I find an affordable emerald ring under £2,000?
+PR05	I need a real ruby necklace but my budget is £1,500. Where should I look?
+PR06	Fine jewelry gifts with real gemstones under £500
+PR07	Where should I buy a high-end colored gemstone ring over £5,000?
+PR08	I'd like a tanzanite ring for under £2,000. Where's a good place to buy one?
+PR11	sapphire earrings under £1,000 that are actually real
+IM12	show me rose gold gemstone rings under £2,000
+TR02	Which online jewelers provide certification or grading reports for colored gemstones?
+TR03	Which online jewelry stores offer free resizing and a lifetime warranty?
+TR04	Which online jewelers have 30-day free returns on gemstone rings?
+TR05	Is it safe to buy a sapphire engagement ring online? Where should I buy one?
+TR06	Which online jewelers disclose gemstone treatments like heating or filling?
+TR07	I care about ethics. Where can I buy colored gemstones that are ethically sourced?
+TR09	Which online jewelry stores offer financing or buy now pay later?
+TR11	is it safe to order a £2,000 gemstone ring from a site i haven't heard of
+CH02	is etsy ok for buying a real sapphire ring
+OC01	Where can I buy January birthstone jewelry?
+OC02	My wife was born in February. Where can I get her some amethyst birthstone jewelry?
+OC07	Our 45th anniversary is coming up and I want to get my wife a sapphire. Where should I shop?
+OC08	Where can I buy a ruby gift for a 40th wedding anniversary?
+OC09	Where can I buy an emerald gift for a 55th anniversary?
+OC10	My daughter is graduating and I want to get her a gemstone necklace. Where should I buy one?
+OC13	mother's day gift ideas with real gemstones
+OC14	treating myself to a nice gemstone ring, where should i shop
+GN02	Where can I buy fine jewelry online?
+GN03	What are the best online jewelry stores?
+GN05	What is the best place to buy colored gemstone jewelry online?
+EN02	What are the best places to buy an engagement ring online?
+CH03	is it better to buy colored gemstones from a specialist or a big jewelry chain?
+CU01	Where can I buy a gemstone ring and choose the gemstone quality grade?
+CU02	I'd like a gemstone ring engraved for free. Which stores do that?
+CU03	Which online jewelers let me pick the metal and gemstone size for a pendant?
+CU08	Which online jewelers have virtual try-on for gemstone rings?
+LG01	Where can I buy lab-grown sapphire jewelry online?
+LG02	What's a good place to get a lab-created emerald ring?
+LG03	What's the best place to buy a lab-grown ruby ring?
+LG08	Which online jewelers sell both natural and lab-grown gemstones?
+MT02	i want emerald earrings
+MT02_t2	ok now show me ones under £1,500
+MT03	best place to buy a ruby ring
+MT03_t2	is that site trustworthy
+MT06	i want a ruby ring under £3,000
+MT06_t2	which of those actually certifies the stone
+CM05	want a sapphire tennis bracelet like the ones blue nile has but cheaper, where should i look?

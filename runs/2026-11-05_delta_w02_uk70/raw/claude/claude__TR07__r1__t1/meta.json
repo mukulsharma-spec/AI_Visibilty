@@ -1,0 +1,23 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "TR07",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "I care about ethics. Where can I buy colored gemstones that are ethically sourced?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.vo-plus.com/en/interview/edward-johnson-reforming-the-colored-gemstone-industry",
+  "https://instoremag.com/?p=101468",
+  "https://mail.indianjeweller.in/Indian-Jewellery-News/16088/index.html",
+  "https://jckonline.com/?p=8878",
+  "https://www.bulgari.com/en-hk/supply-chain",
+  "https://instoremag.com/?p=133798",
+  "https://rapaport.com/news/new-initiative-tackles-colored-gemstone-traceability/"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt (exit/re-enter incognito); egress not re-verified; web search used; 7 sources; screenshot shows a hover source tooltip"
+}

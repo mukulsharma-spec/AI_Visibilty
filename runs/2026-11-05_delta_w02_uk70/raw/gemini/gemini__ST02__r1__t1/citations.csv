@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+ST02,gemini,Blue Nile,www.bluenile.com,https://www.bluenile.com/jewelry/gemstone-jewelry/gemstone-earrings/peridot-earrings,html_sources_panel
+ST02,gemini,Ross-Simons,www.ross-simons.com,https://www.ross-simons.com/collections/jewelry-earrings-gemstones-peridot,html_sources_panel
+ST02,gemini,Goldia.com,www.goldia.com,https://www.goldia.com/collections/peridot-earrings,html_sources_panel
+ST02,gemini,Etsy,www.etsy.com,https://www.etsy.com/market/peridot_earrings_silver_genuine_stone,html_sources_panel

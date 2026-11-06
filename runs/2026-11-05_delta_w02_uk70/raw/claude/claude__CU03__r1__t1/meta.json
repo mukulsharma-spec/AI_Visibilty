@@ -1,0 +1,19 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "CU03",
+ "app": "claude",
+ "session": "claude_incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelers let me pick the metal and gemstone size for a pendant?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.angara.com/ca-en/c/emerald-pendants",
+  "https://www.angara.com/c/pendants",
+  "https://www.angara.com/c/gemstone-pendants",
+  "https://shaneco.com/design-your-own-necklace/pick-your-gem-pendant-8x6mm-pear-shaped/p/41100137"
+ ],
+ "send_suffix": "none",
+ "capture_quality": "html reconstructed (not raw DOM); fresh incognito chat",
+ "note": "send_suffix=none; web search used; +2 chip opened, 4 distinct source URLs"
+}

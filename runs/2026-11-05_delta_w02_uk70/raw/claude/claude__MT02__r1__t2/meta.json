@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "prompt_id": "MT02",
+  "app": "claude",
+  "session": "claude_incognito",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "https://claude.ai/new?incognito",
+  "turn": "t2",
+  "searched_web": true,
+  "source_links": [
+    "https://www.shiningdiamonds.co.uk/diamond-earrings/gemstone/emerald-gemstone?is_stock=1",
+    "https://www.shiningdiamonds.co.uk/gemstone/emerald/earrings?is_stock=1",
+    "https://www.dinnyhall.com/products/18k-yellow-gold-brightside-emerald-hoop-earrings"
+  ],
+  "send_suffix": "none",
+  "capture_quality": "good",
+  "note": "Same incognito chat as t1 (URL stays /new?incognito). Searched the web (query: 'emerald earrings under \u00a31,500 UK'; status line 'Checking the remaining listings against the budget'); product cards (shiningdiamonds.co.uk x4, dinnyhall.com) with thumbnails from graff/angara/1stdibs/gemporia etc. 3 distinct hrefs in DOM, 2 domains. Answer text transcribed from card text + prose; answer.html reconstructed. Screenshot shows top of reply only.",
+  "followup_text": "ok now show me ones under \u00a31,500"
+}

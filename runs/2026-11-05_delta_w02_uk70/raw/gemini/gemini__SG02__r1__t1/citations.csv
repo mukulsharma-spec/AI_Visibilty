@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+SG02,gemini,The Natural Sapphire Company,www.thenaturalsapphirecompany.com,https://www.thenaturalsapphirecompany.com/wedding-rings-bands/,html_sources_panel
+SG02,gemini,Segal Jewelry,segaljewelry.com,https://segaljewelry.com/collections/sapphire-wedding-bands,html_sources_panel
+SG02,gemini,Vansweden Jewelers,www.vanswedenjewelers.com,https://www.vanswedenjewelers.com/en-gb/collections/mens-black-diamond-sapphire-wedding-bands,html_sources_panel
+SG02,gemini,Etsy,www.etsy.com,https://www.etsy.com/market/mens_sapphire_wedding_band,html_sources_panel

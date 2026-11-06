@@ -1,0 +1,25 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "TR02",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html is innerHTML of answer article; fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelers provide certification or grading reports for colored gemstones?",
+ "searched_web": true,
+ "source_links": [
+  "https://skyjems.ca/pages/text-product-archive",
+  "https://skyjems.ca/collections/the-performance-basket?page=12",
+  "https://learningjewelry.com/?p=27181",
+  "https://www.africagems.com/blog/the-best-place-to-buy-gemstones-online-a-connoisseurs-guide-to-quality-and-trust/",
+  "https://diamondspot.eu/en/blog/certified-quality-en/44",
+  "https://www.indianjeweller.in/Indian-Jewellery-News/15853/index.html",
+  "https://skyjems.ca/blogs/the-curators-journal/gia-2026-coloured-stone-report-changes",
+  "https://jupitergem.com/blog/how-to-choose-a-gemstone-for-an-engagement-ring-the-ultimate-guide-to-gia-and-grs-certified-stones",
+  "https://store.starruby.in/pages/gemological-reports"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt; egress not re-verified"
+}

@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "prompt_id": "MT02",
+  "app": "claude",
+  "session": "claude_incognito",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "https://claude.ai/new?incognito",
+  "turn": "t1",
+  "searched_web": false,
+  "source_links": [],
+  "send_suffix": "none",
+  "capture_quality": "good",
+  "note": "Incognito indicator confirmed. Claude replied with a clarifying-question widget (3 questions: style options Studs/Drops/Hoops/Halo) instead of a full answer; no web search. answer.html reconstructed from text.",
+  "prompt_text": "i want emerald earrings"
+}

@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+TR02,gemini,Rêve Diamonds,www.revediamonds.com,https://www.revediamonds.com/gemstones/certified-gemstones,html_sources_panel
+TR02,gemini,Gem Rock Auctions,www.gemrockauctions.com,https://www.gemrockauctions.com/pages/certified-gemstones,html_sources_panel
+TR02,gemini,GIA,www.gia.edu,https://www.gia.edu/gem-lab-service/colored-stone,html_sources_panel
+TR02,gemini,Gem Rock Auctions,www.gemrockauctions.com,https://www.gemrockauctions.com/pages/certified-gemstones,html_sources_panel

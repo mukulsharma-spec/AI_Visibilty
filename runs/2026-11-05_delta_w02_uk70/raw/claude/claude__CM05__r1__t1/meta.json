@@ -1,0 +1,21 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "CM05",
+ "app": "claude",
+ "session": "claude_incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "CM05: want a sapphire tennis bracelet like the ones blue nile has but cheaper, where should i look?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.bluenile.com/mo/alternating-size-sapphire-diamond-bracelet-14k-white-gold_71315",
+  "https://peora.com/products/blue-sapphire-and-diamond-tennis-bracelet-14k-gold-9-50-carats-total",
+  "https://barkevs.com/products/tennis-bracelet-with-lab-grown-sapphires",
+  "https://www.allurez.com/products/lab-grown-blue-sapphire-diamond-tennis-bracelet-14k-rose-gold-2-50ct",
+  "https://www.angara.com/p/lab-grown-semi-bezel-set-oval-sapphire-and-diamond-tennis-bracelet-lsb0174sd",
+  "https://ebay.com/itm/146289736799"
+ ],
+ "send_suffix": "none",
+ "capture_quality": "html reconstructed (not raw DOM); fresh incognito chat; screenshot shows end of answer only",
+ "note": "send_suffix=none; web search used; 6 inline chips, 6 distinct sources, no +N chip; 'Searched the web' status line excluded from answer.txt; chip labels shown in brackets in answer.txt"
+}

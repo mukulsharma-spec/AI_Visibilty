@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+TR03,gemini,Blue Nile,www.bluenile.com,https://www.bluenile.com/services/warranty,html_sources_panel
+TR03,gemini,Brilliance,www.brilliance.com,https://www.brilliance.com/services/lifetime-warranty-upgrades,html_sources_panel
+TR03,gemini,Happy Jewelers,happyjewelers.com,https://happyjewelers.com/pages/happy-jewelers-warranty,html_sources_panel
+TR03,gemini,Brilliance,www.brilliance.com,https://www.brilliance.com/services/lifetime-warranty-upgrades,html_sources_panel

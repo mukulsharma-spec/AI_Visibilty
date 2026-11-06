@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+BS01,gemini,Angara,www.angara.com,https://www.angara.com/c/lab+grown+blue+sapphire-earrings,html_sources_panel
+BS01,gemini,Angara,www.angara.com,https://www.angara.com/c/blue+sapphire-halo-earrings,html_sources_panel
+BS01,gemini,Rosec Jewels,www.rosecjewels.com,https://www.rosecjewels.com/collections/lab-created-blue-sapphire-earrings,html_sources_panel
+BS01,gemini,Stud Gems,studgems.com,https://studgems.com/product/round-cut-blue-sapphire-stud-earrings/,html_sources_panel
+BS01,gemini,Etsy,www.etsy.com,https://www.etsy.com/market/halo_studs_blue_sapphire_earring,html_sources_panel

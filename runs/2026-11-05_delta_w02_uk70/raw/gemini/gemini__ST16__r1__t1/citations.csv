@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+ST16,gemini,MSBLUE Jewelry,msblue.com,https://msblue.com/collections/sapphire-necklaces,html_sources_panel
+ST16,gemini,Brilliant Earth,www.brilliantearth.com,https://www.brilliantearth.com/en-gb/jewelry/necklace/sapphire/,html_sources_panel
+ST16,gemini,The Diamond Store,www.thediamondstore.co.uk,https://www.thediamondstore.co.uk/,html_sources_panel
+ST16,gemini,MSBLUE Jewelry,msblue.com,https://msblue.com/collections/sapphire-necklaces,html_sources_panel

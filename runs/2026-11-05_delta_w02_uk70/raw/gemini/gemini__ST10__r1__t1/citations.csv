@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+ST10,gemini,The Natural Ruby Company,thenaturalrubycompany.com,https://thenaturalrubycompany.com/,html_sources_panel
+ST10,gemini,www.austenblake.com,www.austenblake.com,https://www.austenblake.com/,html_sources_panel
+ST10,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-place-to-buy-engagement-rings/,html_sources_panel

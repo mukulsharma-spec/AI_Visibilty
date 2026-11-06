@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+LG08,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/,html_sources_panel
+LG08,gemini,Brilliant Earth,www.brilliantearth.com,https://www.brilliantearth.com/en-gb/,html_sources_panel
+LG08,gemini,Forbes,www.forbes.com,https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/,html_sources_panel
+LG08,gemini,SLATE & TELL,www.slateandtell.com,https://www.slateandtell.com/page/gemstones.html,html_sources_panel

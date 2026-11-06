@@ -1,0 +1,21 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "CU08",
+ "app": "claude",
+ "session": "claude_incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelers have virtual try-on for gemstone rings?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.perfectcorp.com/business/blog/general/top-rated-online-jewelry-stores-ai-ar",
+  "https://brilliantearth.com/news/virtual-try-on",
+  "https://www.theknot.com/content/covid-engagement-ring-shopping",
+  "https://www.theknot.com/content/virtual-engagement-ring-try-on",
+  "https://www.photta.app/resources/ring-try-on-guide",
+  "https://www.trendhunter.com/trends/jewelry-try-on"
+ ],
+ "send_suffix": "none",
+ "capture_quality": "html reconstructed (not raw DOM); fresh incognito chat",
+ "note": "send_suffix=none; web search used; 7 inline chips, no +N chip"
+}

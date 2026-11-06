@@ -1,0 +1,20 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "EN02",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (not raw DOM); fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "What are the best places to buy an engagement ring online?",
+ "searched_web": true,
+ "source_links": [
+  "https://junebugweddings.com/wedding-blog/best-place-buy-engagement-rings-online/",
+  "https://www.jewelryshoppingguide.com/?p=112173",
+  "https://yourdiamondguru.com/?p=169191",
+  "https://www.shiningdiamonds.co.uk/blog/where-to-buy-engagement-rings-in-london"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt (exit/re-enter incognito); web search used"
+}

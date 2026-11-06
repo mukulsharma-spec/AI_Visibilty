@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+SG06,gemini,Brilliant Earth,www.brilliantearth.com,https://www.brilliantearth.com/jewelry/bracelet/tennis-bracelets/,html_sources_panel
+SG06,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/l/tennis-bracelets,html_sources_panel
+SG06,gemini,Tiffany,www.tiffany.co.uk,https://www.tiffany.co.uk/jewelry/tennis-bracelets/,html_sources_panel

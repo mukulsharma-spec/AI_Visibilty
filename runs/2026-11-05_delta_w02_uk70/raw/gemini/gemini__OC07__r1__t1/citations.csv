@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+OC07,gemini,The Natural Sapphire Company,www.thenaturalsapphirecompany.com,https://www.thenaturalsapphirecompany.com/,html_sources_panel
+OC07,gemini,www.thenaturalsapphirecompany.com,www.thenaturalsapphirecompany.com,https://www.thenaturalsapphirecompany.com/,html_sources_panel
+OC07,gemini,Leibish,www.leibish.com,https://www.leibish.com/collections/sapphire-jewelry,html_sources_panel
+OC07,gemini,The Natural Sapphire Company,www.thenaturalsapphirecompany.com,https://www.thenaturalsapphirecompany.com/sapphires/,html_sources_panel

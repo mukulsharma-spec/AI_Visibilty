@@ -1,0 +1,21 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "LG01",
+ "app": "claude",
+ "session": "claude_incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Where can I buy lab-grown sapphire jewelry online?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.chatham.com/products/blue-sapphire-ring-cr11776wbs",
+  "https://lilyarkwright.com/blogs/news/your-guide-to-blue-sapphire-engagement-rings",
+  "https://lilyarkwright.com/products/grace-chatham-lab-grown-pink-sapphire-solitaire-950-platinum",
+  "https://www.angara.com/c/lab+grown+blue+sapphire-jewelry",
+  "https://www.leohamel.com/product/new-chatham-3-40-carats-lab-grown-sapphire-diamond-halo-ring",
+  "https://www.pricescope.com/community/threads/looking-for-a-lab-sapphire-in-the-uk.234179"
+ ],
+ "send_suffix": "none",
+ "capture_quality": "html reconstructed (not raw DOM); fresh incognito chat",
+ "note": "send_suffix=none; web search used; 6 inline chips, no +N chip"
+}

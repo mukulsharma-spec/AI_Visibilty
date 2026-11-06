@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+BS06,gemini,Austen & Blake,www.austenblake.com,https://www.austenblake.com/engagement-rings/trilogy-rings,html_sources_panel
+BS06,gemini,Beaverbrooks,www.beaverbrooks.co.uk,https://www.beaverbrooks.co.uk/0000161/18ct-White-Gold-Diamond-Sapphire-Three-Stone-Ring/p,html_sources_panel
+BS06,gemini,Pravins,www.pravins.co.uk,https://www.pravins.co.uk/c/9048/three-stone-engagement-rings,html_sources_panel
+BS06,gemini,Hancocks Jewellers,www.hancocksjewellers.co.uk,https://www.hancocksjewellers.co.uk/sapphire-and-diamond-ring-8454/,html_sources_panel

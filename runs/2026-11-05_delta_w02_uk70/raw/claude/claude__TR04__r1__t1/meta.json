@@ -1,0 +1,22 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "TR04",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html is innerHTML of answer article; fresh incognito chat",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelers have 30-day free returns on gemstone rings?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.azeera.com/pear-shape-halo-leta-ring-az1172-8x6-dd-dd-dd-pt",
+  "https://www.azeera.com/cathedral-pave-mustika-ring-6-5mm-az1024r-6-5-dd-dd-dd-pt",
+  "https://gem-noir.com/pages/return-and-refund-policy",
+  "https://fireandbrilliance.com/pages/30-day-return-policy",
+  "https://gemstoneking.com/policies/refund-policy",
+  "https://www.daysjewelers.com/returns-exchanges"
+ ],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt; egress not re-verified"
+}

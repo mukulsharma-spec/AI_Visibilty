@@ -1,0 +1,25 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "LG08",
+ "app": "claude",
+ "session": "claude_incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Which online jewelers sell both natural and lab-grown gemstones?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.brilliantearth.com/news/best-place-to-buy-lab-grown-diamonds/",
+  "https://learningjewelry.com/?p=20749",
+  "https://www.culturaldaily.com/10-best-places-to-buy-lab-grown-diamond-rings-online/?output=pdf",
+  "https://www.parse.gl/prompts/p/where-can-i-buy-lab-grown-diamonds--08f9eec2-72fe-4912-824c-b7ef0aa34990",
+  "https://www.presshook.com/brands/ritani/press-releases/",
+  "https://nerdbot.com/?p=209891",
+  "https://www.brilliantearth.com/en-gb/gemstones/buying-guide/best-place-to-buy-gemstones/",
+  "https://www.rosecjewels.ca/blogs/jewelry-news/best-online-jewelry-stores-in-2026-a-gem-experts-guide-plus-top-picks-for-gifting",
+  "https://www.culturaldaily.com/10-best-places-to-buy-lab-grown-diamond-rings-online/?output=pdf",
+  "https://www.nny360.com/hong-kong-specialist-antonelli-expands-lab-grown-diamond-selection-to-over-10-000-certified-stones/article_b9b53c4a-e0a7-58dc-ac72-67f7935e1f08.html"
+ ],
+ "send_suffix": "none",
+ "capture_quality": "markdown DOM excerpt (citation chips simplified to anchors); fresh incognito chat",
+ "note": "send_suffix=none; web search used (query: online jewelers sell both natural and lab-grown diamonds gemstones 2026); 10 inline chips, 9 distinct URLs, no +N chip"
+}

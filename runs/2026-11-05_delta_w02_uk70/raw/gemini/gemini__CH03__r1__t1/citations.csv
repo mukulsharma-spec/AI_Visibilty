@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+CH03,gemini,Sotheby's,www.sothebys.com,https://www.sothebys.com/en/articles/colored-gemstones-vs-fancy-colored-diamonds-what-collectors-should-know,html_sources_panel
+CH03,gemini,GemSelect,www.gemselect.com,https://www.gemselect.com/other-info/colored-gems.php,html_sources_panel
+CH03,gemini,Mitchel & Co,mitchelandco.com,https://mitchelandco.com/blogs/the-journal/independent-jeweller-vs-chain-jewellers,html_sources_panel

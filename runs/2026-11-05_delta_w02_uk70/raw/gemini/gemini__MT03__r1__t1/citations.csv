@@ -1,0 +1,6 @@
+prompt_id,app,source_name,domain,url,source_file
+MT03,gemini,The Natural Ruby Company,thenaturalrubycompany.com,https://thenaturalrubycompany.com/,html_sources_panel
+MT03,gemini,Wedding Bands,www.templeandgrace.co.uk,https://www.templeandgrace.co.uk/jewellery/gemstone-rings/ruby-rings,html_sources_panel
+MT03,gemini,Hirsh London,www.hirshlondon.com,https://www.hirshlondon.com/diamonds-and-gemstones/finest-ruby-jewellery,html_sources_panel
+MT03,gemini,Pragnell,www.pragnell.co.uk,https://www.pragnell.co.uk/jewellery/ruby-jewellery,html_sources_panel
+MT03,gemini,Tiffany,www.tiffany.co.uk,https://www.tiffany.co.uk/jewelry/rings/ruby/,html_sources_panel

@@ -1,0 +1,20 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "LG03",
+ "app": "claude",
+ "session": "claude_incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "What's the best place to buy a lab-grown ruby ring?",
+ "searched_web": true,
+ "source_links": [
+  "https://www.juvetti.com/collections/ruby-rings?page=2",
+  "https://www.angara.com/uk-en/p/lab-grown-vintage-inspired-bezel-set-oval-ruby-ring-with-grooves-lsr0565r",
+  "https://angara.com/uk-en/p/round-lab-grown-ruby-halo-double-shank-engagement-ring-lsr4701rd",
+  "https://lilyarkwright.com/products/grace-lab-grown-ruby-solitaire-platinum-engagement-ring",
+  "https://www.rosecjewels.com/collections/lab-created-ruby-rings?page=11"
+ ],
+ "send_suffix": "none",
+ "capture_quality": "markdown DOM excerpt (citation chips simplified to anchors); fresh incognito chat",
+ "note": "send_suffix=none; web search used (query: best places to buy lab-grown ruby ring UK 2026); 5 inline chips, no +N chip"
+}

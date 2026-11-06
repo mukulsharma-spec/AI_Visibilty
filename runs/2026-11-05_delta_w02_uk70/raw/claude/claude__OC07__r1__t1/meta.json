@@ -1,0 +1,15 @@
+{
+ "run_id": "2026-11-05_delta_w02_uk70",
+ "prompt_id": "OC07",
+ "app": "claude",
+ "session": "claude_incognito",
+ "egress_country": "unverified",
+ "capture_quality": "good_text_sources; html reconstructed (prose block only); fresh incognito chat after Exit Incognito",
+ "model_ui": "Sonnet 5.5 Medium",
+ "chat_url": "https://claude.ai/new?incognito",
+ "prompt_text": "Our 45th anniversary is coming up and I want to get my wife a sapphire. Where should I shop?",
+ "searched_web": false,
+ "source_links": [],
+ "send_suffix": "none",
+ "note": "send_suffix=none; fresh chat per prompt; no web search (decided whether to search; answered directly); 0 source links"
+}

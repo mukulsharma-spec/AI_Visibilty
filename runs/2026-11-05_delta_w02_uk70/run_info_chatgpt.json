@@ -1,0 +1,31 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "app": "chatgpt",
+  "capture_complete": false,
+  "stopped_early": true,
+  "folders": 58,
+  "target_folders": 73,
+  "missing_t1": [
+    "OC10",
+    "OC13",
+    "OC14",
+    "GN02",
+    "GN03",
+    "GN05",
+    "EN02",
+    "CH03",
+    "CU01",
+    "CU02",
+    "CU03",
+    "CU08",
+    "MT06",
+    "CM05"
+  ],
+  "missing_t2": [
+    "MT06"
+  ],
+  "session": "chrome_incognito",
+  "signed_in": false,
+  "send_suffix": "none",
+  "note": "User 2026-11-05: stop after ~56 and push. Actual folders at stop: 58."
+}

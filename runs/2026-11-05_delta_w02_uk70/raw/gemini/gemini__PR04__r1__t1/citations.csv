@@ -1,0 +1,4 @@
+prompt_id,app,source_name,domain,url,source_file
+PR04,gemini,Ramsdens Jewellery,www.ramsdensjewellery.co.uk,https://www.ramsdensjewellery.co.uk/jewellery/rings/emerald,html_sources_panel
+PR04,gemini,Ernest Jones,www.ernestjones.co.uk,https://www.ernestjones.co.uk/l/emerald-rings,html_sources_panel
+PR04,gemini,Wave Antiques,waveantiques.com,https://waveantiques.com/collections/emerald/under-2000,html_sources_panel

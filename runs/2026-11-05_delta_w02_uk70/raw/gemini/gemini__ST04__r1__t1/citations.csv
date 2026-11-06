@@ -1,0 +1,5 @@
+prompt_id,app,source_name,domain,url,source_file
+ST04,gemini,Angara,www.angara.com,https://www.angara.com/uk-en/c/london+blue+topaz-rings,html_sources_panel
+ST04,gemini,Wedding Bands,www.templeandgrace.co.uk,https://www.templeandgrace.co.uk/buy/london-blue-topaz-ring,html_sources_panel
+ST04,gemini,TJC,www.tjc.co.uk,https://www.tjc.co.uk/collections/london-blue-topaz,html_sources_panel
+ST04,gemini,Berry's Jewellers,www.berrysjewellers.co.uk,https://www.berrysjewellers.co.uk/collections/blue-topaz-jewellery,html_sources_panel

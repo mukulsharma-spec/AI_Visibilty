@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-11-05_delta_w02_uk70",
+  "prompt_id": "MT06",
+  "app": "claude",
+  "session": "claude_incognito",
+  "model_ui": "Sonnet 5.5 Medium",
+  "chat_url": "https://claude.ai/new?incognito",
+  "turn": "t1",
+  "searched_web": false,
+  "source_links": [],
+  "send_suffix": "none",
+  "capture_quality": "good",
+  "note": "Fresh incognito confirmed. Claude replied with a clarifying-question widget (occasion: Engagement ring/Gift/Treat for myself/Investment-heirloom; 3 questions); no web search. Thinking status line 'Weighing a few clarifying questions before searching' excluded. answer.html reconstructed.",
+  "prompt_text": "i want a ruby ring under \u00a33,000"
+}
